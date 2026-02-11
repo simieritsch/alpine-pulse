@@ -1,0 +1,474 @@
+{
+  "generated_at": "2026-02-11T23:23:18.171031",
+  "date": "2026-02-11",
+  "summary": {
+    "total_mentions": 186,
+    "positive_pct": 6,
+    "neutral_pct": 89,
+    "negative_pct": 5,
+    "negative_count": 9
+  },
+  "resort_stats": {
+    "fortress": {
+      "name": "Fortress Mountain",
+      "total": 144,
+      "positive_pct": 7,
+      "neutral_pct": 88,
+      "negative_pct": 6
+    },
+    "castle": {
+      "name": "Castle Mountain",
+      "total": 22,
+      "positive_pct": 9,
+      "neutral_pct": 91,
+      "negative_pct": 0
+    },
+    "nakiska": {
+      "name": "Nakiska",
+      "total": 20,
+      "positive_pct": 0,
+      "neutral_pct": 95,
+      "negative_pct": 5
+    }
+  },
+  "themes": [
+    {
+      "name": "Snow Conditions",
+      "mentions": 139,
+      "avg_score": 51,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Lift Wait Times",
+      "mentions": 22,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Safety & Incidents",
+      "mentions": 12,
+      "avg_score": 48,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Staff & Service",
+      "mentions": 3,
+      "avg_score": 46,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Events & Promotions",
+      "mentions": 3,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Pricing & Value",
+      "mentions": 2,
+      "avg_score": 56,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Environmental Impact",
+      "mentions": 2,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Summer Activities",
+      "mentions": 1,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Facilities & Lodging",
+      "mentions": 1,
+      "avg_score": 38,
+      "sentiment": "negative"
+    },
+    {
+      "name": "Access & Transportation",
+      "mentions": 1,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    }
+  ],
+  "trends": {
+    "labels": [
+      "2026-02-11"
+    ],
+    "positive": [
+      6
+    ],
+    "neutral": [
+      89
+    ],
+    "negative": [
+      5
+    ]
+  },
+  "theme_trends": {
+    "Lift Wait Times": [
+      22
+    ],
+    "Staff & Service": [
+      3
+    ],
+    "Environmental Impact": [
+      2
+    ],
+    "Events & Promotions": [
+      3
+    ],
+    "Pricing & Value": [
+      2
+    ],
+    "Snow Conditions": [
+      139
+    ],
+    "Facilities & Lodging": [
+      1
+    ],
+    "Access & Transportation": [
+      1
+    ],
+    "Summer Activities": [
+      1
+    ],
+    "Safety & Incidents": [
+      12
+    ]
+  },
+  "feed": [
+    {
+      "source": "Rocky Mountain Outlook",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Ski hill 2024 opening days in Alberta, British Columbia - Rocky Mountain Outlook \u2014 <a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0lJWXpMR1ozQm9ucExPM0ptUDZuNUx5MmI3MmNIMHdRYUkyOWZFc1BCM1R5NXR1dnJGNlFkZC1WU3dLaG9GV1JGV1R3S2J0UjhpWWJCTkN4cDF2ZFhEaDlLdFBnc3h2SkZhVnY0Z2x0eWF6TEhlbHZObmZ",
+      "timestamp": "Wed, 30 Oct 2024 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Ski hill 2024 opening days in Alberta, British Columbia - Rocky Mountain Outlook \u2014 <a href=\"https://news.google.com/rss/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0lJWXpMR1ozQm9ucExPM0ptUDZuNUx5MmI3MmNIMHdRYUkyOWZFc1BCM1R5NXR1dnJGNlFkZC1WU3dLaG9GV1JGV1R3S2J0UjhpWWJCTkN4cDF2ZFhEaDlLdFBnc3h2SkZhVnY0Z2x0eWF6TEhlbHZObmZuZnZQQlhVQkU4QTM0WksxZTY0eEFNVnk5MHJJLW4wLXpyTmFVVUNJ?oc=5"
+    },
+    {
+      "source": "To Do Canada",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Cat Skiing at \u201cGhost Town\u201d Ski Resort of Fortress Mountain Near Calgary - To Do Canada \u2014 <a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFRSc3AwdFJ3RXlTYUk0UG1BRXZ0RVk3UXY4WjhrNnlxWkMtdDNnRmUwN0xCUGtzVXVMRlZjWll6R3h1RmxNbm9peWxmaWd2QzJEVzBTbnVZNUxpOFJaZFpramtSQXN0SG5NaFQ2WkJMSUd1RnQ3c",
+      "timestamp": "Wed, 30 Nov 2022 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Cat Skiing at \u201cGhost Town\u201d Ski Resort of Fortress Mountain Near Calgary - To Do Canada \u2014 <a href=\"https://news.google.co",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFRSc3AwdFJ3RXlTYUk0UG1BRXZ0RVk3UXY4WjhrNnlxWkMtdDNnRmUwN0xCUGtzVXVMRlZjWll6R3h1RmxNbm9peWxmaWd2QzJEVzBTbnVZNUxpOFJaZFpramtSQXN0SG5NaFQ2WkJMSUd1RnQ3cW9mUlhlMDNaNElKQjB2RWVnM2REY3d5MmcwblA5eTVubFZ30gGfAUFVX3lxTE5Xd1FYZWpsLVVndXI3U2VzZkxHTnZSNnRZelJYWW1aQ2ZyY3hvTkhoemU2S1JIRFA1UmhBNi0tRkZvd0h6d1BIWkQ3QTBDeXdRVzVwWWE3UnEtcklLcnl6VnFZaXRVdnNNU1JaZ0YzSkI3NDE0Mko4a01kWHJFMXVvMk51MEp0dElHWDNtazh6a0hwUkRodVlNVHJXRXVwdw?oc=5"
+    },
+    {
+      "source": "Unofficial Networks",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta Ski Resort To Install Its First High-Speed Chairlift - Unofficial Networks \u2014 <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxON1FQQkY0SU1MS19aN2ZrWVAybFlKRkRHNXVaQjJzQS16UGpKaHpsdDVXVDEwNU5jQ25aVlVtcjVReDROcWFkQnQ2emJiZ3hKWGt1dkZHNzgtSGZkYm5HWEltb0xqZWNYOHcwaXZmTzl0OVJiZXJDcHZJe",
+      "timestamp": "Wed, 29 May 2024 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Lift Wait Times",
+      "takeaway": "Alberta Ski Resort To Install Its First High-Speed Chairlift - Unofficial Networks \u2014 <a href=\"https://news.google.com/rs",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1FQQkY0SU1MS19aN2ZrWVAybFlKRkRHNXVaQjJzQS16UGpKaHpsdDVXVDEwNU5jQ25aVlVtcjVReDROcWFkQnQ2emJiZ3hKWGt1dkZHNzgtSGZkYm5HWEltb0xqZWNYOHcwaXZmTzl0OVJiZXJDcHZJeVpYTUcyQQ?oc=5"
+    },
+    {
+      "source": "DiscoverAirdrie",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "The Last of Us: A main character just said Alberta \u2014 on screen, in the season finale - DiscoverAirdrie \u2014 <a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEQtQ1ZxOFo5N2w5OGlzZDBtbTliUkJGQ19Ob3RsbWU0NElyOExlbEVDNnJReWhoLVdseG1RSDZ1TVFUNXRpN0p6QlhWMDR6SGNiYml3dEd1VE04c2QwTFluVjRqWTBESEdKM",
+      "timestamp": "Wed, 28 May 2025 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "The Last of Us: A main character just said Alberta \u2014 on screen, in the season finale - DiscoverAirdrie \u2014 <a href=\"https:",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMEQtQ1ZxOFo5N2w5OGlzZDBtbTliUkJGQ19Ob3RsbWU0NElyOExlbEVDNnJReWhoLVdseG1RSDZ1TVFUNXRpN0p6QlhWMDR6SGNiYml3dEd1VE04c2QwTFluVjRqWTBESEdKM2hhcktfX3VaR3Q4M0VfQzN6dzBURUNpU09Sazc5YVo0NE56TG1uT0pZNUpJSHVLNjN0WE1rTVhlNWs4YllHSEt1NG80TGg3SDc5d2J0emthX1c5cw?oc=5"
+    },
+    {
+      "source": "Daily Hive Vancouver",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Parts of Alberta treated to an August winter wonderland as snow moves in - Daily Hive Vancouver \u2014 <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFUzTVlleF9VZVV3eUlIclFCVGdKMTdUb0RITTIyQlRyNXpVaXhtZkpOLTRRc3A2UjdSN1prdWk5T1hESXEtdWFoekhweVF3b0h3aUxDOTdUQUZLem9RVWxhQzNsUU9udFE0Y01CdDl5",
+      "timestamp": "Wed, 28 Aug 2024 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Parts of Alberta treated to an August winter wonderland as snow moves in - Daily Hive Vancouver \u2014 <a href=\"https://news.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFUzTVlleF9VZVV3eUlIclFCVGdKMTdUb0RITTIyQlRyNXpVaXhtZkpOLTRRc3A2UjdSN1prdWk5T1hESXEtdWFoekhweVF3b0h3aUxDOTdUQUZLem9RVWxhQzNsUU9udFE0Y01CdDl5ZVdSeHRXa01VZDBnX2xGNQ?oc=5"
+    },
+    {
+      "source": "Unofficial Networks",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta Ski Resort Announces Large Lift-Serviced Terrain Expansion For 2025-26 Season - Unofficial Networks \u2014 <a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1ItZWdOQldEakU2RGFBZUJfZVlWdmV0RHJJX1UteE1veUJqdlF4MWtYTk9EX29acUVoZFRYdC1rdEo0dUNKX0x0Qzd6UU96bVpweG9pN3ZCNGc5U3hnZFJnMGt0MHFT",
+      "timestamp": "Wed, 27 Nov 2024 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Staff & Service",
+      "takeaway": "Alberta Ski Resort Announces Large Lift-Serviced Terrain Expansion For 2025-26 Season - Unofficial Networks \u2014 <a href=\"h",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1ItZWdOQldEakU2RGFBZUJfZVlWdmV0RHJJX1UteE1veUJqdlF4MWtYTk9EX29acUVoZFRYdC1rdEo0dUNKX0x0Qzd6UU96bVpweG9pN3ZCNGc5U3hnZFJnMGt0MHFTcVZ4ZkhRdFFzdXY5aEdHWjMzY2c1bE1Qdw?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Young girl injured at Nakiska ski area, airlifted to Calgary hospital - CTV News \u2014 <a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXBvODRTXzZEel8wUVlISUZsc3I2REZmSXNsa25NbXN0aHB6dnJOVFdqMVNEWWFROUV5LVNuS2dfTkhwQzBJWW5GWE1CWk15OUVlUElNU1E2cWRJSzN1ZGpDWmlaRjVoNGsxUklXN1NfMXRtZWRoWUYwSFd",
+      "timestamp": "Wed, 26 Mar 2025 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Lift Wait Times",
+      "takeaway": "Young girl injured at Nakiska ski area, airlifted to Calgary hospital - CTV News \u2014 <a href=\"https://news.google.com/rss/",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaXBvODRTXzZEel8wUVlISUZsc3I2REZmSXNsa25NbXN0aHB6dnJOVFdqMVNEWWFROUV5LVNuS2dfTkhwQzBJWW5GWE1CWk15OUVlUElNU1E2cWRJSzN1ZGpDWmlaRjVoNGsxUklXN1NfMXRtZWRoWUYwSFd0WWtZN1lmZlhhUFRvN1J6d0xVTEJHQWFsMTMtTTd3Ykc0d1l6djVOYjBrYUNLby1R?oc=5"
+    },
+    {
+      "source": "The Inertia",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "18 Years After It Closed, Fortress Mountain Is a Fascinating Ghost Resort - The Inertia \u2014 <a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0VjNUhGUzFkaXJKUTgtWWNpOVRTYzhQZkZfeVJ2ekR6dTJmLVZUSXJIOVhZa20yaVQzVUdhUkhvWVBFQzVldlY1cGdQMGlRRXZ6RlNEOWYwckwtUXhzSEJndEFNVzVxd1RJVGQ2d1VtX0c5V2No",
+      "timestamp": "Wed, 26 Jan 2022 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Safety & Incidents",
+      "takeaway": "18 Years After It Closed, Fortress Mountain Is a Fascinating Ghost Resort - The Inertia \u2014 <a href=\"https://news.google.c",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa0VjNUhGUzFkaXJKUTgtWWNpOVRTYzhQZkZfeVJ2ekR6dTJmLVZUSXJIOVhZa20yaVQzVUdhUkhvWVBFQzVldlY1cGdQMGlRRXZ6RlNEOWYwckwtUXhzSEJndEFNVzVxd1RJVGQ2d1VtX0c5V2NoVnRWcGFHcDY3ZFRlSm5CNXE3N2Z3bGpwNExtUkM5X3UxMUpieVh1MmN1N0oyVXM1V0hhcXdOWWc?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Investors take a run at reopening Fortress Mountain ski hill - CBC \u2014 <a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUk3emFITm9QSlZkNkhvQ3U4RS04SE5YM3BRRDlIZ2FXQkZHbmFNR3l3aHF3RDJYVlFILWdLeFlKZFBFLVBXMk82UHNLWUVWZTF5bEZ5d0t2YU9QYkR4SUtiNlRvbjBvaUN4aFFsaUJEWUpCS0pYNWlMaVk1SXNMY3Z1UmduW",
+      "timestamp": "Wed, 23 Dec 2015 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Investors take a run at reopening Fortress Mountain ski hill - CBC \u2014 <a href=\"https://news.google.com/rss/articles/CBMii",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUk3emFITm9QSlZkNkhvQ3U4RS04SE5YM3BRRDlIZ2FXQkZHbmFNR3l3aHF3RDJYVlFILWdLeFlKZFBFLVBXMk82UHNLWUVWZTF5bEZ5d0t2YU9QYkR4SUtiNlRvbjBvaUN4aFFsaUJEWUpCS0pYNWlMaVk1SXNMY3Z1UmduWWtVV3c?oc=5"
+    },
+    {
+      "source": "DiscoverAirdrie",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "This iconic Alberta mountain just made a cameo in \u2018The Last of Us' - DiscoverAirdrie \u2014 <a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnlVVzIwV2EzTTBaTWhJZlFCTVhvZ2tFdXZmU05xWjNYMFJRV0g0cnF0dGdoamNjdkIxYmFZVGRMcEtBWEtiVloxRUduRjA2dklPSExrQVFaN2dQenBaUVRCaFNkLUlXVHNvNTE3dXMwNm9IbFFIYTN",
+      "timestamp": "Wed, 23 Apr 2025 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "This iconic Alberta mountain just made a cameo in \u2018The Last of Us' - DiscoverAirdrie \u2014 <a href=\"https://news.google.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSnlVVzIwV2EzTTBaTWhJZlFCTVhvZ2tFdXZmU05xWjNYMFJRV0g0cnF0dGdoamNjdkIxYmFZVGRMcEtBWEtiVloxRUduRjA2dklPSExrQVFaN2dQenBaUVRCaFNkLUlXVHNvNTE3dXMwNm9IbFFIYTNpWVdFM1dSVTRzbW1vVXZjZ2RkQ1pXZDlvMWtTdmNjdi10OEFzOFN1T2Nn?oc=5"
+    },
+    {
+      "source": "Rocky Mountain Outlook",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Lights, camera, Alberta: Explore Hollywood movie magic in your backyard. - Rocky Mountain Outlook \u2014 <a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWRrUEtwZGFDWjZXTjVMU2xPTHlNR3M2cGxseFZNV1ItWUllWmpwMXIwa1VjdGIwSEU5RzhTTHJTMjFyRWVpMzcwamtSd081QWVST0tPeFJjQUpubjdXX0lSU2JEYTFmTVFwZ3Zodz",
+      "timestamp": "Wed, 19 Nov 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Lights, camera, Alberta: Explore Hollywood movie magic in your backyard. - Rocky Mountain Outlook \u2014 <a href=\"https://new",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWRrUEtwZGFDWjZXTjVMU2xPTHlNR3M2cGxseFZNV1ItWUllWmpwMXIwa1VjdGIwSEU5RzhTTHJTMjFyRWVpMzcwamtSd081QWVST0tPeFJjQUpubjdXX0lSU2JEYTFmTVFwZ3ZodzZ1MGw4cE52c0IyU2puMHhPVHktcHdWbGFSZ01sUWRXaDQyS05pUHowMEVoQlpQWEJ5cThvYnQ2dk15cS04OHFiRkNtOURZY05OSWJ5TmNn?oc=5"
+    },
+    {
+      "source": "Shootin' the Breeze",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Premier outlines priorities for ministers - Shootin' the Breeze \u2014 <a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFHZ3ZPZ2xiOWNGcnJrVERKamUtMHAwNE5IdTlnUEdweHNjT3NobjdIaUpDVHZUZmZLZE5OTURMb1otYTNCTnJJaElSWWRQdHBVMHczQnpNbzd1MDdzWE1aeW4wcFRreWRSTlRPcWRsenA1cHZqcGpqT2hzS1dieWxEc1ltWE1z",
+      "timestamp": "Wed, 17 Sep 2025 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Lift Wait Times",
+      "takeaway": "Premier outlines priorities for ministers - Shootin' the Breeze \u2014 <a href=\"https://news.google.com/rss/articles/CBMiiAFB",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFHZ3ZPZ2xiOWNGcnJrVERKamUtMHAwNE5IdTlnUEdweHNjT3NobjdIaUpDVHZUZmZLZE5OTURMb1otYTNCTnJJaElSWWRQdHBVMHczQnpNbzd1MDdzWE1aeW4wcFRreWRSTlRPcWRsenA1cHZqcGpqT2hzS1dieWxEc1ltWE1z?oc=5"
+    },
+    {
+      "source": "Calgary Herald",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "Unlocking Alberta\u2019s year-round tourism potential starts with the places we already love - Calgary Herald \u2014 <a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHFKWHZGY1RLVlRnZEVNbldSVnBZZFZNNzhYWDFHYnBvOVozN0JzVHhJMVNiZGRNSmJtQTdueW9qbEVMZmtEMGR2RFM3alVCVEd2b2RWNFhEd0JoUHNVMHBEdTdmRWQ3QkV",
+      "timestamp": "Wed, 17 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Unlocking Alberta\u2019s year-round tourism potential starts with the places we already love - Calgary Herald \u2014 <a href=\"http",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZHFKWHZGY1RLVlRnZEVNbldSVnBZZFZNNzhYWDFHYnBvOVozN0JzVHhJMVNiZGRNSmJtQTdueW9qbEVMZmtEMGR2RFM3alVCVEd2b2RWNFhEd0JoUHNVMHBEdTdmRWQ3QkVCdmtBZ2dKU19OdFJzS041RXJuSFhBQVl1d3pONFZxTloxTDYwZjByQlMxbjdQOUZrMWVvRk5oZ0hfaWpnMEVGU054U2lEd0c4bXM2UGg1MlBkY2lSdElkckhpc19fSHFmQQ?oc=5"
+    },
+    {
+      "source": "Global News",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Nakiska to celebrate earliest opening in ski hill\u2019s history - Global News \u2014 <a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5QUDdGRHpzVlQyNUpwTUFEODBWenJBYlh0aFdiWGJ2NEc4cmdKcENTNzdqb2JtRmd4UEVoVDd5SW85X3l2U1JVcnR2cjhTblliRDZjdFRnYkFycmNQdjlPcC1mRjRoZ2pYMWZGaXphMmdaRnd1THdLeA?oc=5\" targe",
+      "timestamp": "Wed, 16 Oct 2019 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Nakiska to celebrate earliest opening in ski hill\u2019s history - Global News \u2014 <a href=\"https://news.google.com/rss/article",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QUDdGRHpzVlQyNUpwTUFEODBWenJBYlh0aFdiWGJ2NEc4cmdKcENTNzdqb2JtRmd4UEVoVDd5SW85X3l2U1JVcnR2cjhTblliRDZjdFRnYkFycmNQdjlPcC1mRjRoZ2pYMWZGaXphMmdaRnd1THdLeA?oc=5"
+    },
+    {
+      "source": "Calgary Sun",
+      "resort": "castle",
+      "sentiment": "neutral",
+      "text": "Ten-year-old girl dies after ski accident at Castle Mountain Resort - Calgary Sun \u2014 <a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX29TVlIzeUt1WllheXhaTFJ0Y3BVSzhITUNLbmQ2OFZJT25rTFkwOTUwNU5BNEtlSkJHdXJRdFlPSC1WT1JWNVBicm50bWZYWTJ2RV9vSWhJVDRjb05uMV9RZUFjN2JSRHBfNHliSFVTSXhxb3hNX0JnWE",
+      "timestamp": "Wed, 14 Feb 2018 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Safety & Incidents",
+      "takeaway": "Ten-year-old girl dies after ski accident at Castle Mountain Resort - Calgary Sun \u2014 <a href=\"https://news.google.com/rss",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX29TVlIzeUt1WllheXhaTFJ0Y3BVSzhITUNLbmQ2OFZJT25rTFkwOTUwNU5BNEtlSkJHdXJRdFlPSC1WT1JWNVBicm50bWZYWTJ2RV9vSWhJVDRjb05uMV9RZUFjN2JSRHBfNHliSFVTSXhxb3hNX0JnWEFIYWlkdlNNR2xyLUo2M3dsUTdlaUNpWENJbjhZaVdLYUhLLVhMR091c29kWVRNZw?oc=5"
+    },
+    {
+      "source": "Global News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Girl, 10, dies after suffering head injury at southern Alberta ski resort - Global News \u2014 <a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1hkbHg1NXl2RkVBUm10dWdkMFI3QzI5V3hFRGJUSFNzb0ZOUW5KQ3hLUDdULTF5THRLWVNabnV6MmhOV0I0RmZVOXBVeEZPeHotME9XeGN5M2lDUjJTQXRPVS1lT1JuSmhzUkZrS1lveEgwYzVG",
+      "timestamp": "Wed, 14 Feb 2018 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Safety & Incidents",
+      "takeaway": "Girl, 10, dies after suffering head injury at southern Alberta ski resort - Global News \u2014 <a href=\"https://news.google.c",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ1hkbHg1NXl2RkVBUm10dWdkMFI3QzI5V3hFRGJUSFNzb0ZOUW5KQ3hLUDdULTF5THRLWVNabnV6MmhOV0I0RmZVOXBVeEZPeHotME9XeGN5M2lDUjJTQXRPVS1lT1JuSmhzUkZrS1lveEgwYzVGTERDeUUwYmNFenNDZVNhMHBHVjVR?oc=5"
+    },
+    {
+      "source": "Global News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Deep Canadian ski cross team races at World Cup in Alberta ahead of Beijing - Global News \u2014 <a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3pIOVpsOWFMSC1FajhpS1hhbDk0Sll0aC1RWEktQnJ4bG11VFZUN09HNDlaVnZTbFFfZUtFOU9sWmxIZ0FFTWlTTjVwSTdoUXhDY0xLdl9FUDQwSmJBeFpRRUptRHFxSXlDRTRvWHlSTy16VW",
+      "timestamp": "Wed, 12 Jan 2022 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Deep Canadian ski cross team races at World Cup in Alberta ahead of Beijing - Global News \u2014 <a href=\"https://news.google",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb3pIOVpsOWFMSC1FajhpS1hhbDk0Sll0aC1RWEktQnJ4bG11VFZUN09HNDlaVnZTbFFfZUtFOU9sWmxIZ0FFTWlTTjVwSTdoUXhDY0xLdl9FUDQwSmJBeFpRRUptRHFxSXlDRTRvWHlSTy16VW5sY2pSdC03NVdIVzBncVE?oc=5"
+    },
+    {
+      "source": "Narcity",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "This Alberta ski resort nestled in the mountains ranked among the most affordable in Canada - Narcity \u2014 <a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOdF94TTQzN0oxbVBrV3FqMFZ1NGxFLVhSZkxldVcyWkUzYVllOGFmbEdKQXZjUkFubGc1aFE5T3ozSHZYbl9ZV1ZDX015UXA3cjZPaTVZR09ka0RzQUNrMUFfMmt5d0J4Nkd6d2",
+      "timestamp": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "This Alberta ski resort nestled in the mountains ranked among the most affordable in Canada - Narcity \u2014 <a href=\"https:/",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdF94TTQzN0oxbVBrV3FqMFZ1NGxFLVhSZkxldVcyWkUzYVllOGFmbEdKQXZjUkFubGc1aFE5T3ozSHZYbl9ZV1ZDX015UXA3cjZPaTVZR09ka0RzQUNrMUFfMmt5d0J4Nkd6d2x4bTc4NnktU2JoSU5ldGNXbkxXejRJZ2RzSXk5Sm5Jam1MTENqaU1GRDRuYzBPOHpYT29UeUE?oc=5"
+    },
+    {
+      "source": "Edmonton Journal",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Opinion: All-Season Resorts Act is a sneaky way to pave paradise - Edmonton Journal \u2014 <a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPblZSeml1dlczdWljM2lIdWlOYTdKN1F0Q2JSZkp2N1AwVHZLZXFiSTc4MV91WmZKd1lNb0RWdjljbENZalBRQ3lwWm9vbUFKWExvbF9zOUlLdTA3ckczWm1xdGVqTDYxWERZdjhUVEN1Uzk2VHRsQnVL",
+      "timestamp": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Opinion: All-Season Resorts Act is a sneaky way to pave paradise - Edmonton Journal \u2014 <a href=\"https://news.google.com/r",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblZSeml1dlczdWljM2lIdWlOYTdKN1F0Q2JSZkp2N1AwVHZLZXFiSTc4MV91WmZKd1lNb0RWdjljbENZalBRQ3lwWm9vbUFKWExvbF9zOUlLdTA3ckczWm1xdGVqTDYxWERZdjhUVEN1Uzk2VHRsQnVLTy12eXpWYUQ3cUE3eWpLRV9VOWlLUnI3SFpJQkx3VDdERkpZQTBVVEV3bWdFeHNSempMN2NR?oc=5"
+    },
+    {
+      "source": "Unofficial Networks",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Growing Alberta Ski Resort Shares Progress On New Chairlift - Unofficial Networks \u2014 <a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNanNQZnRYQzlQcm1oNzJJWWZyR3RGck5WOF85V0ZGbnVtZnFjNzRpZzFoLXIzX3F5ZW80M0UxaVltazFYSy1LVmt5elluRlhDVURSM09IUEU0MFVJLV9XU3JMM1lURlNpZWFFRTRMVkJDRF9GUF9zLVgwWm",
+      "timestamp": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Lift Wait Times",
+      "takeaway": "Growing Alberta Ski Resort Shares Progress On New Chairlift - Unofficial Networks \u2014 <a href=\"https://news.google.com/rss",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNanNQZnRYQzlQcm1oNzJJWWZyR3RGck5WOF85V0ZGbnVtZnFjNzRpZzFoLXIzX3F5ZW80M0UxaVltazFYSy1LVmt5elluRlhDVURSM09IUEU0MFVJLV9XU3JMM1lURlNpZWFFRTRMVkJDRF9GUF9zLVgwWm1rb2VqSnJoY1E?oc=5"
+    },
+    {
+      "source": "Global News",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Alberta government creating new all season resorts at Castle, Nakiska, Fortress - Global News \u2014 <a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmxLX2NWWnRLNHdDQ2t2VENwUk5TQ29MS2FqazZuVDlhT210VlB5WHN4bjJSckxPYXd0ZTVhZ3g3MWVDbWgwSUZOTWNNLTM4NDVBcVlKaXFkLXJUNTRrZ1FobVJTc1FJWTFJUFZsUHNIMH",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Alberta government creating new all season resorts at Castle, Nakiska, Fortress - Global News \u2014 <a href=\"https://news.go",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZmxLX2NWWnRLNHdDQ2t2VENwUk5TQ29MS2FqazZuVDlhT210VlB5WHN4bjJSckxPYXd0ZTVhZ3g3MWVDbWgwSUZOTWNNLTM4NDVBcVlKaXFkLXJUNTRrZ1FobVJTc1FJWTFJUFZsUHNIMHNHTzFBRXJ0eDZNcWJ1bVlLeU00VVJ5SW9mUmZNMkRZb3JmTE1HYnJ1M0VseXM?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta designates three resorts for all-season tourism - CTV News \u2014 <a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMS1ERWRjRldqV0MtQ3JUWk9DbjdGYmxhQUFvanliWG9uYVo2ZVRyRVdwSVRMVjItdk5JZS1XMHFuMWFLQUdmRDl6SklvVWk3RmRXYmJCT1hrZVJhWVhGcnMtZzNmdnZaUkg3WUxqN1ZOU0NTeGVUODEyckJFcS1XMkZMbTRaS",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Alberta designates three resorts for all-season tourism - CTV News \u2014 <a href=\"https://news.google.com/rss/articles/CBMim",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMS1ERWRjRldqV0MtQ3JUWk9DbjdGYmxhQUFvanliWG9uYVo2ZVRyRVdwSVRMVjItdk5JZS1XMHFuMWFLQUdmRDl6SklvVWk3RmRXYmJCT1hrZVJhWVhGcnMtZzNmdnZaUkg3WUxqN1ZOU0NTeGVUODEyckJFcS1XMkZMbTRaS19EekpZVlMtdkwtbFVHN2dtdXFQYw?oc=5"
+    },
+    {
+      "source": "Calgary Herald",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "'This is just the beginning': Alberta unveils plan for all-season resorts in Castle, Fortress and Nakiska - Calgary Herald \u2014 <a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEdFNFd6WkxlcjlZTHM1YmVCZ1puZmNHdHFYTGxSQ0FuR3QzbzVzdklzdnZvNzBQQS1VM1RJTWtMWFdiUTBwbzBzcllVbVhJWEhaNkZ3R3FXdUJ5e",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "'This is just the beginning': Alberta unveils plan for all-season resorts in Castle, Fortress and Nakiska - Calgary Hera",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeEdFNFd6WkxlcjlZTHM1YmVCZ1puZmNHdHFYTGxSQ0FuR3QzbzVzdklzdnZvNzBQQS1VM1RJTWtMWFdiUTBwbzBzcllVbVhJWEhaNkZ3R3FXdUJ5eEswWmJNUUo4NVZFS3ZVdU9YVWNpQnVKWUFBdWpvU2V3aTNNZ3VDLVlxZ3BrVkd3VnJGbjFhc0RFVWltWENCMEI?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Alberta designates Nakiska, Castle and Fortress as first 3 locations for all-season resorts - CBC \u2014 <a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUdQVzllcFNXUk82OFNBN0ZWQmphRzc0bWNGRUZwZnpNSmFHTXVYNFVsYmVQMTA1R250d1U1OFVQU3RQbG9MVnJ2VGJETkt3U0ZMV2dILTZWZ2ROYXRPWjZGTWNXYXdLeDhrZDA5RV",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Alberta designates Nakiska, Castle and Fortress as first 3 locations for all-season resorts - CBC \u2014 <a href=\"https://new",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUdQVzllcFNXUk82OFNBN0ZWQmphRzc0bWNGRUZwZnpNSmFHTXVYNFVsYmVQMTA1R250d1U1OFVQU3RQbG9MVnJ2VGJETkt3U0ZMV2dILTZWZ2ROYXRPWjZGTWNXYXdLeDhrZDA5RVRBVVFtQ284LXF0eVAyZFhqanYwd2M?oc=5"
+    },
+    {
+      "source": "Rocky Mountain Outlook",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Kananaskis ski resorts cleared to operate year-round in tourism push - Rocky Mountain Outlook \u2014 <a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1hJcmNsa0Y0dW5lTlZna2cwX3JPOUxtNlpkVlJuMmVGcEtqdVJvVjZ5NnZ6djVmRm1wR1lBWkZkRXBqdGhhai1yWF9EVDh1NExKTXlUbWtfZVhWYUxPZFlkZUFPS0lKUHdIZW9pMDFRYX",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Kananaskis ski resorts cleared to operate year-round in tourism push - Rocky Mountain Outlook \u2014 <a href=\"https://news.go",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1hJcmNsa0Y0dW5lTlZna2cwX3JPOUxtNlpkVlJuMmVGcEtqdVJvVjZ5NnZ6djVmRm1wR1lBWkZkRXBqdGhhai1yWF9EVDh1NExKTXlUbWtfZVhWYUxPZFlkZUFPS0lKUHdIZW9pMDFRYXRBdDZGVEhsNWphT180MUdMWlhMMlItcTJBQzZUNFMxQ1dZcktOc0p3dE9ZcUxpYklhU3pXcTVBWnBPU1pITlBTTU1mWjlYeGU5Wlp2bw?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Trio of Alberta ski hills to become province's first all-season resorts - CBC \u2014 <a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE95YmI0cjRwSUlwUHgzVXlta2NzZ3BKV1Nmc1ZpOV9kQ2xpXzBfLThIUTBKSUNyUXJpaTZsdGJkWkY5d3dJRmtTb0JoZk5GV1UtTERVSjNwQ3Uzdw?oc=5\" target=\"_blank\">Trio of Alberta ski hills",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Trio of Alberta ski hills to become province's first all-season resorts - CBC \u2014 <a href=\"https://news.google.com/rss/art",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95YmI0cjRwSUlwUHgzVXlta2NzZ3BKV1Nmc1ZpOV9kQ2xpXzBfLThIUTBKSUNyUXJpaTZsdGJkWkY5d3dJRmtTb0JoZk5GV1UtTERVSjNwQ3Uzdw?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Alberta designates Castle, Fortress, Nakiska ski resorts all-season to stimulate economy - CTV News \u2014 <a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQM2k2OG94cEh5UHZOaVVqMEp4RWp3VkY4QnJ1bWZucHNFQmVvcUpFU0hJNlRXOEUwd1I2S2hOcHJIRms3X0VVS0prU1padGtta2EwQ1Q0djk0a3o5OFhzTVZQZllaRDBZcmtnemVR",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Alberta designates Castle, Fortress, Nakiska ski resorts all-season to stimulate economy - CTV News \u2014 <a href=\"https://n",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM2k2OG94cEh5UHZOaVVqMEp4RWp3VkY4QnJ1bWZucHNFQmVvcUpFU0hJNlRXOEUwd1I2S2hOcHJIRms3X0VVS0prU1padGtta2EwQ1Q0djk0a3o5OFhzTVZQZllaRDBZcmtnemVRajJhcUNnMFd1RlZXbW1LWHlTeFptYlRLNzg4YVFCbVR1OHRDYm40R1JVcFpoSU5ySE1HY0R0T0pMYUVmaU53eXZrNWg0UUtVX1pGRWJaWHFPUlQ0UjBzWGc?oc=5"
+    },
+    {
+      "source": "To Do Canada",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta Designates First All-Season Resort Areas to Support Year-Round Recreation and Development - To Do Canada \u2014 <a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHdkdzl2QWloYUZvQm1nWG5OSmhNcWo5TWZiaVpXSWtwbjFYNm1xaEkwcFJWQWYyd0FIV2lRSks0V3lTa1luRE9QOFhUUFh4Q05ubE11VG5Tc01oQ3JISE1fVWl",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Alberta Designates First All-Season Resort Areas to Support Year-Round Recreation and Development - To Do Canada \u2014 <a hr",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHdkdzl2QWloYUZvQm1nWG5OSmhNcWo5TWZiaVpXSWtwbjFYNm1xaEkwcFJWQWYyd0FIV2lRSks0V3lTa1luRE9QOFhUUFh4Q05ubE11VG5Tc01oQ3JISE1fVWlXd0pja2NXS2lxUXNNdjZrOTR2T3hVdURBek9Eam9ET1JjMUs5MlhCbG1xYWpHdlM2cXgxb1BMaFZvX19XZFRTU0R3TzRLOHlhNHl6cjVaaEItbnVPeExoQXpiMGZHUdIBxwFBVV95cUxNYTlaYlJiWkw5bnlFbzRzbktaUjhlZS1Qc3ZtaEFjTUJkVkFTakl3YjIxV3FOS2NpRG1xX1BWUVhTekx4M3JVaWd6bV85NGlrSUFmUkFPMTJZb2hydFdNVDBhQVljM3YxdDk3bkowQVVWYXVyb3R6R3dXM0FaWk8xQ2FRZzdKWUc1WmpHSmkzOWd1eFRDVlhLbmhpVHVfUHNpT3ljQmYzU3M3OVFwZ2xuZHJ6V3hsOG5tUzRIOVV5VEJaY2xHZzdn?oc=5"
+    },
+    {
+      "source": "Western Standard",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Alberta designates Castle, Fortress and Nakiska as all-season resort areas - Western Standard \u2014 <a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWRSR2o2QVNHWHlDdER4cXR1ek9VYzUyZk12YVEyay1tclJwcjloTFVzVFhYcjBHMWlkS3NFRHdLa3JrM1dMM2kxX1RpRUNGLWVMdzRQSDZzOUxGOFY2UF9qS1BSWldFUXE0U3ZnYi1ibH",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Alberta designates Castle, Fortress and Nakiska as all-season resort areas - Western Standard \u2014 <a href=\"https://news.go",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWRSR2o2QVNHWHlDdER4cXR1ek9VYzUyZk12YVEyay1tclJwcjloTFVzVFhYcjBHMWlkS3NFRHdLa3JrM1dMM2kxX1RpRUNGLWVMdzRQSDZzOUxGOFY2UF9qS1BSWldFUXE0U3ZnYi1ibHhfMWRLSkY4ZjdQNzZkYkNuNEVocWVwUHVDbFlSUzlKcWJHQU91eWdlUTAyRHlwN0RZSmh4bkpXX1lXZVFRcnVLRHN6cEhL?oc=5"
+    },
+    {
+      "source": "rdnewsnow.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta names first All-Season Resorts, environmental groups concerned - rdnewsnow.com \u2014 <a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWtoUFJiSHRGa0FYd2Nvcm9KU0JUeFMyOWQ2aWU2djhwR1ltMDlJcERINUViZFRXRW9zVEhFc2F3bUpyTktlUXhQTWg3VC1WSFVHYjMzRl9vVmphR0lra0FoUy1ET0dTbFRGUS1LdHdPX1pab2Vkb",
+      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Environmental Impact",
+      "takeaway": "Alberta names first All-Season Resorts, environmental groups concerned - rdnewsnow.com \u2014 <a href=\"https://news.google.co",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWtoUFJiSHRGa0FYd2Nvcm9KU0JUeFMyOWQ2aWU2djhwR1ltMDlJcERINUViZFRXRW9zVEhFc2F3bUpyTktlUXhQTWg3VC1WSFVHYjMzRl9vVmphR0lra0FoUy1ET0dTbFRGUS1LdHdPX1pab2VkbDJuMnVJUTd5YVYwdHRsVU5wOU9seTF4MlNDTFkzQ1Fsc0Nzc25zOFRGNHZxMnh3?oc=5"
+    }
+  ]
+}

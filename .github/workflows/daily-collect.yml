@@ -31,8 +31,6 @@ jobs:
       - name: Run collector
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           EMAIL_ENABLED: ${{ secrets.EMAIL_ENABLED }}
           SMTP_USER: ${{ secrets.SMTP_USER }}

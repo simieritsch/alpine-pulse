@@ -41,6 +41,48 @@
           "negative_pct": 5
         }
       }
+    },
+    {
+      "date": "2026-02-12",
+      "total": 181,
+      "positive_pct": 7,
+      "neutral_pct": 88,
+      "negative_pct": 5,
+      "themes": {
+        "Snow Conditions": 134,
+        "Pricing & Value": 3,
+        "Summer Activities": 1,
+        "Staff & Service": 3,
+        "Lift Wait Times": 21,
+        "Facilities & Lodging": 1,
+        "Environmental Impact": 2,
+        "Safety & Incidents": 12,
+        "Events & Promotions": 3,
+        "Access & Transportation": 1
+      },
+      "resort_stats": {
+        "fortress": {
+          "name": "Fortress Mountain",
+          "total": 139,
+          "positive_pct": 7,
+          "neutral_pct": 87,
+          "negative_pct": 6
+        },
+        "castle": {
+          "name": "Castle Mountain",
+          "total": 23,
+          "positive_pct": 9,
+          "neutral_pct": 91,
+          "negative_pct": 0
+        },
+        "nakiska": {
+          "name": "Nakiska",
+          "total": 19,
+          "positive_pct": 0,
+          "neutral_pct": 95,
+          "negative_pct": 5
+        }
+      }
     }
   ]
 }

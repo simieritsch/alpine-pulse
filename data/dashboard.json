@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-02-12T15:38:07.858800",
-  "date": "2026-02-12",
+  "generated_at": "2026-02-13T15:27:15.177759",
+  "date": "2026-02-13",
   "summary": {
     "total_mentions": 181,
-    "positive_pct": 7,
-    "neutral_pct": 88,
+    "positive_pct": 6,
+    "neutral_pct": 89,
     "negative_pct": 5,
     "negative_count": 9
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 139,
-      "positive_pct": 7,
-      "neutral_pct": 87,
+      "total": 140,
+      "positive_pct": 6,
+      "neutral_pct": 88,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 23,
+      "total": 22,
       "positive_pct": 9,
       "neutral_pct": 91,
       "negative_pct": 0
@@ -35,18 +35,18 @@
     {
       "name": "Snow Conditions",
       "mentions": 134,
-      "avg_score": 51,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 21,
+      "mentions": 22,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 12,
+      "mentions": 11,
       "avg_score": 48,
       "sentiment": "neutral"
     },
@@ -96,17 +96,21 @@
   "trends": {
     "labels": [
       "2026-02-11",
-      "2026-02-12"
+      "2026-02-12",
+      "2026-02-13"
     ],
     "positive": [
       6,
-      7
+      7,
+      6
     ],
     "neutral": [
       89,
-      88
+      88,
+      89
     ],
     "negative": [
+      5,
       5,
       5
     ]
@@ -114,43 +118,53 @@
   "theme_trends": {
     "Summer Activities": [
       1,
-      1
-    ],
-    "Access & Transportation": [
       1,
       1
-    ],
-    "Events & Promotions": [
-      3,
-      3
-    ],
-    "Environmental Impact": [
-      2,
-      2
-    ],
-    "Pricing & Value": [
-      2,
-      3
-    ],
-    "Snow Conditions": [
-      139,
-      134
-    ],
-    "Safety & Incidents": [
-      12,
-      12
-    ],
-    "Staff & Service": [
-      3,
-      3
     ],
     "Lift Wait Times": [
       22,
-      21
+      21,
+      22
+    ],
+    "Pricing & Value": [
+      2,
+      3,
+      3
+    ],
+    "Events & Promotions": [
+      3,
+      3,
+      3
+    ],
+    "Access & Transportation": [
+      1,
+      1,
+      1
+    ],
+    "Environmental Impact": [
+      2,
+      2,
+      2
     ],
     "Facilities & Lodging": [
       1,
+      1,
       1
+    ],
+    "Snow Conditions": [
+      139,
+      134,
+      134
+    ],
+    "Staff & Service": [
+      3,
+      3,
+      3
+    ],
+    "Safety & Incidents": [
+      12,
+      12,
+      11
     ]
   },
   "feed": [
@@ -353,6 +367,17 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdF94TTQzN0oxbVBrV3FqMFZ1NGxFLVhSZkxldVcyWkUzYVllOGFmbEdKQXZjUkFubGc1aFE5T3ozSHZYbl9ZV1ZDX015UXA3cjZPaTVZR09ka0RzQUNrMUFfMmt5d0J4Nkd6d2x4bTc4NnktU2JoSU5ldGNXbkxXejRJZ2RzSXk5Sm5Jam1MTENqaU1GRDRuYzBPOHpYT29UeUE?oc=5"
     },
     {
+      "source": "Edmonton Journal",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Opinion: All-Season Resorts Act is a sneaky way to pave paradise - Edmonton Journal \u2014 <a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPblZSeml1dlczdWljM2lIdWlOYTdKN1F0Q2JSZkp2N1AwVHZLZXFiSTc4MV91WmZKd1lNb0RWdjljbENZalBRQ3lwWm9vbUFKWExvbF9zOUlLdTA3ckczWm1xdGVqTDYxWERZdjhUVEN1Uzk2VHRsQnVL",
+      "timestamp": "Wed, 11 Dec 2024 08:00:00 GMT",
+      "engagement": "News article",
+      "theme": "Snow Conditions",
+      "takeaway": "Opinion: All-Season Resorts Act is a sneaky way to pave paradise - Edmonton Journal \u2014 <a href=\"https://news.google.com/r",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPblZSeml1dlczdWljM2lIdWlOYTdKN1F0Q2JSZkp2N1AwVHZLZXFiSTc4MV91WmZKd1lNb0RWdjljbENZalBRQ3lwWm9vbUFKWExvbF9zOUlLdTA3ckczWm1xdGVqTDYxWERZdjhUVEN1Uzk2VHRsQnVLTy12eXpWYUQ3cUE3eWpLRV9VOWlLUnI3SFpJQkx3VDdERkpZQTBVVEV3bWdFeHNSempMN2NR?oc=5"
+    },
+    {
       "source": "Unofficial Networks",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -472,17 +497,6 @@
       "theme": "Environmental Impact",
       "takeaway": "Alberta names first All-Season Resorts, environmental groups concerned - rdnewsnow.com \u2014 <a href=\"https://news.google.co",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWtoUFJiSHRGa0FYd2Nvcm9KU0JUeFMyOWQ2aWU2djhwR1ltMDlJcERINUViZFRXRW9zVEhFc2F3bUpyTktlUXhQTWg3VC1WSFVHYjMzRl9vVmphR0lra0FoUy1ET0dTbFRGUS1LdHdPX1pab2VkbDJuMnVJUTd5YVYwdHRsVU5wOU9seTF4MlNDTFkzQ1Fsc0Nzc25zOFRGNHZxMnh3?oc=5"
-    },
-    {
-      "source": "CityNews Calgary",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta designates three mountain resorts as all-season - CityNews Calgary \u2014 <a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9fUGVfTnFVWTg3UXAxTWNCR2tUVWlxZ3RYcXhKUFEzUFNEZ3dLcVNpall2MHVGdnlNSlRKU3dtN24za18tdjVpdHoycFdLR1BXZTY2TUNzSDR6YnNJbVhTOXZGSnhKcUFxZ2JYUlY4Tzh4a21W?oc=5\" target=\"_b",
-      "timestamp": "Wed, 10 Dec 2025 08:00:00 GMT",
-      "engagement": "News article",
-      "theme": "Snow Conditions",
-      "takeaway": "Alberta designates three mountain resorts as all-season - CityNews Calgary \u2014 <a href=\"https://news.google.com/rss/articl",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fUGVfTnFVWTg3UXAxTWNCR2tUVWlxZ3RYcXhKUFEzUFNEZ3dLcVNpall2MHVGdnlNSlRKU3dtN24za18tdjVpdHoycFdLR1BXZTY2TUNzSDR6YnNJbVhTOXZGSnhKcUFxZ2JYUlY4Tzh4a21W?oc=5"
     }
   ]
 }

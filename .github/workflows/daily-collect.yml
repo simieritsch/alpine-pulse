@@ -1,13 +1,11 @@
 # .github/workflows/daily-collect.yml
-# Runs the Alpine Pulse data collector Mon-Fri at 6:00 AM Mountain Time (13:00 UTC)
-# Then deploys the updated dashboard to GitHub Pages
+# Runs Mon-Fri at 6:00 AM Mountain Time (13:00 UTC)
 
 name: Daily Alpine Pulse Collection
 
 on:
   schedule:
-    # 6:00 AM Mountain Time = 13:00 UTC (MST) / 12:00 UTC (MDT)
-    - cron: '0 13 * * 1-5'  # Mon-Fri at 13:00 UTC
+    - cron: '0 13 * * 1-5'
   workflow_dispatch:  # Allow manual runs
 
 permissions:
@@ -19,34 +17,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: Install dependencies
         run: pip install -r requirements.txt
-      
+
       - name: Run collector
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          # REDDIT: Uncomment these when you add Reddit API access
+          # REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          # REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           EMAIL_ENABLED: ${{ secrets.EMAIL_ENABLED }}
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           DATA_DIR: ./data
         run: python collect.py --force
-      
+
       - name: Commit updated data
         run: |
           git config user.name "Alpine Pulse Bot"
           git config user.email "bot@alpine-pulse.local"
           git add data/
-          git diff --staged --quiet || git commit -m "📊 Daily data collection $(date +%Y-%m-%d)"
+          git diff --staged --quiet || git commit -m "📊 Daily collection $(date +%Y-%m-%d)"
           git push
-      
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:

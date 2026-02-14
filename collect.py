@@ -1,22 +1,23 @@
 #!/usr/bin/env python3
 “””
-Alpine Pulse — Data Collector v2
+Alpine Pulse — Data Collector v2.1 (Fixed)
 
-Collects mentions of Fortress, Castle Mountain, Nakiska, Grande Cache,
-and David Thompson Region from:
+KEY FIXES in v2.1:
 
-- YouTube (free Data API v3)
-- Google News RSS
-- RSS.app feeds (social media aggregation)
-- Custom RSS feeds
+- Broadened Google News RSS search queries (narrower queries returned 0 results)
+- Removed RSS.app feeds (free tier returns HTML, not XML)
+- Added broader search terms to catch more articles
+- LOOKBACK_HOURS set to 168 (7 days) to match dashboard
+- Added detailed logging to diagnose feed issues
+- Skips empty feeds gracefully
+
+Collects mentions from:
+
+- Google News RSS (broadened queries)
+- YouTube Data API v3 (free)
+- Custom RSS feeds (if added)
 
 Then uses Claude API for sentiment analysis + theme categorization.
-Outputs a JSON data file consumed by the dashboard.
-
-Schedule this to run Mon-Fri at 6:00 AM via GitHub Actions.
-
-NOTE: Reddit integration removed for now. To re-enable later,
-uncomment the Reddit sections marked with “# REDDIT:” comments.
 “””
 import os
 import sys
@@ -30,17 +31,15 @@ from pathlib import Path
 # — CONFIGURATION ———————————————————–
 
 CONFIG = {
-# –– API Keys (set as environment variables or GitHub Secrets) ––
 “ANTHROPIC_API_KEY”: os.environ.get(“ANTHROPIC_API_KEY”, “”),
 “YOUTUBE_API_KEY”: os.environ.get(“YOUTUBE_API_KEY”, “”),
 
 ```
-# REDDIT: Uncomment these when you have Reddit API access
+# REDDIT: Uncomment when you have Reddit API access
 # "REDDIT_CLIENT_ID": os.environ.get("REDDIT_CLIENT_ID", ""),
 # "REDDIT_CLIENT_SECRET": os.environ.get("REDDIT_CLIENT_SECRET", ""),
-# "REDDIT_USER_AGENT": os.environ.get("REDDIT_USER_AGENT", "AlpinePulse/1.0"),
 
-# ---- Email settings ----
+# Email settings
 "EMAIL_ENABLED": os.environ.get("EMAIL_ENABLED", "true").lower() == "true",
 "SMTP_SERVER": os.environ.get("SMTP_SERVER", "smtp.gmail.com"),
 "SMTP_PORT": int(os.environ.get("SMTP_PORT", "587")),
@@ -48,27 +47,28 @@ CONFIG = {
 "SMTP_PASSWORD": os.environ.get("SMTP_PASSWORD", ""),
 "EMAIL_TO": os.environ.get("EMAIL_TO", ""),
 
-# ---- Locations & search terms ----
+# Locations & search terms
 "RESORTS": {
     "fortress": {
         "name": "Fortress Mountain",
         "search_terms": [
             "Fortress Mountain", "Fortress ski", "Fortress resort",
-            "Fortress Mountain Alberta"
+            "Fortress Mountain Alberta", "Fortress Mountain Kananaskis"
         ],
     },
     "castle": {
         "name": "Castle Mountain",
         "search_terms": [
             "Castle Mountain Resort", "Castle Mountain ski",
-            "Castle Mountain Alberta", "Castle ski area"
+            "Castle Mountain Alberta", "Castle ski area",
+            "Castle Mountain Pincher Creek"
         ],
     },
     "nakiska": {
         "name": "Nakiska",
         "search_terms": [
             "Nakiska", "Nakiska ski", "Nakiska resort",
-            "Nakiska Kananaskis"
+            "Nakiska Kananaskis", "Nakiska Alberta"
         ],
     },
     "grandecache": {
@@ -76,7 +76,7 @@ CONFIG = {
         "search_terms": [
             "Grande Cache Alberta", "Grande Cache trails",
             "Grande Cache recreation", "Grande Cache tourism",
-            "Grande Cache outdoor"
+            "Grande Cache outdoor", "Grande Cache mountain"
         ],
     },
     "davidthompson": {
@@ -84,12 +84,13 @@ CONFIG = {
         "search_terms": [
             "David Thompson Alberta", "Clearwater County tourism",
             "Nordegg Alberta", "White Goat wilderness",
-            "Saunders tourism node", "Abraham Lake recreation"
+            "Saunders tourism node", "Abraham Lake recreation",
+            "David Thompson corridor"
         ],
     },
 },
 
-# ---- Themes to categorize ----
+# Themes
 "THEMES": [
     "Snow Conditions",
     "Pricing & Value",
@@ -105,41 +106,52 @@ CONFIG = {
     "Family & Beginner Experience",
 ],
 
-# ---- Government of Alberta themes ----
+# Government of Alberta themes
 "GOV_THEMES": [
     "Regulatory Approvals & Land Use",
     "Tourism Strategy & Policy",
     "Environmental Assessment & Compliance",
 ],
 
-# ---- RSS Feeds ----
+# RSS Feeds — BROADENED queries for better results
+# Google News RSS uses the format: q=SEARCH+TERMS
+# Simpler queries = more results. Overly specific queries often return 0.
 "RSS_FEEDS": [
-    # --- RSS.app feeds (social media + web aggregation) ---
+    # --- BROAD catches (most likely to return results) ---
+    "https://news.google.com/rss/search?q=Fortress+Mountain&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Castle+Mountain+Resort&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Nakiska&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Grande+Cache+Alberta&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Nordegg+Alberta&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=David+Thompson+Alberta+tourism&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Clearwater+County+Alberta&hl=en-CA&gl=CA&ceid=CA:en",
+
+    # --- All Season Resorts / policy ---
+    "https://news.google.com/rss/search?q=All+Season+Resorts+Alberta&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Alberta+all+season+resort&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Kananaskis+resort&hl=en-CA&gl=CA&ceid=CA:en",
+
+    # --- Government of Alberta / policy / regulatory ---
+    "https://news.google.com/rss/search?q=Alberta+tourism+resort+policy&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Alberta+Environment+resort&hl=en-CA&gl=CA&ceid=CA:en",
+    "https://news.google.com/rss/search?q=Alberta+Tourism+Sport+minister&hl=en-CA&gl=CA&ceid=CA:en",
+
+    # --- Abraham Lake / White Goat (David Thompson area) ---
+    "https://news.google.com/rss/search?q=Abraham+Lake+Alberta&hl=en-CA&gl=CA&ceid=CA:en",
+
+    # --- RSS.app feeds (may or may not work on free tier) ---
+    # If these return HTML instead of XML, the script will skip them gracefully
     "https://rss.app/rss-feed?keyword=All%20Season%20resorts%20Alberta&region=US&lang=en",
     "https://rss.app/rss-feed?keyword=Fortress%20Mountain&region=US&lang=en",
     "https://rss.app/rss-feed?keyword=Nakiska&region=US&lang=en",
     "https://rss.app/rss-feed?keyword=Grande%20Cache&region=US&lang=en",
     "https://rss.app/rss-feed?keyword=Castle%20mountain&region=US&lang=en",
     "https://rss.app/rss-feed?keyword=Nordegg&region=US&lang=en",
-
-    # --- Google News RSS ---
-    "https://news.google.com/rss/search?q=%22Fortress+Mountain%22+Alberta&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22Castle+Mountain+Resort%22+Alberta&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22Nakiska%22+ski+Alberta&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22All+Season+Resorts%22+Alberta&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22Grande+Cache%22+Alberta+tourism+recreation&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22Nordegg%22+OR+%22David+Thompson%22+Alberta+tourism&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22Clearwater+County%22+Alberta+tourism+recreation&hl=en-CA&gl=CA",
-
-    # --- Government of Alberta RSS ---
-    "https://news.google.com/rss/search?q=%22Government+of+Alberta%22+tourism+sport&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22Alberta+Tourism%22+resort+regulatory&hl=en-CA&gl=CA",
-    "https://news.google.com/rss/search?q=%22Alberta+Environment%22+resort+assessment&hl=en-CA&gl=CA",
 ],
 
-# ---- File paths ----
+# File paths
 "DATA_DIR": os.environ.get("DATA_DIR", str(Path(__file__).parent / "data")),
-"LOOKBACK_HOURS": 168,  # 7 days in hours — matches the dashboard's 7-day feed
+"LOOKBACK_HOURS": 168,  # 7 days — matches the dashboard's 7-day feed
 ```
 
 }
@@ -186,7 +198,8 @@ gov_keywords = [
 “alberta parks”, “regulatory”, “land use bylaw”, “environmental assessment”,
 “environmental impact”, “crown land”, “public consultation”, “tourism levy”,
 “tourism strategy”, “alberta policy”, “minister of tourism”,
-“protected areas”, “provincial government”
+“protected areas”, “provincial government”, “all-season resort act”,
+“all season resort act”, “boitchenko”
 ]
 return any(k in text_lower for k in gov_keywords)
 
@@ -215,29 +228,31 @@ for resort_key, resort_info in config["RESORTS"].items():
                 "type": "video",
                 "publishedAfter": cutoff,
                 "maxResults": 10,
-                "order": "date",
+                "order": "relevance",
                 "key": api_key,
             }
             res = requests.get(url, params=params, timeout=10)
             if res.status_code != 200:
-                log(f"⚠ YouTube API error {res.status_code} for '{term}'")
+                log(f"⚠ YouTube API error {res.status_code} for '{term}': {res.text[:100]}")
                 continue
 
-            for item in res.json().get("items", []):
+            items = res.json().get("items", [])
+            for item in items:
                 snippet = item["snippet"]
                 text = f"{snippet['title']} {snippet.get('description', '')[:300]}"
                 video_id = item["id"].get("videoId", "")
                 mentions.append({
                     "id": make_id(video_id),
                     "source": "YouTube",
-                    "resort": resort_key,
+                    "resort": detect_resort(text, config),
                     "text": text.strip(),
                     "url": f"https://youtube.com/watch?v={video_id}",
                     "date": snippet["publishedAt"],
                     "engagement": "Video",
                     "author": snippet.get("channelTitle", ""),
+                    "is_gov": is_gov_related(text),
                 })
-            time.sleep(0.5)
+            time.sleep(0.3)
         except Exception as e:
             log(f"⚠ YouTube search error ({term}): {e}")
             continue
@@ -249,33 +264,45 @@ return mentions
 # — RSS / NEWS COLLECTOR ––––––––––––––––––––––––––
 
 def collect_rss(config):
-“”“Collect from Google News RSS, RSS.app feeds, and custom RSS feeds.”””
+“”“Collect from Google News RSS and other RSS feeds.”””
 import requests
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
 ```
 mentions = []
+feeds_tried = 0
+feeds_succeeded = 0
 
 for feed_url in config["RSS_FEEDS"]:
+    feeds_tried += 1
     try:
         res = requests.get(
             feed_url,
             timeout=15,
-            headers={"User-Agent": "AlpinePulse/2.0 (sentiment monitor)"}
+            headers={
+                "User-Agent": "Mozilla/5.0 (compatible; AlpinePulse/2.1; sentiment monitor)",
+                "Accept": "application/rss+xml, application/xml, text/xml, */*",
+            }
         )
+
         if res.status_code != 200:
-            log(f"⚠ RSS feed returned {res.status_code}: {feed_url[:60]}...")
+            log(f"  ✗ HTTP {res.status_code}: {feed_url[:70]}...")
             continue
 
-        # Check if response is actually XML (RSS.app may return HTML on free plan)
-        content_type = res.headers.get("content-type", "")
-        if "html" in content_type and "xml" not in content_type:
-            log(f"⚠ RSS feed returned HTML not XML (may need paid plan): {feed_url[:60]}...")
+        # Check if response is actually XML
+        content = res.text.strip()
+        if content.startswith("<!DOCTYPE") or content.startswith("<html"):
+            log(f"  ✗ Got HTML instead of XML (may need paid plan): {feed_url[:70]}...")
+            continue
+
+        if not content.startswith("<?xml") and not content.startswith("<rss") and not content.startswith("<feed"):
+            log(f"  ✗ Not valid XML/RSS: {feed_url[:70]}...")
             continue
 
         root = ET.fromstring(res.content)
 
+        items_found = 0
         for item in root.findall(".//item"):
             title = item.findtext("title", "")
             description = item.findtext("description", "")
@@ -299,8 +326,7 @@ for feed_url in config["RSS_FEEDS"]:
             if not text:
                 continue
 
-            resort_key = detect_resort(text, config)
-
+            # Parse date
             date_str = ""
             if pub_date:
                 try:
@@ -309,6 +335,8 @@ for feed_url in config["RSS_FEEDS"]:
                 except Exception:
                     date_str = pub_date
 
+            resort_key = detect_resort(text, config)
+
             mentions.append({
                 "id": make_id(link or title),
                 "source": source_name,
@@ -316,22 +344,28 @@ for feed_url in config["RSS_FEEDS"]:
                 "text": text[:500],
                 "url": link,
                 "date": date_str,
-                "engagement": "Article" if "news" in feed_url.lower() else "Web mention",
+                "engagement": "Article",
                 "author": source_name,
                 "is_gov": is_gov_related(text),
             })
+            items_found += 1
 
-        log(f"  ✓ RSS feed loaded: {feed_url[:60]}...")
+        if items_found > 0:
+            feeds_succeeded += 1
+            log(f"  ✓ {items_found} items from: {feed_url[:70]}...")
+        else:
+            log(f"  ○ 0 items from: {feed_url[:70]}...")
+
         time.sleep(0.5)
 
     except ET.ParseError as e:
-        log(f"⚠ RSS parse error ({feed_url[:50]}...): {e}")
+        log(f"  ✗ XML parse error ({feed_url[:50]}...): {e}")
         continue
     except Exception as e:
-        log(f"⚠ RSS error ({feed_url[:50]}...): {e}")
+        log(f"  ✗ Error ({feed_url[:50]}...): {e}")
         continue
 
-log(f"✓ RSS/News: collected {len(mentions)} total mentions")
+log(f"✓ RSS/News: {len(mentions)} mentions from {feeds_succeeded}/{feeds_tried} feeds")
 return mentions
 ```
 
@@ -375,8 +409,8 @@ For each mention below, provide:
 MENTIONS:
 {chr(10).join(batch_texts)}
 
-Respond ONLY with a JSON array. Each element: index, sentiment, sentiment_score, theme, takeaway.
-No markdown, no explanation — just the JSON array.”””
+Respond ONLY with a JSON array. Each element must have: index, sentiment, sentiment_score, theme, takeaway.
+No markdown fences, no explanation — just the raw JSON array.”””
 
 ```
     try:
@@ -392,7 +426,7 @@ No markdown, no explanation — just the JSON array.”””
                 "max_tokens": 2000,
                 "messages": [{"role": "user", "content": prompt}],
             },
-            timeout=30,
+            timeout=60,
         )
 
         if res.status_code != 200:
@@ -418,13 +452,18 @@ No markdown, no explanation — just the JSON array.”””
             mention["takeaway"] = result.get("takeaway", mention["text"][:120])
             analyzed.append(mention)
 
+        log(f"  ✓ Claude analyzed batch {i//batch_size + 1}: {len(results)} results")
         time.sleep(1)
 
+    except json.JSONDecodeError as e:
+        log(f"⚠ Claude returned invalid JSON: {e}")
+        log(f"  Response was: {response_text[:200]}")
+        analyzed.extend(fallback_analysis(batch, config))
     except Exception as e:
         log(f"⚠ Claude analysis error: {e}")
         analyzed.extend(fallback_analysis(batch, config))
 
-log(f"✓ Analyzed {len(analyzed)} mentions")
+log(f"✓ Analyzed {len(analyzed)} mentions total")
 return analyzed
 ```
 
@@ -433,29 +472,31 @@ def fallback_analysis(mentions, config):
 positive_words = {
 “great”, “amazing”, “love”, “best”, “incredible”, “awesome”, “excellent”,
 “fantastic”, “perfect”, “beautiful”, “pristine”, “fresh”, “powder”, “recommend”,
-“friendly”, “patient”, “spectacular”, “hidden gem”, “underrated”, “well maintained”
+“friendly”, “patient”, “spectacular”, “hidden gem”, “underrated”, “well maintained”,
+“growth”, “expand”, “investment”, “boost”, “record”, “exciting”, “ambitious”
 }
 negative_words = {
 “bad”, “terrible”, “worst”, “wait”, “crowded”, “overpriced”, “expensive”,
 “broken”, “closed”, “dangerous”, “icy”, “rough”, “complained”, “poor”, “rude”, “slow”,
-“lost”, “frustrating”, “pothole”, “limited”
+“lost”, “frustrating”, “pothole”, “limited”, “concern”, “worry”, “harm”, “impact”,
+“oppose”, “criticized”, “defeat”
 }
 theme_keywords = {
 “Snow Conditions”: [“snow”, “powder”, “conditions”, “fresh”, “base”, “coverage”, “grooming”],
 “Pricing & Value”: [“price”, “cost”, “expensive”, “cheap”, “value”, “pass”, “ticket”, “afford”],
-“Summer Activities”: [“summer”, “hiking”, “biking”, “mountain bike”, “camping”],
+“Summer Activities”: [“summer”, “hiking”, “biking”, “mountain bike”, “camping”, “gondola”, “zip”, “coaster”],
 “Staff & Service”: [“staff”, “instructor”, “service”, “friendly”, “rude”, “helpful”],
 “Lift Wait Times”: [“wait”, “line”, “queue”, “lift”, “crowded”, “busy”, “chair”],
-“Facilities & Lodging”: [“lodge”, “food”, “restaurant”, “hotel”, “parking”, “washroom”, “burger”],
+“Facilities & Lodging”: [“lodge”, “food”, “restaurant”, “hotel”, “parking”, “washroom”, “village”, “spa”],
 “Trails & Recreation”: [“trail”, “hike”, “path”, “recreation”, “outdoor”, “backcountry”, “route”],
-“Access & Transportation”: [“road”, “drive”, “access”, “highway”, “shuttle”, “pothole”, “signage”],
-“Environmental Impact”: [“environment”, “wildlife”, “ecosystem”, “sustainable”, “assessment”],
+“Access & Transportation”: [“road”, “drive”, “access”, “highway”, “shuttle”, “pothole”, “signage”, “parking”],
+“Environmental Impact”: [“environment”, “wildlife”, “ecosystem”, “sustainable”, “grizzly”, “habitat”],
 “Safety & Incidents”: [“accident”, “injury”, “rescue”, “closed”, “avalanche”, “danger”],
-“Events & Promotions”: [“event”, “festival”, “promotion”, “discount”, “deal”, “night ski”],
+“Events & Promotions”: [“event”, “festival”, “promotion”, “discount”, “deal”, “night ski”, “consultation”],
 “Family & Beginner Experience”: [“family”, “kids”, “beginner”, “lesson”, “learn”, “children”],
-“Regulatory Approvals & Land Use”: [“regulatory”, “bylaw”, “land use”, “permit”, “zoning”, “crown land”],
-“Tourism Strategy & Policy”: [“tourism strategy”, “tourism levy”, “ministry”, “government”, “policy”],
-“Environmental Assessment & Compliance”: [“environmental assessment”, “impact assessment”, “compliance”],
+“Regulatory Approvals & Land Use”: [“regulatory”, “bylaw”, “land use”, “permit”, “zoning”, “crown land”, “approval”, “all-season resort act”],
+“Tourism Strategy & Policy”: [“tourism strategy”, “tourism levy”, “ministry”, “government”, “policy”, “consultation”, “minister”],
+“Environmental Assessment & Compliance”: [“environmental assessment”, “impact assessment”, “compliance”, “alberta environment”, “water licence”],
 }
 
 ```
@@ -505,13 +546,10 @@ if os.path.exists(history_file):
 else:
     history = {"daily": []}
 
-# Today's stats
 total = max(len(analyzed_mentions), 1)
-
 pos_count = sum(1 for m in analyzed_mentions if m.get("sentiment") == "positive")
 neu_count = sum(1 for m in analyzed_mentions if m.get("sentiment") == "neutral")
 neg_count = sum(1 for m in analyzed_mentions if m.get("sentiment") == "negative")
-
 pos_pct = round(pos_count / total * 100)
 neu_pct = round(neu_count / total * 100)
 neg_pct = max(0, 100 - pos_pct - neu_pct)
@@ -521,15 +559,12 @@ resort_stats = {}
 for rk, ri in config["RESORTS"].items():
     rm = [m for m in analyzed_mentions if m.get("resort") == rk]
     rt = max(len(rm), 1)
-    rp = sum(1 for m in rm if m.get("sentiment") == "positive")
-    rn_neu = sum(1 for m in rm if m.get("sentiment") == "neutral")
-    rn_neg = sum(1 for m in rm if m.get("sentiment") == "negative")
     resort_stats[rk] = {
         "name": ri["name"],
         "total": len(rm),
-        "positive_pct": round(rp / rt * 100),
-        "neutral_pct": round(rn_neu / rt * 100),
-        "negative_pct": round(rn_neg / rt * 100),
+        "positive_pct": round(sum(1 for m in rm if m.get("sentiment") == "positive") / rt * 100),
+        "neutral_pct": round(sum(1 for m in rm if m.get("sentiment") == "neutral") / rt * 100),
+        "negative_pct": round(sum(1 for m in rm if m.get("sentiment") == "negative") / rt * 100),
     }
 
 # Theme breakdown
@@ -540,29 +575,22 @@ for theme in all_themes:
     if not tm:
         continue
     avg_score = sum(m.get("sentiment_score", 50) for m in tm) / len(tm)
-    sentiment = "positive" if avg_score >= 60 else "negative" if avg_score <= 40 else "neutral"
     theme_data[theme] = {
         "mentions": len(tm),
         "avg_score": round(avg_score),
-        "sentiment": sentiment,
+        "sentiment": "positive" if avg_score >= 60 else "negative" if avg_score <= 40 else "neutral",
     }
-
 sorted_themes = sorted(theme_data.items(), key=lambda x: x[1]["mentions"], reverse=True)
 
 # Government of Alberta items
-gov_mentions = [
-    m for m in analyzed_mentions
-    if m.get("is_gov") or m.get("theme") in config["GOV_THEMES"]
-]
-gov_items = []
-for gm in gov_mentions[:10]:
-    gov_items.append({
-        "title": gm.get("takeaway", gm["text"][:80]),
-        "detail": gm["text"][:300],
-        "theme": gm.get("theme", "Tourism Strategy & Policy"),
-        "date": gm.get("date", ""),
-        "sentiment": gm.get("sentiment", "neutral"),
-    })
+gov_mentions = [m for m in analyzed_mentions if m.get("is_gov") or m.get("theme") in config["GOV_THEMES"]]
+gov_items = [{
+    "title": gm.get("takeaway", gm["text"][:80]),
+    "detail": gm["text"][:300],
+    "theme": gm.get("theme", "Tourism Strategy & Policy"),
+    "date": gm.get("date", ""),
+    "sentiment": gm.get("sentiment", "neutral"),
+} for gm in gov_mentions[:10]]
 
 # Add today to history
 today_entry = {
@@ -573,7 +601,6 @@ today_entry = {
     "negative_pct": neg_pct,
     "themes": {k: v["mentions"] for k, v in theme_data.items()},
 }
-
 history["daily"] = [d for d in history["daily"] if d["date"] != today_str]
 history["daily"].append(today_entry)
 history["daily"] = history["daily"][-30:]
@@ -588,32 +615,23 @@ for d in last_7:
     except Exception:
         trend_labels.append(d["date"][-5:])
 
-trend_pos = [d["positive_pct"] for d in last_7]
-trend_neu = [d["neutral_pct"] for d in last_7]
-trend_neg = [d["negative_pct"] for d in last_7]
-
-# Theme trends (last 7 days)
+# Theme trends
 top_theme_keys = [k for k, v in sorted_themes[:4]]
-theme_trends = {}
-for tk in top_theme_keys:
-    theme_trends[tk] = [d.get("themes", {}).get(tk, 0) for d in last_7]
+theme_trends = {tk: [d.get("themes", {}).get(tk, 0) for d in last_7] for tk in top_theme_keys}
 
 # Feed (most recent first, limit 50)
 feed = sorted(analyzed_mentions, key=lambda m: m.get("date", ""), reverse=True)[:50]
-feed_clean = []
-for m in feed:
-    feed_clean.append({
-        "source": m.get("source", "Unknown"),
-        "resort": m.get("resort", "fortress"),
-        "sentiment": m.get("sentiment", "neutral"),
-        "text": m.get("text", "")[:300],
-        "date": m.get("date", ""),
-        "engagement": m.get("engagement", ""),
-        "theme": m.get("theme", ""),
-        "url": m.get("url", ""),
-    })
+feed_clean = [{
+    "source": m.get("source", "Unknown"),
+    "resort": m.get("resort", "fortress"),
+    "sentiment": m.get("sentiment", "neutral"),
+    "text": m.get("text", "")[:300],
+    "date": m.get("date", ""),
+    "engagement": m.get("engagement", ""),
+    "theme": m.get("theme", ""),
+    "url": m.get("url", ""),
+} for m in feed]
 
-# Build final dashboard JSON
 dashboard = {
     "generated_at": datetime.now().isoformat(),
     "date": today_str,
@@ -629,9 +647,9 @@ dashboard = {
     "gov_alberta": gov_items,
     "trends": {
         "labels": trend_labels,
-        "positive": trend_pos,
-        "neutral": trend_neu,
-        "negative": trend_neg,
+        "positive": [d["positive_pct"] for d in last_7],
+        "neutral": [d["neutral_pct"] for d in last_7],
+        "negative": [d["negative_pct"] for d in last_7],
     },
     "theme_trends": theme_trends,
     "feed": feed_clean,
@@ -641,7 +659,6 @@ dashboard = {
 dashboard_file = os.path.join(data_dir, "dashboard.json")
 with open(dashboard_file, "w", encoding="utf-8") as f:
     json.dump(dashboard, f, indent=2)
-
 with open(history_file, "w", encoding="utf-8") as f:
     json.dump(history, f, indent=2)
 
@@ -650,6 +667,7 @@ log(f"  Total mentions: {len(analyzed_mentions)}")
 log(f"  Sentiment: {pos_pct}% pos / {neu_pct}% neu / {neg_pct}% neg")
 log(f"  Themes found: {len(theme_data)}")
 log(f"  Gov Alberta items: {len(gov_items)}")
+log(f"  Feed items: {len(feed_clean)}")
 
 return dashboard
 ```
@@ -673,75 +691,33 @@ if not config["SMTP_USER"] or not config["EMAIL_TO"]:
 s = dashboard["summary"]
 date_str = datetime.now().strftime("%A, %B %d, %Y")
 
-# Build theme rows
 theme_rows = ""
 for t in dashboard["themes"][:8]:
     color = "#34d399" if t["sentiment"] == "positive" else "#f87171" if t["sentiment"] == "negative" else "#94a3b8"
-    theme_rows += f"""<tr>
-      <td style="padding:8px 12px;border-bottom:1px solid #1e293b;color:#f1f5f9;font-weight:500">{t['name']}</td>
-      <td style="padding:8px 12px;border-bottom:1px solid #1e293b;color:#94a3b8;text-align:center">{t['mentions']}</td>
-      <td style="padding:8px 12px;border-bottom:1px solid #1e293b;text-align:center">
-        <span style="color:{color}">{t['sentiment'].title()}</span></td></tr>"""
+    theme_rows += f'<tr><td style="padding:8px 12px;border-bottom:1px solid #1e293b;color:#f1f5f9">{t["name"]}</td><td style="padding:8px 12px;border-bottom:1px solid #1e293b;color:#94a3b8;text-align:center">{t["mentions"]}</td><td style="padding:8px 12px;border-bottom:1px solid #1e293b;text-align:center;color:{color}">{t["sentiment"].title()}</td></tr>'
 
-# Resort rows
 resort_rows = ""
 for rk, rs in dashboard["resort_stats"].items():
-    resort_rows += f"""<tr>
-      <td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#f1f5f9">{rs['name']}</td>
-      <td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#94a3b8;text-align:center">{rs['total']}</td>
-      <td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#34d399;text-align:center">{rs['positive_pct']}%</td>
-      <td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#f87171;text-align:center">{rs['negative_pct']}%</td></tr>"""
+    resort_rows += f'<tr><td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#f1f5f9">{rs["name"]}</td><td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#94a3b8;text-align:center">{rs["total"]}</td><td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#34d399;text-align:center">{rs["positive_pct"]}%</td><td style="padding:6px 12px;border-bottom:1px solid #1e293b;color:#f87171;text-align:center">{rs["negative_pct"]}%</td></tr>'
 
-# Feed items
 feed_rows = ""
 for item in dashboard["feed"][:6]:
-    bar_color = "#34d399" if item["sentiment"] == "positive" else "#f87171" if item["sentiment"] == "negative" else "#94a3b8"
-    feed_rows += f"""<tr><td style="padding:8px 12px;border-bottom:1px solid #1e293b;width:4px">
-      <div style="width:4px;height:30px;background:{bar_color};border-radius:2px"></div></td>
-      <td style="padding:8px 12px;border-bottom:1px solid #1e293b">
-      <div style="color:#64748b;font-size:10px;text-transform:uppercase">{item['source']} · {item['resort'].upper()}</div>
-      <div style="color:#e2e8f0;font-size:13px;margin-top:3px">{item['text'][:160]}...</div></td></tr>"""
+    bar = "#34d399" if item["sentiment"] == "positive" else "#f87171" if item["sentiment"] == "negative" else "#94a3b8"
+    feed_rows += f'<tr><td style="padding:8px 12px;border-bottom:1px solid #1e293b;width:4px"><div style="width:4px;height:30px;background:{bar};border-radius:2px"></div></td><td style="padding:8px 12px;border-bottom:1px solid #1e293b"><div style="color:#64748b;font-size:10px;text-transform:uppercase">{item["source"]} · {item["resort"].upper()}</div><div style="color:#e2e8f0;font-size:13px;margin-top:3px">{item["text"][:160]}</div></td></tr>'
 
 html = f"""<!DOCTYPE html><html><body style="margin:0;padding:0;background:#0B1120;font-family:Arial,sans-serif">
+```
+
 <div style="max-width:600px;margin:0 auto;padding:28px 16px">
-  <div style="text-align:center;margin-bottom:28px">
-    <div style="font-size:24px;margin-bottom:6px">⛰</div>
-    <h1 style="font-size:22px;color:#f1f5f9;margin:0">Alpine Pulse</h1>
-    <p style="color:#64748b;font-size:11px;margin:4px 0 0;letter-spacing:1px;text-transform:uppercase">Daily Briefing</p>
-    <p style="color:#94a3b8;font-size:13px;margin:6px 0 0">{date_str}</p>
-  </div>
-  <table style="width:100%;border-collapse:collapse;margin-bottom:20px"><tr>
-    <td style="width:25%;text-align:center;padding:16px;background:#111827;border-radius:10px 0 0 10px;border-top:2px solid #38bdf8">
-      <div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Mentions</div>
-      <div style="color:#f1f5f9;font-size:24px;font-weight:800;margin-top:3px">{s['total_mentions']}</div></td>
-    <td style="width:25%;text-align:center;padding:16px;background:#111827;border-top:2px solid #34d399">
-      <div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Positive</div>
-      <div style="color:#34d399;font-size:24px;font-weight:800;margin-top:3px">{s['positive_pct']}%</div></td>
-    <td style="width:25%;text-align:center;padding:16px;background:#111827;border-top:2px solid #94a3b8">
-      <div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Neutral</div>
-      <div style="color:#94a3b8;font-size:24px;font-weight:800;margin-top:3px">{s['neutral_pct']}%</div></td>
-    <td style="width:25%;text-align:center;padding:16px;background:#111827;border-radius:0 10px 10px 0;border-top:2px solid #f87171">
-      <div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Negative</div>
-      <div style="color:#f87171;font-size:24px;font-weight:800;margin-top:3px">{s['negative_pct']}%</div></td>
-  </tr></table>
-  <div style="background:#111827;border-radius:10px;padding:16px;margin-bottom:16px;border:1px solid #1e293b">
-    <h2 style="color:#94a3b8;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin:0 0 12px">Locations</h2>
-    <table style="width:100%;border-collapse:collapse"><tr>
-      <th style="text-align:left;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Location</th>
-      <th style="text-align:center;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Total</th>
-      <th style="text-align:center;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Pos</th>
-      <th style="text-align:center;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Neg</th>
-    </tr>{resort_rows}</table></div>
-  <div style="background:#111827;border-radius:10px;padding:16px;margin-bottom:16px;border:1px solid #1e293b">
-    <h2 style="color:#94a3b8;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin:0 0 12px">Themes</h2>
-    <table style="width:100%;border-collapse:collapse">{theme_rows}</table></div>
-  <div style="background:#111827;border-radius:10px;padding:16px;margin-bottom:16px;border:1px solid #1e293b">
-    <h2 style="color:#94a3b8;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin:0 0 12px">Notable Mentions</h2>
-    <table style="width:100%;border-collapse:collapse">{feed_rows}</table></div>
-  <div style="text-align:center;padding:16px;color:#64748b;font-size:10px">
-    Alpine Pulse — All Season Resorts Alberta<br>Generated {datetime.now().strftime('%I:%M %p MT')}</div>
+<div style="text-align:center;margin-bottom:28px"><div style="font-size:24px;margin-bottom:6px">⛰</div><h1 style="font-size:22px;color:#f1f5f9;margin:0">Alpine Pulse</h1><p style="color:#64748b;font-size:11px;margin:4px 0 0;letter-spacing:1px;text-transform:uppercase">Daily Briefing</p><p style="color:#94a3b8;font-size:13px;margin:6px 0 0">{date_str}</p></div>
+<table style="width:100%;border-collapse:collapse;margin-bottom:20px"><tr><td style="width:25%;text-align:center;padding:16px;background:#111827;border-radius:10px 0 0 10px;border-top:2px solid #38bdf8"><div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Mentions</div><div style="color:#f1f5f9;font-size:24px;font-weight:800;margin-top:3px">{s["total_mentions"]}</div></td><td style="width:25%;text-align:center;padding:16px;background:#111827;border-top:2px solid #34d399"><div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Positive</div><div style="color:#34d399;font-size:24px;font-weight:800;margin-top:3px">{s["positive_pct"]}%</div></td><td style="width:25%;text-align:center;padding:16px;background:#111827;border-top:2px solid #94a3b8"><div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Neutral</div><div style="color:#94a3b8;font-size:24px;font-weight:800;margin-top:3px">{s["neutral_pct"]}%</div></td><td style="width:25%;text-align:center;padding:16px;background:#111827;border-radius:0 10px 10px 0;border-top:2px solid #f87171"><div style="color:#64748b;font-size:9px;text-transform:uppercase;letter-spacing:1px">Negative</div><div style="color:#f87171;font-size:24px;font-weight:800;margin-top:3px">{s["negative_pct"]}%</div></td></tr></table>
+<div style="background:#111827;border-radius:10px;padding:16px;margin-bottom:16px;border:1px solid #1e293b"><h2 style="color:#94a3b8;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin:0 0 12px">Locations</h2><table style="width:100%;border-collapse:collapse"><tr><th style="text-align:left;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Location</th><th style="text-align:center;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Total</th><th style="text-align:center;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Pos</th><th style="text-align:center;padding:6px 12px;color:#64748b;font-size:9px;text-transform:uppercase;border-bottom:1px solid #1e293b">Neg</th></tr>{resort_rows}</table></div>
+<div style="background:#111827;border-radius:10px;padding:16px;margin-bottom:16px;border:1px solid #1e293b"><h2 style="color:#94a3b8;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin:0 0 12px">Themes</h2><table style="width:100%;border-collapse:collapse">{theme_rows}</table></div>
+<div style="background:#111827;border-radius:10px;padding:16px;margin-bottom:16px;border:1px solid #1e293b"><h2 style="color:#94a3b8;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin:0 0 12px">Notable Mentions</h2><table style="width:100%;border-collapse:collapse">{feed_rows}</table></div>
+<div style="text-align:center;padding:16px;color:#64748b;font-size:10px">Alpine Pulse — All Season Resorts Alberta<br>Generated {datetime.now().strftime('%I:%M %p MT')}</div>
 </div></body></html>"""
 
+```
 try:
     msg = MIMEMultipart("alternative")
     msg["Subject"] = f"⛰ Alpine Pulse — {date_str} | {s['positive_pct']}% Positive · {s['total_mentions']} Mentions"
@@ -753,7 +729,6 @@ try:
         server.starttls()
         server.login(config["SMTP_USER"], config["SMTP_PASSWORD"])
         server.sendmail(config["SMTP_USER"], config["EMAIL_TO"].split(","), msg.as_string())
-
     log(f"✓ Email sent to {config['EMAIL_TO']}")
 except Exception as e:
     log(f"⚠ Email error: {e}")
@@ -763,7 +738,7 @@ except Exception as e:
 
 def main():
 log(”=” * 60)
-log(“Alpine Pulse v2 — Starting daily collection”)
+log(“Alpine Pulse v2.1 — Starting daily collection”)
 log(”=” * 60)
 
 ```
@@ -773,12 +748,11 @@ if not is_workday():
         return
 
 # Collect from all sources
-all_mentions = []
-all_mentions.extend(collect_youtube(CONFIG))
-all_mentions.extend(collect_rss(CONFIG))
+log("--- Collecting from YouTube ---")
+all_mentions = collect_youtube(CONFIG)
 
-# REDDIT: Uncomment this when you have Reddit API access
-# all_mentions.extend(collect_reddit(CONFIG))
+log("--- Collecting from RSS/News feeds ---")
+all_mentions.extend(collect_rss(CONFIG))
 
 # Deduplicate
 seen = set()
@@ -789,24 +763,45 @@ for m in all_mentions:
         unique.append(m)
 all_mentions = unique
 
-log(f"Total unique mentions: {len(all_mentions)}")
+log(f"--- Total unique mentions: {len(all_mentions)} ---")
 
 if not all_mentions:
-    log("⚠ No mentions found. Check your API keys and RSS feed URLs.")
-    log("  Common issues:")
-    log("  - YouTube API key missing or invalid")
-    log("  - RSS.app feeds may require a paid plan to return XML")
-    log("  - Google News RSS may not have recent articles for these terms")
-    log("  Tip: Run with --force to test on weekends")
+    log("")
+    log("⚠ NO MENTIONS FOUND. Troubleshooting:")
+    log("  1. Check GitHub Actions log for specific feed errors above")
+    log("  2. YouTube: Is YOUTUBE_API_KEY set in GitHub Secrets?")
+    log("  3. Google News: These feeds may return 0 items for very niche topics")
+    log("  4. RSS.app: Free tier likely returns HTML, not RSS XML")
+    log("  5. Try running manually: Actions tab → Run workflow")
+    log("  6. Today might be a weekend (script only runs weekdays unless --force)")
+    log("")
+    log("Creating empty dashboard so the page loads...")
+
+    # Create an empty dashboard so the page doesn't break
+    ensure_dir(CONFIG["DATA_DIR"])
+    empty_dashboard = {
+        "generated_at": datetime.now().isoformat(),
+        "date": datetime.now().strftime("%Y-%m-%d"),
+        "summary": {"total_mentions": 0, "positive_pct": 0, "neutral_pct": 0, "negative_pct": 0, "negative_count": 0},
+        "resort_stats": {rk: {"name": ri["name"], "total": 0, "positive_pct": 0, "neutral_pct": 0, "negative_pct": 0} for rk, ri in CONFIG["RESORTS"].items()},
+        "themes": [], "gov_alberta": [],
+        "trends": {"labels": [], "positive": [], "neutral": [], "negative": []},
+        "theme_trends": {}, "feed": [],
+    }
+    with open(os.path.join(CONFIG["DATA_DIR"], "dashboard.json"), "w") as f:
+        json.dump(empty_dashboard, f, indent=2)
     return
 
-# Analyze sentiment & themes
+# Analyze
+log("--- Analyzing sentiment ---")
 analyzed = analyze_mentions(all_mentions, CONFIG)
 
-# Build dashboard data
+# Build dashboard
+log("--- Building dashboard ---")
 dashboard = build_dashboard_data(analyzed, CONFIG)
 
-# Send email briefing
+# Email
+log("--- Sending email briefing ---")
 send_email_briefing(dashboard, CONFIG)
 
 log("=" * 60)

@@ -125,6 +125,30 @@
           "negative_pct": 5
         }
       }
+    },
+    {
+      "date": "2026-02-14",
+      "total": 788,
+      "positive_pct": 9,
+      "neutral_pct": 86,
+      "negative_pct": 5,
+      "themes": {
+        "Snow Conditions": 87,
+        "Pricing & Value": 13,
+        "Summer Activities": 16,
+        "Staff & Service": 11,
+        "Lift Wait Times": 56,
+        "Trails & Recreation": 488,
+        "Facilities & Lodging": 34,
+        "Access & Transportation": 17,
+        "Environmental Impact": 7,
+        "Safety & Incidents": 20,
+        "Events & Promotions": 5,
+        "Family & Beginner Experience": 8,
+        "Regulatory Approvals & Land Use": 4,
+        "Tourism Strategy & Policy": 21,
+        "Environmental Assessment & Compliance": 1
+      }
     }
   ]
 }

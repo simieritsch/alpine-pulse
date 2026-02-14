@@ -129,7 +129,9 @@
   /* Feed — updated text color for readability */
   .feed-item{display:flex;gap:10px;padding:12px;border-radius:10px;
     background:rgba(255,255,255,0.02);border:1px solid var(--border);margin-bottom:8px;
-    -webkit-tap-highlight-color:transparent}
+    -webkit-tap-highlight-color:transparent;cursor:pointer;transition:background 0.2s}
+  .feed-item:hover,.feed-item:active{background:rgba(255,255,255,0.05)}
+  a.feed-link{text-decoration:none;color:inherit;display:flex;gap:10px;width:100%}
   .feed-bar{width:3px;border-radius:2px;flex-shrink:0;align-self:stretch;min-height:36px}
   .feed-bar.positive{background:var(--pos)}.feed-bar.neutral{background:var(--neu)}.feed-bar.negative{background:var(--neg)}
   .feed-body{flex:1;min-width:0}
@@ -613,19 +615,25 @@ function renderFeed(){
     document.getElementById('feedItems').innerHTML = '<div class="empty-state">No mentions in the last 7 days for this location.</div>';
     return;
   }
-  document.getElementById('feedItems').innerHTML = filtered.map(f => `
-    <div class="feed-item" data-resort="${f.resort}">
+  document.getElementById('feedItems').innerHTML = filtered.map(f => {
+    const hasUrl = f.url && f.url.startsWith('http');
+    const openTag = hasUrl ? `<a class="feed-link" href="${f.url}" target="_blank" rel="noopener">` : `<div class="feed-link">`;
+    const closeTag = hasUrl ? `</a>` : `</div>`;
+    return `<div class="feed-item" data-resort="${f.resort}">
+      ${openTag}
       <div class="feed-bar ${f.sentiment}"></div>
       <div class="feed-body">
         <div class="feed-source">${f.source}
           <span class="feed-tag ${LOCATIONS[f.resort]?.tagClass || 'tag-fortress'}">${(LOCATIONS[f.resort]?.name || f.resort).toUpperCase()}</span>
-          ${f.theme ? `<span style="color:var(--t3);font-size:8px">· ${f.theme}</span>` : ''}
+          ${f.theme ? `<span style="color:var(--t3);font-size:8px">&middot; ${f.theme}</span>` : ''}
           <span class="feed-date">${dayLabel(f.date)}</span>
         </div>
         <div class="feed-text">${f.text}</div>
-        <div class="feed-meta">${f.engagement || ''}</div>
+        <div class="feed-meta">${f.engagement || ''}${hasUrl ? ' <span style="color:var(--t3);font-size:9px">&#x2197; Open</span>' : ''}</div>
       </div>
-    </div>`).join('');
+      ${closeTag}
+    </div>`;
+  }).join('');
 }
 
 // ---- TODAY'S ARTICLES ----
@@ -640,18 +648,24 @@ function renderTodayArticles(){
     document.getElementById('todayArticles').innerHTML = '<div class="empty-state">No new articles today yet.</div>';
     return;
   }
-  document.getElementById('todayArticles').innerHTML = todayItems.map(f => `
-    <div class="feed-item">
+  document.getElementById('todayArticles').innerHTML = todayItems.map(f => {
+    const hasUrl = f.url && f.url.startsWith('http');
+    const openTag = hasUrl ? `<a class="feed-link" href="${f.url}" target="_blank" rel="noopener">` : `<div class="feed-link">`;
+    const closeTag = hasUrl ? `</a>` : `</div>`;
+    return `<div class="feed-item">
+      ${openTag}
       <div class="feed-bar ${f.sentiment}"></div>
       <div class="feed-body">
         <div class="feed-source">${f.source}
           <span class="feed-tag ${LOCATIONS[f.resort]?.tagClass || ''}">${(LOCATIONS[f.resort]?.name || f.resort).toUpperCase()}</span>
-          ${f.theme ? `<span style="color:var(--t3);font-size:8px">· ${f.theme}</span>` : ''}
+          ${f.theme ? `<span style="color:var(--t3);font-size:8px">&middot; ${f.theme}</span>` : ''}
         </div>
         <div class="feed-text" style="-webkit-line-clamp:unset">${f.text}</div>
-        <div class="feed-meta">${f.engagement || ''}</div>
+        <div class="feed-meta">${f.engagement || ''}${hasUrl ? ' <span style="color:var(--t3);font-size:9px">&#x2197; Open</span>' : ''}</div>
       </div>
-    </div>`).join('');
+      ${closeTag}
+    </div>`;
+  }).join('');
 }
 
 // ---- ACTIONS ----

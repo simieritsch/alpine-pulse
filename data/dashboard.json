@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-02-16T15:10:58.666786",
-  "date": "2026-02-16",
+  "generated_at": "2026-02-17T15:38:15.981813",
+  "date": "2026-02-17",
   "summary": {
-    "total_mentions": 799,
+    "total_mentions": 813,
     "positive_pct": 9,
-    "neutral_pct": 87,
-    "negative_pct": 4,
-    "negative_count": 38
+    "neutral_pct": 86,
+    "negative_pct": 5,
+    "negative_count": 43
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 525,
+      "total": 533,
       "positive_pct": 10,
-      "neutral_pct": 84,
-      "negative_pct": 6
+      "neutral_pct": 83,
+      "negative_pct": 7
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 49,
+      "total": 51,
       "positive_pct": 12,
       "neutral_pct": 88,
       "negative_pct": 0
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 100,
-      "positive_pct": 5,
-      "neutral_pct": 91,
-      "negative_pct": 4
+      "total": 103,
+      "positive_pct": 8,
+      "neutral_pct": 87,
+      "negative_pct": 5
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 54,
+      "total": 56,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 71,
+      "total": 70,
       "positive_pct": 7,
-      "neutral_pct": 92,
-      "negative_pct": 1
+      "neutral_pct": 89,
+      "negative_pct": 4
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 483,
+      "mentions": 494,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 90,
+      "mentions": 91,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 57,
+      "mentions": 56,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -71,27 +71,21 @@
       "sentiment": "neutral"
     },
     {
+      "name": "Safety & Incidents",
+      "mentions": 26,
+      "avg_score": 47,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Tourism Strategy & Policy",
-      "mentions": 25,
+      "mentions": 24,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
-      "name": "Safety & Incidents",
-      "mentions": 23,
-      "avg_score": 48,
-      "sentiment": "neutral"
-    },
-    {
       "name": "Access & Transportation",
-      "mentions": 19,
+      "mentions": 18,
       "avg_score": 49,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Summer Activities",
-      "mentions": 16,
-      "avg_score": 51,
       "sentiment": "neutral"
     },
     {
@@ -101,9 +95,15 @@
       "sentiment": "neutral"
     },
     {
+      "name": "Summer Activities",
+      "mentions": 14,
+      "avg_score": 51,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Staff & Service",
-      "mentions": 10,
-      "avg_score": 54,
+      "mentions": 14,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
@@ -167,6 +167,13 @@
       "sentiment": "positive"
     },
     {
+      "title": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval ",
+      "detail": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval for Mine 14&nbsp;&nbsp;Canadian Mining Journal",
+      "theme": "Regulatory Approvals & Land Use",
+      "date": "2025-10-30T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawk",
       "detail": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawka River to the Norbord Access&nbsp;&nbsp;Government of Alberta",
       "theme": "Access & Transportation",
@@ -185,13 +192,6 @@
       "detail": "Highway 11 \u2013 from Highway 22 to Township Road 390 - Government of Alberta Highway 11 \u2013 from Highway 22 to Township Road 390&nbsp;&nbsp;Government of Alberta",
       "theme": "Access & Transportation",
       "date": "2023-08-16T04:32:08+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&n",
-      "detail": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&nbsp;&nbsp;The Western Producer",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2023-04-06T07:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -215,12 +215,14 @@
       "Thu",
       "Fri",
       "Sat",
-      "Mon"
+      "Mon",
+      "Tue"
     ],
     "positive": [
       6,
       7,
       6,
+      9,
       9,
       9
     ],
@@ -229,14 +231,16 @@
       88,
       89,
       86,
-      87
+      87,
+      86
     ],
     "negative": [
       5,
       5,
       5,
       5,
-      4
+      4,
+      5
     ]
   },
   "theme_trends": {
@@ -245,31 +249,45 @@
       0,
       0,
       488,
-      483
+      483,
+      494
     ],
     "Snow Conditions": [
       139,
       134,
       134,
       87,
-      90
+      90,
+      91
     ],
     "Lift Wait Times": [
       22,
       21,
       22,
       56,
-      57
+      57,
+      56
     ],
     "Facilities & Lodging": [
       1,
       1,
       1,
       34,
+      35,
       35
     ]
   },
   "feed": [
+    {
+      "source": "HighRiverOnline",
+      "resort": "castle",
+      "sentiment": "neutral",
+      "text": "New high-speed lift unlocks 22 runs at Castle Mountain Resort - HighRiverOnline New high-speed lift unlocks 22 runs at Castle Mountain Resort&nbsp;&nbsp;HighRiverOnline",
+      "date": "2026-02-16T19:04:14+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObDVHNDhsRFdwTVhJY2p2MkFISVI0Y2hlLW1VQXZNU3BkVXExRC13NDJpcmtMWG5mSEcyVXdncW85QVlhRHBqTlFXNHZ2MGF2OXAwYl9TNF9fZEJNVEpocjJvVnFvOGhQY0o1QmJuWUJ6UnFpM2RPamVjTUVXd1VLRTJydmVSOWJkLVBtc2hXZ0p1SjZseUk1ZkdScTZkRmc?oc=5"
+    },
     {
       "source": "Avenue Calgary",
       "resort": "fortress",
@@ -279,6 +297,16 @@
       "engagement": "Article",
       "theme": "Facilities & Lodging",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LWHZyVUhaSUYwWFVmVXRJcDZielZmUEpYUUlXU21GamE2MEtZRThWeWtjaTVERFNHYzNPbWZvNFhLSXp5aUtRV2ZmTmhudFRXYnloM1AyUG0tamdEQkR1LWoydXVnOFJEZXN6c2pZcFNFQnh3Z2QxZjE3NGI?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta's plan for parks aims to balance conservation with tourism - CBC Alberta's plan for parks aims to balance conservation with tourism&nbsp;&nbsp;CBC",
+      "date": "2026-02-13T17:07:23+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnZHSURpRUtKMER4NGl4NllPWHVYNFpFZnYzaHZVVE1mUmVaRFdqM05KT0I4aV9haWgxWjlvTXBxcHhRRHFNLXhXWkVKVmE4UlRlOG9JSWlwNjVETlIzbmV1ejJUTHFxVjVjWExDa0FvU0x6V1RyMzZDNFBoSHpQMVZXbFphWWdSYVhsOA?oc=5"
     },
     {
       "source": "CBC",
@@ -361,34 +389,14 @@
       "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQeVVwYWlyYmhlZGtqMlJDTXBUcnFSa3JGdS1lVlZFNGhjZnJvSTh3UmF2OXBwNV84UUx1QnVSdXk0TXpia09saDdLbnRUWFZ0Mjh6YVhEWGtkZl85aExXcXZMeVctQUMyendJWkdSUVUteEYyeXZrZlY4R2hXOEl3U2J4c0Q1bTlDeFM1UzJfTWhPVnhHTEdic3YzMzJyTzVhb2lGaGlrSjFLelVnVEJtcy0yVFNQb3NROTIzdjNURHYxM3dTbVc0clRPUnRuNnVuazk1QTRhclkxQUJEdzkwREgySkhaVGxUb3llUXhOTlB0aV9McVl1clMtNjNmX3pzLU9GcmQwc1JQSzJTVVEtazdwMmdsYVRyM2RoeGFqbmgzUURrQk1ObG9EWi1mMkVuRERzVG83LUtvRV8zN0FfQXdJRHA2cS1fQkdRQU5fYkxDNVBHWVptZmdTQ3ZqZC1mdVNQOE9paFdMeHF2QjJabXd3?oc=5"
     },
     {
-      "source": "Daily Hive Vancouver",
+      "source": "Prince George Citizen",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Rugged Alberta hotel ranks among the most romantic in the world - Daily Hive Vancouver Rugged Alberta hotel ranks among the most romantic in the world&nbsp;&nbsp;Daily Hive Vancouver",
-      "date": "2026-02-10T00:49:00+00:00",
-      "engagement": "Article",
-      "theme": "Facilities & Lodging",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1icERrWFpvVlVEQ2xIWHVvUnNQdGZhblRrWmZGTUNwdFJGNVZkaWluM1AyTjZnN0J2RFd0QU5rbldkajJKVkd0d2pURmxQQWtVMEhzaW5wdnNyS1d1bmlEN2N3X1B1LXZnOElvNW1kRm0zOVpW?oc=5"
-    },
-    {
-      "source": "St. Albert Gazette",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta's sport minister says he hasn't signed petition for separation vote - St. Albert Gazette Alberta's sport minister says he hasn't signed petition for separation vote&nbsp;&nbsp;St. Albert Gazette",
-      "date": "2026-02-09T20:19:16+00:00",
+      "text": "Alberta's sport minister says he hasn't signed petition for separation vote - Prince George Citizen Alberta's sport minister says he hasn't signed petition for separation vote&nbsp;&nbsp;Prince George Citizen",
+      "date": "2026-02-09T23:44:29+00:00",
       "engagement": "Article",
       "theme": "Tourism Strategy & Policy",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdTctbjVuS3Q5WlJ0STVlSndVVVJwMzVLQUVQRmNKZEg4TnIyRmNzeDdqNjdEQU9oWjJMYk9PMF92MkxLSlNqVmp4ZnVGUl8tazRPeEVsLV9pYnBLTTRWaUpTQUZ5WlMyTk9wTmFpOWpVWndqQk9kUUxndGdFS2lPYW1hZjNSMUt3dHFyN19XYzVVMXdkUkhWNmVDcHRnMVJMamdFQm5EdmMtWkd4VnVUZ0ZSVW9aZmFxaGJJdmlWMjQ?oc=5"
-    },
-    {
-      "source": "Toronto Star",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta\u2019s sport minister says he hasn\u2019t signed petition for separation vote - Toronto Star Alberta\u2019s sport minister says he hasn\u2019t signed petition for separation vote&nbsp;&nbsp;Toronto Star",
-      "date": "2026-02-09T19:42:00+00:00",
-      "engagement": "Article",
-      "theme": "Tourism Strategy & Policy",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOam1oS0tlZFZiTldnRHJ6N3JzNkY1eTlHLWxJR1BzY2pMckRnY3lUWTFMLXczVVgxMVNLb213LUROYmc5ZFQwbFJkcmxyRUlSejVqSE1seUI1WHM1cW5QZ05rSXNIWERTUDRrNEp1U1J4U2lQYnJEVVFqRXRFc05HUGRBU1V4YXpTUkVWUXBfQWJwUWh4b01vWUtkN1dVbTFRLS0taDB6bGRCVkhEMi1HYkZJMWdCVEVsUkpleXpVUkJkMjY5VDJoUUlXXzBJVGw0aDhka0xqNHY5WVhNUjlwLVNYZHNSZ0s5UHBCSzc3dnI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNU5oS2ZKbXY2anNkRnpteUR5U1hCVTN6Q2FHOGJ1ZGpEX0Vtc0ZGVUJsOVMzc0t5NU1XcDlOZDlpN2xsSjJMTWtCMjFqeHY5MFlHd1ZvNHB5UEJiQ2Y5SkZlTENacWNQWTdpRDBXM3VxR0w2MWJ5QVJ5THpWTWlYSk1xd2xpUnBvc0Z5UWJjMG5RQkYwZ091cWxDRFM5Znc3N3BfQURZU054RHJSRzFZVnBhWHBQZzlJQ1Y3OGprSHRxbU1lMllUWElvRHlpV28?oc=5"
     },
     {
       "source": "Otipemisiwak M\u00e9tis Government",
@@ -511,6 +519,16 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaUdRUEZoc1V6aG5DaUJ5RXFQRnQ1eFVTZkR0VHJlcTNJZjVBNG8wajAwQUdHU05WZVotMV80Q2Z4R2lWWk1BTzdUcUNPZUVnbzNRa2c1RC1ibl9BTnJVckVEZEpHLTYxVlNfLXBEQjNjdk9QdktWckdyOXZqNE1rZFg0NXlCSnlGVlp1Y3NYOTJ4NldOR20xeTAtNjVRV1MybjZpVnZlcGo3WWtFaGxuMjFlc2YtTGhwUGY2ZnY1QlFZZEE?oc=5"
     },
     {
+      "source": "Unofficial Networks",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "6 Ski Resorts On The Rise In 2026 - Unofficial Networks 6 Ski Resorts On The Rise In 2026&nbsp;&nbsp;Unofficial Networks",
+      "date": "2026-01-30T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZM2dMc2d0VTZWRmhoN3p3WTBnakZWYmhlcDhMYkxUN3EzN3FkR2xBd01INzdKb2R6V2liQzRwMUc3WHBPV2VhYzFkYnhCcWJ4SWhhYmZjVEE3ZUdHS2pKWXNBWkNJdlVvZUtsb0w2Nk9EUQ?oc=5"
+    },
+    {
       "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -519,6 +537,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSU9mOWlaM2lEak9xczNPRmFTSXRxV0pyTUUtTDdWMXZtN0xpTVlkNnlmZ3FUQl93RjJYallpQ0lpYU95aFNGa2NkMWVvZEg0MDgzNy1HcFlZWTRxWGd2RFJCbk1sT1VlREVkdmpxWGNWQzBGa1puUGVCLTYxVFh3MzMxU05fb0ZHaC1DbW5Ia2FLMHBlQ092OEc2UkwwRm15b3lUWjJ4NnY3bjFjbmdjaXlkUHd1QkplRHZ5ZlpGVQ?oc=5"
+    },
+    {
+      "source": "BBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "The 109km trail opening up the Canadian Rockies - BBC The 109km trail opening up the Canadian Rockies&nbsp;&nbsp;BBC",
+      "date": "2026-01-28T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnFSZXNRVHZNaVVJYjNmUWhONmJaMHFodHBpemRmUkxXem5NX2N4NXlvTkJpNzFzX2l0WGVqYnI1N3FkUm00NHVHYXUzdXBPdUZqb1hUT09uNElXeERydjFrSVdsNkZZakVxdF9IYXJ6NzFkaTRnSmFEc0NEYVhha3hKaEhHQXl3NU5tbVBYRVBlbEx1OHc?oc=5"
     },
     {
       "source": "mdgreenview.ab.ca",
@@ -581,16 +609,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFk3djBPcWtIZGRfSGVkb2kzWGV5SW5TN1ZSekY1eEFuYjBwekdLRlpZTVh0N0NDcjZfdkJtbFQzNVFQNHdfR2NJcF9yS1duNWxYRVdtRDNJNWlJTTVURFNSRjZwZFhMYlVfRnRfQkt2UExlakg5TmgxNnNQaUpJbTBlR2hROXRmUnQ2cHVn?oc=5"
     },
     {
-      "source": "SnowBrains",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "Banff Sunshine Village, AB, Report: Great Snow With Even Better Views - SnowBrains Banff Sunshine Village, AB, Report: Great Snow With Even Better Views&nbsp;&nbsp;SnowBrains",
-      "date": "2026-01-22T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdFV0d01XUFBDZ0ZqMTZhczkzaUlLbzItV09QdjN3VXFmdlEyMXVxODBTRWVVZ1FFQUV3RDZPSGVfY1BqaGRsNXY2RUw0amhBXzZOajJVb3NLc2trVHVxNkliNm9WZGt4UExYLUJzUTVyNk5VZjhJZ19yLWczM0hLVk8xZHlZZlBDYzVSZTYxTnh5dmdR?oc=5"
-    },
-    {
       "source": "Global Times",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -612,6 +630,16 @@
     },
     {
       "source": "Todayville",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Driver dies as truck plummets into Clearwater River - Todayville Driver dies as truck plummets into Clearwater River&nbsp;&nbsp;Todayville",
+      "date": "2026-01-18T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Access & Transportation",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRi1HTkRsb3pqT2Y0cFVvQUNINnRuTVIxbmdWajAwcUk2MTZsbFVvVXB1STVQUE5Wc3A4SUNISlY2VTBPWlFKNTA3OTNTSS0wVVlaUTNXNVhraTlGbUp3U3FHNVh2UF9iakpBQU9BWk1ULTFMLUxqWEZWQ19RQ082TQ?oc=5"
+    },
+    {
+      "source": "Todayville",
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "Rocky Mountain House RCMP charge three individuals for drug trafficking - Todayville Rocky Mountain House RCMP charge three individuals for drug trafficking&nbsp;&nbsp;Todayville",
@@ -619,16 +647,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb25mUm1Tc3k4Y2VZMFJjejhtX0VsWlF2Z09aTTVWRjRZSmVlX2hnbVRiXzN3YXBQRVloSk1yN2gxX0I0Nld1b0FBNUJQTHZNbUxSU2JZYkRmU0w4Tk5QS3JLZVZUdlJETkdTWE5jdFhId1l1bXQ1dkh6UWo0b2JEYTY1Y19GVEFycmxubGhIam9DZ0RWRlRSTWcweUF0enhoUEZn?oc=5"
-    },
-    {
-      "source": "Todayville",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Couple Near Hypothermia Rescued On Abraham Lake - Todayville Couple Near Hypothermia Rescued On Abraham Lake&nbsp;&nbsp;Todayville",
-      "date": "2026-01-18T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMU9mbEo3ekdmRG1Hd1dYZFo2aVYzODZCb1ppSU5TVUxncEJxUVNrUzd1bE9UVzhEUnl4bXVfOWNIdk1zU1MtZE92UnhMQ3NXTHRNakZBOVZwMUtlVEZBVk9ySXMxZF92dHpTWnZwNlViREdlZkNpbDJQcmMydXlOLQ?oc=5"
     },
     {
       "source": "CBC",
@@ -639,6 +657,16 @@
       "engagement": "Article",
       "theme": "Lift Wait Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUS1NUWNqdm9Rci1mbFJOX2xqUmVnQUt5ZmJLTXpCMFJwMEZQOUtLMm1oWDg4WW1YaXpQc19sYndTT3ROeU15NzM0cDlQQi1LSzUyU2k0ODdoTWg2cWgySzBCeHVkaDN1a2ExeXZHcmRQaTJVRXJQVFhDdmtZaHhQUnhleXI?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "How a new natural gas pipeline could fuel changes in this quaint mountain hamlet - CBC How a new natural gas pipeline could fuel changes in this quaint mountain hamlet&nbsp;&nbsp;CBC",
+      "date": "2026-01-10T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HUFE5VjBRbmIyWkxUY25PSWFvZThURE9obnNTNXhadmV5TWtnZEY3WGh6T284TXdBcWwwZno5TmNLSGlBckJ6dWdMVjdwU2py?oc=5"
     },
     {
       "source": "To Do Canada",
@@ -671,6 +699,16 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0pCd2JyTTNTTDY3VHF5eE05QzdPMm1WOGhieG9ncDR6WTZ4emp4NndUTWFmQV8tZFIyTmhDeEFCdGt5TmxTU0g3QzZMTVpYU3Z5M2VrQW1jaWR1dElDVUJtS2xHV1lyeUltdEZmaXdydU9waTRCdnNkTEhiUTdFWnd3VEU0U09QTFJsenFwcTVveUVSaWdJWHlrVENpZw?oc=5"
     },
     {
+      "source": "Daily Hive Vancouver",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Lynx and kittens spotted strolling around popular Alberta ski resort - Daily Hive Vancouver Lynx and kittens spotted strolling around popular Alberta ski resort&nbsp;&nbsp;Daily Hive Vancouver",
+      "date": "2026-01-05T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NYUhLRVR6Y2tISU1iRElsb29EVm45T0k2dDJ2N2RiVTRPLU5kWU1ZQzQzUmEtbThTeTJJSy1SMkVBYXcxa21ER2lwYkxnVUZBOU5CeWIwUDNHNC1peVFjUXlpU1Q?oc=5"
+    },
+    {
       "source": "curiocity.com",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -691,10 +729,10 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmF5QkpoQm9tTUp1T3hGcHJ1aHF4cEtCWVlCWkdzUFdfMEs2ZXlBYXE1Q2piOEVCUE1zamZjSDI2LWNadm5yZDVnVXhsN1lQYTNra3V1Q0xpUWtwWF9YNDhrTlJubEJ0Q1ZsY3FrdEhNaWRTeXNfYmgzbEJwS3VRM3JkdmdBS0dGSm41cVBMRQ?oc=5"
     },
     {
-      "source": "Gov.bc.ca",
+      "source": "gov.bc.ca",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Wildfire Season Summary - Province of British Columbia - Gov.bc.ca Wildfire Season Summary - Province of British Columbia&nbsp;&nbsp;Gov.bc.ca",
+      "text": "Wildfire Season Summary - Province of British Columbia - gov.bc.ca Wildfire Season Summary - Province of British Columbia&nbsp;&nbsp;gov.bc.ca",
       "date": "2026-01-02T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -711,31 +749,11 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1VoZTJnNERpeEF2eGNGeTFFdU9faDhNOGlPQTROZU9hV19aSmt5QTNfamlZLXBYWm0zdTl3SG9saEV0dWVyLV9XdlBoQnZvS001aVRhMTNsbkVHRUFSQVFCZFpWMXkwOHQwOUNBaHlCQXpCMngtZkRzRDJvMFprVkYxdUdIU0s4bEJiVUd5TzJPSjBrS0V3c3BTdFY4TTRwME9NcFYzMFYxOEpx?oc=5"
     },
     {
-      "source": "rdnewsnow.com",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "1940 ~ Mr. Rudolph 'Rudy' Stanley Cech ~ 2025 \" A Farewell Party will be held on Saturday, January 10, 2026 at 11:00 a.m. at the Evergreen Community Hall, 44046 TWP RD 38-0 (SW 5-38-4-5), Clearwater County, Alberta.\" - rdnewsnow.com 1940 ~ Mr. Rudolph 'Rudy' Stanley Cech ~ 2025 \" A Farewell Party wi",
-      "date": "2025-12-30T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQdUgzVnRzS2xKUFlvRk9yRDJfSGR2LUdFM3pianBTeG1RZVJUT1lsR2kzdEp5clVYOE5iZXdrMkZKWU15RkJ6dllSR1IxTHNheGpXU2NpdWUtWkdYWFIySGZGV3FYcVExWmJLZ2VVUXQyVzJiT1YwbURWSDRHWldPaGdadk1ycnhUV0NPS01fdTRGYUs0TTI5U2JmMExMbnp4MTVSS3kxUHMtNFhWSk5MRzdua2E5LXNZRFhRbXk5Vm9MWTdUeDlaeVhITU90WGxDU1VmN2p1WmIzQnZSbzFEMndMWnNKSmNSZkV4cURQMTh2SVl6VUxCMDhWMmpEbHp5ZG9ldnVBSXlUWl9MUVFsN0x6SVhJU0NSY1k0alluRjhIdkVZZFRySTlzLWx6V2FlUWJhTlJNdkQ5Zw?oc=5"
-    },
-    {
-      "source": "Snow Industry News",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "Province Of Alberta: Revitalizing Iconic Ski Resorts. Castle, Fortress And Nakiska Have Been Designated As Alberta\u2019S First All-Season Resort Areas, - Snow Industry News Province Of Alberta: Revitalizing Iconic Ski Resorts. Castle, Fortress And Nakiska Have Been Designated As Alberta\u2019S First All-Seas",
-      "date": "2025-12-29T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRkRDZW9jZVpqYldxZXBFQ2RZMWNaTmRVcjFheEtoZmpVdVNQSjdQdTJ4YU5IVEtIVVJBS3NtYWRPSFdzbHZNbk1KLTh2eXNtTTRWV0V5Z1NTTzE3VENyOUFxU3FhanEzUEZGYlExeVRubXhJNnlVai10NjUxaFdIS0VCRzJjVTVPeXdpcnM1ZkE3SnNESW0zNEtTREstb1p1WGk4Ykx5bzlUMjBTeEZoYVR5MmJkTVF3aW1NMThxYVN4Y3l1aUZORUwzWDktNVQzNWM3TnY5U1dVMmszdnBDQlRrbUlmT3ctdEJSbGtfS2xYNlZoWGUzektpclhyN01uSDZPYTE0ZWlYWTBWS19rMlBXdw?oc=5"
-    },
-    {
       "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "Woman dies at Sunshine Village Ski Resort in Alberta - CTV News Woman dies at Sunshine Village Ski Resort in Alberta&nbsp;&nbsp;CTV News",
-      "date": "2025-12-29T08:00:00+00:00",
+      "date": "2025-12-30T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Facilities & Lodging",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWHR4cDlvdWJlR2ZYdjg5OVJCYTFGMUhmLU16ZnM2RkxKSlhyVl9NSV9FeHNXWVhSMlp2Z2xJMkVfRnBJVFJqeVM1VmFFdUZlOUhvSjRlWGpwWl84d1RoWnZRMnc2aXRqQVcwRllXcl9ITk1YSm5EOTg1cDB2X2J2RGx6aWRFaFZ5dUNJbDBMRklBbFZ2VE9WU3BreF9GV1dTVEdB?oc=5"
@@ -759,16 +777,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9PeGVaU3JnSGFPcTA2SjlrVW9Hc0FKS2dJSkQ4T2JyUHFZcjVHUVB4emp3a29IdEhIdXBjQW41aVNkc0xMWWctSlVKQmNIMDJ5NDlVR2FES1dPV3BYdDR2eTU3S0ZOalBIdHQ1QjVUZUVvSGVqU0xEUEY4bU94UQ?oc=5"
-    },
-    {
-      "source": "To Do Canada",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "10 Places For Incredible Winter Photos in Alberta - To Do Canada 10 Places For Incredible Winter Photos in Alberta&nbsp;&nbsp;To Do Canada",
-      "date": "2025-12-23T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONzNQUzUtSVJfZWN0RFpySUJZNnZkN3Q0QjlsZklmU3lqN21yeFE5MkJlVHNUcVJ0NEg0NFRVRDZVYV8wemhuQzhkN2FVa0tkTl9Na0dsRldwUUZWUnRCNTcyTkdnTlJpOUpFcmpGMmJnc0F2TUtJZnBhYjdpU2QxdNIBhgFBVV95cUxPaTJUTW5ZZjlxRGxyNElZRGlBN3BmclNDWlZZclduSkpCMFhJUHktZk5adjdFRk5teGtCSVZjcHlaUERpMmxLTEVFQ2Qyd3RUYlpnTDJDa1RsbXZ5UzQ1c1k5SFJrZHl5cHRhVFhuVmtaMkFHRjZtdl9JNWlZSUczNkFqLVk4dw?oc=5"
     }
   ]
 }

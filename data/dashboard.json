@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-02-19T15:34:24.244206",
-  "date": "2026-02-19",
+  "generated_at": "2026-02-20T15:10:29.407665",
+  "date": "2026-02-20",
   "summary": {
-    "total_mentions": 819,
+    "total_mentions": 813,
     "positive_pct": 9,
-    "neutral_pct": 87,
-    "negative_pct": 4,
-    "negative_count": 35
+    "neutral_pct": 86,
+    "negative_pct": 5,
+    "negative_count": 40
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 543,
+      "total": 539,
       "positive_pct": 10,
-      "neutral_pct": 85,
-      "negative_pct": 5
+      "neutral_pct": 84,
+      "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 51,
+      "total": 50,
       "positive_pct": 10,
       "neutral_pct": 90,
       "negative_pct": 0
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 102,
+      "total": 101,
       "positive_pct": 9,
-      "neutral_pct": 87,
-      "negative_pct": 4
+      "neutral_pct": 86,
+      "negative_pct": 5
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 58,
+      "total": 57,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 65,
-      "positive_pct": 5,
-      "neutral_pct": 92,
+      "total": 66,
+      "positive_pct": 6,
+      "neutral_pct": 91,
       "negative_pct": 3
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 507,
+      "mentions": 498,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 88,
+      "mentions": 86,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 58,
+      "mentions": 59,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 34,
+      "mentions": 31,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -84,26 +84,32 @@
     },
     {
       "name": "Access & Transportation",
-      "mentions": 18,
+      "mentions": 21,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
-      "name": "Summer Activities",
-      "mentions": 14,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
       "name": "Pricing & Value",
-      "mentions": 13,
+      "mentions": 15,
       "avg_score": 47,
       "sentiment": "neutral"
     },
     {
       "name": "Staff & Service",
-      "mentions": 13,
+      "mentions": 15,
       "avg_score": 53,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Summer Activities",
+      "mentions": 12,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Family & Beginner Experience",
+      "mentions": 8,
+      "avg_score": 52,
       "sentiment": "neutral"
     },
     {
@@ -113,21 +119,15 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Events & Promotions",
-      "mentions": 6,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Family & Beginner Experience",
-      "mentions": 6,
-      "avg_score": 52,
-      "sentiment": "neutral"
-    },
-    {
       "name": "Regulatory Approvals & Land Use",
+      "mentions": 6,
+      "avg_score": 54,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Events & Promotions",
       "mentions": 5,
-      "avg_score": 55,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
@@ -195,10 +195,10 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Full list: Mark Carney\u2019s 28 cabinet ministers and 10 secretaries of state - National Post Full list: Mark Carney\u2019s 28 ca",
-      "detail": "Full list: Mark Carney\u2019s 28 cabinet ministers and 10 secretaries of state - National Post Full list: Mark Carney\u2019s 28 cabinet ministers and 10 secretaries of state&nbsp;&nbsp;National Post",
-      "theme": "Tourism Strategy & Policy",
-      "date": "2025-05-13T07:00:00+00:00",
+      "title": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&n",
+      "detail": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&nbsp;&nbsp;The Western Producer",
+      "theme": "Regulatory Approvals & Land Use",
+      "date": "2023-04-06T07:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -211,17 +211,17 @@
   ],
   "trends": {
     "labels": [
-      "Thu",
       "Fri",
       "Sat",
       "Mon",
       "Tue",
       "Wed",
-      "Thu"
+      "Thu",
+      "Fri"
     ],
     "positive": [
-      7,
       6,
+      9,
       9,
       9,
       9,
@@ -229,73 +229,63 @@
       9
     ],
     "neutral": [
-      88,
       89,
       86,
       87,
       86,
       86,
-      87
+      87,
+      86
     ],
     "negative": [
-      5,
       5,
       5,
       4,
       5,
       5,
-      4
+      4,
+      5
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
       0,
-      0,
       488,
       483,
       494,
       496,
-      507
+      507,
+      498
     ],
     "Snow Conditions": [
-      134,
       134,
       87,
       90,
       91,
       84,
-      88
+      88,
+      86
     ],
     "Lift Wait Times": [
-      21,
       22,
       56,
       57,
       56,
       59,
-      58
+      58,
+      59
     ],
     "Facilities & Lodging": [
-      1,
       1,
       34,
       35,
       35,
       32,
-      34
+      34,
+      31
     ]
   },
   "feed": [
-    {
-      "source": "The Spec",
-      "resort": "castle",
-      "sentiment": "neutral",
-      "text": "Castle Mountain Resort marks 60 years of skiing - The Spec Castle Mountain Resort marks 60 years of skiing&nbsp;&nbsp;The Spec",
-      "date": "2026-02-19T00:16:18+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONXBiQTYtd191Q1Z5cGRPeE8zV0Y1V284dGpreDZ1eHc4T3d0SXpwcFhBemdYNnNGQkg1cVN1T0MxNmlGMlFNOVdkS1Rkelo3SC10WGlVMEtDTGstNkw0XzQ1YWt6aWpNdzdIdjVTZHJjUjEtQ1B0aURmSlRLbm1aTnRVaC1MVkdJVjF1OFYyaG1fb1J4M1RMMEp4Y3RlblNpakw5NTU4aTRSUFF4SEllcjVYYkJqVU1CdXlvRXFNZW5rTHFjT1otZi1mekJwQQ?oc=5"
-    },
     {
       "source": "CBS News",
       "resort": "fortress",
@@ -305,6 +295,16 @@
       "engagement": "Article",
       "theme": "Safety & Incidents",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZnFJV1RrMHBVU3ZoeEl0cXppNDBrZjkzUEg0WTRwd2tWeEZ2WUgyWXpUYXl5d2MtaGxrOVVJcDZTZ0xOMVA0LThjcVpzNkVmc1FBMEwzZnFNTEwxbEFadjl5VDJrR0pKbjBrc3VCMUg5VHdORVY3cGF5V2dOT05lck1SLWQ3VUFOdFZsWWdCSDZhdWFTR0xxSmk3RjBLVUdG?oc=5"
+    },
+    {
+      "source": "Crowsnest Pass Herald",
+      "resort": "castle",
+      "sentiment": "neutral",
+      "text": "Castle Mountain Resort marks 60 years of skiing - Crowsnest Pass Herald Castle Mountain Resort marks 60 years of skiing&nbsp;&nbsp;Crowsnest Pass Herald",
+      "date": "2026-02-18T16:00:17+00:00",
+      "engagement": "Article",
+      "theme": "Pricing & Value",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZW9EVlYxSmlWN3JaM3RuZjByR2UyUXRBYVpmMTh0TXdHbW9iVEczZVA2anRfTXZHU01qbC1ZbTduM19ITUxWTXY4T0FXLXFWWUhkVTQ5MjFJMExMMV9wYkhXcjBldnlLU3BwaUFSR0ctcTF0UXlyZUhRR0tHOWhYYkU1a2ZXeUZK?oc=5"
     },
     {
       "source": "MSN",
@@ -337,6 +337,16 @@
       "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxOZEstOVdnbHJFODFRNzZkc1ZVTE9IX1JvN1JYcTRTSXRPUkxmRGZlWWdjS0E0ekpIaG5UNnFSZGozQmx5Z29sanVrelRzb2J3WWFRSjNqSTZrTEdhNHZXRE5hSlFUOGVSVnBwbGZkcEtQNnZHUkRpYnFacHZPSURmZllkZTAtaVJZVVVxeUlqQUdaQnhPYzEtLUxVdl80Mm9Ed1M3cF92ZGRHMHVPdUhJdW9ZMFFCN2tMZ2ZYS2dKcl9SSzU4Z18yT2RDcGpFR3F5RmxqQ3IwVUNJWHhBNkRET0stM203THl4WGtGeTZQUHFfUkZqcnFhcEpzd3BTWkNSekxvZ3VlZ19YcmZPX1lacXFqdFZiWkNCN3pZeFVva05CcjFvTmcxbG1RYm05UFdFWkFYdkwwdm4tYU9ZM3E3cjFJbW05ODVmejBpc0t4VWY5TE1qbmJkdkd1MGxRc2xvcmRRV09RNV9BNHNJbV92SFBodG5RWWl6VzNUTWdQTFpkN2xKdmlRQ0E5QTFCUTJTQ2pObFQ2NGJmN2pjT1VLY2pHY3ZVVEJiSkVYWkh2djJfWWQ0bGV1S0pZOHJDdGpPRXlxekU3UnNFa2M3NUVnTGlIM0ZZSmJVV0lMckd5SW1BZ28tRTI2bXItVmZyUkpKeDhVWkplLXlhaEk4WjZBd1NpU2hIN2hJ?oc=5"
     },
     {
+      "source": "MSN",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "Fortress Mountain ski area launches ambitious reopening plan as conservation group calls it too big - MSN Fortress Mountain ski area launches ambitious reopening plan as conservation group calls it too big&nbsp;&nbsp;MSN",
+      "date": "2026-02-17T01:14:48+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxORE5LLUlrbGNmd19hUXdJaHZLcTRGZ2pRcUpEaFFVelpsdmJ0QUlwZldSN1RNX2xFWkktcGdtX1hfUGg4LVprYjdBeU1TQUNnSUdUTzRqYUFIcWxBR2ZvSTNmZkwxdjVvenFQS0xOZ1J3LW9qOFBXby1rOFJ1eVQtMEtnQ2JVdThOV1RJcVZ1SGFqckY2NnY2MV9kbTBNTWp4cnNHMW01YmNhV2N2YmlMYThtdG5QYjd5cV9XLWFYeFhRUlo0NnpsWWNEeTVVdi1LV3p2QVpQQWZKWENYbUduWFZUNnRrLU9UOEkxZ3lobU1kN254a3MzdzRwS1lCTWY0NG5OT2haTmpJUmZnaC1HQm9SWVZMVHZrUkJweHRsS0NLOWpNU2VhaHIwSTBqQTJuR2s2dXd1ekNlT3BzMmZRU3M4dnp1WDVGUmg0MUw4ZDluZ0ZMYjlraWhva09YTThJSmVwWXg2YTRGd0VVaUtvc0I2LWNhTEMtRTF4UVNwdkNlazdxVnVudG5VSkpZUQ?oc=5"
+    },
+    {
       "source": "HighRiverOnline",
       "resort": "castle",
       "sentiment": "neutral",
@@ -357,16 +367,6 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JVHBiRDIxTXJBc1JqMGZyQXk2NUFXcnZqT0Q4bmZzajZSQm9ZWTZEUnhFV2dhTHpCelRodG94bWc2X01peDdQeTZ1SU1oUHVRNEEwaV9OcmhvbjVRSmpZUE1HYW5BYlBJcTU0U25RdzhlM2lrMXVhWWl5aGdDUQ?oc=5"
     },
     {
-      "source": "Avenue Calgary",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "What\u2019s New and Notable in Calgary\u2019s Food Scene - Avenue Calgary What\u2019s New and Notable in Calgary\u2019s Food Scene&nbsp;&nbsp;Avenue Calgary",
-      "date": "2026-02-13T17:30:42+00:00",
-      "engagement": "Article",
-      "theme": "Facilities & Lodging",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LWHZyVUhaSUYwWFVmVXRJcDZielZmUEpYUUlXU21GamE2MEtZRThWeWtjaTVERFNHYzNPbWZvNFhLSXp5aUtRV2ZmTmhudFRXYnloM1AyUG0tamdEQkR1LWoydXVnOFJEZXN6c2pZcFNFQnh3Z2QxZjE3NGI?oc=5"
-    },
-    {
       "source": "CBC",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -375,16 +375,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnZHSURpRUtKMER4NGl4NllPWHVYNFpFZnYzaHZVVE1mUmVaRFdqM05KT0I4aV9haWgxWjlvTXBxcHhRRHFNLXhXWkVKVmE4UlRlOG9JSWlwNjVETlIzbmV1ejJUTHFxVjVjWExDa0FvU0x6V1RyMzZDNFBoSHpQMVZXbFphWWdSYVhsOA?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta's plan for parks aims to balance conservation with tourism - CBC Alberta's plan for parks aims to balance conservation with tourism&nbsp;&nbsp;CBC",
-      "date": "2026-02-13T13:03:41+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54VlAweFdkTXg4Z1lhNm1VeG40TDI4dzRMQjBqdUN3cXY4dDlEd3dMVldMOGpEMzc5aVFOSkNLSmNsRTlCU1diOEVScFNrNDlY?oc=5"
     },
     {
       "source": "CBC",
@@ -427,14 +417,24 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMEFhSURYNzRSU2RFSE9KXzlaMXVhaEktM0swWFFva00taWtoaVpXVTJaLXRqaVBpRDc4Vy1nMzl6VmpWLThDSlJsWktIVV82bGRDZVRFSjZnTnUxY0pwYXh2QTFkTEY3V3RRM3IyVjRnM2pjLVhzS0YxUXVzVUx1SnYzSENDNHlmZlQ0SkRqRy1obEtoNkVqbUhVZUlxM0ZRdFI2WDRhcF9KT0E1WXdaa1c5ZTA?oc=5"
     },
     {
-      "source": "Toronto Star",
+      "source": "St. Albert Gazette",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Alberta\u2019s sport minister says he hasn\u2019t signed petition for separation vote - Toronto Star Alberta\u2019s sport minister says he hasn\u2019t signed petition for separation vote&nbsp;&nbsp;Toronto Star",
-      "date": "2026-02-09T19:42:00+00:00",
+      "text": "Alberta's sport minister says he hasn't signed petition for separation vote - St. Albert Gazette Alberta's sport minister says he hasn't signed petition for separation vote&nbsp;&nbsp;St. Albert Gazette",
+      "date": "2026-02-09T21:33:45+00:00",
       "engagement": "Article",
       "theme": "Tourism Strategy & Policy",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOam1oS0tlZFZiTldnRHJ6N3JzNkY1eTlHLWxJR1BzY2pMckRnY3lUWTFMLXczVVgxMVNLb213LUROYmc5ZFQwbFJkcmxyRUlSejVqSE1seUI1WHM1cW5QZ05rSXNIWERTUDRrNEp1U1J4U2lQYnJEVVFqRXRFc05HUGRBU1V4YXpTUkVWUXBfQWJwUWh4b01vWUtkN1dVbTFRLS0taDB6bGRCVkhEMi1HYkZJMWdCVEVsUkpleXpVUkJkMjY5VDJoUUlXXzBJVGw0aDhka0xqNHY5WVhNUjlwLVNYZHNSZ0s5UHBCSzc3dnI?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT21CaFlPZXFjVEpFT1MtZ0pFS3YzbkphaUpubElOUEE1VlNPRzduWVdRYlhuOUQ3U0pwcE9Ddkdja1NEOW5may1IZk9DT2J5Wk9Hb3pwaUhISXNVUVh6WG1YMlFTcExka0llckFzUmlKa2RjalpLenpOV3gwbkNybVJYODN5MFI3TTRSdGRBeVpEWC02cGFjWmVLaHJsdEYtQmNtZWZ5V2hwQkZjRUdqal9TLXR1aFZPanMybDI5MWswcUdtNEE?oc=5"
+    },
+    {
+      "source": "TownAndCountryToday.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta's sport minister says he hasn't signed petition for separation vote - TownAndCountryToday.com Alberta's sport minister says he hasn't signed petition for separation vote&nbsp;&nbsp;TownAndCountryToday.com",
+      "date": "2026-02-09T21:06:55+00:00",
+      "engagement": "Article",
+      "theme": "Tourism Strategy & Policy",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSGdMaDE4ZVJ4UDRvTEFONnhJTjJpZEpIbTk4RzJnLTJ3OVdLT0JGLWlJU3pLVGRtYzdyTkI2NGlHLUFWdUFCYWNqV296aE9NZEU5S09nOURpTFFrdFc3SlQzTmY2cXRZajdHSXlyTzF3UEN3OXpXdzFvLUtWdi1TVTl4OFYwaVEwb2J3djF3X3BSaHNRYTZsM2ZYbXJMVGs1N0RiTkFfU1RSLVB2bDJ6d2tjelFwMGNadDk2dzF0OUcxZ0QwTHc?oc=5"
     },
     {
       "source": "Otipemisiwak M\u00e9tis Government",
@@ -455,16 +455,6 @@
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMaW1YZGpGMVNVOVltcTNOWVU0THg2R2toNk9WeFZQcTVwMU5ubEd6aExseUVuV3BlUUJNcm5NSndwY2UzRmV0XzJ3eHR3cE9ZTWtWeDNWT2ZjVGNSaFFLSWxwR0FNTWRoZVE3cUw3N2VjR1Y4dWpZa1VfR0czZw?oc=5"
-    },
-    {
-      "source": "To Do Canada",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "2026 Family Day Long Weekend in Alberta: Events, Festivals & Activities - To Do Canada 2026 Family Day Long Weekend in Alberta: Events, Festivals & Activities&nbsp;&nbsp;To Do Canada",
-      "date": "2026-02-09T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Events & Promotions",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPazBSZmVzbUZ0QWFTdXh5T2Z5a2xyc05GRGxxYlZ1WGFiVERCNHdkS1VNNWdVS3ZkZ3F0UXgycTBDWHB1aUFhQkxoNHhvcHNsd29ieTRkTEMtbDNFamJRdVVLdU1PaXNPNTZFREFRSFFNb1doanhGenpyMWpIOXZkOVNpUFY3ekNyd1lUSk5VamE?oc=5"
     },
     {
       "source": "Calgary Citizen",
@@ -507,6 +497,16 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzNTdG9kNkJPVE1FODNUeTBCMTBLSkRNNnJ5MGYtSUpOd2ExdU5qRE9OTWFZZVVUVWFCMzdsdldZSld6WFg4cUVhY3FyWTVYQmY3cTV1ZkRhUGJOaloxc2JmTHlRT3VUTDBFVmVXMzBLSnd3MmM4dVVMd253QnJnUWw5cmZXbnBMb1VyOF9JYUZlY1pfX3VPelJkRDNzUXdxX2V0aE56ZmhxYzczdU5SQUd1SGFjYTYzM1o0dzVFMFcxUTVEdklhZnZ0T28?oc=5"
     },
     {
+      "source": "CTV News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Wildfires burn in nearby forest areas; warm, windy, dry conditions prompt advisory - CTV News Wildfires burn in nearby forest areas; warm, windy, dry conditions prompt advisory&nbsp;&nbsp;CTV News",
+      "date": "2026-02-04T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2N3ZlRaLU53bkNtaGN2NndRV1Z3NUxIeHVsY0xqRmtHZ3lRMDJTdHA5VGlqeFFTanJ2blNXTXdGRDdFOUtVWGtXN1ZrckFsM0tnTkZVaUt1NXZXeVFPazhEdGNnZFlFem5zSmFmNTNhOFU0VUpNS0JRN0h3YlVySlJlNDZsY0I4ZklUdWdkRXAxVUE0UE1OcVh1TzJGV0s5RnBiaWlyN20xTmljWUp1SmtZcnoxQTVaT2ZB?oc=5"
+    },
+    {
       "source": "Red Deer Advocate",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -547,14 +547,14 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNlBKRUxkc3VobDQ3QWVaSEs0dnZlMU1MTHc0OHRZb1ZlNzJCSmhaeVNjY1AtblBXSFowVWlEVk92YVYxd1p5Ukh6M3dCbHZ6MEZVQWlJOFlxa1FHZnk3UmtCcjlTNmRnTkRUeURkVjBjZE5vYThkaF8xUzRvenFuNTN4VkctUGNsT1NqZHRMOV8zdlhIXzBrdEQySVlwTUFZdF9DY2MtbjdYemxl?oc=5"
     },
     {
-      "source": "CP24",
+      "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Alberta man charged with sex crimes against teen camper at horse ranch - CP24 Alberta man charged with sex crimes against teen camper at horse ranch&nbsp;&nbsp;CP24",
+      "text": "Alberta man charged with sex crimes against teen camper at horse ranch - CTV News Alberta man charged with sex crimes against teen camper at horse ranch&nbsp;&nbsp;CTV News",
       "date": "2026-01-31T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzB3LXBocldsdkRQOWRUR3ZiT2JZc0lVQTlDLVJpbjRpZ0lLcE9vcjhSMjdITy01MURaYmt2NWNyRFJOSXAzR29lWmgxX0lXekFnZThxR2N1RTdQX21NU0ZyREgyTlRrSUhwQ2lyVGx3WFhPQ0gycWYzQkVpT1hvQ0JTdnJXZjN3SVlNRVNkRDJNTUREdktNcjFMZ2xmWEY1Qk9TQXNfR0Zqd1lfNXdhSVktTnZvQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQXAtY21POTRZY2hpN2g3RWd3UmVQSDBrMURoY3dEQzFTOFkwdHJDVk9fY2xLVlVRcnZKc3hoeUZCamRQc2l4eXY0b3plQjh2NHh0TzZvcnVGVVdoajNkMV9DdGRrVjJqRWpfekR3dkY4RFB4LVR5R0JRV2JORENIQnZxYnRmYldHMVo4U3l5S1NUUzhVUUlZcERRZFRwSVJzSjg2Q3ZRMWUwSkRSRGpZ?oc=5"
     },
     {
       "source": "Travel And Tour World",
@@ -667,16 +667,6 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFk3djBPcWtIZGRfSGVkb2kzWGV5SW5TN1ZSekY1eEFuYjBwekdLRlpZTVh0N0NDcjZfdkJtbFQzNVFQNHdfR2NJcF9yS1duNWxYRVdtRDNJNWlJTTVURFNSRjZwZFhMYlVfRnRfQkt2UExlakg5TmgxNnNQaUpJbTBlR2hROXRmUnQ2cHVn?oc=5"
     },
     {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta government gives children\u2019s sports participation initiative more funding - CTV News Alberta government gives children\u2019s sports participation initiative more funding&nbsp;&nbsp;CTV News",
-      "date": "2026-01-22T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Family & Beginner Experience",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNnNrb2thblpTWFRia090UnZfMkVNWU9IMDJ3dnJ4NkRsRkVnaE1qTzZWYkhaWUQwa2FRbm81ZEhVeDd3MGdDMDlFUmNWVnNPcS11MloxX1dpZ2xnY0FPVTluMHZUQkxydzFPbDdvenY2YzNFNkt1T1VxTnFHLTBURnBvVVZ1OHpDYWhkM1RKQUtadldjU05OWXdleWVsLUM5OGpWS3h4TU5MTGdqa3lBalJKa1QzOTVSd0doVg?oc=5"
-    },
-    {
       "source": "Global Times",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -694,7 +684,7 @@
       "date": "2026-01-20T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUkE2Zk5ZdE4wNWZudmdDeVRqR052SU55UDFKS1FET0VNRk5rY0NpS2d2YWEyZTZrNnl2RERRT1Z2cWtCb081eW51ZmNiQlVVQVo1MEIyaWZHMVVHcjdjdHZsQzJBYjRHSUQ2YnA5NTRUa1BkMzB6TXVtaE55ejZjbGlXeVVuOXZ4Y1NsMnIxZk43LVFLMnJPVERaSmx5NDFkWHE1ZWxIS1hpREtwQk1CU013?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnZUQ3pnaVpFZjJnanNHRVFudDJYUktEbm1TM05NUXMzTGxsZUE3ZTRIZkRXekxkWFBIckFpbDI0WURfMVUwVGtDbmtLNXBxbGN2NnNqcksycUVPZjhFa0t3cXk2dzl4T0hYWF9IaHExSVFRZndqaUxKeERoRDVjenFMY0x4SlRaY3ZjaThFa3M0c25rSXhRS3QxMjdUc3I3T2c?oc=5"
     },
     {
       "source": "St. Albert Gazette",
@@ -724,7 +714,7 @@
       "date": "2026-01-18T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb25mUm1Tc3k4Y2VZMFJjejhtX0VsWlF2Z09aTTVWRjRZSmVlX2hnbVRiXzN3YXBQRVloSk1yN2gxX0I0Nld1b0FBNUJQTHZNbUxSU2JZYkRmU0w4Tk5QS3JLZVZUdlJETkdTWE5jdFhId1l1bXQ1dkh6UWo0b2JEYTY1Y19GVEFycmxubGhIam9DZ0RWRlRSTWcweUF0enhoUEZn?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWhmYUs4NEVJWml2ZkJXM19qRHcyMWs2YWVPbUdoeXNuVHYwcHpKNWM3R1pMT1hoUERkMzIzWlRQRjU1UnBLZEpNYTBmQVRYcHFrb05sanNqOThDMTBhVndWQV9DSjZRdWdaSkxhcE9BN2ZIQ3otbHNBb2VvWE5ocDhyb1RaSk55aXpzVWR0Nm9HOExHaFQ3NnBXQ2JqWkN1?oc=5"
     },
     {
       "source": "Todayville",
@@ -745,16 +735,6 @@
       "engagement": "Article",
       "theme": "Lift Wait Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUS1NUWNqdm9Rci1mbFJOX2xqUmVnQUt5ZmJLTXpCMFJwMEZQOUtLMm1oWDg4WW1YaXpQc19sYndTT3ROeU15NzM0cDlQQi1LSzUyU2k0ODdoTWg2cWgySzBCeHVkaDN1a2ExeXZHcmRQaTJVRXJQVFhDdmtZaHhQUnhleXI?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "How a new natural gas pipeline could fuel changes in this quaint mountain hamlet - CBC How a new natural gas pipeline could fuel changes in this quaint mountain hamlet&nbsp;&nbsp;CBC",
-      "date": "2026-01-10T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Lift Wait Times",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HUFE5VjBRbmIyWkxUY25PSWFvZThURE9obnNTNXhadmV5TWtnZEY3WGh6T284TXdBcWwwZno5TmNLSGlBckJ6dWdMVjdwU2py?oc=5"
     },
     {
       "source": "To Do Canada",
@@ -785,6 +765,26 @@
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR0pCd2JyTTNTTDY3VHF5eE05QzdPMm1WOGhieG9ncDR6WTZ4emp4NndUTWFmQV8tZFIyTmhDeEFCdGt5TmxTU0g3QzZMTVpYU3Z5M2VrQW1jaWR1dElDVUJtS2xHV1lyeUltdEZmaXdydU9waTRCdnNkTEhiUTdFWnd3VEU0U09QTFJsenFwcTVveUVSaWdJWHlrVENpZw?oc=5"
+    },
+    {
+      "source": "SnowBrains",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Former Alberta Ski Resort Plans to Reopen as All-Season Resort - SnowBrains Former Alberta Ski Resort Plans to Reopen as All-Season Resort&nbsp;&nbsp;SnowBrains",
+      "date": "2026-01-03T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYmF5QkpoQm9tTUp1T3hGcHJ1aHF4cEtCWVlCWkdzUFdfMEs2ZXlBYXE1Q2piOEVCUE1zamZjSDI2LWNadm5yZDVnVXhsN1lQYTNra3V1Q0xpUWtwWF9YNDhrTlJubEJ0Q1ZsY3FrdEhNaWRTeXNfYmgzbEJwS3VRM3JkdmdBS0dGSm41cVBMRQ?oc=5"
+    },
+    {
+      "source": "My Lethbridge Now",
+      "resort": "castle",
+      "sentiment": "neutral",
+      "text": "Castle Mountain celebrates 60 years with new chairlift - My Lethbridge Now Castle Mountain celebrates 60 years with new chairlift&nbsp;&nbsp;My Lethbridge Now",
+      "date": "2025-12-30T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1VoZTJnNERpeEF2eGNGeTFFdU9faDhNOGlPQTROZU9hV19aSmt5QTNfamlZLXBYWm0zdTl3SG9saEV0dWVyLV9XdlBoQnZvS001aVRhMTNsbkVHRUFSQVFCZFpWMXkwOHQwOUNBaHlCQXpCMngtZkRzRDJvMFprVkYxdUdIU0s4bEJiVUd5TzJPSjBrS0V3c3BTdFY4TTRwME9NcFYzMFYxOEpx?oc=5"
     }
   ]
 }

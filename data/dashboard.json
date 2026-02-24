@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-02-23T15:34:45.585814",
-  "date": "2026-02-23",
+  "generated_at": "2026-02-24T16:46:56.825379",
+  "date": "2026-02-24",
   "summary": {
-    "total_mentions": 803,
-    "positive_pct": 9,
-    "neutral_pct": 86,
+    "total_mentions": 812,
+    "positive_pct": 8,
+    "neutral_pct": 87,
     "negative_pct": 5,
-    "negative_count": 42
+    "negative_count": 41
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 527,
+      "total": 541,
       "positive_pct": 10,
-      "neutral_pct": 83,
-      "negative_pct": 7
+      "neutral_pct": 84,
+      "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 48,
+      "total": 49,
       "positive_pct": 4,
       "neutral_pct": 96,
       "negative_pct": 0
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 108,
-      "positive_pct": 7,
+      "total": 105,
+      "positive_pct": 8,
       "neutral_pct": 88,
       "negative_pct": 5
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 57,
+      "total": 56,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 63,
-      "positive_pct": 6,
-      "neutral_pct": 90,
+      "total": 61,
+      "positive_pct": 5,
+      "neutral_pct": 92,
       "negative_pct": 3
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 494,
-      "avg_score": 51,
+      "mentions": 505,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 82,
+      "mentions": 76,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 56,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Facilities & Lodging",
-      "mentions": 33,
+      "mentions": 58,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 26,
+      "mentions": 30,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Facilities & Lodging",
+      "mentions": 29,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -90,32 +90,26 @@
     },
     {
       "name": "Pricing & Value",
-      "mentions": 14,
+      "mentions": 15,
       "avg_score": 47,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 14,
+      "mentions": 15,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Staff & Service",
-      "mentions": 12,
+      "mentions": 13,
       "avg_score": 54,
       "sentiment": "neutral"
     },
     {
       "name": "Events & Promotions",
-      "mentions": 10,
-      "avg_score": 49,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Environmental Impact",
       "mentions": 9,
-      "avg_score": 50,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
@@ -125,9 +119,15 @@
       "sentiment": "neutral"
     },
     {
+      "name": "Environmental Impact",
+      "mentions": 7,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Regulatory Approvals & Land Use",
-      "mentions": 4,
-      "avg_score": 56,
+      "mentions": 6,
+      "avg_score": 54,
       "sentiment": "neutral"
     },
     {
@@ -181,17 +181,24 @@
       "sentiment": "positive"
     },
     {
+      "title": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval ",
+      "detail": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval for Mine 14&nbsp;&nbsp;Canadian Mining Journal",
+      "theme": "Regulatory Approvals & Land Use",
+      "date": "2025-10-30T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawk",
+      "detail": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawka River to the Norbord Access&nbsp;&nbsp;Government of Alberta",
+      "theme": "Access & Transportation",
+      "date": "2023-08-16T06:40:28+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Alber",
       "detail": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Albert Gazette Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache&nbsp;&nbsp;St. Albert Gazette",
       "theme": "Tourism Strategy & Policy",
       "date": "2025-02-18T08:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Alberta government announces Highway 40 lane-widening - CTV News Alberta government announces Highway 40 lane-widening&n",
-      "detail": "Alberta government announces Highway 40 lane-widening - CTV News Alberta government announces Highway 40 lane-widening&nbsp;&nbsp;CTV News",
-      "theme": "Access & Transportation",
-      "date": "2020-06-30T07:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -200,24 +207,17 @@
       "theme": "Access & Transportation",
       "date": "2023-08-16T04:32:08+00:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citize",
-      "detail": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citizens band together to fight huge new water licence for fracking&nbsp;&nbsp;The Narwhal",
-      "theme": "Environmental Assessment & Compliance",
-      "date": "2019-01-30T08:00:00+00:00",
-      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Sat",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
-      "Mon"
+      "Mon",
+      "Tue"
     ],
     "positive": [
       9,
@@ -226,66 +226,76 @@
       9,
       9,
       9,
-      9
+      8
     ],
     "neutral": [
-      86,
       87,
       86,
       86,
       87,
       86,
-      86
+      86,
+      87
     ],
     "negative": [
-      5,
       4,
       5,
       5,
       4,
+      5,
       5,
       5
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      488,
       483,
       494,
       496,
       507,
       498,
-      494
+      494,
+      505
     ],
     "Snow Conditions": [
-      87,
       90,
       91,
       84,
       88,
       86,
-      82
+      82,
+      76
     ],
     "Lift Wait Times": [
-      56,
       57,
       56,
       59,
       58,
       59,
-      56
+      56,
+      58
     ],
-    "Facilities & Lodging": [
-      34,
-      35,
-      35,
-      32,
-      34,
-      31,
-      33
+    "Tourism Strategy & Policy": [
+      25,
+      24,
+      27,
+      27,
+      27,
+      26,
+      30
     ]
   },
   "feed": [
+    {
+      "source": "Sylvan Lake News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Red Deer County woman highlights importance of Heart Valve Disease Awareness Day - Sylvan Lake News Red Deer County woman highlights importance of Heart Valve Disease Awareness Day&nbsp;&nbsp;Sylvan Lake News",
+      "date": "2026-02-23T16:33:45+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0xySXFnYTNLcHFTNzVaRUoyNzJyMjNYTGkxalNLR2M4U0tSZXhfUEVUMU43WHUyU3N6ZUlmeHJOeVk2MDNMVFQzYXlXLVB1WmUzT1czNTl3VVFra3FUblVyZUN4WVg1cTd6VXVGeXA0MWozbFFBRDd0bFlmZGx6OWtIY1Jhc21JQU01XzRhQjRyckgyaVp6MlEtd2xzU2ZRUFFvQjBBazlOdkp2LUkwVDRPZFRlcFdDNDUw?oc=5"
+    },
     {
       "source": "Global News",
       "resort": "fortress",
@@ -295,6 +305,16 @@
       "engagement": "Article",
       "theme": "Events & Promotions",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjNsOVI0NVJ5bmVRTTB3cXlEaXlXTjFQU3VqZDJPLThlNlMwRDJPdnpGOWZzNzA1SDlNcmFmbVJzMFpIcTVUdDFIdVJZQ1pDWmZocHg3YlRSR1dfRl9qMmxtcGdEQThTTklYdWNxTzY0cHNpWFlfVlJRWUdEWGRHVDlRaDdPWFRDa3F3bXEteHljb3dWeFhic0FmUDRLUHFmRlFzUTFwc3o2MnhMMS1IdW1iNA?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Fortress Mountain Resort seeking expansion feedback - CTV News Fortress Mountain Resort seeking expansion feedback&nbsp;&nbsp;CTV News",
+      "date": "2026-02-21T03:33:10+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUo3RUMzWU9CcTlNOENpejRfTkZDWDA1UGRzUTNmckgyRnFURUVDbUQ0MF95X1d5a3VZMWc4bE5NU01KMjQ3NEhLTkl6MnI0LVcxbGwzN09zY3JLSlEweTg3bl9qRGFlcmZ2VjRtMWRBTnBscEdPZHJLX3Nocmxqb2xsS0pmX042bGx3VFZsU2Vqa21uQzdWQkNWZldfVTk1YkE?oc=5"
     },
     {
       "source": "CTV News",
@@ -320,11 +340,11 @@
       "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Fortress Mountain Resort seeking expansion feedback - CTV News Fortress Mountain Resort seeking expansion feedback&nbsp;&nbsp;CTV News",
-      "date": "2026-02-21T01:28:00+00:00",
+      "text": "Snowfall brings winter wonderland for dogsledders - CTV News Snowfall brings winter wonderland for dogsledders&nbsp;&nbsp;CTV News",
+      "date": "2026-02-21T01:40:00+00:00",
       "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUo3RUMzWU9CcTlNOENpejRfTkZDWDA1UGRzUTNmckgyRnFURUVDbUQ0MF95X1d5a3VZMWc4bE5NU01KMjQ3NEhLTkl6MnI0LVcxbGwzN09zY3JLSlEweTg3bl9qRGFlcmZ2VjRtMWRBTnBscEdPZHJLX3Nocmxqb2xsS0pmX042bGx3VFZsU2Vqa21uQzdWQkNWZldfVTk1YkE?oc=5"
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk40bnFGQkNjbWNmblR4OWFvcUkyd19CdEN6R0dwU1BIc2pQejkxcmVNUy1USGJyclVCMHhfTzcwc1F0YjJRcV81Q1ZVQ3gwamhva2V6cU1hY3VhejBVeF91RXJELUtKVlctQXdodXBkN3F2dVUydWJ1QUsySWo5aG84Q2FWNzF5djRyUnRoS01GM3gzUDE0YTBTMDNZOFU?oc=5"
     },
     {
       "source": "Global News",
@@ -511,20 +531,10 @@
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "Alberta's looking for teachers - Calgary Citizen Alberta's looking for teachers&nbsp;&nbsp;Calgary Citizen",
-      "date": "2026-02-05T13:02:03+00:00",
+      "date": "2026-02-05T13:02:09+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tLUtuYk1BVWQwN3k0V19DbWRhaHNxaW9JcVRsdVRnbXRIaWlaLXJvWkhsaTdKRW9xSjQ4cUw2SENpMkJYZmFyMkxJUUM0eXZBZGZISmpNWWpjYVN3SEdJbUJYOUFteDVLVmEw?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Fortress resort plan in Kananaskis imagines hotels, gondolas, spa, condos - Rocky Mountain Outlook Fortress resort plan in Kananaskis imagines hotels, gondolas, spa, condos&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-02-04T20:32:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2V6V1U1SnVwUURZM09Nbl9jVzljSFRzVlhIOEcxNDdlSFpwVE55N2pJTEdoNEN0UHRpYllfS0FpVXB0ZHkwNjZLTzNyaDFsVGY3LVFUNUZlWHlwd3B1eDQ5Vks4eFkzZEU0VFBDYTcyajF6WC12Wng3RUlOaFRaZUpSUGMxMXBBaDY5R3FaV2c4OUhOa2poNlpfV3pMb1l0TEdXSE53TkMtNHR1WVZ5ZjhHcEpoQzlZbm9Cb2p6RGhpUQ?oc=5"
     },
     {
       "source": "CBC",
@@ -537,6 +547,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1NVcWxLTEZpVHFEeU1MZjVTSnJiVF82S2VBdGtCU195QzZXRUVnQm9iZmZSMWVfSnA2eGJlSFZwWmMwRFczWTlTN0JUVDdxQ2xhdWpGRXA5NTFsTFhLNV9GbWo3MmMxMXM0QXhfRzI2cFpCSFh2WGFsTFVaek1RdXNvNVNTNGR6dDZyYzFlWktDY2pnUFlackJqZnU?oc=5"
     },
     {
+      "source": "Rocky Mountain Outlook",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Fortress resort plan in Kananaskis imagines hotels, gondolas, spa, condos - Rocky Mountain Outlook Fortress resort plan in Kananaskis imagines hotels, gondolas, spa, condos&nbsp;&nbsp;Rocky Mountain Outlook",
+      "date": "2026-02-04T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Summer Activities",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2V6V1U1SnVwUURZM09Nbl9jVzljSFRzVlhIOEcxNDdlSFpwVE55N2pJTEdoNEN0UHRpYllfS0FpVXB0ZHkwNjZLTzNyaDFsVGY3LVFUNUZlWHlwd3B1eDQ5Vks4eFkzZEU0VFBDYTcyajF6WC12Wng3RUlOaFRaZUpSUGMxMXBBaDY5R3FaV2c4OUhOa2poNlpfV3pMb1l0TEdXSE53TkMtNHR1WVZ5ZjhHcEpoQzlZbm9Cb2p6RGhpUQ?oc=5"
+    },
+    {
       "source": "Travel And Tour World",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -545,6 +565,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzNTdG9kNkJPVE1FODNUeTBCMTBLSkRNNnJ5MGYtSUpOd2ExdU5qRE9OTWFZZVVUVWFCMzdsdldZSld6WFg4cUVhY3FyWTVYQmY3cTV1ZkRhUGJOaloxc2JmTHlRT3VUTDBFVmVXMzBLSnd3MmM4dVVMd253QnJnUWw5cmZXbnBMb1VyOF9JYUZlY1pfX3VPelJkRDNzUXdxX2V0aE56ZmhxYzczdU5SQUd1SGFjYTYzM1o0dzVFMFcxUTVEdklhZnZ0T28?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Wildfires burn in nearby forest areas; warm, windy, dry conditions prompt advisory - CTV News Wildfires burn in nearby forest areas; warm, windy, dry conditions prompt advisory&nbsp;&nbsp;CTV News",
+      "date": "2026-02-04T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2N3ZlRaLU53bkNtaGN2NndRV1Z3NUxIeHVsY0xqRmtHZ3lRMDJTdHA5VGlqeFFTanJ2blNXTXdGRDdFOUtVWGtXN1ZrckFsM0tnTkZVaUt1NXZXeVFPazhEdGNnZFlFem5zSmFmNTNhOFU0VUpNS0JRN0h3YlVySlJlNDZsY0I4ZklUdWdkRXAxVUE0UE1OcVh1TzJGV0s5RnBiaWlyN20xTmljWUp1SmtZcnoxQTVaT2ZB?oc=5"
     },
     {
       "source": "Red Deer Advocate",
@@ -755,36 +785,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOUhEMjhId3huUVF4NGRLV1lsWkxhRUtWUWNjVGdCV0FXaUFNb1JYQ2hPLVRSRE0xdEVPbEIyX0JYU2JUS2Y5SDBPV0RoVklUdjJTLVQ1cXAtcGhrVG1QYUU2NjJlZ3Q5TUpLVDNFRmI4emY5VEg4TXJ5WnBWdnFMY3hBWmJPazRCMFl5aF95cUF3SXQzTFJWXzN2Y2s3cUFRMkx1Z1VzRjgtQQ?oc=5"
-    },
-    {
-      "source": "Todayville",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Driver dies as truck plummets into Clearwater River - Todayville Driver dies as truck plummets into Clearwater River&nbsp;&nbsp;Todayville",
-      "date": "2026-01-18T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Access & Transportation",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRi1HTkRsb3pqT2Y0cFVvQUNINnRuTVIxbmdWajAwcUk2MTZsbFVvVXB1STVQUE5Wc3A4SUNISlY2VTBPWlFKNTA3OTNTSS0wVVlaUTNXNVhraTlGbUp3U3FHNVh2UF9iakpBQU9BWk1ULTFMLUxqWEZWQ19RQ082TQ?oc=5"
-    },
-    {
-      "source": "Todayville",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Rocky Mountain House RCMP charge three individuals for drug trafficking - Todayville Rocky Mountain House RCMP charge three individuals for drug trafficking&nbsp;&nbsp;Todayville",
-      "date": "2026-01-18T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWhmYUs4NEVJWml2ZkJXM19qRHcyMWs2YWVPbUdoeXNuVHYwcHpKNWM3R1pMT1hoUERkMzIzWlRQRjU1UnBLZEpNYTBmQVRYcHFrb05sanNqOThDMTBhVndWQV9DSjZRdWdaSkxhcE9BN2ZIQ3otbHNBb2VvWE5ocDhyb1RaSk55aXpzVWR0Nm9HOExHaFQ3NnBXQ2JqWkN1?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "How a new natural gas pipeline could fuel changes in this quaint mountain hamlet - CBC How a new natural gas pipeline could fuel changes in this quaint mountain hamlet&nbsp;&nbsp;CBC",
-      "date": "2026-01-10T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Lift Wait Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUS1NUWNqdm9Rci1mbFJOX2xqUmVnQUt5ZmJLTXpCMFJwMEZQOUtLMm1oWDg4WW1YaXpQc19sYndTT3ROeU15NzM0cDlQQi1LSzUyU2k0ODdoTWg2cWgySzBCeHVkaDN1a2ExeXZHcmRQaTJVRXJQVFhDdmtZaHhQUnhleXI?oc=5"
     }
   ]
 }

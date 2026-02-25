@@ -1,113 +1,119 @@
 {
-  "generated_at": "2026-02-24T16:46:56.825379",
-  "date": "2026-02-24",
+  "generated_at": "2026-02-25T16:53:38.758334",
+  "date": "2026-02-25",
   "summary": {
-    "total_mentions": 812,
+    "total_mentions": 796,
     "positive_pct": 8,
-    "neutral_pct": 87,
-    "negative_pct": 5,
-    "negative_count": 41
+    "neutral_pct": 86,
+    "negative_pct": 6,
+    "negative_count": 43
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 541,
+      "total": 529,
       "positive_pct": 10,
-      "neutral_pct": 84,
-      "negative_pct": 6
+      "neutral_pct": 83,
+      "negative_pct": 7
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 49,
+      "total": 47,
       "positive_pct": 4,
       "neutral_pct": 96,
       "negative_pct": 0
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 105,
+      "total": 103,
       "positive_pct": 8,
       "neutral_pct": 88,
-      "negative_pct": 5
+      "negative_pct": 4
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 56,
+      "total": 57,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 61,
+      "total": 60,
       "positive_pct": 5,
-      "neutral_pct": 92,
-      "negative_pct": 3
+      "neutral_pct": 95,
+      "negative_pct": 0
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 505,
-      "avg_score": 50,
+      "mentions": 490,
+      "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 76,
+      "mentions": 75,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
       "mentions": 58,
-      "avg_score": 50,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 30,
-      "avg_score": 50,
+      "mentions": 31,
+      "avg_score": 48,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 29,
+      "mentions": 30,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
       "mentions": 21,
-      "avg_score": 47,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Access & Transportation",
-      "mentions": 19,
+      "mentions": 17,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Pricing & Value",
-      "mentions": 15,
+      "mentions": 16,
       "avg_score": 47,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 15,
+      "mentions": 13,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Staff & Service",
-      "mentions": 13,
+      "mentions": 12,
       "avg_score": 54,
       "sentiment": "neutral"
     },
     {
       "name": "Events & Promotions",
+      "mentions": 10,
+      "avg_score": 49,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Environmental Impact",
       "mentions": 9,
       "avg_score": 49,
       "sentiment": "neutral"
@@ -119,15 +125,9 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Environmental Impact",
-      "mentions": 7,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
       "name": "Regulatory Approvals & Land Use",
-      "mentions": 6,
-      "avg_score": 54,
+      "mentions": 5,
+      "avg_score": 55,
       "sentiment": "neutral"
     },
     {
@@ -143,6 +143,13 @@
       "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
       "theme": "Events & Promotions",
       "date": "2026-02-21T00:11:46+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - MSN Public consultations underway on fut",
+      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - MSN Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;MSN",
+      "theme": "Events & Promotions",
+      "date": "2026-02-21T08:37:01+00:00",
       "sentiment": "neutral"
     },
     {
@@ -174,27 +181,6 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Alberta to open Crown land for all-season resort development in bid to boost tourism - Calgary Herald Alberta to open Cr",
-      "detail": "Alberta to open Crown land for all-season resort development in bid to boost tourism - Calgary Herald Alberta to open Crown land for all-season resort development in bid to boost tourism&nbsp;&nbsp;Calgary Herald",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2024-11-07T08:00:00+00:00",
-      "sentiment": "positive"
-    },
-    {
-      "title": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval ",
-      "detail": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval for Mine 14&nbsp;&nbsp;Canadian Mining Journal",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2025-10-30T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawk",
-      "detail": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawka River to the Norbord Access&nbsp;&nbsp;Government of Alberta",
-      "theme": "Access & Transportation",
-      "date": "2023-08-16T06:40:28+00:00",
-      "sentiment": "neutral"
-    },
-    {
       "title": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Alber",
       "detail": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Albert Gazette Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache&nbsp;&nbsp;St. Albert Gazette",
       "theme": "Tourism Strategy & Policy",
@@ -207,17 +193,31 @@
       "theme": "Access & Transportation",
       "date": "2023-08-16T04:32:08+00:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&n",
+      "detail": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&nbsp;&nbsp;The Western Producer",
+      "theme": "Regulatory Approvals & Land Use",
+      "date": "2023-04-06T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citize",
+      "detail": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citizens band together to fight huge new water licence for fracking&nbsp;&nbsp;The Narwhal",
+      "theme": "Environmental Assessment & Compliance",
+      "date": "2019-01-30T08:00:00+00:00",
+      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
-      "Tue"
+      "Tue",
+      "Wed"
     ],
     "positive": [
       9,
@@ -225,67 +225,117 @@
       9,
       9,
       9,
-      9,
+      8,
       8
     ],
     "neutral": [
-      87,
       86,
       86,
       87,
       86,
       86,
-      87
+      87,
+      86
     ],
     "negative": [
-      4,
       5,
       5,
       4,
       5,
       5,
-      5
+      5,
+      6
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      483,
       494,
       496,
       507,
       498,
       494,
-      505
+      505,
+      490
     ],
     "Snow Conditions": [
-      90,
       91,
       84,
       88,
       86,
       82,
-      76
+      76,
+      75
     ],
     "Lift Wait Times": [
-      57,
       56,
       59,
       58,
       59,
       56,
+      58,
       58
     ],
     "Tourism Strategy & Policy": [
-      25,
       24,
       27,
       27,
       27,
       26,
-      30
+      30,
+      31
     ]
   },
   "feed": [
+    {
+      "source": "Jasper Local",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Is the Fortress Mountain proposal a house of cards? - Jasper Local Is the Fortress Mountain proposal a house of cards?&nbsp;&nbsp;Jasper Local",
+      "date": "2026-02-25T00:31:36+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdXREV2N5UFJ1XzlLVy0zQzV5TmhzdXFfQUNGaEVZZlctZWc3RjNEMmt2T256MWZrdlk0NW90TDhLWU5mMGZRVmg4YzJfZXFvWHl1aVoybm5jc3NXNjZTSkJUSUlpcHZlT2pZNG5JX2M3d0NDR3JweHA1Mi05XzM4S00xV2NQZFE2Y0ljQkdfdThPSWhQ?oc=5"
+    },
+    {
+      "source": "mdgreenview.ab.ca",
+      "resort": "grandecache",
+      "sentiment": "neutral",
+      "text": "Community Safety & Emergency Preparedness \u2013 Grande Cache - mdgreenview.ab.ca Community Safety & Emergency Preparedness \u2013 Grande Cache&nbsp;&nbsp;mdgreenview.ab.ca",
+      "date": "2026-02-24T22:43:19+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qUEE1dm1MNllkMExkLXREZW1QUWNPQlhubzJqREFlMUIxa3VmWmxSalBPQUF4UVN1MFpYWDF3ZWJvRzRNU243aXdEdTN3Nm9GT3JObXZJaTEzZHd3WHUxQk1HX3pkSS1DT2RjSGxFRlE?oc=5"
+    },
+    {
+      "source": "The Times of India",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Iran 'ACTIVATES' Missile Cities? Inside Tehran's Mountain Fortress Designed For Second Strike Power - The Times of India Iran 'ACTIVATES' Missile Cities? Inside Tehran's Mountain Fortress Designed For Second Strike Power&nbsp;&nbsp;The Times of India",
+      "date": "2026-02-24T21:29:40+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWl9jd1hrd2UwNzdmVnZrSzVzdHNhT2lzZkZrRFg3YjZIcjd4ZkZldFowWmNDaEo4UWU5MG5kOE5xdXllMV9pSG5fMXVfQ19DRmQzc0ExNk9hYnR1R0VMbnRYZVFBbGhnT3d5bzd4MERBcUhDNDZDZzREeHBnR2tVbWFCdFJQdktVWHhVTjVXUjVKLWktMTh6YVdqV2ptYmIxdHZOME1KQ1RkT3U1dVJ1UnJ5YTVDa2xSb09Dc0RMWTBYYkw3X3hGQUk5Yi1xRTBUSF9VR09lNDRuTXRaU2VzVTlmdWlzMDZsekZ2bXB2d2M5M2JoaFF2MFBmaWNObXQ2UEJ1MnZ1Y9IBjAJBVV95cUxPY2JBNWw4SWNCSHVLX0tkY0tacVVXYzZIV0pxc3ZDQ09Qejk0V2pfRXpvMG95QVdFelJHZGNFM2VLT21hOVNoR0oyd1NJTGJ1cW9wQ2g5SERNTGg3UzlLR093RFNjaU05NVFxRTJLWGJrUmJpMlY0Rmd4MFBYSUpaWi1nRXJ2cWFMaWN4Nkt2UWZXZVp6aVZYbF81ZFE1eTUzRlJGR1VNNThIU21uZTZaUGJsRXdsR0JvdlpnR21pTTZPempXZmdLcldnbTVpSGo5SE5QMmVKUldLdEh1cnlDQmFYUTdvZS1Hd3VGZ0FKYUxJWHFwVG1hSl9EVVFNQlFicnAwRVc3N28wQUh1?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "Provincial park boundary changes for Alberta year-round resorts raise concerns - CBC Provincial park boundary changes for Alberta year-round resorts raise concerns&nbsp;&nbsp;CBC",
+      "date": "2026-02-24T18:12:48+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTS03bkV1MWxRdUdsY1B5SlVxcF9yTVRoakRIcDFXeXRIWUNXM0tpYlMtRk5na05EQkJiV1BrbEU4cV9kR2NHdGlHS0ttMWNNNnVWNGFfaWlQOVc5TmZZMGhQVjZYYm5fYjg2QWRvZUZRdVVXUUIyWkVQc3NGV0hKSm1LU09mMUVRdGRCZGRXWWJkb01wZjN2Yl9CT0hKaFhzR2xwWUNtUGNVemV4RzVtM293?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "Provincial park boundary changes for Alberta year-round resorts raise concerns - CBC Provincial park boundary changes for Alberta year-round resorts raise concerns&nbsp;&nbsp;CBC",
+      "date": "2026-02-24T18:12:48+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1p3QjFhS3hNS19SZXVoV3g0VGx2NmpjWVpBTjFtc0pZX0hKOWhaQ29yNXBjSGd2VDJjaUVONFhPQUNTaW5sU3NhemRGLVl2TGV0YmJfWkthWXBXT1g5SFZnQjJWOVNueTNtRGRvMjNpNXAteURSQlRwVFFsVXJYakszd241OFpfOEpfcjRBSWRlWWJXLTlYanZ6T1lWOFJ0ekl1N3UwNA?oc=5"
+    },
     {
       "source": "Sylvan Lake News",
       "resort": "fortress",
@@ -297,6 +347,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0xySXFnYTNLcHFTNzVaRUoyNzJyMjNYTGkxalNLR2M4U0tSZXhfUEVUMU43WHUyU3N6ZUlmeHJOeVk2MDNMVFQzYXlXLVB1WmUzT1czNTl3VVFra3FUblVyZUN4WVg1cTd6VXVGeXA0MWozbFFBRDd0bFlmZGx6OWtIY1Jhc21JQU01XzRhQjRyckgyaVp6MlEtd2xzU2ZRUFFvQjBBazlOdkp2LUkwVDRPZFRlcFdDNDUw?oc=5"
     },
     {
+      "source": "MSN",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - MSN Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;MSN",
+      "date": "2026-02-21T08:37:01+00:00",
+      "engagement": "Article",
+      "theme": "Events & Promotions",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVmt4VS1XSkFZazNfZW1vTXFrQ2VSSUU2ckp4Z3F5MW1hWlQ0YWRfNzFYTGdMSEdPTVlOb2pxODhEMi1EWGJTQnpYZUFnc1NsaEl3OWVUdFNzX1hBbXllMVJxMTJLaTFaWnUycXFjRmhJTkY0eVdCajdJNGIxM3lYc0JReXQyNklZcERJczV3ajMzT29QVzdFdER6RmxZcXo2NERoTlJrSE1nWkxQakVFc2JaWmJpYkxkNzcxUExoSFgxcUUyTEZsWQ?oc=5"
+    },
+    {
       "source": "Global News",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -305,16 +365,6 @@
       "engagement": "Article",
       "theme": "Events & Promotions",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjNsOVI0NVJ5bmVRTTB3cXlEaXlXTjFQU3VqZDJPLThlNlMwRDJPdnpGOWZzNzA1SDlNcmFmbVJzMFpIcTVUdDFIdVJZQ1pDWmZocHg3YlRSR1dfRl9qMmxtcGdEQThTTklYdWNxTzY0cHNpWFlfVlJRWUdEWGRHVDlRaDdPWFRDa3F3bXEteHljb3dWeFhic0FmUDRLUHFmRlFzUTFwc3o2MnhMMS1IdW1iNA?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Fortress Mountain Resort seeking expansion feedback - CTV News Fortress Mountain Resort seeking expansion feedback&nbsp;&nbsp;CTV News",
-      "date": "2026-02-21T03:33:10+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUo3RUMzWU9CcTlNOENpejRfTkZDWDA1UGRzUTNmckgyRnFURUVDbUQ0MF95X1d5a3VZMWc4bE5NU01KMjQ3NEhLTkl6MnI0LVcxbGwzN09zY3JLSlEweTg3bl9qRGFlcmZ2VjRtMWRBTnBscEdPZHJLX3Nocmxqb2xsS0pmX042bGx3VFZsU2Vqa21uQzdWQkNWZldfVTk1YkE?oc=5"
     },
     {
       "source": "CTV News",
@@ -340,11 +390,11 @@
       "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Snowfall brings winter wonderland for dogsledders - CTV News Snowfall brings winter wonderland for dogsledders&nbsp;&nbsp;CTV News",
-      "date": "2026-02-21T01:40:00+00:00",
+      "text": "Fortress Mountain Resort seeking expansion feedback - CTV News Fortress Mountain Resort seeking expansion feedback&nbsp;&nbsp;CTV News",
+      "date": "2026-02-21T01:28:00+00:00",
       "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSk40bnFGQkNjbWNmblR4OWFvcUkyd19CdEN6R0dwU1BIc2pQejkxcmVNUy1USGJyclVCMHhfTzcwc1F0YjJRcV81Q1ZVQ3gwamhva2V6cU1hY3VhejBVeF91RXJELUtKVlctQXdodXBkN3F2dVUydWJ1QUsySWo5aG84Q2FWNzF5djRyUnRoS01GM3gzUDE0YTBTMDNZOFU?oc=5"
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLUo3RUMzWU9CcTlNOENpejRfTkZDWDA1UGRzUTNmckgyRnFURUVDbUQ0MF95X1d5a3VZMWc4bE5NU01KMjQ3NEhLTkl6MnI0LVcxbGwzN09zY3JLSlEweTg3bl9qRGFlcmZ2VjRtMWRBTnBscEdPZHJLX3Nocmxqb2xsS0pmX042bGx3VFZsU2Vqa21uQzdWQkNWZldfVTk1YkE?oc=5"
     },
     {
       "source": "Global News",
@@ -355,16 +405,6 @@
       "engagement": "Article",
       "theme": "Events & Promotions",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFBwN1Bab2F5TUltWERRSjVLemRwckZTZVN0bUZCdzY2UU85OE5GUERsa0hEMVNFMW9QMkk4NmtrcWhXMklLNXhLb1JINnRzenU1bGdRM01JbUdJeDZGMFJ2R0NBZFBibE9pZ29BQm9kTFFWZFNCZDhxRzJpR0VVZVJGRzRZN1d5QXdYVmNjck5xMkRBLVE?oc=5"
-    },
-    {
-      "source": "Avenue Calgary",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "What\u2019s New and Notable in Calgary\u2019s Food Scene - Avenue Calgary What\u2019s New and Notable in Calgary\u2019s Food Scene&nbsp;&nbsp;Avenue Calgary",
-      "date": "2026-02-20T17:30:42+00:00",
-      "engagement": "Article",
-      "theme": "Facilities & Lodging",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LWHZyVUhaSUYwWFVmVXRJcDZielZmUEpYUUlXU21GamE2MEtZRThWeWtjaTVERFNHYzNPbWZvNFhLSXp5aUtRV2ZmTmhudFRXYnloM1AyUG0tamdEQkR1LWoydXVnOFJEZXN6c2pZcFNFQnh3Z2QxZjE3NGI?oc=5"
     },
     {
       "source": "CTV News",
@@ -427,26 +467,6 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0RtU09FTTRHRjh4QmhZalZqWDlfbHc0dmN5ckhlX2g2dC1OSTRtcV9LRGRkcDNzVDQ5VzN6V3B5S0JXWjdVNm5tc19CSldPTU9waktyV1FaS0pLRmxWZWJqY1BXZTl4OUQ1cTgzbFVrYThPTDc2ZmF5SjdSOVNiWVF2NTUtTG5rLXhhV2E4WmI?oc=5"
     },
     {
-      "source": "MSN",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "What all-season resort designations will mean for visitors \u2014 and the environment \u2014 still unclear - MSN What all-season resort designations will mean for visitors \u2014 and the environment \u2014 still unclear&nbsp;&nbsp;MSN",
-      "date": "2026-02-17T14:11:51+00:00",
-      "engagement": "Article",
-      "theme": "Environmental Impact",
-      "url": "https://news.google.com/rss/articles/CBMihwRBVV95cUxQWjl5ZUtfQmJOeU9DOWJvTjlfaTc2R2VmVnp2OHliNU0yRndLUmNxZHFwd0ZfZUFXX3RndzNfaDZLRU9PbERORk5iaVh2SHRoM0hlUzNvT3N4QWpBYXZJaXlBQlVud09qRjdRU3lZWVZiQ3E3R2J3WmlXTDBiaG1wTlpoRlhUaXZ2TWUzclBDN0FyN3ZiUVZuSHNsdEFjNE1PUzZ1ekxzVnBSZHNmeWR6MGc1SkJDR0RkaktDOEhjYl9WSlNGa281dU9tenZXM2ZfTWg4alc4UXUwcnVyZURHR1Q2ZTFnTC16T0RlSGk3OXdTdXRlVHJnTFZXSXgzZlhpSEFqQUthVmN3cWdXS2l1NWxjUFB3MmNFWWR2alcxLTRianVzeWs2ZzBNS2pBTmxhanhnUUdiTWY1cTR1akUzQ0dwSl8wSS1MS1NLQ3FRWUw5d2xwenhqcV9wNUk2bkx3REpfS2x0a0Z3Mzg0OGdCYko3aXQtanpXOTVFN3NJbTNXN2tvRzNxYUJWYlNObDFVTGhOUzhWZngyU0FvOU9zQm1xTFhpLUx5TGZiM0N5WFBuWWJsQ1U4UFFYM2wyRDROUGhvRHFGbzY2ZTY1Zm5IRTg3Y3N4MlVXVHhZLUVMS2JrVFlxQWpWRmZxTU43LTVzcS1vWXlMWEh3XzZFcnVhU3lEdGZ4ZWM?oc=5"
-    },
-    {
-      "source": "Todayville",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Just in time for Canada Day weekend! Crescent Falls ready to be enjoyed again - Todayville Just in time for Canada Day weekend! Crescent Falls ready to be enjoyed again&nbsp;&nbsp;Todayville",
-      "date": "2026-02-17T04:04:33+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOUJ6T1hkeW1ocEhmWm0tZlQxMWFTUkJRdjhOVW85Y3I3ZzRFaE1oYWtRczJwUFIyWGMxX3ZqdHFsWk5yNG5uRER1U3htUW4xb3otYmpFQ1pMdlh2TzJKcFBZdU81cFhOZ3BnNlhnT2M3UUJOc3JrRTZ4R3c2aTAzVkFsbldpY0RjZFp0QUxBMWpjZWgwcWZHMHNrem9Cc2htRFdNdi04bw?oc=5"
-    },
-    {
       "source": "OkotoksOnline",
       "resort": "castle",
       "sentiment": "neutral",
@@ -477,16 +497,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTHRrNi1LcFhtaEFURWN0R192VzExVWhzSXl3NzRYUXVGenhEQk82dnNFb1g5Z1ppclpELUxvTUdtNnVkWGxYeHR2M0tmNEQwVmRsVHktTzlFQQ?oc=5"
     },
     {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta's plan for parks aims to balance conservation with tourism - CBC Alberta's plan for parks aims to balance conservation with tourism&nbsp;&nbsp;CBC",
-      "date": "2026-02-13T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQnZHSURpRUtKMER4NGl4NllPWHVYNFpFZnYzaHZVVE1mUmVaRFdqM05KT0I4aV9haWgxWjlvTXBxcHhRRHFNLXhXWkVKVmE4UlRlOG9JSWlwNjVETlIzbmV1ejJUTHFxVjVjWExDa0FvU0x6V1RyMzZDNFBoSHpQMVZXbFphWWdSYVhsOA?oc=5"
-    },
-    {
       "source": "Unofficial Networks",
       "resort": "fortress",
       "sentiment": "positive",
@@ -505,6 +515,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaXctcXd0V1lxdTZ6TTVhUmR2bEZ1OEhWWmRBenI3bFgwU05qV1E4c0NubXc0ZFd3Rm5FcEtUTS1fMjE5WDM1U2VYRnMzd0ltd3MyQk94US1kTWhqbXdlV1ZhQi1JZ3VvejNJeWZLYk5TRHRfbE15UEFjZlpsUzc2Mk0zR3NOYWdhX1BGVFF3bE1vZE9MVTNXZUxHZ2d0LUVQLUV4d0d6ZjhSSEZtcDZzUzd5QUVOenphU0lsaTVNalhpUnhEUjVQWTRwdG5XN2RES2d1UWdxWVM?oc=5"
+    },
+    {
+      "source": "MSN",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "What all-season resort designations will mean for visitors \u2014 and the environment \u2014 still unclear - MSN What all-season resort designations will mean for visitors \u2014 and the environment \u2014 still unclear&nbsp;&nbsp;MSN",
+      "date": "2026-02-11T22:03:56+00:00",
+      "engagement": "Article",
+      "theme": "Environmental Impact",
+      "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQeVVwYWlyYmhlZGtqMlJDTXBUcnFSa3JGdS1lVlZFNGhjZnJvSTh3UmF2OXBwNV84UUx1QnVSdXk0TXpia09saDdLbnRUWFZ0Mjh6YVhEWGtkZl85aExXcXZMeVctQUMyendJWkdSUVUteEYyeXZrZlY4R2hXOEl3U2J4c0Q1bTlDeFM1UzJfTWhPVnhHTEdic3YzMzJyTzVhb2lGaGlrSjFLelVnVEJtcy0yVFNQb3NROTIzdjNURHYxM3dTbVc0clRPUnRuNnVuazk1QTRhclkxQUJEdzkwREgySkhaVGxUb3llUXhOTlB0aV9McVl1clMtNjNmX3pzLU9GcmQwc1JQSzJTVVEtazdwMmdsYVRyM2RoeGFqbmgzUURrQk1ObG9EWi1mMkVuRERzVG83LUtvRV8zN0FfQXdJRHA2cS1fQkdRQU5fYkxDNVBHWVptZmdTQ3ZqZC1mdVNQOE9paFdMeHF2QjJabXd3?oc=5"
     },
     {
       "source": "St. Albert Gazette",
@@ -537,16 +557,6 @@
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tLUtuYk1BVWQwN3k0V19DbWRhaHNxaW9JcVRsdVRnbXRIaWlaLXJvWkhsaTdKRW9xSjQ4cUw2SENpMkJYZmFyMkxJUUM0eXZBZGZISmpNWWpjYVN3SEdJbUJYOUFteDVLVmEw?oc=5"
     },
     {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "Fortress Mountain ski area launches ambitious reopening plan as conservation group calls it too big - CBC Fortress Mountain ski area launches ambitious reopening plan as conservation group calls it too big&nbsp;&nbsp;CBC",
-      "date": "2026-02-04T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1NVcWxLTEZpVHFEeU1MZjVTSnJiVF82S2VBdGtCU195QzZXRUVnQm9iZmZSMWVfSnA2eGJlSFZwWmMwRFczWTlTN0JUVDdxQ2xhdWpGRXA5NTFsTFhLNV9GbWo3MmMxMXM0QXhfRzI2cFpCSFh2WGFsTFVaek1RdXNvNVNTNGR6dDZyYzFlWktDY2pnUFlackJqZnU?oc=5"
-    },
-    {
       "source": "Rocky Mountain Outlook",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -555,6 +565,16 @@
       "engagement": "Article",
       "theme": "Summer Activities",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2V6V1U1SnVwUURZM09Nbl9jVzljSFRzVlhIOEcxNDdlSFpwVE55N2pJTEdoNEN0UHRpYllfS0FpVXB0ZHkwNjZLTzNyaDFsVGY3LVFUNUZlWHlwd3B1eDQ5Vks4eFkzZEU0VFBDYTcyajF6WC12Wng3RUlOaFRaZUpSUGMxMXBBaDY5R3FaV2c4OUhOa2poNlpfV3pMb1l0TEdXSE53TkMtNHR1WVZ5ZjhHcEpoQzlZbm9Cb2p6RGhpUQ?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "Fortress Mountain ski area launches ambitious reopening plan as conservation group calls it too big - CBC Fortress Mountain ski area launches ambitious reopening plan as conservation group calls it too big&nbsp;&nbsp;CBC",
+      "date": "2026-02-04T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc1NVcWxLTEZpVHFEeU1MZjVTSnJiVF82S2VBdGtCU195QzZXRUVnQm9iZmZSMWVfSnA2eGJlSFZwWmMwRFczWTlTN0JUVDdxQ2xhdWpGRXA5NTFsTFhLNV9GbWo3MmMxMXM0QXhfRzI2cFpCSFh2WGFsTFVaek1RdXNvNVNTNGR6dDZyYzFlWktDY2pnUFlackJqZnU?oc=5"
     },
     {
       "source": "Travel And Tour World",
@@ -567,16 +587,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbzNTdG9kNkJPVE1FODNUeTBCMTBLSkRNNnJ5MGYtSUpOd2ExdU5qRE9OTWFZZVVUVWFCMzdsdldZSld6WFg4cUVhY3FyWTVYQmY3cTV1ZkRhUGJOaloxc2JmTHlRT3VUTDBFVmVXMzBLSnd3MmM4dVVMd253QnJnUWw5cmZXbnBMb1VyOF9JYUZlY1pfX3VPelJkRDNzUXdxX2V0aE56ZmhxYzczdU5SQUd1SGFjYTYzM1o0dzVFMFcxUTVEdklhZnZ0T28?oc=5"
     },
     {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Wildfires burn in nearby forest areas; warm, windy, dry conditions prompt advisory - CTV News Wildfires burn in nearby forest areas; warm, windy, dry conditions prompt advisory&nbsp;&nbsp;CTV News",
-      "date": "2026-02-04T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS2N3ZlRaLU53bkNtaGN2NndRV1Z3NUxIeHVsY0xqRmtHZ3lRMDJTdHA5VGlqeFFTanJ2blNXTXdGRDdFOUtVWGtXN1ZrckFsM0tnTkZVaUt1NXZXeVFPazhEdGNnZFlFem5zSmFmNTNhOFU0VUpNS0JRN0h3YlVySlJlNDZsY0I4ZklUdWdkRXAxVUE0UE1OcVh1TzJGV0s5RnBiaWlyN20xTmljWUp1SmtZcnoxQTVaT2ZB?oc=5"
-    },
-    {
       "source": "Red Deer Advocate",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -587,14 +597,14 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1J5dzRpVDZXRzJCMDB2TUhJNUpGTFZVa0NZUnZ1MWVscGgwYXFVTnVNempZY2Rqa2Rpd3NJdm9LRmw3VG9RZi1nMEpiT0ZnTjJ5Rm0yVGxTLWtlM2tVd0xhNXpLZGJUSm5fSW1XVkFnR0dfVlZqVzZfcVFEMDBLaVVReFoxelhrX1hSV2JwOWlYR2RWT1dhdlVTS2JDQ3I4QW1kQg?oc=5"
     },
     {
-      "source": "SnowBrains",
+      "source": "Calgary Herald",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Top 9 Longest T-Bars in North America - SnowBrains Top 9 Longest T-Bars in North America&nbsp;&nbsp;SnowBrains",
+      "text": "Fortress Mountain master plan envisions new resort becoming 'thriving destination' - Calgary Herald Fortress Mountain master plan envisions new resort becoming 'thriving destination'&nbsp;&nbsp;Calgary Herald",
       "date": "2026-02-02T08:00:00+00:00",
       "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rTXpLdkVkSUwzV050UHBUNmcxcFRNZjc0RTNrZVpGYm5FbWM0R2IyTzRSZS1rQmNyNWwzMGZZc1FuQ1c2SnFvRHlwTnBTbm1JcFY4MHdMYjh3WU96RllLRlZneFFpSXJzSEpvRlFB?oc=5"
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTE9XOUt4MWEycVBkbWQtclBPSHdabUtrd0o1S1JfTDJwMVhKRTd2Z2ZIcE10amMxNl9KTFNObDVOYUdFLTc4anNhQllFc2tZZFdBR1JPVEhmUHhZeHhiTjY2QzBxVmxlVnhaUzlxSi02VUdneFhvckRwZ0RqVXkxWmpyRlY?oc=5"
     },
     {
       "source": "Castanet",
@@ -765,16 +775,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MWnBPT1Y4RFlHT05KZy0tVm1fVkwwYVVTVDRkdThGOFFuV2ZSVnFtdGdsOVNLR1NyVGtmU0NMSzgzOVdiQ1I2WndTUFBVNHQ5MENnVXVlUUhzWGpGWldpdE5n?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Central Alberta resort town to explore city status - CTV News Central Alberta resort town to explore city status&nbsp;&nbsp;CTV News",
-      "date": "2026-01-20T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRnZUQ3pnaVpFZjJnanNHRVFudDJYUktEbm1TM05NUXMzTGxsZUE3ZTRIZkRXekxkWFBIckFpbDI0WURfMVUwVGtDbmtLNXBxbGN2NnNqcksycUVPZjhFa0t3cXk2dzl4T0hYWF9IaHExSVFRZndqaUxKeERoRDVjenFMY0x4SlRaY3ZjaThFa3M0c25rSXhRS3QxMjdUc3I3T2c?oc=5"
     },
     {
       "source": "St. Albert Gazette",

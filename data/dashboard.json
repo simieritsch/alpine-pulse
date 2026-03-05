@@ -1,32 +1,32 @@
 {
-  "generated_at": "2026-03-04T15:04:04.146588",
-  "date": "2026-03-04",
+  "generated_at": "2026-03-05T15:37:17.179555",
+  "date": "2026-03-05",
   "summary": {
-    "total_mentions": 815,
+    "total_mentions": 840,
     "positive_pct": 9,
     "neutral_pct": 86,
     "negative_pct": 5,
-    "negative_count": 41
+    "negative_count": 39
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 512,
+      "total": 538,
       "positive_pct": 11,
       "neutral_pct": 83,
-      "negative_pct": 7
+      "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 51,
-      "positive_pct": 14,
-      "neutral_pct": 86,
+      "total": 47,
+      "positive_pct": 13,
+      "neutral_pct": 87,
       "negative_pct": 0
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 120,
-      "positive_pct": 3,
+      "total": 118,
+      "positive_pct": 4,
       "neutral_pct": 93,
       "negative_pct": 3
     },
@@ -39,22 +39,22 @@
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 74,
+      "total": 79,
       "positive_pct": 8,
-      "neutral_pct": 88,
+      "neutral_pct": 89,
       "negative_pct": 4
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 472,
+      "mentions": 489,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 78,
+      "mentions": 80,
       "avg_score": 52,
       "sentiment": "neutral"
     },
@@ -72,38 +72,44 @@
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 31,
+      "mentions": 30,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 29,
-      "avg_score": 50,
+      "mentions": 30,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Access & Transportation",
-      "mentions": 20,
+      "mentions": 23,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 17,
+      "mentions": 19,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
-      "name": "Pricing & Value",
-      "mentions": 14,
-      "avg_score": 47,
+      "name": "Staff & Service",
+      "mentions": 13,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
-      "name": "Staff & Service",
-      "mentions": 9,
-      "avg_score": 54,
+      "name": "Pricing & Value",
+      "mentions": 10,
+      "avg_score": 46,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Family & Beginner Experience",
+      "mentions": 10,
+      "avg_score": 51,
       "sentiment": "neutral"
     },
     {
@@ -113,21 +119,15 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Family & Beginner Experience",
-      "mentions": 9,
-      "avg_score": 51,
-      "sentiment": "neutral"
-    },
-    {
       "name": "Environmental Impact",
-      "mentions": 8,
+      "mentions": 7,
       "avg_score": 48,
       "sentiment": "neutral"
     },
     {
       "name": "Regulatory Approvals & Land Use",
-      "mentions": 5,
-      "avg_score": 55,
+      "mentions": 6,
+      "avg_score": 54,
       "sentiment": "neutral"
     },
     {
@@ -149,7 +149,7 @@
       "title": "Public consultations underway on future of Alberta's Fortress Mountain Resort - Yahoo News Canada Public consultations u",
       "detail": "Public consultations underway on future of Alberta's Fortress Mountain Resort - Yahoo News Canada Public consultations underway on future of Alberta's Fortress Mountain Resort&nbsp;&nbsp;Yahoo News Canada",
       "theme": "Events & Promotions",
-      "date": "2026-02-20T08:00:00+00:00",
+      "date": "2026-02-21T08:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -195,33 +195,33 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Alberta government announces Highway 40 lane-widening - CTV News Alberta government announces Highway 40 lane-widening&n",
+      "detail": "Alberta government announces Highway 40 lane-widening - CTV News Alberta government announces Highway 40 lane-widening&nbsp;&nbsp;CTV News",
+      "theme": "Access & Transportation",
+      "date": "2020-06-30T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Highway 11 \u2013 from Highway 22 to Township Road 390 - Government of Alberta Highway 11 \u2013 from Highway 22 to Township Road ",
       "detail": "Highway 11 \u2013 from Highway 22 to Township Road 390 - Government of Alberta Highway 11 \u2013 from Highway 22 to Township Road 390&nbsp;&nbsp;Government of Alberta",
       "theme": "Access & Transportation",
       "date": "2023-08-16T04:32:08+00:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citize",
-      "detail": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citizens band together to fight huge new water licence for fracking&nbsp;&nbsp;The Narwhal",
-      "theme": "Environmental Assessment & Compliance",
-      "date": "2019-01-30T08:00:00+00:00",
-      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
       "Tue",
-      "Wed"
+      "Wed",
+      "Thu"
     ],
     "positive": [
       8,
-      8,
+      9,
       9,
       9,
       9,
@@ -229,7 +229,7 @@
       9
     ],
     "neutral": [
-      87,
+      86,
       86,
       86,
       86,
@@ -238,8 +238,8 @@
       86
     ],
     "negative": [
-      5,
       6,
+      5,
       5,
       5,
       5,
@@ -249,62 +249,82 @@
   },
   "theme_trends": {
     "Trails & Recreation": [
-      505,
       490,
       480,
       491,
       460,
       463,
-      472
+      472,
+      489
     ],
     "Snow Conditions": [
-      76,
       75,
       78,
       79,
       78,
       80,
-      78
+      78,
+      80
     ],
     "Lift Wait Times": [
-      58,
       58,
       54,
       59,
       62,
       65,
+      63,
       63
     ],
     "Safety & Incidents": [
-      21,
       21,
       19,
       19,
       45,
       44,
+      50,
       50
     ]
   },
   "feed": [
     {
-      "source": "Seek Your Sounds",
-      "resort": "nakiska",
+      "source": "Unofficial Networks",
+      "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Skier killed in Nakiska avalanche identified as Calgary high school student - Seek Your Sounds Skier killed in Nakiska avalanche identified as Calgary high school student&nbsp;&nbsp;Seek Your Sounds",
-      "date": "2026-03-03T06:00:29+00:00",
+      "text": "Conservation Groups Line Up Against Canadian Ski Resort\u2019s Revival - Unofficial Networks Conservation Groups Line Up Against Canadian Ski Resort\u2019s Revival&nbsp;&nbsp;Unofficial Networks",
+      "date": "2026-03-04T17:37:56+00:00",
       "engagement": "Article",
-      "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWpuenVsZ09Ed3ZRaHVjNEZZRUlvbURiNVdQN0RKc19EaXFheFhlNFVEREhtaEpuSWtsdkhtdG9UaV9FY0UxcWJKeTN0X3RuVV9fX01teU1vLTNmcHg4OHhMUWhuWkhTYW1rQVVHQlFVTWMycDBZSm1XTDRZOHFtYUd0T0R0NEZlRC00TWE3WWhpX0FTSENja1R1dUk?oc=5"
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFlCanRzV3NVTHJIenVzeUtvQkZBRnNNYW9iZmxkWDB2b3o5YklBR0Y5ak84NnFnZGZ4VU9BazEzX21GTWJFRmFNWG1lUjkwRFdOLVMyYXNmSlZ3WGl3SlZiWDMtVG5HQ0E3UXh5SS1PUWtsczBEOXAtTVVIMVVLckRXa3l4SXM?oc=5"
     },
     {
       "source": "CTV News",
       "resort": "nakiska",
       "sentiment": "neutral",
-      "text": "15-year-old boy dead after Nakiska avalanche - CTV News 15-year-old boy dead after Nakiska avalanche&nbsp;&nbsp;CTV News",
-      "date": "2026-03-03T01:07:00+00:00",
+      "text": "Edmonton ski club cancelled race before deadly avalanche at Nakiska - CTV News Edmonton ski club cancelled race before deadly avalanche at Nakiska&nbsp;&nbsp;CTV News",
+      "date": "2026-03-03T16:16:18+00:00",
       "engagement": "Article",
       "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVUlwRnRXdjZYd2MtaHFMb2JjbkZERENmMHh1VmRxSEg1cFRuWlAwakFFcTlEY3kzaW1VZXZpcUotSU5nYXh5U2Nnc2pZOFgtWVRSU01SMjl5TURfMC1EQVctWml4VDduQjloUTNuQk93QWdfN2VMamNBNnlLSFh0cE1IU1NQMGJTamRqb3RRSmZZQ0tJbUNLcQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXNDN1p1azRTa25hWXZSOHNRZWQ3cjhwcHhwTzBIbDdYRjV5QU9yX0hWZ1dpazJVdU9IU1dvWVR5NTRrNDM2dS1VSkRMVkRSWk5yalhjaS0zRmNCbmNfY2JwVHNpcDlmMjJyN2c1MDd4a0lJelRGTVFqMTE2VDVzckxxS25iSVA3YTdFelZwWFQ2QWdLUHQwblJ0ZERIUjBtNnVtMTVweG5zZjhZYnRTdGhMUlY3b0R1?oc=5"
+    },
+    {
+      "source": "The Weather Network",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Nakiska Ski Area, AB Current Weather - The Weather Network Nakiska Ski Area, AB Current Weather&nbsp;&nbsp;The Weather Network",
+      "date": "2026-03-03T08:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX3RKczFtZFlDYmJmSUVfa01sUzBTaXJJclB4aFhEeDQ1RExZWTdqMXdDZXAyblg4b2tqcFpWRmJOZ2JQRnY2aVc4b0Vod2RBR2k2bkVLZzJrbmQtU3dlZGxFRFdXZkxibEZxbktMeUtlZ29nV2hjYS01YlFoYW54YlVB?oc=5"
+    },
+    {
+      "source": "seekyoursounds.com",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Skier killed in Nakiska avalanche identified as Calgary high school student - seekyoursounds.com Skier killed in Nakiska avalanche identified as Calgary high school student&nbsp;&nbsp;seekyoursounds.com",
+      "date": "2026-03-03T06:00:29+00:00",
+      "engagement": "Article",
+      "theme": "Safety & Incidents",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMWpuenVsZ09Ed3ZRaHVjNEZZRUlvbURiNVdQN0RKc19EaXFheFhlNFVEREhtaEpuSWtsdkhtdG9UaV9FY0UxcWJKeTN0X3RuVV9fX01teU1vLTNmcHg4OHhMUWhuWkhTYW1rQVVHQlFVTWMycDBZSm1XTDRZOHFtYUd0T0R0NEZlRC00TWE3WWhpX0FTSENja1R1dUk?oc=5"
     },
     {
       "source": "CityNews Calgary",
@@ -335,6 +355,16 @@
       "engagement": "Article",
       "theme": "Safety & Incidents",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcFdMLTAzVFh2WmZNcmpwbm5BU3hkWkYwVTZkWndTb2VvSmdXN19zX3R6RTFCQnl2UTdYWGhMeEV1bWJwTnY2MXYwWm5OVjZ3ZzhvMURqMGhJNy1zTG51SUF6WXZVRjRad1EyZWJWb1E3VE1vcWRWQURrV0hEaWI1RXFHUVZFN0REYmQ1Y1Roc2pKM3BfODE2T3Y0VkxWa0xIVldUOVZEWm1ERmtwRV9JV2ZqSjhub1JTeUlsOEFJTkFzWUwwWXZLZjVacm5pdFZZNkpkLWtXX0xpLTdYU1QwMUIweXNhZVU?oc=5"
+    },
+    {
+      "source": "Avenue Calgary",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "What\u2019s New and Notable in Calgary\u2019s Food Scene - Avenue Calgary What\u2019s New and Notable in Calgary\u2019s Food Scene&nbsp;&nbsp;Avenue Calgary",
+      "date": "2026-03-02T21:30:42+00:00",
+      "engagement": "Article",
+      "theme": "Facilities & Lodging",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LWHZyVUhaSUYwWFVmVXRJcDZielZmUEpYUUlXU21GamE2MEtZRThWeWtjaTVERFNHYzNPbWZvNFhLSXp5aUtRV2ZmTmhudFRXYnloM1AyUG0tamdEQkR1LWoydXVnOFJEZXN6c2pZcFNFQnh3Z2QxZjE3NGI?oc=5"
     },
     {
       "source": "POWDER Magazine",
@@ -407,16 +437,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaDdOZ3B5Q3VhN1BBek41QUtIaFhYR0p0amt6VFVjY1lfbUJYV3V2ZUJraHpsYlNSeVh1ek5tMkhTem1DUnZERUR4bG5uVHctaTVGVmdNeFN3WjgxVlJJZFZwS09GeEQ4YWJDY0I4YmJ3ZlcyU201RkRIYkhNTl95UDR0Z3dXUkZMVXZwc045SUg3bjdkc3JUR0Y4VE9qNG5NVnBaTDd3?oc=5"
     },
     {
-      "source": "Todayville",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Rocky Mountain House investigate robbery on rural property - Todayville Rocky Mountain House investigate robbery on rural property&nbsp;&nbsp;Todayville",
-      "date": "2026-03-01T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0pzeWZ0UVkycjlwMmcxN3F6N2p0T3F3bkNfRVBTOVE3SGFsUUcyaHBiUmdPaGl2XzRVQU5jRUE3elE1a2JRSk9WaXVOdEt5dVhFM1VpUlZNQzJLUVVoMFVPSUsyTmJLVG1NOTNPUmJ4Q3ZIU0xmYWJtc1lsS1RDZU1xaDhWcXJiLWd5M0M5dw?oc=5"
-    },
-    {
       "source": "HighRiverOnline",
       "resort": "nakiska",
       "sentiment": "neutral",
@@ -455,16 +475,6 @@
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkJRLTRsbWJRNng0MVVRUjBEcEpEN0ppNU5nUmxoQ1JNNGUxV25mNk9KcGZsWEFMOWZ5RFUzZUpaakdIbzQyRk5DelB2aThqOG55WlhxaWFqYUZpcGN4Mm1LbDd4c0Z3LWNqakFTbExCaDBfZFM4SkNmbXA1eFNrcWNiNUJJVWpCMkJ0TEdONGwtOUN6?oc=5"
-    },
-    {
-      "source": "The Weather Network",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "15-year-old Calgarian dies after avalanche in Nakiska area: RCMP - The Weather Network 15-year-old Calgarian dies after avalanche in Nakiska area: RCMP&nbsp;&nbsp;The Weather Network",
-      "date": "2026-02-28T23:32:00+00:00",
-      "engagement": "Article",
-      "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1REV3FlZ3Fhc3lJNHhaQlRJWDJxWVF0QjhPaTVDcmNDU1RSNTNCWXpsQUhsNS1IckdvYWRZXzBpUjNidlpnTDBEc0RGT3ZHM2hPOElpbDBJSF9tb2h2NVZPUUV4SU90d0k1b2s4V0p0TnAyRUVEYTFaVUFWdzRWSFZ1ejVkVmljakdiWWhXRjJsSGlTdmZmRG1LTmNuM3duQmN5c0p3OGhIVjV4M3pnV2JYZ3pYWjM0NWFxVQ?oc=5"
     },
     {
       "source": "the-sun.com",
@@ -531,7 +541,7 @@
       "resort": "nakiska",
       "sentiment": "neutral",
       "text": "Cochrane RCMP respond to fatal avalanche at Nakiska - CochraneNow Cochrane RCMP respond to fatal avalanche at Nakiska&nbsp;&nbsp;CochraneNow",
-      "date": "2026-02-28T17:34:24+00:00",
+      "date": "2026-02-28T17:34:41+00:00",
       "engagement": "Article",
       "theme": "Safety & Incidents",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXFXeVhOTktJY0dheVpxZ0RHcW1td2NtMFVRengzeUtkWGR3eW1QM3JwY3lHakNpV3FCSGJkblhKV1hBY3lXNmFKT2FBa1FfeGxySEtrV3FTVHBaVjJOVTJiaXU5ZUQzSEc1U1AwN1A4ZjJ2SFJrNG5OaXhrczhyMWI5TDJNcTZnTUx1Yg?oc=5"
@@ -545,6 +555,16 @@
       "engagement": "Article",
       "theme": "Safety & Incidents",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX0MxV0YzeEs2UWNKZkJzN3BHNTAxYlRJWFktbWtrcEp5WElTX3VQc1VKTDk0OXRsX0ZCSWZNekNiN0tGbUlmTkFsNHRsR2ViSTE1dG1VUGgycVRUamU4R1RzeDdwMHd6RjhGWHN2ZURmek5MQmV3LWlrN0tPOFlqRzZ1aGFyTE9DdEdBY2RHQ3BkSWE2?oc=5"
+    },
+    {
+      "source": "The Weather Network",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "15-year-old Calgarian dies after avalanche in Nakiska area: RCMP - The Weather Network 15-year-old Calgarian dies after avalanche in Nakiska area: RCMP&nbsp;&nbsp;The Weather Network",
+      "date": "2026-02-28T15:32:00+00:00",
+      "engagement": "Article",
+      "theme": "Safety & Incidents",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQY1REV3FlZ3Fhc3lJNHhaQlRJWDJxWVF0QjhPaTVDcmNDU1RSNTNCWXpsQUhsNS1IckdvYWRZXzBpUjNidlpnTDBEc0RGT3ZHM2hPOElpbDBJSF9tb2h2NVZPUUV4SU90d0k1b2s4V0p0TnAyRUVEYTFaVUFWdzRWSFZ1ejVkVmljakdiWWhXRjJsSGlTdmZmRG1LTmNuM3duQmN5c0p3OGhIVjV4M3pnV2JYZ3pYWjM0NWFxVQ?oc=5"
     },
     {
       "source": "Calgary Herald",
@@ -677,16 +697,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNczJfSlM0OENadnJ1WmcycTRCcU9nLWVNTDllajBJckNqc1poWHNKTlQ0Tl9vTzhqRkdyc2ZjS09FdnBRck4yWHZDMmdCaXRuc3h2SVkzckJhb29NT3IzZ3V4RjF5aDhRb3QxX1hNYlpEZzFfSTNhQ1diQVZERFN2Szdyd0ZFVGhrVS1ZaG41MA?oc=5"
     },
     {
-      "source": "Travel And Tour World",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta Joins British Columbia, Nova Scotia, Ontario, New Brunswick, Saskatchewan, And More In Enforcing Stringent Regulations On Hotel Fees And UNESCO Heritage Sites To Protect Canada\u2019s Tourism Legacy: What Tourists Should BeAware Of - Travel And Tour World Alberta Joins British Columbia, Nova Scot",
-      "date": "2026-02-27T10:16:23+00:00",
-      "engagement": "Article",
-      "theme": "Facilities & Lodging",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPNXNWNlF3V0F1eVdpNWdDWHRhTEtGT2tWVTltSDFGNTNkVUFfNzRKVUNEWkdmOWdjbkFIZ1RRZlFvS2dkeGVxYTRISXZXWTg2MmMtdElIZjZlVF9kZk9WaVdZVnVjakU1Vk81M1hadnBVZWFMZkxpVUlwOF9ZYWFiUnZqSE9EYlFma3JxaVlfaXQwdmVIR3QtMVYzS2t1bzk2X1IzaC1MaWpZZE03LUhsZjZrU0VuWWlMbTQtNXByRjVmSUNOTWYtU1RwdHkxSjMwcjdXVUZydlBBQklBY1AxVDNsUkRnSENrSV9KaW9XaE1DZDlrVjEzbVh5MFlGdWhmcktFa0VHS3Y0STZkTTN4N0xfbDc0djJZNW0zSFlZN3Z0WFJrZzJMTWFxLTFkM0toaUVFdmZGSm8zU2w5aTUxcGtGdHZKUjhzei1CSUtPc2k4QlNsbEE?oc=5"
-    },
-    {
       "source": "Rocky Mountain Outlook",
       "resort": "nakiska",
       "sentiment": "neutral",
@@ -767,24 +777,14 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM1p3QjFhS3hNS19SZXVoV3g0VGx2NmpjWVpBTjFtc0pZX0hKOWhaQ29yNXBjSGd2VDJjaUVONFhPQUNTaW5sU3NhemRGLVl2TGV0YmJfWkthWXBXT1g5SFZnQjJWOVNueTNtRGRvMjNpNXAteURSQlRwVFFsVXJYakszd241OFpfOEpfcjRBSWRlWWJXLTlYanZ6T1lWOFJ0ekl1N3UwNA?oc=5"
     },
     {
-      "source": "To Do Canada",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Winter Weekend Getaway to Nordegg: Ice Bubble Lake Walks, Frozen Waterfalls & Cozy Stays - To Do Canada Winter Weekend Getaway to Nordegg: Ice Bubble Lake Walks, Frozen Waterfalls & Cozy Stays&nbsp;&nbsp;To Do Canada",
-      "date": "2026-02-21T08:00:00+00:00",
+      "source": "Yahoo News Canada",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "Provincial park boundary changes for Alberta year-round resorts raise concerns - Yahoo News Canada Provincial park boundary changes for Alberta year-round resorts raise concerns&nbsp;&nbsp;Yahoo News Canada",
+      "date": "2026-02-24T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHpLcXMtVDFvWGM3NnpUNEZnNzFLbTJteWltdkxSYXZYd25iRUlUTmdlbHV6ZVpvdm9MODlsc2tYNVZCd0NZN213V2poeFlHQXhXeEV0anVGVWI5TDllM19hX3lCT0s3emN1QzhKQlhkZUM0R2lNa1dXcDNVR3pGNnRGdHFSMUZEY1ktQTRJUFpwQlNXQVFZZ2RfRXlZUW5jcjhNMWFzRTA1bXhZNVUwZtIBtgFBVV95cUxQc0Jsd0N0NE1EbTR3aWt2YVFkZ3pSSy1qMk9la21jT3Q4ZVhMN1ZsOFJ0eTZ5Vm5NbWdJbXJmRm1GM05YX0JKR2pqRmt2bm1fVWFhc3FsemFROHR1X0FnZHowS1hPZ2M2UHFkVUxHZnR4M1ZPSnB5QXE0N18tN0ZYOG9HVUZic0FBTXQxWXRRR3czY29zUVNoeXI2NUl2U0FSVzdKejNEUDZOTTh5UXFCbzZmcThyQQ?oc=5"
-    },
-    {
-      "source": "Global News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
-      "date": "2026-02-20T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Events & Promotions",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVFBwN1Bab2F5TUltWERRSjVLemRwckZTZVN0bUZCdzY2UU85OE5GUERsa0hEMVNFMW9QMkk4NmtrcWhXMklLNXhLb1JINnRzenU1bGdRM01JbUdJeDZGMFJ2R0NBZFBibE9pZ29BQm9kTFFWZFNCZDhxRzJpR0VVZVJGRzRZN1d5QXdYVmNjck5xMkRBLVE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQamlHQUJjSEM5cFA5QldUWndzc19JRDFPNlI2S2dMeGRwQzRtVW9ORnU0M3dNMzhFUktMWEV3N19GSGhfMGwxN05WQWpnSEVKbXlzWWFQV2xibm84MGdfaDNxc1pJZklwT3hkeTlRSjJoREtwbkp4Z0x6d2JiNUZtcGk4aExDS21E?oc=5"
     }
   ]
 }

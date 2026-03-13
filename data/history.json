@@ -605,6 +605,30 @@
         "Tourism Strategy & Policy": 25,
         "Environmental Assessment & Compliance": 1
       }
+    },
+    {
+      "date": "2026-03-13",
+      "total": 801,
+      "positive_pct": 9,
+      "neutral_pct": 86,
+      "negative_pct": 5,
+      "themes": {
+        "Snow Conditions": 70,
+        "Pricing & Value": 11,
+        "Summer Activities": 16,
+        "Staff & Service": 10,
+        "Lift Wait Times": 67,
+        "Trails & Recreation": 470,
+        "Facilities & Lodging": 31,
+        "Access & Transportation": 19,
+        "Environmental Impact": 6,
+        "Safety & Incidents": 51,
+        "Events & Promotions": 10,
+        "Family & Beginner Experience": 9,
+        "Regulatory Approvals & Land Use": 6,
+        "Tourism Strategy & Policy": 24,
+        "Environmental Assessment & Compliance": 1
+      }
     }
   ]
 }

@@ -1,48 +1,6 @@
 {
   "daily": [
     {
-      "date": "2026-02-11",
-      "total": 186,
-      "positive_pct": 6,
-      "neutral_pct": 89,
-      "negative_pct": 5,
-      "themes": {
-        "Snow Conditions": 139,
-        "Pricing & Value": 2,
-        "Summer Activities": 1,
-        "Staff & Service": 3,
-        "Lift Wait Times": 22,
-        "Facilities & Lodging": 1,
-        "Environmental Impact": 2,
-        "Safety & Incidents": 12,
-        "Events & Promotions": 3,
-        "Access & Transportation": 1
-      },
-      "resort_stats": {
-        "fortress": {
-          "name": "Fortress Mountain",
-          "total": 144,
-          "positive_pct": 7,
-          "neutral_pct": 88,
-          "negative_pct": 6
-        },
-        "castle": {
-          "name": "Castle Mountain",
-          "total": 22,
-          "positive_pct": 9,
-          "neutral_pct": 91,
-          "negative_pct": 0
-        },
-        "nakiska": {
-          "name": "Nakiska",
-          "total": 20,
-          "positive_pct": 0,
-          "neutral_pct": 95,
-          "negative_pct": 5
-        }
-      }
-    },
-    {
       "date": "2026-02-12",
       "total": 181,
       "positive_pct": 7,
@@ -771,6 +729,30 @@
         "Family & Beginner Experience": 9,
         "Regulatory Approvals & Land Use": 5,
         "Tourism Strategy & Policy": 20,
+        "Environmental Assessment & Compliance": 1
+      }
+    },
+    {
+      "date": "2026-03-24",
+      "total": 802,
+      "positive_pct": 9,
+      "neutral_pct": 87,
+      "negative_pct": 4,
+      "themes": {
+        "Snow Conditions": 80,
+        "Pricing & Value": 9,
+        "Summer Activities": 18,
+        "Staff & Service": 12,
+        "Lift Wait Times": 53,
+        "Trails & Recreation": 469,
+        "Facilities & Lodging": 36,
+        "Access & Transportation": 21,
+        "Environmental Impact": 7,
+        "Safety & Incidents": 52,
+        "Events & Promotions": 8,
+        "Family & Beginner Experience": 9,
+        "Regulatory Approvals & Land Use": 6,
+        "Tourism Strategy & Policy": 21,
         "Environmental Assessment & Compliance": 1
       }
     }

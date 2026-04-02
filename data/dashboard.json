@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-04-01T14:43:24.958634",
-  "date": "2026-04-01",
+  "generated_at": "2026-04-02T14:23:55.641971",
+  "date": "2026-04-02",
   "summary": {
-    "total_mentions": 796,
+    "total_mentions": 797,
     "positive_pct": 9,
-    "neutral_pct": 86,
-    "negative_pct": 5,
-    "negative_count": 38
+    "neutral_pct": 87,
+    "negative_pct": 4,
+    "negative_count": 31
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 512,
+      "total": 517,
       "positive_pct": 10,
-      "neutral_pct": 84,
-      "negative_pct": 6
+      "neutral_pct": 85,
+      "negative_pct": 5
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 48,
-      "positive_pct": 10,
-      "neutral_pct": 88,
+      "total": 44,
+      "positive_pct": 11,
+      "neutral_pct": 86,
       "negative_pct": 2
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 111,
-      "positive_pct": 5,
+      "total": 109,
+      "positive_pct": 6,
       "neutral_pct": 91,
       "negative_pct": 4
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 51,
+      "total": 57,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 74,
-      "positive_pct": 8,
+      "total": 70,
+      "positive_pct": 9,
       "neutral_pct": 89,
       "negative_pct": 3
     }
@@ -48,56 +48,56 @@
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 463,
+      "mentions": 462,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 71,
-      "avg_score": 52,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Lift Wait Times",
-      "mentions": 56,
-      "avg_score": 50,
+      "mentions": 73,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 52,
+      "mentions": 55,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
+      "name": "Lift Wait Times",
+      "mentions": 54,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Facilities & Lodging",
-      "mentions": 33,
+      "mentions": 34,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 26,
+      "mentions": 23,
+      "avg_score": 49,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Access & Transportation",
+      "mentions": 21,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 19,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Access & Transportation",
-      "mentions": 19,
+      "mentions": 20,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Pricing & Value",
-      "mentions": 14,
-      "avg_score": 47,
+      "mentions": 12,
+      "avg_score": 46,
       "sentiment": "neutral"
     },
     {
@@ -211,81 +211,101 @@
   ],
   "trends": {
     "labels": [
-      "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
       "Tue",
-      "Wed"
+      "Wed",
+      "Thu"
     ],
     "positive": [
       9,
       9,
-      9,
       8,
+      9,
       9,
       9,
       9
     ],
     "neutral": [
       87,
-      87,
       86,
       87,
       86,
       86,
-      86
+      86,
+      87
     ],
     "negative": [
       4,
-      4,
       5,
       5,
       5,
       5,
-      5
+      5,
+      4
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      469,
       449,
       479,
       487,
       467,
       469,
-      463
+      463,
+      462
     ],
     "Snow Conditions": [
-      80,
       70,
       74,
       78,
       63,
       66,
-      71
-    ],
-    "Lift Wait Times": [
-      53,
-      56,
-      58,
-      56,
-      56,
-      56,
-      56
+      71,
+      73
     ],
     "Safety & Incidents": [
-      52,
       50,
       46,
       45,
       50,
       48,
-      52
+      52,
+      55
+    ],
+    "Lift Wait Times": [
+      56,
+      58,
+      56,
+      56,
+      56,
+      56,
+      54
     ]
   },
   "feed": [
+    {
+      "source": "Calgary Herald",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Opinion: Alberta's tourism boom needs more protected land, not less - Calgary Herald Opinion: Alberta's tourism boom needs more protected land, not less&nbsp;&nbsp;Calgary Herald",
+      "date": "2026-04-02T12:04:02+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDY5LW1lb1lPaEtNWTM2RkpVX3NWRU5oYmljRXJiNE16MUwxekRDOUgwMXM4WmpHMVk3NFkwVzNjWDhTTzhHdUt0ek1uMGhoaldRZWxiZEFFU18tbFBURVNqQ3EyZ1lzNXc5X3JWRE5rbVk4WWM2MUZMMDAxOXpEbDZZNnlyTDliU2x5M0RqWkpQN2ZEMFZVcmg0bUloNTUwdUdQcjhJQV9uNkdHbnc?oc=5"
+    },
+    {
+      "source": "curiocity.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "This fairytale resort in Alberta feels like a real-life storybook - curiocity.com This fairytale resort in Alberta feels like a real-life storybook&nbsp;&nbsp;curiocity.com",
+      "date": "2026-04-01T18:48:08+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12dWhEcE5hOXBWV2N6LW1tVHI5V2dXZ0NMVGZ5WmVzSlk5eXFIN1JYcEpmOUV5ZGViV1RoSE1UVkx3RThDOWhBdmpoZTN5YWp4enExNURFT0Q3LWgwNEFBM2JzZTFOODctS0lyY0NFWERReXM?oc=5"
+    },
     {
       "source": "SnowBrains",
       "resort": "fortress",
@@ -307,6 +327,16 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNjJOcWQzS0FuVHNqeDV5VVNmVy1aOER2OU0zYVNUdnBIbEJhQWJ6MkVxbDhKR1BJejFoUXQwcWl3LXpHdzQ2NnlEcEdOWDRxUWQzOVpQblFDcmRsbU1kYmd2a1FZcE1Hc0hULWtSd2ZSaXdPUy1FNTNWMXJtbUxEeXRn?oc=5"
     },
     {
+      "source": "The Weather Network",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "Canada\u2019s newest chairlift is unlocking exclusive Rocky Mountain powder - The Weather Network Canada\u2019s newest chairlift is unlocking exclusive Rocky Mountain powder&nbsp;&nbsp;The Weather Network",
+      "date": "2026-03-31T19:11:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMUNSOEVLMDBNSEJ2VzRubmdPMU9Wdkg1SGh3M2JGYXNfX0NPMkNzQU83aldWTEtqMEJORUdFMUIzeU54YlNRNmtUSFdJYkJZWEtiWldqWWRVaElLSF9FM1RfWmFFRUdCbFVmNnVEOUlkRVMwWTJtN0JiZWQwNTNrQk9iVlVfQkNMX0stT1F0UThMSDdrZXNLTnZfVHFmUkMzalBUNTdwY0NhNjlVY3VHZ0duUWtkYWhrb2hyYWx1LXUxTG1pNXJYcWNXdnNsREptUm1GbHZMZzNtMHVXN1ExSHJDTExIU1dZSldIZXA1Sm43STJRNkl3?oc=5"
+    },
+    {
       "source": "MSN",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -317,10 +347,10 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEwzd3BSSEptQWtWRU1DdzNMU29MdnVQZ1pNU1F1c19UN2d4dmp0Ul8xVS1oT3IwYXJ0LUZvRUo4blNLZkZhbnNUYTVJalk4OUg2UHJ3cnoyVmJ2bkt6RGs2eG9IcWFmS0JwVG9oTnpKMHVCTFA0Z2c5eEZZcmU3cXhId05EdnRoWWk4RDFuUmxsSnRSZVFKNzB4TWxqa184VHA0?oc=5"
     },
     {
-      "source": "Daily Hive Vancouver",
+      "source": "Daily Hive | Vancouver",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Alberta spot named among the world's top ski resorts for summer travel - Daily Hive Vancouver Alberta spot named among the world's top ski resorts for summer travel&nbsp;&nbsp;Daily Hive Vancouver",
+      "text": "Alberta spot named among the world's top ski resorts for summer travel - Daily Hive | Vancouver Alberta spot named among the world's top ski resorts for summer travel&nbsp;&nbsp;Daily Hive | Vancouver",
       "date": "2026-03-30T22:08:00+00:00",
       "engagement": "Article",
       "theme": "Summer Activities",
@@ -335,16 +365,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOc1IxNHFmeHEzeE43QTlVbnBId1ZQcE1rVDdBanRsR1FRdkhOcVh4dDRvU0ZPcG5tY3BIanVzZUN2ZUtLUHE1R1NkdWxYVGZlMHJTQk91ZndqWHl0b1JjN1FR?oc=5"
-    },
-    {
-      "source": "SnowBrains",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "SnowBrains Forecast: Cold Start for BC/Alberta with 10-15 cm in the Banff Area - SnowBrains SnowBrains Forecast: Cold Start for BC/Alberta with 10-15 cm in the Banff Area&nbsp;&nbsp;SnowBrains",
-      "date": "2026-03-29T13:15:06+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzdaNnVpWG55bXZ5d0piTXNudmxsNTIySDNiNmFOYXQwcWR0eFkzU29mQlR2MDdMQS1WUzlwQ3pfdGxPRU1YYWpVUm11cUQtaHVNdmxVaUN0NHUxRExEWXVGQWd4c28tZElseDdfQXMwZko4UGt6ME15QVNwWTRDTUkxMWN2UnlpY2Y4YWtVekt6dkJ4UFppbkJiY0xSTzFDVGtj?oc=5"
     },
     {
       "source": "thetraveler.org",
@@ -377,14 +397,14 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc2RuX21uUHVERDNiZTNjd2Q2WnluR1JnSXlTdVNiampqN1c2UjJINnN4Z0w5X2Z4QnA1SHFZMWg5QU1NMllUYkhlMnRDVFQ2QXp1ZVpxZkNObkhDVFVLNG5JTzlqa0tPQkhlOXdRQlg5NHljOG53UXVfY0lDMDU2RUQ2WkttWnhKWW1MbFZRQQ?oc=5"
     },
     {
-      "source": "CP24",
+      "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Tourist towns \u2018desperate\u2019 for workers in Alberta - CP24 Tourist towns \u2018desperate\u2019 for workers in Alberta&nbsp;&nbsp;CP24",
+      "text": "Tourist towns \u2018desperate\u2019 for workers in Alberta - CTV News Tourist towns \u2018desperate\u2019 for workers in Alberta&nbsp;&nbsp;CTV News",
       "date": "2026-03-28T09:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWnFUN3p4bjVPRlc5WTRtcjExRUZ3aEdzX2ZwVENXX2FSY0M1WTh2RFlrQ05aeTIxV0RIblB6eW0xNWlQZ2FERWRhc1R4VVVvNHFab1I0X20ybGgwZ2FCd1pUeUdlWVFrSjdGcVhQWXpNOXBLdWlwOGNhQTRPVlVuUFpqenZFMHpVMDNrY3o0cXgyQjNsZXBza2t6dnk4aTF3dk1ZSk1NVnVmNXY4bTRUelMwYkV2X1pIYTZPWmVQenBVT2t3MElv?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXM4MnF3eWFxa0w3SGhDa1VzOHFlLU5wSXF2RUNqMTkxUjlTdGRSaUhDRmZfUEtaOVhobF95eEdxV3ZrVEtSeTZqaE85cnJqbEdpeTN3d0JvLVZvUlhkWHhvdXVqem9IQVZZWURWejc0T3d3MjR0ei1ZcGVlM2dyeU9MWGR5cFpLazdtTUI5UTBZdEltMEI1TEJITDBKYXFZRzNTNGxfb0dCZXdjT1pqS0gyOGlINUpZdGo4LXdHdW5CV3BERzNCTg?oc=5"
     },
     {
       "source": "CBC",
@@ -547,14 +567,14 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSThOOXI2SDlQNS1zWW9HenVyZU5YeURwRElBVEQ3YlZxR1Y5X2plaVdvbWpzb3NTRC1fbjhMb1V0R25ELU9tYzdDY2RXMmlxcEVvMXh5TTVEdXQ5bHZuOU44UWhRWWhJOE1odnp1eTBldThpZnJCX0E5dTFqWEpUbFVjT1J0QzJteEwxZ29JS0ZCeGJtcE1JYUpmYUExQlZrTzZrWEJzelVpdlkxSS1Xc1diSEpDUnNBVHNWT1JManN2bEwzSURLSjU3cUhncFk4VlE?oc=5"
     },
     {
-      "source": "islands.com",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "Canada's 5 Best Ski Resorts With Laid-Back Vibes, Mountain Views, And Fewer Crowds, According To Skiers - islands.com Canada's 5 Best Ski Resorts With Laid-Back Vibes, Mountain Views, And Fewer Crowds, According To Skiers&nbsp;&nbsp;islands.com",
-      "date": "2026-03-09T07:00:00+00:00",
+      "source": "Calgary Herald",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Province seeks input on future of Kananaskis Country - Calgary Herald Province seeks input on future of Kananaskis Country&nbsp;&nbsp;Calgary Herald",
+      "date": "2026-03-10T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdXpQZHd2VThiZUlxUHFpeW9SMUJpNndWLUVlQUNzc0lxZnFKTko5V1Nob2FqSEJ0U0V0R0RFVEhqQmdFRVpkOU1aQmJpQm5yS1ROSmI2TW9HS2pDNzFrczhRcE9UVHdiRno1TWFJSUVnN2NkY1MzVG1SVDBHY2JWUEpvb2ZYWVJoTjd4U1BENnc1Y2tDZ3ZBSDBNeDlmeFpzV3c?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNkg3TldPellDdnhJdVU1QTl0cGFNSDI2VHFFLTU0YWRHOEdhTkxkSXRwQTIySGNNcUNKNVNoVGxyWVh6OGdySUlCdkN4RjIzeEZOb3U0QjktQ2p3WUdZeGpVTUltbGo3dWFmMWRPOW4zSkNFQWIwcGVnTlhtWGJrMW84a3BFc1Z3cEx6SGdjYUl1QQ?oc=5"
     },
     {
       "source": "Local Freshies",
@@ -580,6 +600,16 @@
       "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
+      "text": "Temporary art leaves lasting impression - CTV News Temporary art leaves lasting impression&nbsp;&nbsp;CTV News",
+      "date": "2026-03-09T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSzBfLU5idVlXYzlJMDBXSTVTUVF4R25SRTM5a0FPV0Z1UFhGSnRXWkN6STEwNU5NemU1clFLUjBGa0o3X3VkTmFKSmxUSTBsbC15N3lyNjFndlFhVUZrejdzb1RGNDRTWVRSdFRPMkZKS0NHUXdJSlRBVjJKNzhCOHhkOW5tc29OVjZCWS1pNlQ4MXM?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "fortress",
+      "sentiment": "neutral",
       "text": "Skis and spas: Proposed Alberta all-season resort a test of new legislation - CTV News Skis and spas: Proposed Alberta all-season resort a test of new legislation&nbsp;&nbsp;CTV News",
       "date": "2026-03-07T08:00:00+00:00",
       "engagement": "Article",
@@ -597,10 +627,10 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTdaeVlTY3pIWUpVX1JHbmRSV29UZTQwVi1kN3ZZeGpsbUF2dlRub0Q0b1pkMUdjamNsdmpTWkxpLVR1cWJkQzhHT2lKWVhxTHR3R0xMeGJPcFF0czNueWI2LU0zQTc1akpLdTFyVlVFdXNUb1pWM3ViNFJRMTR6d1NNLWFReERQU0tvNFBXQ2pBLVZtZ3BnUEx2VVhDQzFERUhLT180d1RQR0haMnZ6cExfel8?oc=5"
     },
     {
-      "source": "thestar.com",
+      "source": "Toronto Star",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Skis and spas: Proposed Alberta All-season resort a test of new legislation - thestar.com Skis and spas: Proposed Alberta All-season resort a test of new legislation&nbsp;&nbsp;thestar.com",
+      "text": "Skis and spas: Proposed Alberta All-season resort a test of new legislation - Toronto Star Skis and spas: Proposed Alberta All-season resort a test of new legislation&nbsp;&nbsp;Toronto Star",
       "date": "2026-03-07T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Facilities & Lodging",
@@ -627,10 +657,10 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbjdGT1dkYmswcDdzejhYOEw5R1BOTW1EMEVTejhrdUs2RThGT3hiVlJHVHVSdVVrSFNoMEhZdDhDUkFoa3U3c3VYcTY5c3RrdWpFRm5TQXdkVmtjXzdjc2kwSEFLc3FZNHctOU04NjQwRGNwelBjLVhoS0NmWFlkNFhEQXJaQ3JBVnpFVm5zd0ctSzBPYlFOa1JBZm85RzZaT3hCVjNZNHF6cWVsdHow?oc=5"
     },
     {
-      "source": "Unofficial Networks",
+      "source": "unofficialnetworks.com",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Conservation Groups Line Up Against Canadian Ski Resort\u2019s Revival - Unofficial Networks Conservation Groups Line Up Against Canadian Ski Resort\u2019s Revival&nbsp;&nbsp;Unofficial Networks",
+      "text": "Conservation Groups Line Up Against Canadian Ski Resort\u2019s Revival - unofficialnetworks.com Conservation Groups Line Up Against Canadian Ski Resort\u2019s Revival&nbsp;&nbsp;unofficialnetworks.com",
       "date": "2026-03-04T08:00:00+00:00",
       "engagement": "Article",
       "theme": "Lift Wait Times",
@@ -645,16 +675,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmMyUzA1X0RwVWxKQlg3MHFzajdLdDhYSnBzdTd4bTBiRmo5NmwxZHB2NmxaemJFOG9HY1FvSVAwajU3bGpBU3U4UEU3c19lWm1xbDI5SGVvajdqTlJoUWlOcXh4elNhM1dNZFd1Q1l0VzJFRE0tb2F4ZGFqalNhaW5EU3hqUFc0MVVxdW1NQ09NMjN5YUtYUzRYRGNMM09rX0RpTHhfWQ?oc=5"
-    },
-    {
-      "source": "AOL.com",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Teenager Dies in Avalanche at Ski Area Near Calgary, Canada - AOL.com Teenager Dies in Avalanche at Ski Area Near Calgary, Canada&nbsp;&nbsp;AOL.com",
-      "date": "2026-03-03T21:16:28+00:00",
-      "engagement": "Article",
-      "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajhMeUVXYl8tZzdzVlZyU3BOODdBMUlnWUlUWEkzTkZoaFZROC1hdnRqdTctU3d1VThQTC1ZVTFqT0NJUHdJalByYWVmNTJZdktUU0dlQXIxTl9RNHBxQ3VfSWxmVURsQ2FCSFdzRktuZkFIdUhJZzZTRGxCYnRJY3ZB?oc=5"
     },
     {
       "source": "Seek Your Sounds",
@@ -765,26 +785,6 @@
       "engagement": "Article",
       "theme": "Access & Transportation",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTlJXWFdLbVpEODJFR0ZTVng4U0lNc1l2OGxGaEJjWXNDUWJ3ZzBoWTNqaENlNkFNeWZuT3RwdjVpZW1oRWxIM1hlUm9RUmJZbFgxRkM0WnpNUlY5dWhBaVpNOE5JemdyN0xfa3dtSFRFZllLdUdCcjM3cDVmcGVXczBHSUlZZldvdDExNUJR?oc=5"
-    },
-    {
-      "source": "Yahoo News Canada",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "15-Year-Old Boy Dies After Being \u2018Fully Buried\u2019 by Avalanche at Popular Ski Resort: \u2018Horrible Situation\u2019 - Yahoo News Canada 15-Year-Old Boy Dies After Being \u2018Fully Buried\u2019 by Avalanche at Popular Ski Resort: \u2018Horrible Situation\u2019&nbsp;&nbsp;Yahoo News Canada",
-      "date": "2026-03-01T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxTktqUk1sZXhGbjdHbjlfanlkcE1JZy1jSWdjTUgyM0E0Z1l0V0h4SGxrczdDNkM0OThMZG9xa0FPcVpGZzd3aDZIN19yMjkyY3VFUmdscm5Nd0pYaHpUcnFCeF96aWJkNWlJM25zdw?oc=5"
-    },
-    {
-      "source": "People.com",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "15-Year-Old Boy Dies After Being \u2018Fully Buried\u2019 by Avalanche at Popular Ski Resort: \u2018Horrible Situation\u2019 - People.com 15-Year-Old Boy Dies After Being \u2018Fully Buried\u2019 by Avalanche at Popular Ski Resort: \u2018Horrible Situation\u2019&nbsp;&nbsp;People.com",
-      "date": "2026-03-01T08:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnlGT0UtdzAtYV8yd05ZTlNEbFVXbXpUdEU4dzc2a1luUEZNVFVSeGFFNWZIcnhOTmU3M3U5UDNFYXVBQ2tOdElrS2hhOTlsNlpnaTJnZHdhWDM1R2x5Uy1hcHpVMmJPUGZ5Y1FyWWpUUDM1Um5yckFleXZMRG1ZQjM5SEMxS1BXWldqYVM2OGdjTzhxM2I4?oc=5"
     }
   ]
 }

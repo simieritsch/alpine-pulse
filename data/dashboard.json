@@ -1,45 +1,45 @@
 {
-  "generated_at": "2026-04-17T14:23:07.708424",
-  "date": "2026-04-17",
+  "generated_at": "2026-04-20T14:55:33.599174",
+  "date": "2026-04-20",
   "summary": {
-    "total_mentions": 824,
+    "total_mentions": 820,
     "positive_pct": 9,
     "neutral_pct": 87,
     "negative_pct": 4,
-    "negative_count": 37
+    "negative_count": 39
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 540,
+      "total": 536,
       "positive_pct": 10,
       "neutral_pct": 84,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 47,
-      "positive_pct": 11,
-      "neutral_pct": 87,
-      "negative_pct": 2
+      "total": 48,
+      "positive_pct": 10,
+      "neutral_pct": 85,
+      "negative_pct": 4
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 108,
-      "positive_pct": 5,
+      "total": 109,
+      "positive_pct": 4,
       "neutral_pct": 93,
-      "negative_pct": 3
+      "negative_pct": 4
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 55,
+      "total": 52,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 74,
+      "total": 75,
       "positive_pct": 8,
       "neutral_pct": 88,
       "negative_pct": 4
@@ -54,68 +54,68 @@
     },
     {
       "name": "Snow Conditions",
-      "mentions": 75,
+      "mentions": 77,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 60,
+      "mentions": 61,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 50,
+      "mentions": 48,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 36,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Summer Activities",
-      "mentions": 28,
+      "mentions": 35,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
-      "name": "Tourism Strategy & Policy",
-      "mentions": 21,
+      "name": "Summer Activities",
+      "mentions": 27,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Access & Transportation",
-      "mentions": 19,
+      "mentions": 21,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
-      "name": "Pricing & Value",
-      "mentions": 11,
-      "avg_score": 45,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Staff & Service",
-      "mentions": 10,
-      "avg_score": 54,
+      "name": "Tourism Strategy & Policy",
+      "mentions": 17,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Family & Beginner Experience",
-      "mentions": 10,
+      "mentions": 12,
       "avg_score": 51,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Staff & Service",
+      "mentions": 11,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
       "name": "Events & Promotions",
       "mentions": 9,
       "avg_score": 49,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Pricing & Value",
+      "mentions": 6,
+      "avg_score": 46,
       "sentiment": "neutral"
     },
     {
@@ -126,8 +126,8 @@
     },
     {
       "name": "Regulatory Approvals & Land Use",
-      "mentions": 4,
-      "avg_score": 56,
+      "mentions": 5,
+      "avg_score": 55,
       "sentiment": "neutral"
     },
     {
@@ -174,17 +174,17 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Alber",
-      "detail": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Albert Gazette Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache&nbsp;&nbsp;St. Albert Gazette",
-      "theme": "Tourism Strategy & Policy",
-      "date": "2025-02-18T08:00:00+00:00",
+      "title": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval ",
+      "detail": "Valory receives full regulatory approval for Mine 14 - Canadian Mining Journal Valory receives full regulatory approval for Mine 14&nbsp;&nbsp;Canadian Mining Journal",
+      "theme": "Regulatory Approvals & Land Use",
+      "date": "2025-10-30T07:00:00+00:00",
       "sentiment": "neutral"
     },
     {
-      "title": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into",
-      "detail": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into provincial parks&nbsp;&nbsp;rdnewsnow.com",
-      "theme": "Snow Conditions",
-      "date": "2026-03-16T20:46:06+00:00",
+      "title": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawk",
+      "detail": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawka River to the Norbord Access&nbsp;&nbsp;Government of Alberta",
+      "theme": "Access & Transportation",
+      "date": "2023-08-16T06:40:28+00:00",
       "sentiment": "neutral"
     },
     {
@@ -195,34 +195,34 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into",
+      "detail": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into provincial parks&nbsp;&nbsp;rdnewsnow.com",
+      "theme": "Snow Conditions",
+      "date": "2026-03-16T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citize",
       "detail": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citizens band together to fight huge new water licence for fracking&nbsp;&nbsp;The Narwhal",
       "theme": "Environmental Assessment & Compliance",
       "date": "2019-01-30T08:00:00+00:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Alberta government invests millions in new urban wildfire teams - CBC Alberta government invests millions in new urban w",
-      "detail": "Alberta government invests millions in new urban wildfire teams - CBC Alberta government invests millions in new urban wildfire teams&nbsp;&nbsp;CBC",
-      "theme": "Tourism Strategy & Policy",
-      "date": "2025-05-23T07:00:00+00:00",
-      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Thu",
       "Fri",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
-      "Fri"
+      "Fri",
+      "Mon"
     ],
     "positive": [
       9,
-      9,
       10,
+      9,
       9,
       9,
       9,
@@ -230,11 +230,11 @@
     ],
     "neutral": [
       86,
-      86,
       85,
       86,
       86,
       86,
+      87,
       87
     ],
     "negative": [
@@ -243,78 +243,128 @@
       5,
       5,
       5,
-      5,
+      4,
       4
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      464,
       466,
       467,
       466,
       467,
       473,
+      484,
       484
     ],
     "Snow Conditions": [
-      82,
       82,
       80,
       84,
       81,
       81,
-      75
+      75,
+      77
     ],
     "Safety & Incidents": [
-      53,
       55,
       58,
       59,
       58,
       58,
-      60
+      60,
+      61
     ],
     "Lift Wait Times": [
-      50,
       54,
       52,
       53,
       52,
       52,
-      50
+      50,
+      48
     ]
   },
   "feed": [
+    {
+      "source": "CBC",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Kananaskis ski resort aims for year-round operations in 2027 - CBC Kananaskis ski resort aims for year-round operations in 2027&nbsp;&nbsp;CBC",
+      "date": "2026-04-18T12:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0tFazBOY3pTV1pkVWhkaFpma3RwYlFRSlNQSFF1SWRIX0Y4aUsta2lPV3ZsdEJnN2ZZUkJHWUdockoyNGo1bGJxVzZZYVFkR1Bld2tfVXpPVmpEMDY3OVFsRDFsOTZmWHlNUG54TFUwRHpVRmw0aTFYS0VQbjNCRjBBTy1ockhELW04TjZJVlVuZw?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Family of teen killed in Nakiska avalanche says resort\u2019s silence is \u2018hurtful\u2019 and \u2018insulting\u2019 - CTV News Family of teen killed in Nakiska avalanche says resort\u2019s silence is \u2018hurtful\u2019 and \u2018insulting\u2019&nbsp;&nbsp;CTV News",
+      "date": "2026-04-18T00:53:00+00:00",
+      "engagement": "Article",
+      "theme": "Safety & Incidents",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2QwZXIyRzl5cUVRdC1pdkM4eURpZFlkcWhwWHVKZVNlM1U0ekRvWUQxSk9VVkhFaDNNYkgtcHRGaUpaazVTR3hKQWl4U2JVb2lGU0loSHkzNDY5Qi1rYkQtRkwteEt6Q2ZscDZzbkJGellzZzRLWi1JaFV5SXpVb2pwRDNxdW90SklyYURyTWNVQnhzSkx0OXhxXzFUejF6eVJkakJzMDhBOUQtUzhoUGZ0MVdRTHNzMmstQ1czSTVHWGpkSGVZ?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "nakiska",
+      "sentiment": "negative",
+      "text": "Family of boy killed in Nakiska avalanche still waiting for answers - CTV News Family of boy killed in Nakiska avalanche still waiting for answers&nbsp;&nbsp;CTV News",
+      "date": "2026-04-18T00:11:00+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbG1IUXltSWNBUEUxMVRIcnNrXzZ0cnVBNHJicndyYXZJWUxCRkZhY204WFNsODFqbHRldjlBRlI1WFp0Yzd6OUpNZFR5TUhUR0FDck9TNE9ONV9sbG5MeW5nektIZklrdWR3NFlMWWZhTFBJbGZjenJCWXBoVUNiZWl3dEJQN0x0aGtYRVFNdUtVb2NIZEV2UlhKeHNDTnFmRExaTXhUOWxMQTlSUWViUGVEY2UzN3M?oc=5"
+    },
+    {
+      "source": "CityNews Calgary",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Nakiska Ski resort plans to be year-round attraction - CityNews Calgary Nakiska Ski resort plans to be year-round attraction&nbsp;&nbsp;CityNews Calgary",
+      "date": "2026-04-17T23:54:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSGRBUXRydnVMSjM2ZHVuaUtDQWxfZ2J2TkpjX2hYRzN4TUlTWmVKZkZSdGczYW5oMk0zanl2cE4wNGdESVlNUXdjZDF4WEs1N0FOWFJBVVFaZ1VraEVLLUtkZ0hhNlI2MmhSaWctTmdRenFwY3VCMVhTMENsWkVpTEdITDFnQnhVajE1cmtwRGJnamx2NUFrZndKa0tzSlU?oc=5"
+    },
+    {
+      "source": "cjwe.ca",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Nakiska Ski Area announces plans for summer activities in 2027 - cjwe.ca Nakiska Ski Area announces plans for summer activities in 2027&nbsp;&nbsp;cjwe.ca",
+      "date": "2026-04-17T16:41:17+00:00",
+      "engagement": "Article",
+      "theme": "Summer Activities",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM3kzWG1rSWRkYWM2MTdKYnNwSzFiZmFBamlJNFptMlBFcDZFdUtwa3hsaVBneWRJVGR1T3ZoMFVzYkRHTXhNMWxVRWdfWGYxNzBCajYyNjhSVGxTd09CZ1RTbmpLWHp4WlhVaTl6MXV5bmhjYk5BNzNOQ0lKdGtrZFpoY1RaSXpfc1NlMEU4eVJCNlEz?oc=5"
+    },
     {
       "source": "Sky News",
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "Battle for the Arctic: Europe's Northern Front - Sky News Battle for the Arctic: Europe's Northern Front&nbsp;&nbsp;Sky News",
-      "date": "2026-04-17T04:20:52+00:00",
+      "date": "2026-04-17T16:21:22+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTEpjT0pDS1hjMjhPT1RlQkM5cVVyQ291aDZXeWFHck1FcjNhRHpiS3k1QWhDT2J1Mk9BalZldHB3d1ZnYzJuQnZIaHF4dUZxOHk4TGFTNlJQcUplaG1JejZhcmIzd0NvY0ItNFFOVzVkVTFlalBvYWo4ZnFLRHJzSlJ2b3huZ2lnUFpNOGJxN0pyTF9XRVh5Sm84aHR2TUpPVnh6eXF3?oc=5"
     },
     {
-      "source": "The Narwhal",
-      "resort": "fortress",
-      "sentiment": "negative",
-      "text": "Alberta\u2019s got a new law to fast-track all-season resorts. In the Rockies, that\u2019s causing concern - The Narwhal Alberta\u2019s got a new law to fast-track all-season resorts. In the Rockies, that\u2019s causing concern&nbsp;&nbsp;The Narwhal",
-      "date": "2026-04-17T03:58:23+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibUxqZTVjeGplTU5SUzFQTEJwQ0RrbTdtQV9GM1RxZzg4ZHA0SDJmTVYxYWRiejlpeWdrb0dXbl9wM2R1WndvWjNRaFFtcTlyWm5IQVJBcDRfTVVrODc4RF9ULVl3cW9wRjc0?oc=5"
-    },
-    {
-      "source": "The Albertan",
+      "source": "LakelandToday.ca",
       "resort": "nakiska",
       "sentiment": "neutral",
-      "text": "Beyond Local: Nakiska ski resort in Kananaskis announces plans for summer operation - The Albertan Beyond Local: Nakiska ski resort in Kananaskis announces plans for summer operation&nbsp;&nbsp;The Albertan",
+      "text": "Beyond Local: Nakiska ski resort in Kananaskis announces plans for summer operation - LakelandToday.ca Beyond Local: Nakiska ski resort in Kananaskis announces plans for summer operation&nbsp;&nbsp;LakelandToday.ca",
       "date": "2026-04-16T22:34:00+00:00",
       "engagement": "Article",
       "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUpKZURjTWR5VGJSdlo3ZnRzVkpjT2pHSHI5TXF4dUVLMFhwZ2lYQ3c4UmxPdVB3VUhmaWtjVlppTjA4bG80S3NPbURaOUhNaThZY2lVOG0zODdERGlnRGN1WElNc3pXZVlpVENNZ1R1SzNoZlFiN2psV0M0OU1ZbFNmbk9qal9KY0ZPQTRoX2xsM09oSUJ4U0hWOW9qMU4yQ0JFM1hIYnNuWDB2c1dFODFaVElmQi0ybzNOaUs2MGtoQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORWpNeGs5UUZsSy1BdXQzX0JMWXJzQkxRdk4wYkV5VFBMY09leW9wOTBQNXZnS2pMNGJTUjJzWHRnUzdwTEV4MXEwbkRGWkRZVHFvVVRZT3dFUm5PVjRDQlAzU0Q3Wlo3UmFBRGxpb0FIV3I3UFZSQmZHYWpLLTQwX3liLVQ2cjl0b2ViVThoVlAyRDFfRUd6N3FkUjI3OWp0Vklyai1JVFgyTVlIM3RQNDlQcHhHMnZ2bV9Nbw?oc=5"
+    },
+    {
+      "source": "St. Albert Gazette",
+      "resort": "nakiska",
+      "sentiment": "neutral",
+      "text": "Beyond Local: Nakiska ski resort in Kananaskis announces plans for summer operation - St. Albert Gazette Beyond Local: Nakiska ski resort in Kananaskis announces plans for summer operation&nbsp;&nbsp;St. Albert Gazette",
+      "date": "2026-04-16T22:34:00+00:00",
+      "engagement": "Article",
+      "theme": "Summer Activities",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYzRQXzZnVjJCZVJIWGxwNUJqcVhwamVJMkQ2MEVDS0ZOQm84V1RDbW9EdGd1dGxSVTZQTC1oOS14QjhCbHJMY1pzMF9yYVBhVFc3Z3NnQ0MyRHppUTRPWVRUMkhQMGdJUXdZMjRaWk81NnREaENRdmdXMVgybDdpaUt4UENfNGNiZ3hUWkVCX3ZBSE9BdHlZMHBwRHRWVWVVYlh5aEZPR3RsLXNBdzQ1MUJIQ0ZtRlR0dll2WTNKTkU?oc=5"
     },
     {
       "source": "OkotoksOnline",
@@ -324,17 +374,27 @@
       "date": "2026-04-16T16:31:36+00:00",
       "engagement": "Article",
       "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWVvWElNYk96eVJfVl9CNHNGZHZ5Q0pJU0JVZjVNNVozWEl1WGIzbEFxQy1UY3JyVlFWNzZKTFpQajZva3RsNVk0SlJ4WW1iRHlIVkhhSzNzcm01cF9VYlYtODRqZjVHWFBhMmZ0bmdJNnhDRFRJSkFfRHFhQWJfYTZWLXFoUWZWQ2hBRVJDOUJCRlEyb1hQcG5QbnluN3FfRUE?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVQwMnhBa3h2b2tkYWJyUm9BTUo1bDA5MGdJMFVSbXZUS3F4bFFqVlZvbXprOERhRGJpMVhFdDlOVGxpU3RESHJVYUxqbzFIU2tYOEQ1eE41UUlKYURtUFo5RUUydVFBVkNLN3c1YWRpcVFRaUp1eTA1Z2x3aWJiNEE5U3NCYjJ1TWZsenpqX2pPbm1qbWpoY2x6WkY?oc=5"
     },
     {
-      "source": "HighRiverOnline",
-      "resort": "nakiska",
+      "source": "Todayville",
+      "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Nakiska shifting beyond skiing with new summer plans for 2027 - HighRiverOnline Nakiska shifting beyond skiing with new summer plans for 2027&nbsp;&nbsp;HighRiverOnline",
-      "date": "2026-04-16T16:31:06+00:00",
+      "text": "Rocky Mountain House investigate robbery on rural property - Todayville Rocky Mountain House investigate robbery on rural property&nbsp;&nbsp;Todayville",
+      "date": "2026-04-16T07:00:00+00:00",
       "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemVpMDFCQ01BbTR1VnF3UVRtcGo4TVlDSF9vbjh3UlZ4cTBsc21jOGs5WGx2Z3ZKVk5YY0VjRDRjRXpVVEcxT2ZuTjJ6MkVyZlJ1TU9IcHFkMVdfQ1RDTC1EVnZvbWxoSDVkRVBleS1hZ0RjREdWVER4Q3lkeTNFdjV6T0xHSk5ZaWx6S1d6TGxrVjRGSTBELWt0eVJnYzk4NUFZSA?oc=5"
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV0pzeWZ0UVkycjlwMmcxN3F6N2p0T3F3bkNfRVBTOVE3SGFsUUcyaHBiUmdPaGl2XzRVQU5jRUE3elE1a2JRSk9WaXVOdEt5dVhFM1VpUlZNQzJLUVVoMFVPSUsyTmJLVG1NOTNPUmJ4Q3ZIU0xmYWJtc1lsS1RDZU1xaDhWcXJiLWd5M0M5dw?oc=5"
+    },
+    {
+      "source": "The Narwhal",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "Alberta\u2019s got a new law to fast-track all-season resorts. In the Rockies, that\u2019s causing concern - The Narwhal Alberta\u2019s got a new law to fast-track all-season resorts. In the Rockies, that\u2019s causing concern&nbsp;&nbsp;The Narwhal",
+      "date": "2026-04-16T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ibUxqZTVjeGplTU5SUzFQTEJwQ0RrbTdtQV9GM1RxZzg4ZHA0SDJmTVYxYWRiejlpeWdrb0dXbl9wM2R1WndvWjNRaFFtcTlyWm5IQVJBcDRfTVVrODc4RF9ULVl3cW9wRjc0?oc=5"
     },
     {
       "source": "CTV News",
@@ -397,16 +457,6 @@
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95aEtuQWh4QlpkS0NkZmxQLUlPV2NnejZ3ZlZKemlmUXVHeFZUeWpIcHZuRXhNV0dJWkRiWEFSZWxtRTVXXzJSblNNT2FHMWZmanNQQ09NSFhOWFVvVElObWRQa3Y5M3dQRko2OWhlUllLbm8?oc=5"
     },
     {
-      "source": "The St Kitts Nevis Observer",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Haiti: Several killed in mass stampede at mountain top fortress - The St Kitts Nevis Observer Haiti: Several killed in mass stampede at mountain top fortress&nbsp;&nbsp;The St Kitts Nevis Observer",
-      "date": "2026-04-12T16:35:16+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVUwR2gtR2F1Y0ZpdVJXNGpHZ3k1a2ktcEFDZ3l1dE4ybFRJMVI4cFNacDk2SVdrZ3RDOE1qSEJzMUphaVY1em9tZVg3aWpvekIydkVuTjdnbTVWMTZPR0o4QTljYU5YQXZabEJPUlJWaDBXOTNQZXhXaFBoX3hkdWktdzhyQ0dVclR6aDU3SmZOZVA3NzNqMnNzM1VkaWRVTDg5Uldn?oc=5"
-    },
-    {
       "source": "EverythingGP",
       "resort": "grandecache",
       "sentiment": "neutral",
@@ -428,33 +478,23 @@
     },
     {
       "source": "CTV News",
-      "resort": "grandecache",
-      "sentiment": "neutral",
-      "text": "1st-degree murder charge laid in 2023 killing in Grande Cache - CTV News 1st-degree murder charge laid in 2023 killing in Grande Cache&nbsp;&nbsp;CTV News",
-      "date": "2026-04-10T21:23:50+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHI0OS0tSHNhMkpyLS1JR2Z2UmNqdWFRV0YxX1gxemJXLTU2ZGhuazlLUWFLNUluZ2YtaHE1V1pDVlRjWV9LZEJBOHFWTzMyMW04THNUck1GZlZidUdxY24tRHVtaVhaUldLS1ExSlJYUUozZUdLek9Ddk1IWnZJRy1uLWxpOUJ6VVJCWVNIR3dNWHJkNlhJLVMxVDMwNjVlbFYxZA?oc=5"
-    },
-    {
-      "source": "Unofficial Networks",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Canadian Resort Wants To Build Scenic Gondola - Unofficial Networks Canadian Resort Wants To Build Scenic Gondola&nbsp;&nbsp;Unofficial Networks",
-      "date": "2026-04-10T21:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3bGpqaUFMUDBfTHBseWU1SDFXZEkyTjZGazFzQnY5WkRfWTV4QmJrX2hjMWt3Vnp5b2NMWkt4SVo2QkdiRFFzQlJQejRoWk1FWmxHcU5vMXZBUGpjT1p2NEY3eklNRDRoOHlxWWtXaFhfdExrTmluTkl3VE5sQ2s?oc=5"
-    },
-    {
-      "source": "CTV News",
       "resort": "nakiska",
       "sentiment": "neutral",
       "text": "Alberta premier says decision on all-season resort in Kananaskis is on its way - CTV News Alberta premier says decision on all-season resort in Kananaskis is on its way&nbsp;&nbsp;CTV News",
-      "date": "2026-04-10T14:41:21+00:00",
+      "date": "2026-04-10T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbmd6ekRBQWYwT3ZOM2NKa2hMSV9DeW1sVTM2V3loZE9CY1A3ekhOVnBsV3VjaU55LXFIUDJUTDFEUVcwcEgxVlhieF9vWjVySngwNnRuOWhYSmZqaG9CcjV4VWVGOTlQcERnVGc3aElVRHBxOFlqU1ZLTnp6dTVDNHVxcm1CM2hoSzFwTm5rWFY5OUZhUUo3RlUxOFB4THpNZTVEd3BQTjBJV3RXSldsX2VvWE9naVd3OGc?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "grandecache",
+      "sentiment": "neutral",
+      "text": "1st-degree murder charge laid in 2023 killing in Grande Cache - CTV News 1st-degree murder charge laid in 2023 killing in Grande Cache&nbsp;&nbsp;CTV News",
+      "date": "2026-04-10T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHI0OS0tSHNhMkpyLS1JR2Z2UmNqdWFRV0YxX1gxemJXLTU2ZGhuazlLUWFLNUluZ2YtaHE1V1pDVlRjWV9LZEJBOHFWTzMyMW04THNUck1GZlZidUdxY24tRHVtaVhaUldLS1ExSlJYUUozZUdLek9Ddk1IWnZJRy1uLWxpOUJ6VVJCWVNIR3dNWHJkNlhJLVMxVDMwNjVlbFYxZA?oc=5"
     },
     {
       "source": "CTV News",
@@ -465,46 +505,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWjQtWDF0eDFfRW1lbFVIZ3dTZjRjS08tN2RmU1BxWTFFUmtGSVRIR3ZoWDdJR3VvbElmUEo4OVFpd0ZsLS1TOF9NMkEycF80T3l4czY5NURNZjU1by1TakRrcURUU3paZTVmN0JLeG1lc3RSVURNSWVHVXZFOU5PTVN0MnZDZ0R5YzdJN0NDTWV0WWxoVVo2VC1LOGdvalU0TGphX3NzWFZlZw?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Silvertip gondola proposal divides residents at Canmore open house - Rocky Mountain Outlook Silvertip gondola proposal divides residents at Canmore open house&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-04-08T23:45:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWV5cXhUMEpQNWVzYTBvMzdKVy1GbnhNbmk5V0pIMm1IYTNYV0UxUHE2Z2tjRWVjdG5KeXc1eGIwOVl1N1ZUaDd6ekdpWk9iOGdsNXRuU2tBX2MtVmhLckY5eHJONllxTklldUpORnhaeHVfQklzeWxwcWoza1NzbXZoUS0wRV9fd3Axd0JxanpKOXl6VGRuT1Nsd3ozcDhHODZiWVJlNGN6ZWNPbWc?oc=5"
-    },
-    {
-      "source": "The Albertan",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Beyond Local: Province has final say as Bow Valley municipalities navigate all-season resorts plans - The Albertan Beyond Local: Province has final say as Bow Valley municipalities navigate all-season resorts plans&nbsp;&nbsp;The Albertan",
-      "date": "2026-04-08T17:47:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMVd4VjdJSnhacXNiTTBlcUZPb1BOT0RhSmlDZlczUGdIVG9UWVlialhlMzZCX2J4TTRwem1UajljVFN0MU42ZzRhaHhpWTRlUEZqSlZydU9DZUowTE5idHlOdS0zZ2NmZnJLVFdDTDdiSVV6cldKMkRPSm5YMjh2LU1NR0JWbHAzWmxQZXh1d3lqd2owNG9mRlVpSGVkV3BWU1k3VUNmSHFULTJnTVI4T2FyQkQzdjlGSGxaamZ2M3JZdElzMHNRaWlxWmV5NDI0?oc=5"
-    },
-    {
-      "source": "Western Wheel",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Beyond Local: Province has final say as Bow Valley municipalities navigate all-season resorts plans - Western Wheel Beyond Local: Province has final say as Bow Valley municipalities navigate all-season resorts plans&nbsp;&nbsp;Western Wheel",
-      "date": "2026-04-08T17:47:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcFNDZVNLWjFDcVVJb0JxNzJwd2QyYU5McjA1N0JMbHlaeUJpdkhZTHdkaGpua2xuMDNPVnJTY25tYzFnaXE2SU1sTW1ub3F5aGlZNVpXajBpYW9iZGJpejhaVkxZNXk3VDk2RkxNUjA1R0Y4cjBVOGdycU9GQmllbTBGX3BrZkU5aDB1MmsyMTV6aHVBbWhtMm1BdDJobkNPbzJQTktxSi1mNlpPcVRKZVh2OWlfUDNVVGhXLVcxTUh1dDFleVh2WWtCUnNDRFhl?oc=5"
-    },
-    {
-      "source": "TownAndCountryToday.com",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Beyond Local: Province has final say as Bow Valley municipalities navigate all-season resorts plans - TownAndCountryToday.com Beyond Local: Province has final say as Bow Valley municipalities navigate all-season resorts plans&nbsp;&nbsp;TownAndCountryToday.com",
-      "date": "2026-04-08T17:47:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYm9TQnNtck1DRkljVzhwcGdneG5LNGNDMDhocDhMR3loem5wMjROZHJFYTkya3YtVWdmbFNtS3h6akQ0b050aHlCNldaWUc5c3Q1dW5KRDhkS3YxMGMzcVp2eVJmUlkyVmpWY2VMb2cxV09fVlN3Mm9KRWhuLWc5ZFpqMFJ0VHgyNVdJUk1WRnFISTc3YUZ3TF8taFpLemVnMTZLaHZ0ZmxiR3JpbllvOTMyTDRpVmlfaEJWSkstcWFkaHoxVXB0alJrVnp4T3dIMDBfc1d4WDA5MEE?oc=5"
     },
     {
       "source": "Daily Hive",
@@ -537,6 +537,16 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNckpUVi1sSmxYUG1kbXJVd1NQUHJFUm53ZnY5WXExc1hJSjJyNGxFOXVHVmIwNURVaTZNQmFWd3FRUlpteU1KUkVId1JxMy1LTmUtTFVxZXNjQnV5QTFkd0VpVlo5cTBuNzZsX0JqRl9yaUZxMGtYOW9SZS1UNFI2bk9TNlhnMEwwWG5hb2hfdzgyRlBXUHlrQlR1eVdZMXV2dDlqV1g2NXRHcXN6ZmlxXzRlTzhRVDJxc2RkWlNTVXBHanpfMmc?oc=5"
     },
     {
+      "source": "Rocky Mountain Outlook",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Province has final say as Bow Valley municipalities navigate all-season resorts plans - Rocky Mountain Outlook Province has final say as Bow Valley municipalities navigate all-season resorts plans&nbsp;&nbsp;Rocky Mountain Outlook",
+      "date": "2026-04-06T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSFZoOF8xNXc5S3ZOTHBRZk9JeGV0ZXI5WUlWYTBSMG9KY0p1elhrcjd5ZzNTcC0walctNVVWamlMbGc2eDQ5VjNucWllekhMOHlJdzdHT3JheXdqdjZOZkhxdzFLeTNLc2FsU2xvZWJNWjQ1ejFjWk1nSTJ2ai1Eb2M2a3d3REVZdEl6cGJ2YmwzaFVmZXhVYnNwRV80LVNkS3Z2S0k1NW53MlZ0Y1VpcTB1U0xBV2l1TUo2NW5sY3Vsa29oNXBr?oc=5"
+    },
+    {
       "source": "CBC",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -555,6 +565,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDY5LW1lb1lPaEtNWTM2RkpVX3NWRU5oYmljRXJiNE16MUwxekRDOUgwMXM4WmpHMVk3NFkwVzNjWDhTTzhHdUt0ek1uMGhoaldRZWxiZEFFU18tbFBURVNqQ3EyZ1lzNXc5X3JWRE5rbVk4WWM2MUZMMDAxOXpEbDZZNnlyTDliU2x5M0RqWkpQN2ZEMFZVcmg0bUloNTUwdUdQcjhJQV9uNkdHbnc?oc=5"
+    },
+    {
+      "source": "The Energy Mix",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Carney\u2019s $3.8B Nature Plan Calls for Additional Private Capital, Drawing Criticism - The Energy Mix Carney\u2019s $3.8B Nature Plan Calls for Additional Private Capital, Drawing Criticism&nbsp;&nbsp;The Energy Mix",
+      "date": "2026-04-01T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSzBTbGlDOWx0c1BlcmNVUU1YdHdGTG1tbUl0NXp0c0hyLWNFNVd6b1RMejZYSUwyeWlYT2QwZzA4MUZMaW1lbWRPWk4zU2lpcGhJTmpiNHZoNmlSQWZBNFVOMERMVkRuZVctZUQ4UlNTbzl3aHAwNEt6QlcyRkZGUW4wZF9Cc0k4bWxFby1sMWJjTkRsTUYzQ1RVaFBNUUxvamtnVGNBclpDSDdmSWc?oc=5"
     },
     {
       "source": "curiocity.com",
@@ -587,16 +607,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOR0hSUDJJVmhqTGhrVFVoOUgxYVRhNVpZM3RycHhxa3lhVFdqRU4zQnNaRzYyOVhVdmNaaG0tQkxxNVBFZ2VsX2MtMElFZ2tFOEZ6bldfWTE3Y0Fpa1Q5RTBMZWEzeWNJdkgtR2ctX0tFWF9zYUdlSHFPZkFkZ2Q1dFphWC1rZE9MdjBYeA?oc=5"
     },
     {
-      "source": "MSN",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Clearwater-County, Alberta Weather Forecast | MSN Weather - MSN Clearwater-County, Alberta Weather Forecast | MSN Weather&nbsp;&nbsp;MSN",
-      "date": "2026-03-28T08:41:51+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmFzQXNRbXVHYkNucmNZRko0YVowY1RCOVduSXdZNjEzaEE1V0NMbXV2czlySFJxQlNfMmkzRDRUVnFoQVFqR2dwMmU0bkx6Y2VoeHVtam5HdzlpNHFweGExTTlSb3RSU0lMdGxRRF95ZXNBNkotbFpUMGNaNzZuRnhLT0tjVFhaQlNmcXFIZnRWOXRoV1ZF?oc=5"
-    },
-    {
       "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -607,16 +617,6 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVXM4MnF3eWFxa0w3SGhDa1VzOHFlLU5wSXF2RUNqMTkxUjlTdGRSaUhDRmZfUEtaOVhobF95eEdxV3ZrVEtSeTZqaE85cnJqbEdpeTN3d0JvLVZvUlhkWHhvdXVqem9IQVZZWURWejc0T3d3MjR0ei1ZcGVlM2dyeU9MWGR5cFpLazdtTUI5UTBZdEltMEI1TEJITDBKYXFZRzNTNGxfb0dCZXdjT1pqS0gyOGlINUpZdGo4LXdHdW5CV3BERzNCTg?oc=5"
     },
     {
-      "source": "Toronto Star",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "Report finds beloved Alberta T. rex tourist draw has issues but far from extinct - Toronto Star Report finds beloved Alberta T. rex tourist draw has issues but far from extinct&nbsp;&nbsp;Toronto Star",
-      "date": "2026-03-26T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMWg0YW9sbXhOS2dDZlRKVHVZMW95WUlqLW9aYlZjd1FrazlFR0VZbG5lWVFweG1PVmxiTFRSNnNOdWNPQ2Z0NmRZdkx6Znc3ZmFiQi1ySTZ3UGNwZ3F1ZWh1a0pWT2oya3lxa3NIMjliOWdCRk1oXzFEUE1MZEVucld0ZlVselpGa3puOGZMOVpwZ29NVjMwY2FYQnR1OUJDRnl3RTY2OUdvV3JKeXBoV3V1Tm1uZVBtS0ZOcUVmdy1UUWM3emJqd1RXVzRQNW1VeGRqUm40S0tKNkduZEZmOUJuU0JQQXRVT2VJaTZHMFRyU19pejRJRGtWVldlVlVJU2tF?oc=5"
-    },
-    {
       "source": "Rocky Mountain Outlook",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -625,6 +625,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTXU4N193OGtFS2tNNjhJM0RnM1JHMThySlVUNGJrWlM4MnVocUdYRG9selZLdzIzalczVTRpelVwMDVfb1RWZmxyQ2c2eWxrTFFVZ0NRTFZNN3l2Z3EtMk9lT0txY0RnMktNaDNrZXVxRW14d1A3dTlGNDUxUFIyeDFrMDhvTG81MEhjUlJpNEVmNFBaODRxdy05ZWVfdVhNbFV1RFB3Wm4?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "'Widespread avalanche activity' possible in Rocky Mountains, says forecaster - CBC 'Widespread avalanche activity' possible in Rocky Mountains, says forecaster&nbsp;&nbsp;CBC",
+      "date": "2026-03-18T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Safety & Incidents",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNampPQmdGaEVDM2l1bUc2ZDJmb0NwWGdtbTlpUVRyY2pXM29fbHRNVDlMckZ1SUU2bjRJU0p0UHl3MEpZb2g3QUZ2WTdQLWhrQ2lYZDk4a1RBcFR0TVItUXBXWHFHaHNiMEM3ZXk0alRyLXhsRmdDbmthcGNZcl9ENU1uRFJaelp3V2JnOUFIeGN1bnZnNkIw?oc=5"
     },
     {
       "source": "CBC",
@@ -650,16 +660,6 @@
       "source": "CBC",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Canmore gondola project in review under Alberta's resort development legislation - CBC Canmore gondola project in review under Alberta's resort development legislation&nbsp;&nbsp;CBC",
-      "date": "2026-03-18T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8zTnl6NVhfS0pENUhvRl9iRzFSWmhJYVFtNkdlajdhdU1Oc0hUbl9HV3FzU09KZHlJaFBBbWg0Z1Zpa3MtZUpjS3oyMEEwSmlm?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
       "text": "Alberta judge quashes environmental review approval of Rosebud motorsport project - CBC Alberta judge quashes environmental review approval of Rosebud motorsport project&nbsp;&nbsp;CBC",
       "date": "2026-03-18T07:00:00+00:00",
       "engagement": "Article",
@@ -675,16 +675,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOclVEVF9FWGNueXdlU01DOWZOVVNYbkRGM0JkMVlzX19xUHhsUlpGMmlHTllFZ2NMVDdjN3RfU3gyRUV1eXIzaE14OHRweV9DbW5va3BVVEVQeTVBNWVNTzYtVThPNVBCWW1jYWk4SUJWNDI3U05LbjB1RVBXYnZEYXc3XzI0Zw?oc=5"
-    },
-    {
-      "source": "Travel And Tour World",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta travel development - Travel And Tour World Alberta travel development&nbsp;&nbsp;Travel And Tour World",
-      "date": "2026-03-17T20:00:26+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTHF4c2c2Q3A1c3NZcGVoU2kwTlFGVU90QnJJT19sQ2FyUkRnMDdCNG1QR3pxRm1aNXUwRHdyZVVHWTVFSURybGVJR0hnakJRdEN3U0VfS2RMRmNDMXRNLXcxdk9VT0Y0a2hNeXBQMzVlaXRXS3VjNUd0YWNrOWhYQjRqeEN0Zw?oc=5"
     },
     {
       "source": "Travel And Tour World",
@@ -721,7 +711,7 @@
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into provincial parks&nbsp;&nbsp;rdnewsnow.com",
-      "date": "2026-03-16T20:46:06+00:00",
+      "date": "2026-03-16T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTZFZGdyNVBpcnJBbWxydUJZbWk5N1YyaVEwRlZzaGU5NVQwbXl3RUhodW5rRjVReW5GV1VjWmU5aEFJamVUa2ZfOV9rbVlYSUtCMmpzSVBlOGpVSEUxTlFTNHI5cTBGMzd1d0k0UFZkaC1WV1JyLVU0ZkNDQURvcVpfNFVWWXF2d2pBYVEyeldaWGhjcW9DSw?oc=5"
@@ -761,20 +751,20 @@
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "How Iran hides its military might in 'natural fortress' mountains while ships become sitting ducks - MSN How Iran hides its military might in 'natural fortress' mountains while ships become sitting ducks&nbsp;&nbsp;MSN",
-      "date": "2026-03-14T15:42:33+00:00",
+      "date": "2026-03-14T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOb0lTYWVkSG5yS0JiVUNjOXFYbllWVU9TZkltU3ZsLUhkVW5WVnduT1A4ZG9UeEt3dUFtdE9ycGRaYmlwOHVOQUd1Z2N4dEQya19IUUtNNDZxUnd4SFJpNXZ6OXQ4bklmT01mZzVVcjdqb0xraHJGMGNTa2FQNVZkbDJsbjJSdTJZZnhKbFFQdVhSVjBBQ2FydzB4MXdWMnp6MVlQbkV2QUtDcUNpNXYweUUtUHdZNzZzMkc0bzRSdU5yRzdyTFRzMDczNnhjOHJ6bXlTbWYyMFdFRWRub1E?oc=5"
     },
     {
-      "source": "StrathmoreNow",
+      "source": "centralalbertaonline.com",
       "resort": "fortress",
       "sentiment": "positive",
-      "text": "Alberta working to develop 900 campsites under $275M parks investment - StrathmoreNow Alberta working to develop 900 campsites under $275M parks investment&nbsp;&nbsp;StrathmoreNow",
+      "text": "Alberta working to develop 900 campsites under $275M parks investment - centralalbertaonline.com Alberta working to develop 900 campsites under $275M parks investment&nbsp;&nbsp;centralalbertaonline.com",
       "date": "2026-03-11T07:00:00+00:00",
       "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdl9EZFc1YjdHNm5jV2VTWG1KR1lqdVFQaXhMSmZaZDctc2tqYVhneEx6SndHTnpFcHRNRnpVVGdIUzJRTHBoMHpZdHY3NFRjQzhYQWJOenRSRmN2cWlQdjJjVFFWa0hjYnI0NldFbHNCRVNDN1ZkQWFoM2ZYbGZuZWFZMU9uYnZRUm9lb3Z5TElSbFdLX2Q5UUdRdFZGNmtwNTZRN3d3?oc=5"
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1d3ZWlsOHlQOGF2V19MR3B6Mmx0aWhIaHRIUDZINFQzNTJMdGNKQm1jX1J1bmVjTXlnVGZsRU8xamY1UkN2Y2NXbzl0THRINzR5QTBYOTYzOUVkRHotTndleFBfc3JZMUFQQk5DQ2h0N0YwUWNMZm1OeTdiVU9Nd2tCSW84LTFLZ0xfaVkxV0doSFFIcDlOa0JGR1ZpMkxjemIyNXgwY0hGRng3N19N?oc=5"
     },
     {
       "source": "CTV News",
@@ -785,6 +775,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSDJORHRyaHlKdDRSYUtkS29wMWhXTmh4SEZBb3pCblBKT1gyLTFpeEh4MUtXV1NTTWpLckNIU1JpRW5IU05JMEtQbnJWZDAyZ3Zvd2NNWVZ4YUhOaHFheFc3YUxEYkhKSVF6d3JWUzkxX05tY3ZqREtBOUkzVVdKb0pUcEFPZWh5Q2tGNDEzcU90bnRHVjZuc0h0TmZLWGRxYkNZYTVEZDdvaXlvQ2xFVkZ0eUFOSGs?oc=5"
+    },
+    {
+      "source": "constructconnect.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Skis and spas: Proposed Alberta all-season resort a test of new legislation - constructconnect.com Skis and spas: Proposed Alberta all-season resort a test of new legislation&nbsp;&nbsp;constructconnect.com",
+      "date": "2026-03-11T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Facilities & Lodging",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSThOOXI2SDlQNS1zWW9HenVyZU5YeURwRElBVEQ3YlZxR1Y5X2plaVdvbWpzb3NTRC1fbjhMb1V0R25ELU9tYzdDY2RXMmlxcEVvMXh5TTVEdXQ5bHZuOU44UWhRWWhJOE1odnp1eTBldThpZnJCX0E5dTFqWEpUbFVjT1J0QzJteEwxZ29JS0ZCeGJtcE1JYUpmYUExQlZrTzZrWEJzelVpdlkxSS1Xc1diSEpDUnNBVHNWT1JManN2bEwzSURLSjU3cUhncFk4VlE?oc=5"
     }
   ]
 }

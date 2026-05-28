@@ -1,34 +1,34 @@
 {
-  "generated_at": "2026-05-27T16:42:02.603811",
-  "date": "2026-05-27",
+  "generated_at": "2026-05-28T16:59:29.044195",
+  "date": "2026-05-28",
   "summary": {
-    "total_mentions": 803,
+    "total_mentions": 801,
     "positive_pct": 8,
-    "neutral_pct": 87,
-    "negative_pct": 5,
-    "negative_count": 42
+    "neutral_pct": 86,
+    "negative_pct": 6,
+    "negative_count": 46
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
       "total": 516,
-      "positive_pct": 9,
-      "neutral_pct": 84,
+      "positive_pct": 10,
+      "neutral_pct": 83,
       "negative_pct": 7
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 52,
+      "total": 48,
       "positive_pct": 8,
       "neutral_pct": 90,
       "negative_pct": 2
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 99,
-      "positive_pct": 4,
+      "total": 103,
+      "positive_pct": 5,
       "neutral_pct": 91,
-      "negative_pct": 5
+      "negative_pct": 4
     },
     "grandecache": {
       "name": "Grande Cache",
@@ -39,28 +39,28 @@
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 79,
+      "total": 77,
       "positive_pct": 4,
-      "neutral_pct": 94,
-      "negative_pct": 3
+      "neutral_pct": 92,
+      "negative_pct": 4
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 456,
-      "avg_score": 50,
+      "mentions": 458,
+      "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 79,
+      "mentions": 76,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 50,
+      "mentions": 55,
       "avg_score": 49,
       "sentiment": "neutral"
     },
@@ -72,38 +72,32 @@
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 39,
+      "mentions": 40,
       "avg_score": 48,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 38,
+      "mentions": 37,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 22,
+      "mentions": 19,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Access & Transportation",
-      "mentions": 16,
-      "avg_score": 50,
+      "mentions": 18,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Pricing & Value",
-      "mentions": 15,
-      "avg_score": 48,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Events & Promotions",
-      "mentions": 10,
-      "avg_score": 50,
+      "mentions": 13,
+      "avg_score": 47,
       "sentiment": "neutral"
     },
     {
@@ -113,9 +107,15 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Family & Beginner Experience",
+      "name": "Events & Promotions",
       "mentions": 9,
-      "avg_score": 51,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Family & Beginner Experience",
+      "mentions": 8,
+      "avg_score": 52,
       "sentiment": "neutral"
     },
     {
@@ -126,8 +126,8 @@
     },
     {
       "name": "Regulatory Approvals & Land Use",
-      "mentions": 6,
-      "avg_score": 54,
+      "mentions": 5,
+      "avg_score": 55,
       "sentiment": "neutral"
     },
     {
@@ -167,6 +167,13 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawk",
+      "detail": "Highway 40 from South of the Kawka River to the Norbord Access - Government of Alberta Highway 40 from South of the Kawka River to the Norbord Access&nbsp;&nbsp;Government of Alberta",
+      "theme": "Access & Transportation",
+      "date": "2023-08-16T06:40:28+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Alber",
       "detail": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Albert Gazette Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache&nbsp;&nbsp;St. Albert Gazette",
       "theme": "Tourism Strategy & Policy",
@@ -174,9 +181,9 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Provincial government allocating $275M into provincial parks - EverythingGP Provincial government allocating $275M into ",
-      "detail": "Provincial government allocating $275M into provincial parks - EverythingGP Provincial government allocating $275M into provincial parks&nbsp;&nbsp;EverythingGP",
-      "theme": "Tourism Strategy & Policy",
+      "title": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into",
+      "detail": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into provincial parks&nbsp;&nbsp;rdnewsnow.com",
+      "theme": "Snow Conditions",
       "date": "2026-03-16T07:00:00+00:00",
       "sentiment": "neutral"
     },
@@ -188,36 +195,29 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into",
-      "detail": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into provincial parks&nbsp;&nbsp;rdnewsnow.com",
-      "theme": "Snow Conditions",
-      "date": "2026-03-16T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&n",
-      "detail": "Alta. county says no to bylaw banning wild boar - The Western Producer Alta. county says no to bylaw banning wild boar&nbsp;&nbsp;The Western Producer",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2023-04-06T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
       "title": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citize",
       "detail": "Central Alberta citizens band together to fight huge new water licence for fracking - The Narwhal Central Alberta citizens band together to fight huge new water licence for fracking&nbsp;&nbsp;The Narwhal",
       "theme": "Environmental Assessment & Compliance",
       "date": "2019-01-30T08:00:00+00:00",
       "sentiment": "neutral"
+    },
+    {
+      "title": "Alberta government slashing regulations for identification, international professionals, tourism, hunting - CBC Alberta ",
+      "detail": "Alberta government slashing regulations for identification, international professionals, tourism, hunting - CBC Alberta government slashing regulations for identification, international professionals, tourism, hunting&nbsp;&nbsp;CBC",
+      "theme": "Tourism Strategy & Policy",
+      "date": "2025-11-17T08:00:00+00:00",
+      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
       "Tue",
-      "Wed"
+      "Wed",
+      "Thu"
     ],
     "positive": [
       8,
@@ -229,72 +229,72 @@
       8
     ],
     "neutral": [
-      87,
       86,
       86,
       87,
       86,
       86,
-      87
+      87,
+      86
     ],
     "negative": [
-      5,
       6,
       6,
       5,
       6,
       6,
-      5
+      5,
+      6
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      451,
       449,
       453,
       452,
       458,
       453,
-      456
+      456,
+      458
     ],
     "Snow Conditions": [
-      78,
       77,
       82,
       81,
       78,
       78,
-      79
+      79,
+      76
     ],
     "Safety & Incidents": [
-      55,
       57,
       51,
       52,
       51,
       49,
-      50
+      50,
+      55
     ],
     "Lift Wait Times": [
-      48,
       46,
       48,
       47,
       41,
+      46,
       46,
       46
     ]
   },
   "feed": [
     {
-      "source": "The Albertan",
-      "resort": "fortress",
+      "source": "Snow Industry News",
+      "resort": "castle",
       "sentiment": "neutral",
-      "text": "WILDFIRE UPDATE: Blaze northwest of Sundre now deemed under control - The Albertan WILDFIRE UPDATE: Blaze northwest of Sundre now deemed under control&nbsp;&nbsp;The Albertan",
-      "date": "2026-05-26T21:00:00+00:00",
+      "text": "Castle Mountain appoints Chris Salhany as president - Snow Industry News Castle Mountain appoints Chris Salhany as president&nbsp;&nbsp;Snow Industry News",
+      "date": "2026-05-28T01:24:05+00:00",
       "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjFHYUxXQlJGeTR1bWM4WnJIVlRaQVZfU1dYZzlTSUtIZ3dqSTVMMmxxc3QxdVFqU0lvLTFNREpEQzdVVlFUVTViUjhZTHBabXFKMkhUUFJaeG1TX1g2ME12RWlodHBRVUxDd0toWmlpU210aWFXd3Q3bDc2Z09FYzRjUEhRRUx2MlpUWk9mdlM5RjNBRkF6TjBuSmpGUG9SYVljMkJyNFZlbE5BVUdyZU5wRHdjSFdnSkFDREUtNDhrMzFnOW9Xag?oc=5"
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaXRBb3NzOWxVWWwtdDZ4S3E4UU5LLXFqVVRHZHdrWlFva01EUHRBMVFqcjBRNDhwa2tBVE9ybUpGWkREelFkRUlVeW5aalpxYnNYRDhzYjFmbnRTUXZzTzk4dTlzcEhzNXFoOEFNdGFwdi1GdFdyQk1Kb0xrRk11d0p1bGNWMW80YU13aHVYMWJDNGh6WS1GR1RvWkt2MTdINjRpcXpveDdxMnl0enc?oc=5"
     },
     {
       "source": "Western Wheel",
@@ -317,10 +317,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXdzcGVnWHo1dmpFS2J2SGdaR1dySDRJWTlYUVlqRlFoSmYtUTQxZm9QcjViTlBmbmRzYXgzNGJHeVJCay11eXliQXRaaHdYZ0dtUE1LRnpSUmxyY29PX05NY0llck9MM2xFUDV5dlhkT0EzUVI4TllJTlBmd2ZHT0dLX3BKU2ZoZ2hjbWZGQ09jLThTbHhjZUxFLUZaWU9IRF9mX2xpR3k0ZDhGWG16OFN4S21qVDlNN2x5V2t0MWo2S0JsaGNTQk9vdms2bXVmYlE?oc=5"
     },
     {
-      "source": "Finestre sull'Arte",
+      "source": "finestresullarte.info",
       "resort": "fortress",
       "sentiment": "negative",
-      "text": "The Fortress of Bard chronicles the evolution of the mountain landscape through paintings, drawings and posters - Finestre sull'Arte The Fortress of Bard chronicles the evolution of the mountain landscape through paintings, drawings and posters&nbsp;&nbsp;Finestre sull'Arte",
+      "text": "The Fortress of Bard chronicles the evolution of the mountain landscape through paintings, drawings and posters - finestresullarte.info The Fortress of Bard chronicles the evolution of the mountain landscape through paintings, drawings and posters&nbsp;&nbsp;finestresullarte.info",
       "date": "2026-05-22T11:09:49+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -357,16 +357,6 @@
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTE9MX3VMcC1mZmViOGpnSzQ5VTZlSzVXQnh5VVdPMDYtRkROa185LTI5TEFLb29IcndYa2ZSYjlkRzBKMkRiRko5c29JZmtwcFlXMDFwQjBhSHUyZkZqX1ppT1FCWlpxdkM3cTd5TE8ySUR1STJTY0VyWjZCTnBucE4yNW5pN2dZOHZCTVYwV0ZwRjJBT1U4QXVxakE0a3A0Q25tN0hRY0hOVEE5YWJOSENlNmxKa0lXbXBxMFdHMkxuNEtJY3Q4NHFMM0ZLblZYUWhzQUNjaENUZm56aTFtNWJTb1M?oc=5"
     },
     {
-      "source": "CBC",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Emergency alert cancelled as firefighters make progress with Clearwater County wildfire - CBC Emergency alert cancelled as firefighters make progress with Clearwater County wildfire&nbsp;&nbsp;CBC",
-      "date": "2026-05-19T19:32:12+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXNObmo5TmNkcFh1ZFB2RXVPNmg3WUhWaVd5eEhzTnVzUFpZc2JHOWZ5Vmk0QkJqUlVRN1dUWGZ1TVEwZFpsUVZpUU9JSUZudEVIOUwzaWFtM3N5ckc1SUV4Uk1iOE01d091cEtON1cyemRERE1VWXA0YVB1eXVxS0hTWXBXS2NxcWtLRDloSVMtNEF4MDlF?oc=5"
-    },
-    {
       "source": "St. Albert Gazette",
       "resort": "davidthompson",
       "sentiment": "positive",
@@ -375,6 +365,16 @@
       "engagement": "Article",
       "theme": "Summer Activities",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRW5VYXVtcEtuNzdpcWZEc2FXajZIa3RFMUo5T01nb1JZTjJwaVdxNElyTnpjNGlDb2lYOHpIMElyQ3l5YUVZNUctREhQZjZDam1XN3dwWWFDZm5IWHVGbmU2UGtCb2VGeHlobFo3MlU2eWNzQXgwSHBiQlNVaTRBLW84UktkQXAxWEI3N0haTkQ4QW5STzY4aHc1TXZ3dnJJTE5VOXJWTU41RmtZaFRkRUpMSTN4S0JLZVBaTGwxTnQyaEtBcEtaTVhKU3A?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Emergency alert cancelled as firefighters make progress with Clearwater County wildfire - CBC Emergency alert cancelled as firefighters make progress with Clearwater County wildfire&nbsp;&nbsp;CBC",
+      "date": "2026-05-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXNObmo5TmNkcFh1ZFB2RXVPNmg3WUhWaVd5eEhzTnVzUFpZc2JHOWZ5Vmk0QkJqUlVRN1dUWGZ1TVEwZFpsUVZpUU9JSUZudEVIOUwzaWFtM3N5ckc1SUV4Uk1iOE01d091cEtON1cyemRERE1VWXA0YVB1eXVxS0hTWXBXS2NxcWtLRDloSVMtNEF4MDlF?oc=5"
     },
     {
       "source": "My Mountain View Now",
@@ -387,11 +387,21 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNSQ180ZVhYVlUxTlBFNmRUMTU4cDRKQU90bURic1lub3luR25BQ09LNlNDYzlYNy1aTUJJRGZoRnNwT0owY0VwRWNKM3MxZTBvZXVCWk5nWWE1dTVsWG1QeUNQQkd5WjY4LTFaYkVIUHpVX3pLQkxBLUo2SXdWWENTcjdhTGtDZkwyRnVZdEVZenltc0hxQm5DN2lxMHNKNFdGek1hSnFMcWNCLWxkY2xPdi1FNnJoR21vVnd3LUhucWRIZ09PN04xNDQ?oc=5"
     },
     {
+      "source": "MSN",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "Alberta ski resorts worry move to permanent daylight time could drive visitors to US - MSN Alberta ski resorts worry move to permanent daylight time could drive visitors to US&nbsp;&nbsp;MSN",
+      "date": "2026-05-18T07:02:07+00:00",
+      "engagement": "Article",
+      "theme": "Access & Transportation",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTJYLUxnZTd2Qy05RWlwajVnYWUxN1JBSHppSDNxSUFndFNnX1VnWnJqS3RWTzdGblBoeW5RVU00QzJNb2NxV01RZUpUVVpEOVZKdkk4MEZ5dWRjNVQ1dWwzckx6ZHR0WmFoTnlBeFZoWUNkN3U3VUdibk1xVHFLMDJvdDNQNlhCSVZSMTltM2lJbjNpZEthUU8xOE80TnkyT3JoQ2hZeGNKcnNpRExwZ1plLWxYZ2YzZ1p2ZTFLU0luV2lNRzhVUHdXb05WZVdrOVpGYjB3TFVXdw?oc=5"
+    },
+    {
       "source": "The Albertan",
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "WILDFIRE UPDATE: Blaze northwest of Sundre being held as danger downgraded again - The Albertan WILDFIRE UPDATE: Blaze northwest of Sundre being held as danger downgraded again&nbsp;&nbsp;The Albertan",
-      "date": "2026-05-18T22:30:00+00:00",
+      "date": "2026-05-18T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Safety & Incidents",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRVBzNFpUdUNNX1JtSDMzM2hFanBmeGtJSzJNX2pfXzNvMTJpeGgtbjBTV3lReWZyMUhYNVFtemF1N2k0Yjg0T1dQcXE2QlFGelVZXzhtVlFxdEhJaVItc0R4TFJwY0VwbFJ6YmtNVE1US3luM3REZ0ItUUxzLUhvT0dKa2tndUZhR3oyVHN4TlFPZXFOWXZTeEhYUGJ0ZTRLR1Jya21Lak5QVXFacFBMTUtOaFZCNmpKYVpVQTF5cFMxOEw0R2JkbWpGbUR2R09WSDE1Z25DNFY4dw?oc=5"
@@ -427,16 +437,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXZFNmtZaXIySGpaYms1b2xyS0NsekR1M3J3ZzNGUFVkVzZUM280cHNQZ0MzTmNMMGxEV25ERlkycFBhZy1XblRudzlFanF2emRuUGNIbUszczVGUjZXTXYtQXctS0xkSkRXREw2Q1pQRllHVndoZ2xfNFRNUnE4amxFTHo4SVN6Wm9YQzJGSUZGVV9qdUw0YWlYR29wNzdrRXc2OFdLNEF6a2o1amQxcENFTmFFMUcyOE45VW5vR1VabFJhMzBoTk9RYw?oc=5"
     },
     {
-      "source": "The Albertan",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities - The Albertan WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities&nbsp;&nbsp;The Albertan",
-      "date": "2026-05-15T22:57:25+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVhhU2xuUDRqdmpUY2FwREpmVEdWWVFlWmhMSFNYOU1wbDJ4SDRWWFBBX1hVMW9RdVpiMXQyNVNFZDdFQUVocVlfOUJUQnRMSVNtWTY5QUpWTUVBd3dvUFlncGZKTWNKSFJwTlplUHI1LXB1SnZGdE9mSy1lbUZmQUZtUk5xblYxWkFnU3JjMTZEN1lzRkZ1N3F1TjRuR2tfbGpOT2kzMTFVclRuWGVWU3pjTGFoZml0eHRrZktrY0FDT212bmlESU1vWkpuV0V5aGI4T2xwTVdWQQ?oc=5"
-    },
-    {
       "source": "cjwe.ca",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -455,6 +455,26 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaTZ4MVlSeG9oSkFncklpWk91c0tGUjhCQ3JUYlJmdndLemZ0QmxORlRlMGJpRzFIaEFxM0pmNHQ4QS1QN2Q1VFVvUWd4aEJCWDhrT0llVGVUaDdpREw5TVpyVW5vUmIzY2hodkxLSVpqRnNT?oc=5"
+    },
+    {
+      "source": "Calgary Herald",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Out-of-control wildfire causes evacuations in Clearwater County - Calgary Herald Out-of-control wildfire causes evacuations in Clearwater County&nbsp;&nbsp;Calgary Herald",
+      "date": "2026-05-15T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdU1xYXY2aFpWSTRsZTQ1dzVlb21jV3g0dGN2X3RlWVB2T1dXZVZpZGNIYmdoSHJ2dFhMSWxuVWpQb2E1UUpXUGxoVTFLYUpwek1QY0MzMk91dndaVkk3enV6X1QwNlVoRUFXLTZYUTJ2Njh0bUYyQzIwYnBQOC1xSDBfbnhRUQ?oc=5"
+    },
+    {
+      "source": "Cochrane Eagle",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "WILDFIRE UPDATE 3: No immediate risk to Mountain View County residents, communities - Cochrane Eagle WILDFIRE UPDATE 3: No immediate risk to Mountain View County residents, communities&nbsp;&nbsp;Cochrane Eagle",
+      "date": "2026-05-15T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNM09VbU5oS1plZl90cHFtclR4dkhILTM2UmZCMHZGZzNEQ3Jzc3BWV3lOdGZUMTdoYnhkOFM1UVIxRkttdUFHRFhWd1I3OUFGbFZscUlrX3l4ZXFObk9vUnVsZE5fVXAyQ2hoYUhaaTJjSjFRcXlDUWV3ajFlNDZvaGR6ay12Rk1SQVJhV21ydGJ3c18wLUZmbTV0RDBLVzFVYTVTeFVXSlhkN3VKR2ZIV1VTQkZSblFyd3dfS2YwaFl5SEdxbV91RlJn?oc=5"
     },
     {
       "source": "CBC",
@@ -477,6 +497,16 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTJBMWRVM3ZiUXgxODgzc1JLZnZua1A2czRESE1xcUtnaWFJUG9XbndNNHRFVjN6QjFpLTFxYzJBSnRING1yNkpCRUphZlpLaDVXcFItYlBPUzNPQ3pWT0pXdElNNzVudWVUNVU1bUprZVh3VFpZcWlnMktPYTNObG5XcmFWaW1MUlF1eTNlMzBtWGE3bFlKZVRtSWtOY2JoaHc?oc=5"
     },
     {
+      "source": "The Albertan",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Sundre joins Mountain View County in imposing complete fire ban - The Albertan Sundre joins Mountain View County in imposing complete fire ban&nbsp;&nbsp;The Albertan",
+      "date": "2026-05-15T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObTRjTEhXcTJCamJYS1NqakJNNlk3V2Nja2JtRlg1eldOZDZWUEtWcnJ3Mm84ZFZqX0FaT05yZG5aVTVYMnFaaFo5YVN2SnFQMFdabGhPeDRvdXZWQzVSdWdPMkM4R0twb0ktbi1UbFZNUjFUc1hVSzJXVjl1X3FWbkQyOF94YzF1LURkU3N6dEZFTi1uV3lDTjNrMGEtYS1kRVhSQXhwb2hwcW9aak1CUVZn?oc=5"
+    },
+    {
       "source": "Snow Industry News",
       "resort": "nakiska",
       "sentiment": "neutral",
@@ -497,10 +527,10 @@
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWE5oLXJOcFdaUkdHdElmZG5NX21xNEVNbkQwTTVURkx0dzcxUEJCZGJwc2J0OTZkS0RDSzZ1RjR3NmZ3Q2VHNTl4SUxYbkg0MzFEaThCY0JkRmlrbHdEMVBSQjNhVkFUMWhCaUREX2ExT3FPYXI5clBHZG1WR2lHQVhpZmV0eTYtbVM0MmEwSFJqZk9rLXcwVk5ab3Y3YXpyWkU3ZkJVcGdYVncyTm5jR1BlYUowVEtEaXJKMV81X1JaVWsxTEFudEVMUW5uZw?oc=5"
     },
     {
-      "source": "vancouverisland.ctvnews.ca",
+      "source": "CTV News",
       "resort": "davidthompson",
       "sentiment": "neutral",
-      "text": "Wildfire alert issued for Clearwater County in central Alta. - vancouverisland.ctvnews.ca Wildfire alert issued for Clearwater County in central Alta.&nbsp;&nbsp;vancouverisland.ctvnews.ca",
+      "text": "Wildfire alert issued for Clearwater County in central Alta. - CTV News Wildfire alert issued for Clearwater County in central Alta.&nbsp;&nbsp;CTV News",
       "date": "2026-05-15T00:43:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -557,16 +587,6 @@
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpZQXdhdnA3X3ZvNFBUVEhhLWROeW9aZ1dEOXdhYnpwZ21tTWFSUFdRTWZ2aHdnOFVZdnNBcnVzTzJXVTNvdnZDc0ZKeWFGR1Zpd1U3QTFCcGFKVVBtTWI2OHlucEFrTlVxQjRrWHBVMF9ndjVPXzM5SWpPNmtBSk5lX0VuNklDUWtkRFJLWQ?oc=5"
     },
     {
-      "source": "DiscoverAirdrie",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Update: Smoke in Didsbury likely linked to wildfire northwest of Sundre - DiscoverAirdrie Update: Smoke in Didsbury likely linked to wildfire northwest of Sundre&nbsp;&nbsp;DiscoverAirdrie",
-      "date": "2026-05-14T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY1dFdWRPWWNYZTh6aFg4NHF5V0hzQl9xeGhGNjlKX3dhLTF5ZmNJc3cwdnMxVHpkZ2pDT1ZVZlFzdmRBbDVGWEtqYUJOMjRSd1Nqa0IzTUdHdmVTQzk2QU5KQnlaYXppbkJMdkl4Sk1zQ1I5YVJLMEVOM1hER1Z3d05MeHBCcnQtaHdqdzdRQmpRQXh0TGROMHB0TFN2Y1ZacHc?oc=5"
-    },
-    {
       "source": "todayville.com",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -585,6 +605,36 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWhmYUs4NEVJWml2ZkJXM19qRHcyMWs2YWVPbUdoeXNuVHYwcHpKNWM3R1pMT1hoUERkMzIzWlRQRjU1UnBLZEpNYTBmQVRYcHFrb05sanNqOThDMTBhVndWQV9DSjZRdWdaSkxhcE9BN2ZIQ3otbHNBb2VvWE5ocDhyb1RaSk55aXpzVWR0Nm9HOExHaFQ3NnBXQ2JqWkN1?oc=5"
+    },
+    {
+      "source": "MSN",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Bear euthanized after visiting Alberta summer village - MSN Bear euthanized after visiting Alberta summer village&nbsp;&nbsp;MSN",
+      "date": "2026-05-11T22:13:26+00:00",
+      "engagement": "Article",
+      "theme": "Summer Activities",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVjdRcF8wN0FCbGROQk5SZDRaNmV2SzFya0Y0M1VaMGhMWDNFWDQxeXljX2dLazNEWnA2VG1MajRIMzZ2Y2dJUEdrUWdhLXZteGdWSGV1cmlPdWc2QXNuUnlWOVBkREdlb1RhSERfYXRuRjk3SGRiQkwzWnRzMFg0WGRPSG5aVVlVZGh6ZHBvalZ4RGt6eU1oOW9GVnZGd2c4ZVNFbmFB?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Bear killed after visiting Alberta summer village - CBC Bear killed after visiting Alberta summer village&nbsp;&nbsp;CBC",
+      "date": "2026-05-11T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Summer Activities",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEx5aDFwMm90MTRLSWUycGlRbEJVNENMcW13ME5nM2J3TW5EZWRTUmctQlJGTTlPQjNZNHVfS21BX3p4V1c3eWlaS2gzT0trbmFjVjNGaXJlZFJ1TWlHanhBb3F0SVp5VjVGVTh2ZjZQMFQ4T1F4YWpyeDhUazZUblVsUHZraENU?oc=5"
+    },
+    {
+      "source": "Edmonton Journal",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Tuesday's letters: Alberta ski resorts can adapt to daylight time - Edmonton Journal Tuesday's letters: Alberta ski resorts can adapt to daylight time&nbsp;&nbsp;Edmonton Journal",
+      "date": "2026-05-05T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd1dCMjlNUlBvX1o4Z29FVVBpbWNFWmd2ZWt0OFh1QmM2T1UzYi00ZllDQk1aZzdHbmxvSWN3aE82aFFNejQ5ZF9ienVfMFAwX01LSGRFOXRXNkx1R0ZJWi1jbGJUdmpQSUR2bUwwQ2RFM1dTUWpMTFFka0YxV0g4Rzlfc0haelRLcng3X2VBSkpWZ3hEU3lCZUc0QVFubG4yemhHYUR0cXdBX0k?oc=5"
     },
     {
       "source": "Rocky Mountain Outlook",
@@ -677,24 +727,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDBBejBxVmNPbEJqOGZiU0JWM0JUU1ZVMjNNdE9KSWJ2UFh5UVY0aTE0Q0szRGF5dGRheDNqNWIzUVNpSmNKMldpVDhhNzJvZ0FiTGJvSFctWUhTc081X19FVHR0eFFMX0N2VmxOVVU5NkhQbFlzVk5NNmdjSjM4a3VuVkVJSEFYTjNaV2V1d2llNmFHMjdiWXluY2xxSS1GdncyeEJvbHpxandwd0RYbnh4X0paVUpPSVhSNHBfWnF2QQ?oc=5"
     },
     {
-      "source": "LakelandToday.ca",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Beyond Local: Tax decisions and political uncertainty put brakes on tourism spending in Alberta, says industry group - LakelandToday.ca Beyond Local: Tax decisions and political uncertainty put brakes on tourism spending in Alberta, says industry group&nbsp;&nbsp;LakelandToday.ca",
-      "date": "2026-04-23T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTkZwejh3cXp0Y2ZUVjdMc0xXQi1seFJidGNCX29LQ0xYcE9uM3VrYXpJTlozRHdhdTFHbTZiNUJZNnktSXU2MmVzbWdVZzhEb0hBaVczWm9zMFBKUWJOcWZVVnNxOUFBYmFuQVJrb0FMSGljTkJneWhwQWZId3ZrZ1RsODFheHNTUVhGSHhqeWFDZVRrbXoxZWJlU3E0QnpNTnNqajE5d3FNTHdUMmNfbWdfaGpKTlZtSEZIYlRsVXdOZXR4NzlKVmcxNFNHUEZxVkxSbnc4ZmFLSWJrcUpzNUp2enV1Ujg?oc=5"
-    },
-    {
-      "source": "CTV News",
+      "source": "Yahoo News Canada",
       "resort": "fortress",
       "sentiment": "negative",
-      "text": "Permanent daylight time coming to Alberta, raising safety and tourism concerns - CTV News Permanent daylight time coming to Alberta, raising safety and tourism concerns&nbsp;&nbsp;CTV News",
-      "date": "2026-04-23T07:00:00+00:00",
+      "text": "Alberta ski resorts worry move to permanent daylight time could drive visitors to U.S. - Yahoo News Canada Alberta ski resorts worry move to permanent daylight time could drive visitors to U.S.&nbsp;&nbsp;Yahoo News Canada",
+      "date": "2026-04-24T07:00:00+00:00",
       "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUnJ2eHpfamgzMEtiQjZERXprZFhkOUo5Vl9TMGNRVDVJbEN1YzQtbGUyakVwREp3bVZJZkRnR1ljSkdkX29hb21RVFVvbjZoM3R6a25IeEFjTXdYY3FhX0VQZVU3M1V3N2l3dnZ4Vk1aUEZOOWhiV2hSdnZEbl9iRS1IcmVDalB5MnJ5OXozRUdKRE5jUXlHSTl6TF81NnRpRC1QakxuSnBJRnhFZjBiYkItVEE1R0x6?oc=5"
+      "theme": "Access & Transportation",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZdDE5WEp4ZWVuV3NobjB3NHlIZjdMdXhOZk4xMmFWbWc0R2JmMTMzY2sxWWM1ZExYRUpQdG55MWNmM1EzckFuRzI5RTR5UXB2akJmNlZXNlBQcXVzUEdmQjRzOGhhSDBFOHc5VjFzeHdBb1ctS0tqYS0yNA?oc=5"
     },
     {
       "source": "St. Albert Gazette",
@@ -727,16 +767,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjTDN3VVlEcEROcGlYQXRFcXRuTWI4NDRMQ0NPWXdmRUg5WjdtVDlNN19HTWFGdHRRdWJKeTY5MEdzdGR4c2xONVFVVnBqd2w4c05vUw?oc=5"
     },
     {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "negative",
-      "text": "An unintended consequence of U.S. immigration policy: Some fans are skipping the World Cup in the U.S. - CTV News An unintended consequence of U.S. immigration policy: Some fans are skipping the World Cup in the U.S.&nbsp;&nbsp;CTV News",
-      "date": "2026-04-21T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Tourism Strategy & Policy",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOGdaSXpUejVZREpsU3lteEttbFpaT2NsNnJ0N1VUOTFaWm1sdnNSVk44LWxJekJxZ20zeUtDajBsSC1FOFN6enZaTHpzbnlmaFZJa2xnYVFidlhGN1RpR2xKLVRtNjRfdzBYZDNiLTZaVUpWT2NhOHM0Z3RYaDZWYm45bVU3MEdCTHo2NVB6NHhPbXFfSk5tYTl3dUhmb1VidnJ1d2JlMjExa1k0d2tISkxUbmR4VHpHdGJ4QnNYa1pYdFVWazBiSUNyTG5sWVZ6U0E?oc=5"
-    },
-    {
       "source": "curiocity.com",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -755,36 +785,6 @@
       "engagement": "Article",
       "theme": "Summer Activities",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5id1RVcWJBdjBtVWpMMUtHVFZpWFJlbFpveW9wdmpCZ2x0SVZRMzVFWGJnWkxocnZ6akhtZV9wdHNmUHRmQlpZQXRRVk9ocGhNUnI5dmNvcHBkNkxCc0pBMThoWXBnU042TDdrUlRWMmxFdDMxMGN0Rm51Q3Y?oc=5"
-    },
-    {
-      "source": "Yahoo News Canada",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Millions in Alberta tourism funding brings new habitat to Calgary Zoo, funds to five other sites - Yahoo News Canada Millions in Alberta tourism funding brings new habitat to Calgary Zoo, funds to five other sites&nbsp;&nbsp;Yahoo News Canada",
-      "date": "2026-04-20T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Environmental Impact",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU1VzRW9KYUZlZFZpYWNzTkxDLW9lMFNOV0tkei05LU1CM2ZOek5kWXFHX3NadFBSODhXOG5rTWZLNlQ5bGVnSXdJMmt3SkNYN0dUdWFZUDVEbXdIdk11ZTRvMm9FLVkybmdsUnJOdVJ4eFU3OW4wby1odWVGRUF6Z3AzV1AwQlU?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "Kananaskis ski resort aims for year-round operations in 2027 - CBC Kananaskis ski resort aims for year-round operations in 2027&nbsp;&nbsp;CBC",
-      "date": "2026-04-18T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0tFazBOY3pTV1pkVWhkaFpma3RwYlFRSlNQSFF1SWRIX0Y4aUsta2lPV3ZsdEJnN2ZZUkJHWUdockoyNGo1bGJxVzZZYVFkR1Bld2tfVXpPVmpEMDY3OVFsRDFsOTZmWHlNUG54TFUwRHpVRmw0aTFYS0VQbjNCRjBBTy1ockhELW04TjZJVlVuZw?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "Family of teen killed in Nakiska avalanche says resort\u2019s silence is \u2018hurtful\u2019 and \u2018insulting\u2019 - CTV News Family of teen killed in Nakiska avalanche says resort\u2019s silence is \u2018hurtful\u2019 and \u2018insulting\u2019&nbsp;&nbsp;CTV News",
-      "date": "2026-04-17T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Safety & Incidents",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN2QwZXIyRzl5cUVRdC1pdkM4eURpZFlkcWhwWHVKZVNlM1U0ekRvWUQxSk9VVkhFaDNNYkgtcHRGaUpaazVTR3hKQWl4U2JVb2lGU0loSHkzNDY5Qi1rYkQtRkwteEt6Q2ZscDZzbkJGellzZzRLWi1JaFV5SXpVb2pwRDNxdW90SklyYURyTWNVQnhzSkx0OXhxXzFUejF6eVJkakJzMDhBOUQtUzhoUGZ0MVdRTHNzMmstQ1czSTVHWGpkSGVZ?oc=5"
     }
   ]
 }

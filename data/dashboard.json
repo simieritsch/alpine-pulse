@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-06-08T16:51:36.513210",
-  "date": "2026-06-08",
+  "generated_at": "2026-06-09T16:09:48.670118",
+  "date": "2026-06-09",
   "summary": {
-    "total_mentions": 750,
-    "positive_pct": 9,
+    "total_mentions": 758,
+    "positive_pct": 8,
     "neutral_pct": 87,
-    "negative_pct": 4,
-    "negative_count": 30
+    "negative_pct": 5,
+    "negative_count": 34
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 473,
-      "positive_pct": 11,
+      "total": 489,
+      "positive_pct": 10,
       "neutral_pct": 84,
-      "negative_pct": 5
+      "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 49,
-      "positive_pct": 12,
-      "neutral_pct": 88,
-      "negative_pct": 0
+      "total": 46,
+      "positive_pct": 9,
+      "neutral_pct": 89,
+      "negative_pct": 2
     },
     "nakiska": {
       "name": "Nakiska",
@@ -32,14 +32,14 @@
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 51,
+      "total": 45,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 77,
+      "total": 78,
       "positive_pct": 6,
       "neutral_pct": 91,
       "negative_pct": 3
@@ -48,19 +48,19 @@
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 423,
+      "mentions": 427,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 68,
+      "mentions": 71,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 56,
+      "mentions": 52,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -72,8 +72,8 @@
     },
     {
       "name": "Summer Activities",
-      "mentions": 34,
-      "avg_score": 49,
+      "mentions": 36,
+      "avg_score": 48,
       "sentiment": "neutral"
     },
     {
@@ -89,20 +89,20 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Access & Transportation",
-      "mentions": 13,
-      "avg_score": 49,
+      "name": "Pricing & Value",
+      "mentions": 14,
+      "avg_score": 47,
       "sentiment": "neutral"
     },
     {
-      "name": "Pricing & Value",
-      "mentions": 12,
-      "avg_score": 46,
+      "name": "Access & Transportation",
+      "mentions": 13,
+      "avg_score": 47,
       "sentiment": "neutral"
     },
     {
       "name": "Events & Promotions",
-      "mentions": 10,
+      "mentions": 11,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -121,7 +121,7 @@
     {
       "name": "Environmental Impact",
       "mentions": 7,
-      "avg_score": 50,
+      "avg_score": 48,
       "sentiment": "neutral"
     },
     {
@@ -211,25 +211,25 @@
   ],
   "trends": {
     "labels": [
-      "Fri",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
-      "Mon"
+      "Mon",
+      "Tue"
     ],
     "positive": [
-      8,
       7,
       9,
       9,
       8,
       8,
-      9
+      9,
+      8
     ],
     "neutral": [
-      86,
+      87,
       87,
       87,
       87,
@@ -239,49 +239,49 @@
     ],
     "negative": [
       6,
-      6,
       4,
       4,
       5,
       5,
-      4
+      4,
+      5
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      425,
       440,
       431,
       445,
       459,
       479,
-      423
+      423,
+      427
     ],
     "Snow Conditions": [
-      72,
       69,
       70,
       69,
       68,
       71,
-      68
+      68,
+      71
     ],
     "Lift Wait Times": [
-      47,
       46,
       40,
       44,
       45,
       45,
-      56
+      56,
+      52
     ],
     "Safety & Incidents": [
-      52,
       50,
       46,
       48,
       53,
       53,
+      52,
       52
     ]
   },
@@ -327,26 +327,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG1PaWwya1N0NU01aFBPdDV2VW9Na2diMVp1X09hNTJzZERVajM5dnJEMkpzemN3emszUDJUUjJVdzBQTEN0SjBfbUc0V3pkeEpRQm9CQjdRWmpTUFBWUTU1R0F2TDRSMEU0bkd1TW5RYmxPZVp2NlB6WURHWjJQZGlB?oc=5"
     },
     {
-      "source": "todayville.com",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Don\u2019t default to the Rate of Last Resort - todayville.com Don\u2019t default to the Rate of Last Resort&nbsp;&nbsp;todayville.com",
-      "date": "2026-06-03T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTU4tUGpPMmdrR1RYTXhVVXRQSDBaZ0VlbFNNeW5rVGVUY2dGUThqQXdGOTFpbHdFTHZNYVU2MGxST091Sm1BLU5oN09BamNkMTlVeG10cnR1RUozdzFRVUFvVWN0VWVzeGFoUE9vRERzUkRsV1ZEQVNnb21GTUNwSA?oc=5"
-    },
-    {
-      "source": "rdnewsnow.com",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "1971 ~ Mr. Scott Emett Burke ~ 2026 \"A Celebration of Life was held at the Crammond Hall, 54004 TWP RD 35-4, Clearwater County, Alberta on Saturday, May 23rd at 2:00 p.m.\" - rdnewsnow.com 1971 ~ Mr. Scott Emett Burke ~ 2026 \"A Celebration of Life was held at the Crammond Hall, 54004 TWP RD 35-4, Cle",
-      "date": "2026-06-02T23:00:04+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWnkzT1I4UnlIc3RmWnBReWQ0aFBkaHBBNEgwUzV4UV9LemxIMVIxSzJ6eFBWYWR2UnJPMHc5MGhyX3J6TXJDZHBPNmlqR0dZZ3lKZEsyTHBET3J1WHMwS2FRSjRfMUJLU1NkT1ZMRThlNVB1OEpDaFBTa0lQSVlwcnVQNk5ZSi1qZFJnTmtETTJhdmNrVzBNMnB5c0NMVEpEekhtalJzbU9JOFAzMXQydzVhSmw3ZFZDeW5WVjVTYmRqcDNDOTVXelo2M3FtZ19GSHl6VDRscC1KeUZ2TFZqQ2hrczBZaDM1bzJQV1VpQXdKVk9xaTNwNHlfbUdieGI1SlE5eldUTEltSGlFbVk3R1E4cHQyUENj?oc=5"
-    },
-    {
       "source": "CityNews Calgary",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -375,26 +355,6 @@
       "engagement": "Article",
       "theme": "Facilities & Lodging",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVm5tcm1nV21XQmQtQS04NjJZTi1kMnI2WFNVZVVoU0ZBZjJEaGZCeUhEZmpKd0FUWFpOUFdTbi05cGpkRk9FREliMF9aeHBjQk84M0xHdHZoR3hHLVhZckVFNnQtRng4LUtzMVdYTDlBM1dtcEZ1MTlJVV9xWjlqaWxVeklZYkQxbHBZdm5DdUt4bHRZREE?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "Thousands weigh in on gondola, resort proposals in Canmore, Kananaskis - Rocky Mountain Outlook Thousands weigh in on gondola, resort proposals in Canmore, Kananaskis&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-05-28T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM0JhTlhKWnY1M2FubTN1OW5HNXlleHhtTFJYMWJFRFA1cmowOWpnUW9TZFZEN0lhc1lyLWhOZHlZTFIyX3RhYklibGRjOXlQcWRfQ3Z5T0NWdVkwd05QYkF2RjZETGJNaENoRkpoZFZBQWhLWXV3TVZ1RTNDZ1k4dlQzbG9Tc2UyMElRM2NSc1o1VWtnYW9xeTdvY0oxNWkwOWhNVFhqVXI4NWNVak00Yw?oc=5"
-    },
-    {
-      "source": "Snow Industry News",
-      "resort": "castle",
-      "sentiment": "neutral",
-      "text": "Castle Mountain appoints Chris Salhany as president - Snow Industry News Castle Mountain appoints Chris Salhany as president&nbsp;&nbsp;Snow Industry News",
-      "date": "2026-05-28T01:24:05+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenptUHlDQ3N5SklFMHBMLTVOWUdqTk83VG9LWmxfQ0NsN0RMYzFCMDYtTF9xTUYtbmI4RTBycm5jZGJZMzIxNDM1TTRJblNJa24yTHJ4SThoRXg0NThRNmhiUVUtX2lZWEZ6am9iLVEwUDNldG1rLTJjc1g0Y0NVT2ZBdjJQVU1KWFdSSjBLbFp6WGxSUVNrTU1IYWtfYWdyV2x5VWF5d25wNXc?oc=5"
     },
     {
       "source": "todayville.com",
@@ -427,14 +387,24 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0hJMlF1d3FSd3dCbktlUkVBZFZqTEROelZ0STZMbnIySEFYWTRLQl9OOVJIckVRYlU3WWFwQWlLZ2oyWTE1NE9LREVTSGhCSU0yQkFqVDNSTmJtOGNUc3VCZE02U1dCZUJxV01pUW5xck1SeTNwRlVFOEFFWVVMY1k4SVpHTTNPeWhVSTB4Z245TFMyMllGQ19zUUkzVlNXMVN1cEtB?oc=5"
     },
     {
-      "source": "LakelandToday.ca",
+      "source": "MSN",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Some Clearwater County residents told to prepare for possible evacuation as wildfire burns in central Alberta - MSN Some Clearwater County residents told to prepare for possible evacuation as wildfire burns in central Alberta&nbsp;&nbsp;MSN",
+      "date": "2026-05-19T11:27:41+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNWnZTSWt6YUxOcFVBLXVqR1NrclJjdkcyajdHZ1FIblo0LWdNSnRvczRtSUtwc016Nk9zMExDbjBzVVVYZzduYW9wNEpzV2NVTkZCODNnVHpUMW85NEVyR1pvYWdGTlZ1ZGdEOGptUENIZTBoWnloU0luVjhpMnFJb294VVNtU015U2tTanl0WE5jVjc5T21BbDJOZGg5NVRpZmhxa3ozWnljb0d3MnBTb1EyZWRYRVZZVGdjMDJrRW1vYmxwMENhTzFaUk1PVDNsaHRnQi1IQUpmaE1lMmdvS291UzVYNWx0UzFhSFhwM2JER3gyZVdWdXRfTXpOWnpqRDJIR3ZVSnpKZTlIUGhiVnZLUXRmRkR2dHdJN1hVdXpNSUFQc21XQ0sxMXJJd0ZCa1ZmRUpGVmVVZk4xN0szS09IWkJSaUhPbHdZUGozUVlNMk5rU3NkaE9kV01iMGhfVG0zOFEta21QaVdia2JjOE4xTkZnTzhVV3RLY25kUnlMeHhOS0tDcGZaVTV6YnFEalNXMXNxUTM3bEczeXZoTVdMTDl5Sk4xdkxwNU96R0IwZmlSaTRXbTF3?oc=5"
+    },
+    {
+      "source": "Rocky Mountain Outlook",
       "resort": "davidthompson",
       "sentiment": "positive",
-      "text": "Why Nordegg is the Canadian Rockies\u2019 best-kept secret for summer adventures - LakelandToday.ca Why Nordegg is the Canadian Rockies\u2019 best-kept secret for summer adventures&nbsp;&nbsp;LakelandToday.ca",
+      "text": "Why Nordegg is the Canadian Rockies\u2019 best-kept secret for summer adventures - Rocky Mountain Outlook Why Nordegg is the Canadian Rockies\u2019 best-kept secret for summer adventures&nbsp;&nbsp;Rocky Mountain Outlook",
       "date": "2026-05-19T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjA1Mm9pc3h6R3lRQi12Z3VIMXY3WVVtRkhKVU1MUkRaeUZpcXNvV1p6ZHBBY3hyYWI5Y3V4cmpHWlhxWFUwRGRydkJCeHRrVkhPd09pY21JZE5PVmsxMndVSmFISTg0WUYzelktV3VqdXpSTnV2ZGJEQ0JaTXZhSE9LRkNfemJTQ1E2WFR5QUdjQmszcjNMQXFVd3U3ZVpBOUxpcGdZd2gzLVQxZUVQdHl2cW44R193NlNPa1htakI4TjhUUnJwTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOFhBeS1DY3FlNkNSQTNZNktDVFFOU3dHUWtUZlFwUGpaVTJJMHY0cFdzU0hkczlnR2wwRDBueGZmXzhpMDc0UEIxeWh3LUtvYXNJZTkwY25hRkJBMFlFQkFPRjVkbTNGbU50T2pfck4zZ0J5S3pYNFFXMmpndHY2N01yS0hXNXFXb1pXWHZ1NlM4YS1rX3d2bmx1NnV6QVBMQnpnczlCdEE2NHNqTnUySVh6dUloYzBPRGVhS3hnTU0zMWV4?oc=5"
     },
     {
       "source": "St. Albert Gazette",
@@ -457,16 +427,6 @@
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlpYlNXN2RsLWRQbkNWdUNUSjY0Zk0zSXhjazNVeFV2Q2ZJa3hud1ROOGYxSVNfVFZoSjY0WVl2WVRNNFVTOFJMcldUZ1hRYUQ5VGRjVVk3d282ZXd2c3dFSzhXRzBGRUJ0ZzRaZWxEY2JnXzVLbnZtRUpISGI2Ml92X1B6WXZ6cGc?oc=5"
     },
     {
-      "source": "MSN",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Clearwater County wildfire held as evacuation orders lifted - MSN Clearwater County wildfire held as evacuation orders lifted&nbsp;&nbsp;MSN",
-      "date": "2026-05-19T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Lift Wait Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTE9MX3VMcC1mZmViOGpnSzQ5VTZlSzVXQnh5VVdPMDYtRkROa185LTI5TEFLb29IcndYa2ZSYjlkRzBKMkRiRko5c29JZmtwcFlXMDFwQjBhSHUyZkZqX1ppT1FCWlpxdkM3cTd5TE8ySUR1STJTY0VyWjZCTnBucE4yNW5pN2dZOHZCTVYwV0ZwRjJBT1U4QXVxakE0a3A0Q25tN0hRY0hOVEE5YWJOSENlNmxKa0lXbXBxMFdHMkxuNEtJY3Q4NHFMM0ZLblZYUWhzQUNjaENUZm56aTFtNWJTb1M?oc=5"
-    },
-    {
       "source": "rdnewsnow.com",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -477,6 +437,16 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEhQOHVGeVctM2Z4RWRSVGRzOEE3QVhBQmNPaUw1WVI4WV96ZC1ZaXZkYVlCZm9uUk4tTGhZQ0IyT3djT3BLaHlZbFBjWXhFcU9nN1lzTnVkT3ktX001dWdURmE3YV9VXzZzbXhTb2JSSkpHN3BrQlo2TVJnRzc0M2ZmcjA?oc=5"
     },
     {
+      "source": "MSN",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Clearwater County wildfire held as evacuation orders lifted - MSN Clearwater County wildfire held as evacuation orders lifted&nbsp;&nbsp;MSN",
+      "date": "2026-05-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTE9MX3VMcC1mZmViOGpnSzQ5VTZlSzVXQnh5VVdPMDYtRkROa185LTI5TEFLb29IcndYa2ZSYjlkRzBKMkRiRko5c29JZmtwcFlXMDFwQjBhSHUyZkZqX1ppT1FCWlpxdkM3cTd5TE8ySUR1STJTY0VyWjZCTnBucE4yNW5pN2dZOHZCTVYwV0ZwRjJBT1U4QXVxakE0a3A0Q25tN0hRY0hOVEE5YWJOSENlNmxKa0lXbXBxMFdHMkxuNEtJY3Q4NHFMM0ZLblZYUWhzQUNjaENUZm56aTFtNWJTb1M?oc=5"
+    },
+    {
       "source": "CBC",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -485,6 +455,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXNObmo5TmNkcFh1ZFB2RXVPNmg3WUhWaVd5eEhzTnVzUFpZc2JHOWZ5Vmk0QkJqUlVRN1dUWGZ1TVEwZFpsUVZpUU9JSUZudEVIOUwzaWFtM3N5ckc1SUV4Uk1iOE01d091cEtON1cyemRERE1VWXA0YVB1eXVxS0hTWXBXS2NxcWtLRDloSVMtNEF4MDlF?oc=5"
+    },
+    {
+      "source": "My Mountain View Now",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Alert no longer in effect, Clearwater County wildfire now classified as \u2018being held\u2019 - My Mountain View Now Alert no longer in effect, Clearwater County wildfire now classified as \u2018being held\u2019&nbsp;&nbsp;My Mountain View Now",
+      "date": "2026-05-19T06:13:01+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNSQ180ZVhYVlUxTlBFNmRUMTU4cDRKQU90bURic1lub3luR25BQ09LNlNDYzlYNy1aTUJJRGZoRnNwT0owY0VwRWNKM3MxZTBvZXVCWk5nWWE1dTVsWG1QeUNQQkd5WjY4LTFaYkVIUHpVX3pLQkxBLUo2SXdWWENTcjdhTGtDZkwyRnVZdEVZenltc0hxQm5DN2lxMHNKNFdGek1hSnFMcWNCLWxkY2xPdi1FNnJoR21vVnd3LUhucWRIZ09PN04xNDQ?oc=5"
     },
     {
       "source": "The Albertan",
@@ -587,16 +567,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUTJBMWRVM3ZiUXgxODgzc1JLZnZua1A2czRESE1xcUtnaWFJUG9XbndNNHRFVjN6QjFpLTFxYzJBSnRING1yNkpCRUphZlpLaDVXcFItYlBPUzNPQ3pWT0pXdElNNzVudWVUNVU1bUprZVh3VFpZcWlnMktPYTNObG5XcmFWaW1MUlF1eTNlMzBtWGE3bFlKZVRtSWtOY2JoaHc?oc=5"
     },
     {
-      "source": "CTV News",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Part of Clearwater County evacuated due to \u2018rapidly spreading\u2019 wildfire - CTV News Part of Clearwater County evacuated due to \u2018rapidly spreading\u2019 wildfire&nbsp;&nbsp;CTV News",
-      "date": "2026-05-14T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWdDNGNzS3Z1UVRpcVp5c0M3azhaaUFfUmhwSk1KSXo3eGU4dm1INm1DSXN1MHBJeHp6OHd1ZzlBRmJFU2pyU3BlRnhPYnh2N2N4OGlkbGhfd2FVcDVKLW5CVW5wenB1QUpxaXozR2FiNHpoOFFXTTh3UDBUN2JFT2JFNmpzQUxSZ0NPekltWnRpb3FJNGJfdGR2ZndEM3Ax?oc=5"
-    },
-    {
       "source": "CBC",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -607,14 +577,14 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHpOb3FQcktJRW5BdGVsd0tUdkdkVGlqWHh1VEVSWDR5dkVnYnNncHVUUldFSmgyc0ZnOEVHTTlENWt0SnBxcnVmcm9TWGsxbExRMTRRT0tfQ3Y3SUxpak9ZZnlUZ0k3cklwcjRrOHE4YmNJMDA0TDlOandvd3JCTUFLT0ZNLUFURVJRU2dZV1V6ZjdZOVBpOXJyekR5VjVN?oc=5"
     },
     {
-      "source": "My Mountain View Now",
+      "source": "CTV News",
       "resort": "davidthompson",
       "sentiment": "neutral",
-      "text": "Alberta Emergency Alert issued for \u2018out of control\u2019 wildfire in southwest Clearwater County - My Mountain View Now Alberta Emergency Alert issued for \u2018out of control\u2019 wildfire in southwest Clearwater County&nbsp;&nbsp;My Mountain View Now",
+      "text": "Part of Clearwater County evacuated due to \u2018rapidly spreading\u2019 wildfire - CTV News Part of Clearwater County evacuated due to \u2018rapidly spreading\u2019 wildfire&nbsp;&nbsp;CTV News",
       "date": "2026-05-14T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUI4UmNOOGFreFJjUXUyTmJiV2xLZlEtTFp1WlFUTU1FZElpZUhqanZqYnpJSWVKMXNTQ0lLZjlFeGxrdm9MQmQ5el9Sek91XzJEZWZXT0ZVcEpfRWpkdW1OR3NqN0pDMUlkb0FGZmVSWWp1SHFvQ2VsclZMNm5nZ3B1dWxUdjRjc0pxaWp3a1daWFZzdDZ0N1VSLXR4SFp2MVp5MW8tMHJXY042SDY0X2RDLVN1T3JuZ1BYQkJXVmR6aE9RSzExLWhQVWtNbzlVZy1SZ05kdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWdDNGNzS3Z1UVRpcVp5c0M3azhaaUFfUmhwSk1KSXo3eGU4dm1INm1DSXN1MHBJeHp6OHd1ZzlBRmJFU2pyU3BlRnhPYnh2N2N4OGlkbGhfd2FVcDVKLW5CVW5wenB1QUpxaXozR2FiNHpoOFFXTTh3UDBUN2JFT2JFNmpzQUxSZ0NPekltWnRpb3FJNGJfdGR2ZndEM3Ax?oc=5"
     },
     {
       "source": "rdnewsnow.com",
@@ -625,6 +595,16 @@
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpZQXdhdnA3X3ZvNFBUVEhhLWROeW9aZ1dEOXdhYnpwZ21tTWFSUFdRTWZ2aHdnOFVZdnNBcnVzTzJXVTNvdnZDc0ZKeWFGR1Zpd1U3QTFCcGFKVVBtTWI2OHlucEFrTlVxQjRrWHBVMF9ndjVPXzM5SWpPNmtBSk5lX0VuNklDUWtkRFJLWQ?oc=5"
+    },
+    {
+      "source": "My Mountain View Now",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Alberta Emergency Alert issued for \u2018out of control\u2019 wildfire in southwest Clearwater County - My Mountain View Now Alberta Emergency Alert issued for \u2018out of control\u2019 wildfire in southwest Clearwater County&nbsp;&nbsp;My Mountain View Now",
+      "date": "2026-05-14T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUI4UmNOOGFreFJjUXUyTmJiV2xLZlEtTFp1WlFUTU1FZElpZUhqanZqYnpJSWVKMXNTQ0lLZjlFeGxrdm9MQmQ5el9Sek91XzJEZWZXT0ZVcEpfRWpkdW1OR3NqN0pDMUlkb0FGZmVSWWp1SHFvQ2VsclZMNm5nZ3B1dWxUdjRjc0pxaWp3a1daWFZzdDZ0N1VSLXR4SFp2MVp5MW8tMHJXY042SDY0X2RDLVN1T3JuZ1BYQkJXVmR6aE9RSzExLWhQVWtNbzlVZy1SZ05kdw?oc=5"
     },
     {
       "source": "The Albertan",
@@ -645,6 +625,26 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWE5oLXJOcFdaUkdHdElmZG5NX21xNEVNbkQwTTVURkx0dzcxUEJCZGJwc2J0OTZkS0RDSzZ1RjR3NmZ3Q2VHNTl4SUxYbkg0MzFEaThCY0JkRmlrbHdEMVBSQjNhVkFUMWhCaUREX2ExT3FPYXI5clBHZG1WR2lHQVhpZmV0eTYtbVM0MmEwSFJqZk9rLXcwVk5ab3Y3YXpyWkU3ZkJVcGdYVncyTm5jR1BlYUowVEtEaXJKMV81X1JaVWsxTEFudEVMUW5uZw?oc=5"
+    },
+    {
+      "source": "My Mountain View Now",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Crews responding to \u2018out of control\u2019 wildfire near Mountain View County - My Mountain View Now Crews responding to \u2018out of control\u2019 wildfire near Mountain View County&nbsp;&nbsp;My Mountain View Now",
+      "date": "2026-05-14T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOG5OUXNoR0NEMU9ROVJCUmw4ckFhbjNpREVFWXlRYW91YTJ5VEhUTW1nQ2RxNmF5Q1hpS3lyM3JRVEpPS2pWQmhVcTM3ZE52VTlTMFJYTHZERnRhY2Q5dWJWU0J3S2owWHYybVlsWTVwUzhtdVNfLXhoMTUxYmNhTzVrb0JlRWJCNG5hQ1o5THhNOXZIdzZiZUQ5anQxaXQxN1ZFZFZ3bmpyMmllb2F0QV9FX29wOWRweVZvVw?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Bear killed after visiting Alberta summer village - CBC Bear killed after visiting Alberta summer village&nbsp;&nbsp;CBC",
+      "date": "2026-05-11T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Summer Activities",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEx5aDFwMm90MTRLSWUycGlRbEJVNENMcW13ME5nM2J3TW5EZWRTUmctQlJGTTlPQjNZNHVfS21BX3p4V1c3eWlaS2gzT0trbmFjVjNGaXJlZFJ1TWlHanhBb3F0SVp5VjVGVTh2ZjZQMFQ4T1F4YWpyeDhUazZUblVsUHZraENU?oc=5"
     },
     {
       "source": "Edmonton Journal",

@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-06-09T16:09:48.670118",
-  "date": "2026-06-09",
+  "generated_at": "2026-06-10T16:41:00.577647",
+  "date": "2026-06-10",
   "summary": {
-    "total_mentions": 758,
-    "positive_pct": 8,
+    "total_mentions": 764,
+    "positive_pct": 9,
     "neutral_pct": 87,
-    "negative_pct": 5,
-    "negative_count": 34
+    "negative_pct": 4,
+    "negative_count": 33
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 489,
+      "total": 486,
       "positive_pct": 10,
       "neutral_pct": 84,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 46,
-      "positive_pct": 9,
-      "neutral_pct": 89,
+      "total": 48,
+      "positive_pct": 8,
+      "neutral_pct": 90,
       "negative_pct": 2
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 100,
+      "total": 102,
       "positive_pct": 5,
       "neutral_pct": 92,
       "negative_pct": 3
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 45,
+      "total": 52,
       "positive_pct": 2,
       "neutral_pct": 98,
       "negative_pct": 0
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 78,
-      "positive_pct": 6,
+      "total": 76,
+      "positive_pct": 7,
       "neutral_pct": 91,
       "negative_pct": 3
     }
@@ -48,7 +48,7 @@
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 427,
+      "mentions": 435,
       "avg_score": 51,
       "sentiment": "neutral"
     },
@@ -66,38 +66,38 @@
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 52,
+      "mentions": 51,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 36,
+      "mentions": 37,
       "avg_score": 48,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 30,
+      "mentions": 31,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 21,
+      "mentions": 20,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
-      "name": "Pricing & Value",
+      "name": "Access & Transportation",
       "mentions": 14,
       "avg_score": 47,
       "sentiment": "neutral"
     },
     {
-      "name": "Access & Transportation",
+      "name": "Pricing & Value",
       "mentions": 13,
-      "avg_score": 47,
+      "avg_score": 46,
       "sentiment": "neutral"
     },
     {
@@ -114,14 +114,14 @@
     },
     {
       "name": "Staff & Service",
-      "mentions": 9,
+      "mentions": 7,
       "avg_score": 53,
       "sentiment": "neutral"
     },
     {
       "name": "Environmental Impact",
       "mentions": 7,
-      "avg_score": 48,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
@@ -211,22 +211,22 @@
   ],
   "trends": {
     "labels": [
-      "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
-      "Tue"
+      "Tue",
+      "Wed"
     ],
     "positive": [
-      7,
       9,
       9,
       8,
       8,
       9,
-      8
+      8,
+      9
     ],
     "neutral": [
       87,
@@ -238,63 +238,63 @@
       87
     ],
     "negative": [
-      6,
       4,
       4,
       5,
       5,
       4,
-      5
+      5,
+      4
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      440,
       431,
       445,
       459,
       479,
       423,
-      427
+      427,
+      435
     ],
     "Snow Conditions": [
-      69,
       70,
       69,
       68,
       71,
       68,
+      71,
       71
     ],
     "Lift Wait Times": [
-      46,
       40,
       44,
       45,
       45,
       56,
+      52,
       52
     ],
     "Safety & Incidents": [
-      50,
       46,
       48,
       53,
       53,
       52,
-      52
+      52,
+      51
     ]
   },
   "feed": [
     {
-      "source": "Toronto Star",
+      "source": "todayville.com",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Spanish hotel chain Meli\u00e1 to shutter hotels in Cuba in latest blow to island\u2019s tourism sector - Toronto Star Spanish hotel chain Meli\u00e1 to shutter hotels in Cuba in latest blow to island\u2019s tourism sector&nbsp;&nbsp;Toronto Star",
-      "date": "2026-06-03T20:55:58+00:00",
+      "text": "Don\u2019t default to the Rate of Last Resort - todayville.com Don\u2019t default to the Rate of Last Resort&nbsp;&nbsp;todayville.com",
+      "date": "2026-06-06T07:00:00+00:00",
       "engagement": "Article",
-      "theme": "Facilities & Lodging",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX0RKVmhoWDhqYUc0OXhrRzEzbVNnOXRYc2EwRXUwSVFXSm9Gcmd4U21aNmxKbWd1OTQ4dDZzRUk1V3Vid3JFbFVxVnZ2b2JqdDFBQ21pS0Y5WnFkUlVCNjNneF9UeEIzVlAzR0tjSTd2cmxRRXRFRXVJd1RvU1hSeGpNa0VXUlpXV3p6cWVwRURRUFUwak83R3BHNFdVYUFUcFN0UlowZWRodWJ5enpaOExvbGNGTmRuUlVMUkxxWDFBNm9pNHlvdjlnMmJzaE5fSEczUTF1MFlvYmtZZk42cUV0UzJ4MUxnOEw4MW9XcDd6c2JLQ1lRQTFIY3dIZG9BWlEtSDgwdw?oc=5"
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LRzVseHVWNGphc2NRNWx4SjZzME1fZllERl9FaDl0QlpfMHg1LTFsYUVpcmNVSXZvLWIzajMxU1NYZFJzTVZRU1lNOTdVQ3ZtUG5pMmNFZ3ZuNUZxa3ZrcDRIUkNqTmZDaUFaWFgwWkQ4OWNVZGc?oc=5"
     },
     {
       "source": "CBC",
@@ -325,6 +325,16 @@
       "engagement": "Article",
       "theme": "Tourism Strategy & Policy",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG1PaWwya1N0NU01aFBPdDV2VW9Na2diMVp1X09hNTJzZERVajM5dnJEMkpzemN3emszUDJUUjJVdzBQTEN0SjBfbUc0V3pkeEpRQm9CQjdRWmpTUFBWUTU1R0F2TDRSMEU0bkd1TW5RYmxPZVp2NlB6WURHWjJQZGlB?oc=5"
+    },
+    {
+      "source": "rdnewsnow.com",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "1971 ~ Mr. Scott Emett Burke ~ 2026 \"A Celebration of Life was held at the Crammond Hall, 54004 TWP RD 35-4, Clearwater County, Alberta on Saturday, May 23rd at 2:00 p.m.\" - rdnewsnow.com 1971 ~ Mr. Scott Emett Burke ~ 2026 \"A Celebration of Life was held at the Crammond Hall, 54004 TWP RD 35-4, Cle",
+      "date": "2026-06-02T23:00:04+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQWnkzT1I4UnlIc3RmWnBReWQ0aFBkaHBBNEgwUzV4UV9LemxIMVIxSzJ6eFBWYWR2UnJPMHc5MGhyX3J6TXJDZHBPNmlqR0dZZ3lKZEsyTHBET3J1WHMwS2FRSjRfMUJLU1NkT1ZMRThlNVB1OEpDaFBTa0lQSVlwcnVQNk5ZSi1qZFJnTmtETTJhdmNrVzBNMnB5c0NMVEpEekhtalJzbU9JOFAzMXQydzVhSmw3ZFZDeW5WVjVTYmRqcDNDOTVXelo2M3FtZ19GSHl6VDRscC1KeUZ2TFZqQ2hrczBZaDM1bzJQV1VpQXdKVk9xaTNwNHlfbUdieGI1SlE5eldUTEltSGlFbVk3R1E4cHQyUENj?oc=5"
     },
     {
       "source": "CityNews Calgary",
@@ -387,16 +397,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd0hJMlF1d3FSd3dCbktlUkVBZFZqTEROelZ0STZMbnIySEFYWTRLQl9OOVJIckVRYlU3WWFwQWlLZ2oyWTE1NE9LREVTSGhCSU0yQkFqVDNSTmJtOGNUc3VCZE02U1dCZUJxV01pUW5xck1SeTNwRlVFOEFFWVVMY1k4SVpHTTNPeWhVSTB4Z245TFMyMllGQ19zUUkzVlNXMVN1cEtB?oc=5"
     },
     {
-      "source": "MSN",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Some Clearwater County residents told to prepare for possible evacuation as wildfire burns in central Alberta - MSN Some Clearwater County residents told to prepare for possible evacuation as wildfire burns in central Alberta&nbsp;&nbsp;MSN",
-      "date": "2026-05-19T11:27:41+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxNWnZTSWt6YUxOcFVBLXVqR1NrclJjdkcyajdHZ1FIblo0LWdNSnRvczRtSUtwc016Nk9zMExDbjBzVVVYZzduYW9wNEpzV2NVTkZCODNnVHpUMW85NEVyR1pvYWdGTlZ1ZGdEOGptUENIZTBoWnloU0luVjhpMnFJb294VVNtU015U2tTanl0WE5jVjc5T21BbDJOZGg5NVRpZmhxa3ozWnljb0d3MnBTb1EyZWRYRVZZVGdjMDJrRW1vYmxwMENhTzFaUk1PVDNsaHRnQi1IQUpmaE1lMmdvS291UzVYNWx0UzFhSFhwM2JER3gyZVdWdXRfTXpOWnpqRDJIR3ZVSnpKZTlIUGhiVnZLUXRmRkR2dHdJN1hVdXpNSUFQc21XQ0sxMXJJd0ZCa1ZmRUpGVmVVZk4xN0szS09IWkJSaUhPbHdZUGozUVlNMk5rU3NkaE9kV01iMGhfVG0zOFEta21QaVdia2JjOE4xTkZnTzhVV3RLY25kUnlMeHhOS0tDcGZaVTV6YnFEalNXMXNxUTM3bEczeXZoTVdMTDl5Sk4xdkxwNU96R0IwZmlSaTRXbTF3?oc=5"
-    },
-    {
       "source": "Rocky Mountain Outlook",
       "resort": "davidthompson",
       "sentiment": "positive",
@@ -417,36 +417,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRW5VYXVtcEtuNzdpcWZEc2FXajZIa3RFMUo5T01nb1JZTjJwaVdxNElyTnpjNGlDb2lYOHpIMElyQ3l5YUVZNUctREhQZjZDam1XN3dwWWFDZm5IWHVGbmU2UGtCb2VGeHlobFo3MlU2eWNzQXgwSHBiQlNVaTRBLW84UktkQXAxWEI3N0haTkQ4QW5STzY4aHc1TXZ3dnJJTE5VOXJWTU41RmtZaFRkRUpMSTN4S0JLZVBaTGwxTnQyaEtBcEtaTVhKU3A?oc=5"
     },
     {
-      "source": "CityNews Calgary",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Wildfire in Clearwater County, NW of Calgary, now being held - CityNews Calgary Wildfire in Clearwater County, NW of Calgary, now being held&nbsp;&nbsp;CityNews Calgary",
-      "date": "2026-05-19T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlpYlNXN2RsLWRQbkNWdUNUSjY0Zk0zSXhjazNVeFV2Q2ZJa3hud1ROOGYxSVNfVFZoSjY0WVl2WVRNNFVTOFJMcldUZ1hRYUQ5VGRjVVk3d282ZXd2c3dFSzhXRzBGRUJ0ZzRaZWxEY2JnXzVLbnZtRUpISGI2Ml92X1B6WXZ6cGc?oc=5"
-    },
-    {
-      "source": "rdnewsnow.com",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Wildfire in Clearwater County now \u2018being held\u2019 - rdnewsnow.com Wildfire in Clearwater County now \u2018being held\u2019&nbsp;&nbsp;rdnewsnow.com",
-      "date": "2026-05-19T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSEhQOHVGeVctM2Z4RWRSVGRzOEE3QVhBQmNPaUw1WVI4WV96ZC1ZaXZkYVlCZm9uUk4tTGhZQ0IyT3djT3BLaHlZbFBjWXhFcU9nN1lzTnVkT3ktX001dWdURmE3YV9VXzZzbXhTb2JSSkpHN3BrQlo2TVJnRzc0M2ZmcjA?oc=5"
-    },
-    {
-      "source": "MSN",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Clearwater County wildfire held as evacuation orders lifted - MSN Clearwater County wildfire held as evacuation orders lifted&nbsp;&nbsp;MSN",
-      "date": "2026-05-19T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Lift Wait Times",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTE9MX3VMcC1mZmViOGpnSzQ5VTZlSzVXQnh5VVdPMDYtRkROa185LTI5TEFLb29IcndYa2ZSYjlkRzBKMkRiRko5c29JZmtwcFlXMDFwQjBhSHUyZkZqX1ppT1FCWlpxdkM3cTd5TE8ySUR1STJTY0VyWjZCTnBucE4yNW5pN2dZOHZCTVYwV0ZwRjJBT1U4QXVxakE0a3A0Q25tN0hRY0hOVEE5YWJOSENlNmxKa0lXbXBxMFdHMkxuNEtJY3Q4NHFMM0ZLblZYUWhzQUNjaENUZm56aTFtNWJTb1M?oc=5"
-    },
-    {
       "source": "CBC",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -457,11 +427,31 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXNObmo5TmNkcFh1ZFB2RXVPNmg3WUhWaVd5eEhzTnVzUFpZc2JHOWZ5Vmk0QkJqUlVRN1dUWGZ1TVEwZFpsUVZpUU9JSUZudEVIOUwzaWFtM3N5ckc1SUV4Uk1iOE01d091cEtON1cyemRERE1VWXA0YVB1eXVxS0hTWXBXS2NxcWtLRDloSVMtNEF4MDlF?oc=5"
     },
     {
+      "source": "CityNews Calgary",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Wildfire in Clearwater County, NW of Calgary, now being held - CityNews Calgary Wildfire in Clearwater County, NW of Calgary, now being held&nbsp;&nbsp;CityNews Calgary",
+      "date": "2026-05-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVlpYlNXN2RsLWRQbkNWdUNUSjY0Zk0zSXhjazNVeFV2Q2ZJa3hud1ROOGYxSVNfVFZoSjY0WVl2WVRNNFVTOFJMcldUZ1hRYUQ5VGRjVVk3d282ZXd2c3dFSzhXRzBGRUJ0ZzRaZWxEY2JnXzVLbnZtRUpISGI2Ml92X1B6WXZ6cGc?oc=5"
+    },
+    {
+      "source": "MSN",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Clearwater County wildfire held as evacuations lifted - MSN Clearwater County wildfire held as evacuations lifted&nbsp;&nbsp;MSN",
+      "date": "2026-05-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYkI3eml3QlRNemNMdzNsSW5mc1JwWHc2cElXdmZ1QjZUSERIVk5iZTJnbWUzRjJxVFNibllDUVA1bkN6UEdtRGhPeXdCVlBQTWZLa2VXX2pVTlYzaWhUaDBuQmJodXByNXBPYzJSeTdsRUowMlM3Zy1aT1h5MW1neEJHRG9LcXYtX3AzZnNodjRFTEdtR2dHVnRObkI5Zy1iWjk2T0xUbkdkQUJYU2JORFQ5UVd1ajdmRk5KcXExbWdIMW9Ea3VrQVhBbU53SUtHaHBMTnpSUEFEUW1i?oc=5"
+    },
+    {
       "source": "My Mountain View Now",
       "resort": "davidthompson",
       "sentiment": "neutral",
       "text": "Alert no longer in effect, Clearwater County wildfire now classified as \u2018being held\u2019 - My Mountain View Now Alert no longer in effect, Clearwater County wildfire now classified as \u2018being held\u2019&nbsp;&nbsp;My Mountain View Now",
-      "date": "2026-05-19T06:13:01+00:00",
+      "date": "2026-05-18T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkNSQ180ZVhYVlUxTlBFNmRUMTU4cDRKQU90bURic1lub3luR25BQ09LNlNDYzlYNy1aTUJJRGZoRnNwT0owY0VwRWNKM3MxZTBvZXVCWk5nWWE1dTVsWG1QeUNQQkd5WjY4LTFaYkVIUHpVX3pLQkxBLUo2SXdWWENTcjdhTGtDZkwyRnVZdEVZenltc0hxQm5DN2lxMHNKNFdGek1hSnFMcWNCLWxkY2xPdi1FNnJoR21vVnd3LUhucWRIZ09PN04xNDQ?oc=5"
@@ -507,6 +497,16 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeXZFNmtZaXIySGpaYms1b2xyS0NsekR1M3J3ZzNGUFVkVzZUM280cHNQZ0MzTmNMMGxEV25ERlkycFBhZy1XblRudzlFanF2emRuUGNIbUszczVGUjZXTXYtQXctS0xkSkRXREw2Q1pQRllHVndoZ2xfNFRNUnE4amxFTHo4SVN6Wm9YQzJGSUZGVV9qdUw0YWlYR29wNzdrRXc2OFdLNEF6a2o1amQxcENFTmFFMUcyOE45VW5vR1VabFJhMzBoTk9RYw?oc=5"
     },
     {
+      "source": "CityNews Calgary",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Wildfire prompts evacuation alert in Clearwater County, northwest of Calgary - CityNews Calgary Wildfire prompts evacuation alert in Clearwater County, northwest of Calgary&nbsp;&nbsp;CityNews Calgary",
+      "date": "2026-05-15T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaTZ4MVlSeG9oSkFncklpWk91c0tGUjhCQ3JUYlJmdndLemZ0QmxORlRlMGJpRzFIaEFxM0pmNHQ4QS1QN2Q1VFVvUWd4aEJCWDhrT0llVGVUaDdpREw5TVpyVW5vUmIzY2hodkxLSVpqRnNT?oc=5"
+    },
+    {
       "source": "Calgary Herald",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -515,16 +515,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdU1xYXY2aFpWSTRsZTQ1dzVlb21jV3g0dGN2X3RlWVB2T1dXZVZpZGNIYmdoSHJ2dFhMSWxuVWpQb2E1UUpXUGxoVTFLYUpwek1QY0MzMk91dndaVkk3enV6X1QwNlVoRUFXLTZYUTJ2Njh0bUYyQzIwYnBQOC1xSDBfbnhRUQ?oc=5"
-    },
-    {
-      "source": "The Albertan",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities - The Albertan WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities&nbsp;&nbsp;The Albertan",
-      "date": "2026-05-15T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVhhU2xuUDRqdmpUY2FwREpmVEdWWVFlWmhMSFNYOU1wbDJ4SDRWWFBBX1hVMW9RdVpiMXQyNVNFZDdFQUVocVlfOUJUQnRMSVNtWTY5QUpWTUVBd3dvUFlncGZKTWNKSFJwTlplUHI1LXB1SnZGdE9mSy1lbUZmQUZtUk5xblYxWkFnU3JjMTZEN1lzRkZ1N3F1TjRuR2tfbGpOT2kzMTFVclRuWGVWU3pjTGFoZml0eHRrZktrY0FDT212bmlESU1vWkpuV0V5aGI4T2xwTVdWQQ?oc=5"
     },
     {
       "source": "cjwe.ca",
@@ -537,14 +527,14 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUNkSUxaY1ZaSGFxZGF5MWVHV3RZeW9tdTFncWsxNnB3QVhzYkF5Ump6dmF0eTBfNldUVk5tVzR4TGZtQzdEN3Fkb3RveHplWXR2UTBIcmlUdGdkRlRzV3IzNFpmOWU1Q0VyMWk1cUUzWU9hTVNqTGJQUWNuaE9reVFWUTBMemtSb1AwemJRSXBNNm1icjhMOEFlVXJ4Zw?oc=5"
     },
     {
-      "source": "CityNews Calgary",
-      "resort": "davidthompson",
+      "source": "The Albertan",
+      "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Wildfire prompts evacuation alert in Clearwater County, northwest of Calgary - CityNews Calgary Wildfire prompts evacuation alert in Clearwater County, northwest of Calgary&nbsp;&nbsp;CityNews Calgary",
+      "text": "WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities - The Albertan WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities&nbsp;&nbsp;The Albertan",
       "date": "2026-05-15T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaTZ4MVlSeG9oSkFncklpWk91c0tGUjhCQ3JUYlJmdndLemZ0QmxORlRlMGJpRzFIaEFxM0pmNHQ4QS1QN2Q1VFVvUWd4aEJCWDhrT0llVGVUaDdpREw5TVpyVW5vUmIzY2hodkxLSVpqRnNT?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVhhU2xuUDRqdmpUY2FwREpmVEdWWVFlWmhMSFNYOU1wbDJ4SDRWWFBBX1hVMW9RdVpiMXQyNVNFZDdFQUVocVlfOUJUQnRMSVNtWTY5QUpWTUVBd3dvUFlncGZKTWNKSFJwTlplUHI1LXB1SnZGdE9mSy1lbUZmQUZtUk5xblYxWkFnU3JjMTZEN1lzRkZ1N3F1TjRuR2tfbGpOT2kzMTFVclRuWGVWU3pjTGFoZml0eHRrZktrY0FDT212bmlESU1vWkpuV0V5aGI4T2xwTVdWQQ?oc=5"
     },
     {
       "source": "The Albertan",
@@ -587,16 +577,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWdDNGNzS3Z1UVRpcVp5c0M3azhaaUFfUmhwSk1KSXo3eGU4dm1INm1DSXN1MHBJeHp6OHd1ZzlBRmJFU2pyU3BlRnhPYnh2N2N4OGlkbGhfd2FVcDVKLW5CVW5wenB1QUpxaXozR2FiNHpoOFFXTTh3UDBUN2JFT2JFNmpzQUxSZ0NPekltWnRpb3FJNGJfdGR2ZndEM3Ax?oc=5"
     },
     {
-      "source": "rdnewsnow.com",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Updated: Growing Clearwater County wildfire causes evacuations - rdnewsnow.com Updated: Growing Clearwater County wildfire causes evacuations&nbsp;&nbsp;rdnewsnow.com",
-      "date": "2026-05-14T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpZQXdhdnA3X3ZvNFBUVEhhLWROeW9aZ1dEOXdhYnpwZ21tTWFSUFdRTWZ2aHdnOFVZdnNBcnVzTzJXVTNvdnZDc0ZKeWFGR1Zpd1U3QTFCcGFKVVBtTWI2OHlucEFrTlVxQjRrWHBVMF9ndjVPXzM5SWpPNmtBSk5lX0VuNklDUWtkRFJLWQ?oc=5"
-    },
-    {
       "source": "My Mountain View Now",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -605,6 +585,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVUI4UmNOOGFreFJjUXUyTmJiV2xLZlEtTFp1WlFUTU1FZElpZUhqanZqYnpJSWVKMXNTQ0lLZjlFeGxrdm9MQmQ5el9Sek91XzJEZWZXT0ZVcEpfRWpkdW1OR3NqN0pDMUlkb0FGZmVSWWp1SHFvQ2VsclZMNm5nZ3B1dWxUdjRjc0pxaWp3a1daWFZzdDZ0N1VSLXR4SFp2MVp5MW8tMHJXY042SDY0X2RDLVN1T3JuZ1BYQkJXVmR6aE9RSzExLWhQVWtNbzlVZy1SZ05kdw?oc=5"
+    },
+    {
+      "source": "rdnewsnow.com",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Updated: Growing Clearwater County wildfire causes evacuations - rdnewsnow.com Updated: Growing Clearwater County wildfire causes evacuations&nbsp;&nbsp;rdnewsnow.com",
+      "date": "2026-05-14T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOVpZQXdhdnA3X3ZvNFBUVEhhLWROeW9aZ1dEOXdhYnpwZ21tTWFSUFdRTWZ2aHdnOFVZdnNBcnVzTzJXVTNvdnZDc0ZKeWFGR1Zpd1U3QTFCcGFKVVBtTWI2OHlucEFrTlVxQjRrWHBVMF9ndjVPXzM5SWpPNmtBSk5lX0VuNklDUWtkRFJLWQ?oc=5"
     },
     {
       "source": "The Albertan",
@@ -785,6 +775,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjTDN3VVlEcEROcGlYQXRFcXRuTWI4NDRMQ0NPWXdmRUg5WjdtVDlNN19HTWFGdHRRdWJKeTY5MEdzdGR4c2xONVFVVnBqd2w4c05vUw?oc=5"
+    },
+    {
+      "source": "curiocity.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Places you won\u2019t believe actually exist in Alberta - curiocity.com Places you won\u2019t believe actually exist in Alberta&nbsp;&nbsp;curiocity.com",
+      "date": "2026-04-21T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yT25xV0RjQ0ZUaEptaFVzelhDcnc0QjhhVGtkOU1hakxXVGVtdjU3a2J2WF9GTGpEQXVEcEtzUEVUU2lObE9TU3pfd0ZHQ1lVaEgxX1lsOVBxOWZVRnhBZThUaWJmVzcwaEk4OUd1eU9nMUE?oc=5"
     }
   ]
 }

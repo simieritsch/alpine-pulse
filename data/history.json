@@ -1,30 +1,6 @@
 {
   "daily": [
     {
-      "date": "2026-05-08",
-      "total": 817,
-      "positive_pct": 9,
-      "neutral_pct": 86,
-      "negative_pct": 5,
-      "themes": {
-        "Snow Conditions": 70,
-        "Pricing & Value": 14,
-        "Summer Activities": 36,
-        "Staff & Service": 11,
-        "Lift Wait Times": 58,
-        "Trails & Recreation": 470,
-        "Facilities & Lodging": 32,
-        "Access & Transportation": 20,
-        "Environmental Impact": 6,
-        "Safety & Incidents": 49,
-        "Events & Promotions": 12,
-        "Family & Beginner Experience": 10,
-        "Regulatory Approvals & Land Use": 5,
-        "Tourism Strategy & Policy": 23,
-        "Environmental Assessment & Compliance": 1
-      }
-    },
-    {
       "date": "2026-05-11",
       "total": 760,
       "positive_pct": 8,
@@ -717,6 +693,30 @@
         "Family & Beginner Experience": 9,
         "Regulatory Approvals & Land Use": 5,
         "Tourism Strategy & Policy": 26,
+        "Environmental Assessment & Compliance": 1
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "total": 745,
+      "positive_pct": 9,
+      "neutral_pct": 86,
+      "negative_pct": 5,
+      "themes": {
+        "Snow Conditions": 69,
+        "Pricing & Value": 11,
+        "Summer Activities": 32,
+        "Staff & Service": 7,
+        "Lift Wait Times": 51,
+        "Trails & Recreation": 430,
+        "Facilities & Lodging": 33,
+        "Access & Transportation": 12,
+        "Environmental Impact": 7,
+        "Safety & Incidents": 46,
+        "Events & Promotions": 9,
+        "Family & Beginner Experience": 9,
+        "Regulatory Approvals & Land Use": 4,
+        "Tourism Strategy & Policy": 24,
         "Environmental Assessment & Compliance": 1
       }
     }

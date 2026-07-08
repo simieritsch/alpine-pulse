@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-07-07T15:46:38.196187",
-  "date": "2026-07-07",
+  "generated_at": "2026-07-08T15:27:58.261697",
+  "date": "2026-07-08",
   "summary": {
-    "total_mentions": 742,
-    "positive_pct": 10,
+    "total_mentions": 765,
+    "positive_pct": 9,
     "neutral_pct": 86,
-    "negative_pct": 4,
-    "negative_count": 35
+    "negative_pct": 5,
+    "negative_count": 36
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 480,
-      "positive_pct": 12,
-      "neutral_pct": 82,
+      "total": 485,
+      "positive_pct": 11,
+      "neutral_pct": 83,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
       "total": 36,
       "positive_pct": 8,
-      "neutral_pct": 89,
-      "negative_pct": 3
+      "neutral_pct": 86,
+      "negative_pct": 6
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 107,
+      "total": 108,
       "positive_pct": 5,
       "neutral_pct": 93,
       "negative_pct": 3
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 46,
+      "total": 61,
       "positive_pct": 2,
-      "neutral_pct": 96,
+      "neutral_pct": 97,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 73,
+      "total": 75,
       "positive_pct": 7,
-      "neutral_pct": 90,
+      "neutral_pct": 91,
       "negative_pct": 3
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 428,
+      "mentions": 449,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 77,
+      "mentions": 75,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 48,
+      "mentions": 50,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -90,14 +90,8 @@
     },
     {
       "name": "Access & Transportation",
-      "mentions": 12,
-      "avg_score": 46,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Pricing & Value",
-      "mentions": 9,
-      "avg_score": 46,
+      "mentions": 14,
+      "avg_score": 47,
       "sentiment": "neutral"
     },
     {
@@ -114,14 +108,20 @@
     },
     {
       "name": "Family & Beginner Experience",
-      "mentions": 7,
+      "mentions": 8,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
+      "name": "Pricing & Value",
+      "mentions": 7,
+      "avg_score": 48,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Staff & Service",
-      "mentions": 6,
-      "avg_score": 54,
+      "mentions": 7,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
@@ -153,13 +153,6 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan ",
-      "detail": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
-      "theme": "Tourism Strategy & Policy",
-      "date": "2026-06-12T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
       "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
       "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
       "theme": "Events & Promotions",
@@ -167,10 +160,24 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Airdrie City View Beyon",
-      "detail": "Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Airdrie City View Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;Airdrie City View",
+      "title": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan ",
+      "detail": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
+      "theme": "Tourism Strategy & Policy",
+      "date": "2026-06-12T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Rocky Mountain Outlook Alberta govern",
+      "detail": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Rocky Mountain Outlook Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;Rocky Mountain Outlook",
       "theme": "Snow Conditions",
-      "date": "2026-06-12T16:15:00+00:00",
+      "date": "2026-06-11T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
+      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
+      "theme": "Events & Promotions",
+      "date": "2026-02-20T08:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -200,37 +207,30 @@
       "theme": "Tourism Strategy & Policy",
       "date": "2025-02-18T08:00:00+00:00",
       "sentiment": "neutral"
-    },
-    {
-      "title": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into",
-      "detail": "Provincial government allocating $275M into provincial parks - rdnewsnow.com Provincial government allocating $275M into provincial parks&nbsp;&nbsp;rdnewsnow.com",
-      "theme": "Snow Conditions",
-      "date": "2026-03-16T07:00:00+00:00",
-      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
-      "Tue"
+      "Tue",
+      "Wed"
     ],
     "positive": [
       10,
-      10,
       9,
       10,
       9,
       10,
-      10
+      10,
+      9
     ],
     "neutral": [
       85,
-      85,
+      86,
       86,
       86,
       86,
@@ -240,48 +240,48 @@
     "negative": [
       5,
       5,
-      5,
       4,
       5,
       4,
-      4
+      4,
+      5
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      385,
       418,
       441,
       424,
       437,
       426,
-      428
+      428,
+      449
     ],
     "Snow Conditions": [
-      82,
       80,
       77,
       80,
       79,
       74,
-      77
+      77,
+      75
     ],
     "Lift Wait Times": [
-      52,
       54,
       50,
       55,
       51,
       49,
-      48
+      48,
+      50
     ],
     "Safety & Incidents": [
-      44,
       44,
       46,
       45,
       46,
       46,
+      47,
       47
     ]
   },
@@ -337,14 +337,24 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTY4a0FwZWR2Z1kwaTRCVUVIQnA2VmJyekRsMEZzLTNmR0J0UWZVczN4cWJIRWh0WDNHcHVYcjB0ekE0VmNzdWNLbjUtR1ZXNWFlMkltbTZSZFAtQWFPaUtqZ2o5dHJGdG1jbDFRQ052dDhIOEFYNWdhWExEalVEWGg3UQ?oc=5"
     },
     {
-      "source": "St. Albert Gazette",
+      "source": "LakelandToday.ca",
       "resort": "fortress",
       "sentiment": "negative",
-      "text": "ICYMI: This Wild & Quiet Alberta Park Feels Like Banff Before It Was Famous - St. Albert Gazette ICYMI: This Wild & Quiet Alberta Park Feels Like Banff Before It Was Famous&nbsp;&nbsp;St. Albert Gazette",
+      "text": "ICYMI: This Wild & Quiet Alberta Park Feels Like Banff Before It Was Famous - LakelandToday.ca ICYMI: This Wild & Quiet Alberta Park Feels Like Banff Before It Was Famous&nbsp;&nbsp;LakelandToday.ca",
       "date": "2026-06-21T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYk5wZXpNZlFpb1gyOTB3YWVYM24tZTZhLWg3VWx2NWFneklEbHdsMTExNzltVjJUS3Z6X25OVndzampYLThOelM0d0tzMUtjLTdkN0E0TndyWmJBb0tHVGxaeF9ZQUN5ZFhWMjBNclJieTZRcWo2STdZNVQ2dXpyRGNpaUc5YXc5RzQ5eXVpNkxOMEYtSVNzelU4aU1GdVlSOXFHVUpYM1BWOFN1WnhiZVFxUUdIbFp6Nkl0MGpmX3F4aS1HZ1ZwQmxR?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY2s5NUVLcVRjaElXdnFEZXREWllMRlkxTl9MYnFTa1cyLS1xdlNMMlVBdWRZLWVnd0dSSGtQSjRCMDJTMFd5THM5dVBaYXdwb3BOM2loN2lwWHFNS3BLNG9hSzBUbF9vX2JxX2hGSGI4OGlqbVpHZFhQMC11Wkp3TXVacUU1MTJoQ1lrVEV1aF91SGxIeUs2NmswZkptRGU3ZUxNN21SYmlEUFJnSThVcWlENGJBV0ZrOUU4TkRkVU80WFFpLWc?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Canada Strong pass returns, offering free entry to national parks and other discounts - CTV News Canada Strong pass returns, offering free entry to national parks and other discounts&nbsp;&nbsp;CTV News",
+      "date": "2026-06-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Pricing & Value",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV0h1ekRrMy1KQ0VuTzdtNlpRWDZRYm5hZmRVYlNwRU9vS09yUGliVGx1czB4aVFaaVNOX1RxRmRwM0pVZEY5QXdPaWthYXZLd25vUEtTODBqQVpVdGtZLU5nT2ktOGpab1o0VnAzNVhtOGs4M1Jvd19ZTFZVNVRlUGJQMk9icHFNQ09udGhpd1NmV0J3aVZ1SjRyc0NoenpkYkVkRGgzT2dpeVg2ZEl4R1ZDb0tSQ0VneHZzcWhrZWlYUQ?oc=5"
     },
     {
       "source": "Castanet",
@@ -497,6 +507,16 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnpKUmRkMlAyMk8taFJMNWwyc2tBOGF1ZEpUdDVTR3Vkems4WlJLTllvajdhdFRibTBXUHY0N01oTUZsd1dIQm9aWHB0c09iN3VXeEY0REZITkRDSEZkOE9EQXZ4MkhCVmh3eDMzQVNwOFJfb0sxWVNTem5hWnE4QTFzVkRaUlpDZUY5XzRaeHVTZExnZC1rS2dnclJ2ZFJXcDNiVTFzZnExalNoZnp4TTN2d3lMdm5ibkhGOGhR?oc=5"
     },
     {
+      "source": "Medicine Hat News",
+      "resort": "castle",
+      "sentiment": "negative",
+      "text": "ICYMI: Trade Snow for Sunshine: Why Castle Mountain Belongs on Your Summer Bucket List - Medicine Hat News ICYMI: Trade Snow for Sunshine: Why Castle Mountain Belongs on Your Summer Bucket List&nbsp;&nbsp;Medicine Hat News",
+      "date": "2026-06-11T13:05:58+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNMVdHSmVybGpwc2hGTGhwUlF6MV8xVENqYVZPbFdmTHBQMW5QeWtYOGJqWENWT2dUU2NKNHdEMVFQQ3NRU2lNQnBwQUJnbjJXZ1QyZGk2SVNHdEwxWWJDV1E4S040c3dhSFR1QzNnVW80WmlndEJXekV0ZlI4c2lMVVI5WlNERkZoell4c1FfWXNNSXZfanlaYzVMTVphN3diZkN1aWF2UG91dDY5VEtMZW1yWEQ3V3F4dlRKbmlLcGlnZUtMR3VXcHNqU19aQmNEYVJVQg?oc=5"
+    },
+    {
       "source": "CBC",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -647,10 +667,10 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYVdPM0pLVXd5aldXZGs5VXBGdXpCMDBic09wazZfTjJodzhrdmlQVEdKaDRhdFRkRzhwUFhkYjcyQ0Z2RGY4TUpONFhFcDZkQTRJN0JmTVROSy13NmRESFBMYXM5LWtUMUxoVTNjLVpyNi1KLXRIWXdGYXNLM3lSeG5WakV6TEtiSWloN3liMkYwRjcxMVJXWVRNa3hKUG5rc1RzSVRhQ0xJZUhYZ3dzeEM0NUhxZm1nMnRVMTlhRzYxUlA5ajJ2SHlB?oc=5"
     },
     {
-      "source": "SAM Ski Area Management",
+      "source": "Ski Area Management",
       "resort": "castle",
       "sentiment": "neutral",
-      "text": "Chris Salhany Appointed as President of Castle Mountain Resort - SAM Ski Area Management Chris Salhany Appointed as President of Castle Mountain Resort&nbsp;&nbsp;SAM Ski Area Management",
+      "text": "Chris Salhany Appointed as President of Castle Mountain Resort - Ski Area Management Chris Salhany Appointed as President of Castle Mountain Resort&nbsp;&nbsp;Ski Area Management",
       "date": "2026-05-20T19:16:39+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -757,16 +777,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaTZ4MVlSeG9oSkFncklpWk91c0tGUjhCQ3JUYlJmdndLemZ0QmxORlRlMGJpRzFIaEFxM0pmNHQ4QS1QN2Q1VFVvUWd4aEJCWDhrT0llVGVUaDdpREw5TVpyVW5vUmIzY2hodkxLSVpqRnNT?oc=5"
     },
     {
-      "source": "The Albertan",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities - The Albertan WILDFIRE UPDATE: No immediate risk to Mountain View County residents, communities&nbsp;&nbsp;The Albertan",
-      "date": "2026-05-15T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYVhhU2xuUDRqdmpUY2FwREpmVEdWWVFlWmhMSFNYOU1wbDJ4SDRWWFBBX1hVMW9RdVpiMXQyNVNFZDdFQUVocVlfOUJUQnRMSVNtWTY5QUpWTUVBd3dvUFlncGZKTWNKSFJwTlplUHI1LXB1SnZGdE9mSy1lbUZmQUZtUk5xblYxWkFnU3JjMTZEN1lzRkZ1N3F1TjRuR2tfbGpOT2kzMTFVclRuWGVWU3pjTGFoZml0eHRrZktrY0FDT212bmlESU1vWkpuV0V5aGI4T2xwTVdWQQ?oc=5"
-    },
-    {
       "source": "Calgary Herald",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -775,16 +785,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdU1xYXY2aFpWSTRsZTQ1dzVlb21jV3g0dGN2X3RlWVB2T1dXZVZpZGNIYmdoSHJ2dFhMSWxuVWpQb2E1UUpXUGxoVTFLYUpwek1QY0MzMk91dndaVkk3enV6X1QwNlVoRUFXLTZYUTJ2Njh0bUYyQzIwYnBQOC1xSDBfbnhRUQ?oc=5"
-    },
-    {
-      "source": "cjwe.ca",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Wildfire Prompts Evacuation In Clearwater County, Northwest of Calgary - cjwe.ca Wildfire Prompts Evacuation In Clearwater County, Northwest of Calgary&nbsp;&nbsp;cjwe.ca",
-      "date": "2026-05-15T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLUNkSUxaY1ZaSGFxZGF5MWVHV3RZeW9tdTFncWsxNnB3QVhzYkF5Ump6dmF0eTBfNldUVk5tVzR4TGZtQzdEN3Fkb3RveHplWXR2UTBIcmlUdGdkRlRzV3IzNFpmOWU1Q0VyMWk1cUUzWU9hTVNqTGJQUWNuaE9reVFWUTBMemtSb1AwemJRSXBNNm1icjhMOEFlVXJ4Zw?oc=5"
     }
   ]
 }

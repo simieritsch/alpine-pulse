@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-07-14T14:59:38.001526",
-  "date": "2026-07-14",
+  "generated_at": "2026-07-15T14:57:51.943138",
+  "date": "2026-07-15",
   "summary": {
-    "total_mentions": 729,
+    "total_mentions": 735,
     "positive_pct": 9,
     "neutral_pct": 86,
     "negative_pct": 5,
-    "negative_count": 36
+    "negative_count": 35
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 467,
+      "total": 473,
       "positive_pct": 12,
       "neutral_pct": 82,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 41,
-      "positive_pct": 7,
+      "total": 40,
+      "positive_pct": 8,
       "neutral_pct": 90,
       "negative_pct": 2
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 103,
+      "total": 102,
       "positive_pct": 4,
       "neutral_pct": 93,
       "negative_pct": 3
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 52,
+      "total": 54,
       "positive_pct": 2,
-      "neutral_pct": 94,
-      "negative_pct": 4
+      "neutral_pct": 96,
+      "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
@@ -55,12 +55,12 @@
     {
       "name": "Snow Conditions",
       "mentions": 71,
-      "avg_score": 53,
+      "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 45,
+      "mentions": 46,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -72,13 +72,13 @@
     },
     {
       "name": "Summer Activities",
-      "mentions": 35,
+      "mentions": 36,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 33,
+      "mentions": 35,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -90,7 +90,7 @@
     },
     {
       "name": "Access & Transportation",
-      "mentions": 11,
+      "mentions": 13,
       "avg_score": 46,
       "sentiment": "neutral"
     },
@@ -153,6 +153,13 @@
       "sentiment": "neutral"
     },
     {
+      "title": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan ",
+      "detail": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
+      "theme": "Tourism Strategy & Policy",
+      "date": "2026-06-12T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
       "title": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Prelimin",
       "detail": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Preliminary Approval To Revive Ski Resort&nbsp;&nbsp;Unofficial Networks",
       "theme": "Regulatory Approvals & Land Use",
@@ -167,16 +174,9 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Rocky Mountain Outlook Alberta govern",
-      "detail": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Rocky Mountain Outlook Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;Rocky Mountain Outlook",
+      "title": "Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - The Albertan Beyond Loc",
+      "detail": "Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - The Albertan Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;The Albertan",
       "theme": "Snow Conditions",
-      "date": "2026-06-11T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan ",
-      "detail": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
-      "theme": "Tourism Strategy & Policy",
       "date": "2026-06-12T07:00:00+00:00",
       "sentiment": "neutral"
     },
@@ -202,26 +202,26 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Alberta to open Crown land for all-season resort development in bid to boost tourism - Calgary Herald Alberta to open Cr",
-      "detail": "Alberta to open Crown land for all-season resort development in bid to boost tourism - Calgary Herald Alberta to open Crown land for all-season resort development in bid to boost tourism&nbsp;&nbsp;Calgary Herald",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2024-11-07T08:00:00+00:00",
-      "sentiment": "positive"
+      "title": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Alber",
+      "detail": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Albert Gazette Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache&nbsp;&nbsp;St. Albert Gazette",
+      "theme": "Tourism Strategy & Policy",
+      "date": "2025-02-18T08:00:00+00:00",
+      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
-      "Tue"
+      "Tue",
+      "Wed"
     ],
     "positive": [
       10,
-      10,
+      9,
       9,
       9,
       9,
@@ -239,7 +239,7 @@
     ],
     "negative": [
       4,
-      4,
+      5,
       5,
       5,
       5,
@@ -249,39 +249,39 @@
   },
   "theme_trends": {
     "Trails & Recreation": [
-      426,
       428,
       449,
       435,
       452,
       426,
+      427,
       427
     ],
     "Snow Conditions": [
-      74,
       77,
       75,
       70,
       69,
       72,
+      71,
       71
     ],
     "Safety & Incidents": [
-      46,
       47,
       47,
       46,
       49,
       46,
-      45
+      45,
+      46
     ],
     "Lift Wait Times": [
-      49,
       48,
       50,
       48,
       49,
       42,
+      43,
       43
     ]
   },
@@ -407,6 +407,16 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLUM0Mm1VakUyUFJwZW44VUk5Z3A1aGI5enJ0Zk51dUZEUFhicjBNU3hHWU00ejhsaHI5MEU3WklRdkctZks5TVExbXZteVRjMnZwWEFDb1dwazhHTXhtYzkzNmQ0UXpTZndaSzhhVzVlV2N0a0VXeVg4VzVTN3VwWUNKN2hhdG5ITlJJb051c2EwcUZTZm02eHFfLVJZeW15?oc=5"
     },
     {
+      "source": "cjwe.ca",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "The Fortress Mountain Re-Opening Has Been Approved\u2026 With a Few Conditions - cjwe.ca The Fortress Mountain Re-Opening Has Been Approved\u2026 With a Few Conditions&nbsp;&nbsp;cjwe.ca",
+      "date": "2026-06-13T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0Y1MU5nQmw0dWpDVHQ0MUV4WnpFYkpPYmF4WHNHU0QxNmh6czV4Zk5sLXNwQm1nbDV1SmEtSEZxNURpTG1CVGh3cnBXaEFjYXcxNVF1VEZPNi1VcWt3R3k0T2FtaEt6MFlDOXpvcmdidERXMWMycWhNdVprSVJBSm5ZSnh4WERmNWw5bklPY1h5Mmgwd3c?oc=5"
+    },
+    {
       "source": "Calgary Herald",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -435,6 +445,16 @@
       "engagement": "Article",
       "theme": "Tourism Strategy & Policy",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUUyY0xGYmFCLU9DYk82aDF4OTZrQm15TDZTV20tTEgtR3hmQkZ3V3pDenF1TjY5NWp0YmxuNFZnYmQyM19vMXlCYnRPakhOOTQ5b2VjdTh1WlptajhlNDFhR1h0WHdlNVFqUTdaOGdNbE8wVlZXUjF1Q0FPSkJUYnItOHE3WGkwVUZQeDhzd3lOLW80SHpBQmI0SXFwcUVralRHVE9nTHEySS1zMFRwcA?oc=5"
+    },
+    {
+      "source": "The Albertan",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - The Albertan Beyond Local: Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;The Albertan",
+      "date": "2026-06-12T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXRYV3dEenhSX1pMSWwzdDZ1UGdhREZhRGVvb2d2eFAzQXBWYW80elV1ZURtMHgxSlJDbGlZVGh6R1g0cy16VzNKQ2xFd0dfbDlhOHdVSXdqdW1HQVlXWS1rV2tSYmJyLTZDT0g3UFk3Q1RsZVJ1OGl6Qk1uQVl5Njh6TnZKUVhDRnBZZXFmLTdIZjZ5UHBOcWMxYjg3aDIxRmRzU25KTV9mSW44cmphWDFXcFVzMzFN?oc=5"
     },
     {
       "source": "CTV News",
@@ -507,16 +527,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWZhVkhtOU5zUGcxR1VPVGFZYjA5b1NDWGV2dDRIN3RTOU1uNy1EMTJybThKejJpZzNjQkk1ZGdXRFAxck1MeEZmNHNYanJxUlJacDZQZzc4NUpSbG5nQ202d2x1dFNMczUyVFFRMkJydHhnbFBjR3ZHTE14VnRHc1pIMWViN1M3ZVVKRA?oc=5"
     },
     {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta government commissions $1.5M economic analysis and panel on cost of separation - CBC Alberta government commissions $1.5M economic analysis and panel on cost of separation&nbsp;&nbsp;CBC",
-      "date": "2026-06-12T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Pricing & Value",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2hQSTYyY1duckpwWkFXcWFZNDlrcm1fRXhCUTRJV0hGVHlZNXUtSmlYTm1VMkNscGNfaG90MnZyVzlDS2tyWktlRVJ2Rnh1R3h4cVVObW42cXdtclNud3V4eWtHN05LdDU5dDdoajg1U3AycGt4WlRvWGc3Qzhza2NFVWpNa1dQdHc5T2VpTExQUWdyVm90d0M3a3NjUQ?oc=5"
-    },
-    {
       "source": "Cochrane Eagle",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -547,6 +557,16 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2VtMXV5QVMzbGxhOVZMWGttMDNsOWd3ZWZWNHNpcHBYTXNpRlpYM1g3cUUzSGdXZTBSY2pWVXdMWHFSSTRQNE5JQzdDSHI0MGN2YXpCTUp6aEVwcjF3QzhxTkVKSFdqd3VnMjE2dFFmX2dOckJXTUtob21NUWZjNEhwTWVyX0xpeWw3QXprU2tyNG5tbmEwM2dRcDVwNG5TbE1kcUw5VGhZTXB4LWlfdU5UTWYxTXJUSWw3R3l3?oc=5"
     },
     {
+      "source": "To Do Canada",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "15 Small Towns For a Weekend Trip in Alberta - To Do Canada 15 Small Towns For a Weekend Trip in Alberta&nbsp;&nbsp;To Do Canada",
+      "date": "2026-06-10T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZU8ybWs5Q0hEQk1qeG41TXhZek9fcHRqbEJsU3VkbThqREhsb1lkSVA3eHhjN2NrRDc3QzlBMmZpejROb3JXWmVzYTJXLV9DSGNIVXFETDdQemJUSEVKdXNLTW5Nd25GQnp6T1A1TWZxOS1nQ0lRNTBKZ3FyVnl3aEFpdVlfbTh1anfSAY8BQVVfeXFMTWxkY0R0UktaS2tiaExrNjI3YUUzMDVGOS1pQXR1Z1R4SG1jbno2VngxUnpFUnV1NUs0cjBkUEhINUVvLWhqOXV3cVFsVkZXUHVFZ3g0Qy0yTDl0S1pmdjNVb0tDUnc1d3ZwaW1scDdmX1ZMRllUZWNwbHhkX0UzTGJZOXNSZnFLQUJkbm5xUHM?oc=5"
+    },
+    {
       "source": "Lethbridge News Now",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -555,6 +575,16 @@
       "engagement": "Article",
       "theme": "Environmental Impact",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREVuRHJjeXlfVnpsNXhiQmIxd0JVTTRxa0sxeHh0UnZhSU1kNzItVkhZRFRPZGF3cTJGQkg2VWFlUUxaNG83Vzh1WTVwOWJQVjFPOXNZZUJYUllHSzhVOHoySjFHbGV0cXdYejQ3VWF4WVVZa0duYjNUSGh0S05iMUdtVDhTbUVWbG83Qjh4S1FWM3Rrc25HUklWQlQ0cjk3YlhLUXRUM1NDeG9oeXJqOHhfMGRFWXpvM0E?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Chief says fatal crash highlights 20-year fight to pave road to First Nation in central Alberta - CBC Chief says fatal crash highlights 20-year fight to pave road to First Nation in central Alberta&nbsp;&nbsp;CBC",
+      "date": "2026-06-03T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Access & Transportation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkRUQzd5enc3TUx0ZW1DZThQZkFmdEN4R0x6czRQeFk0bzJyRGU4aUVxQm9aTU9rQ2JwTTF2UDhMV293ajZTYUQ0d1ZmTHhpcFNybExYa2Q1SHFzOTBuU2JPRjdHY21ZT3pHVkNsSkhIY01yVlZmSl9lcnk0MHYxSWpNQzdyUFRORjdlU3otUUZ4azdXZXZqanRyOTJMeVJKbnBfc2FiV0NRMDZRVUE?oc=5"
     },
     {
       "source": "The Golden Star",
@@ -755,36 +785,6 @@
       "engagement": "Article",
       "theme": "Lift Wait Times",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3FRUHl5b0hESk5TVXVzeGVSZDk3NF9HTjZQT1Z4LXRoWFBSRzE4NWpXRkhrYmo0WVY4ekt1ZHFPazh4VWpIdjZlQ0c4eHZKRVEzUXR4MXRid0o5NnpfT01ZdWpISEtjcUZ0b1BvdWFYOXpKZHdVVkF2Rnc4Zm00V0d0Qk5kRlR1M1U4QkMxRE5JRk5kYnJDV0Y4WnBaWFVkOWc?oc=5"
-    },
-    {
-      "source": "The Albertan",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "WILDFIRE UPDATE: Fire northwest of Sundre remains out of control Sunday - The Albertan WILDFIRE UPDATE: Fire northwest of Sundre remains out of control Sunday&nbsp;&nbsp;The Albertan",
-      "date": "2026-05-17T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX1ZGVElQNW1VTV82Vm9kVzlNTEQwbmE3R2luMEdidEp1azhUdEFWMjdkclpHMHg4RmgyM3lrVm9oOXh5MHJLSnVaQTRaeExpYk5XZjA2OGtCR3RjTERiOUxQSmNkdGFhTGF1Z3dVY21pRXdDYm5vaWhrWW5vUUY3bnlGU1lnVjgzZ2JnTUNnYzUwTmRPMDUyM2ZjNWdJRGRlbko3c1IyZXB3aERnVTFPNGdiRHZKNE5INzZLSURhNEZGeWhsdi1ZazhtcXhwQQ?oc=5"
-    },
-    {
-      "source": "EverythingGP",
-      "resort": "grandecache",
-      "sentiment": "neutral",
-      "text": "Snowfall warnings in place for Grande Cache, Hinton - EverythingGP Snowfall warnings in place for Grande Cache, Hinton&nbsp;&nbsp;EverythingGP",
-      "date": "2026-05-16T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzN3TTdDaXhHbFltWTY2c1VtRUozSXYxM0dRNHlEMTU4U3ZJUkVoT19GQ1JJeTYxcHVPU1BZWk15NFdGdE12QWo0dnpndnJPV29McGNXa0RJalBsYlJ6LWhHVzJlYmNXMUR0NUcySjFlTU1tMTJrNXNDa0dZMm5EbS1udm1IMmYtdFlSWjFDc1Q?oc=5"
-    },
-    {
-      "source": "CityNews Calgary",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Wildfire prompts evacuation alert in Clearwater County, northwest of Calgary - CityNews Calgary Wildfire prompts evacuation alert in Clearwater County, northwest of Calgary&nbsp;&nbsp;CityNews Calgary",
-      "date": "2026-05-15T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QaTZ4MVlSeG9oSkFncklpWk91c0tGUjhCQ3JUYlJmdndLemZ0QmxORlRlMGJpRzFIaEFxM0pmNHQ4QS1QN2Q1VFVvUWd4aEJCWDhrT0llVGVUaDdpREw5TVpyVW5vUmIzY2hodkxLSVpqRnNT?oc=5"
     }
   ]
 }

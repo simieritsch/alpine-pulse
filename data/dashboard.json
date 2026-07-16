@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-15T14:57:51.943138",
-  "date": "2026-07-15",
+  "generated_at": "2026-07-16T15:08:11.283027",
+  "date": "2026-07-16",
   "summary": {
-    "total_mentions": 735,
+    "total_mentions": 732,
     "positive_pct": 9,
     "neutral_pct": 86,
     "negative_pct": 5,
@@ -11,35 +11,35 @@
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 473,
-      "positive_pct": 12,
-      "neutral_pct": 82,
+      "total": 474,
+      "positive_pct": 11,
+      "neutral_pct": 83,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 40,
-      "positive_pct": 8,
-      "neutral_pct": 90,
-      "negative_pct": 2
+      "total": 39,
+      "positive_pct": 10,
+      "neutral_pct": 87,
+      "negative_pct": 3
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 102,
+      "total": 99,
       "positive_pct": 4,
       "neutral_pct": 93,
       "negative_pct": 3
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 54,
+      "total": 53,
       "positive_pct": 2,
       "neutral_pct": 96,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 66,
+      "total": 67,
       "positive_pct": 6,
       "neutral_pct": 91,
       "negative_pct": 3
@@ -48,13 +48,13 @@
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 427,
+      "mentions": 422,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 71,
+      "mentions": 75,
       "avg_score": 52,
       "sentiment": "neutral"
     },
@@ -66,25 +66,25 @@
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 43,
+      "mentions": 45,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 36,
+      "mentions": 37,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 35,
+      "mentions": 31,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 21,
+      "mentions": 19,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -95,15 +95,15 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Environmental Impact",
+      "name": "Pricing & Value",
       "mentions": 9,
-      "avg_score": 50,
+      "avg_score": 46,
       "sentiment": "neutral"
     },
     {
-      "name": "Pricing & Value",
-      "mentions": 8,
-      "avg_score": 46,
+      "name": "Environmental Impact",
+      "mentions": 9,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
@@ -211,16 +211,16 @@
   ],
   "trends": {
     "labels": [
-      "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
       "Tue",
-      "Wed"
+      "Wed",
+      "Thu"
     ],
     "positive": [
-      10,
+      9,
       9,
       9,
       9,
@@ -238,7 +238,7 @@
       86
     ],
     "negative": [
-      4,
+      5,
       5,
       5,
       5,
@@ -249,43 +249,73 @@
   },
   "theme_trends": {
     "Trails & Recreation": [
-      428,
       449,
       435,
       452,
       426,
       427,
-      427
+      427,
+      422
     ],
     "Snow Conditions": [
-      77,
       75,
       70,
       69,
       72,
       71,
-      71
+      71,
+      75
     ],
     "Safety & Incidents": [
-      47,
       47,
       46,
       49,
       46,
       45,
+      46,
       46
     ],
     "Lift Wait Times": [
-      48,
       50,
       48,
       49,
       42,
       43,
-      43
+      43,
+      45
     ]
   },
   "feed": [
+    {
+      "source": "The Albertan",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Clearwater County area bordering Red Deer, Mountain View counties on tornado watch - The Albertan Clearwater County area bordering Red Deer, Mountain View counties on tornado watch&nbsp;&nbsp;The Albertan",
+      "date": "2026-07-15T18:20:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMktuWWRpbG43dzZPQ0d5dkNEdVhBWlZCS1hYcERVd1lzRE1NOWUwR0RNT2VTVWZKbXVpanM0b0EtNlRMRmZQeVBPUVB2anhjUE0xWG5wVi1WM2FMWTRBVFVTTXV2Qm1ZdE83N3JMU2pfNW5ZNklLYkZ5Ri1XTjdNZkxWVUllT25mcDNHeXBZXzh4YldfRkgtNUxscm5BRFhvSlEyWl9KU3lCU29CZFpTVFJjX0MyU3R2ZDc5SGtWeE41ZFpuRHlvaXZtLVU4a2tVOHVjbjhiT3hGSE1Q?oc=5"
+    },
+    {
+      "source": "news24online.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "What is Iran\u2019s Pickaxe Mountain? Secret fortress even Trump\u2019s bunker-buster bombs can\u2019t destroy - news24online.com What is Iran\u2019s Pickaxe Mountain? Secret fortress even Trump\u2019s bunker-buster bombs can\u2019t destroy&nbsp;&nbsp;news24online.com",
+      "date": "2026-07-15T01:37:47+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTktMUDYta0xUZmF5eGcwZ09FUzU4VkVEWWY4UC1LZVI4bDV1SFllZVNiazd6NExmNFd0c3lQem4yei1Sa3VLSmpxRWkxYWpZSjFHbDZvSEFScV9DRFN3ZzJXRzBXNExpaGxvLU0yNUNiR0dNT3JPVjZjTmV4VlJwSk4tOFdEbzJKZmx6bTB2a25mMl9GMTNqMHpUUVYzT0NZS0pPS3E1VlQ3RUszN1dYNEFmVFhxTk4xUlQ2VEh6Nk56S216d0RPTFZaR2E4Z0pjNTZZTWhMUWlGYVJ2dHBCeEptVmZFQmlQdFZodWFIaWFtV0ZLX0ZmdWY0MmF5Z9IBggJBVV95cUxOR3dMdXBqQ1IxaVgxOXRBdjkyMzJIb2cyT3k4UUdId2tTUXR1TjBmNmRRUS14WC05Q1pOXzF1aXVHZmRCbGtWZno1NVNfMW1yNlF3em9sTTJ0al9KUWZqYnRsbWxSeTZqZFFZQXhOM3cxYmI4YkVfbkNiWlgtRGotX283QzZQdDhrdzZOWHlSczlKSjRyQmp1cnVwc3JrU3AyOGFfaE1RQkw4WnlzZFEtQmpOY2hMRkJYTFBtZUxlczBYTjJjZGhVbW1BUTFRVFBwU09qWW1WczlyZ1ctcGJfWVdOeEZ2cTVWdmNQbWYySEhTdW1JZ1dRS2g2MEVjb212WWc?oc=5"
+    },
+    {
+      "source": "The Telegraph",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Trump sets sights on Iran\u2019s hidden nuclear fortress - The Telegraph Trump sets sights on Iran\u2019s hidden nuclear fortress&nbsp;&nbsp;The Telegraph",
+      "date": "2026-07-14T15:48:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSFlYenJoazRrd3QzU3FwbWRtVE1PbkZYcEdXemlWdjVEWnExbW1oczFCX21DcElidlVSNktMeU9lb1dCWEhOTnFyNF9MQzhLT05SamF1blF4RnU5NDdMYS1pMkZyNkZBSldDX2RDZ2VjQTJ6R1FPUkZmUnZXSU1uXzhYSDRDWGNkTlhWMlBraC1Wa3dyUnJPWFJzSnp0cW1yUS1j?oc=5"
+    },
     {
       "source": "fDi Intelligence",
       "resort": "fortress",
@@ -297,24 +327,14 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG1PaWwya1N0NU01aFBPdDV2VW9Na2diMVp1X09hNTJzZERVajM5dnJEMkpzemN3emszUDJUUjJVdzBQTEN0SjBfbUc0V3pkeEpRQm9CQjdRWmpTUFBWUTU1R0F2TDRSMEU0bkd1TW5RYmxPZVp2NlB6WURHWjJQZGlB?oc=5"
     },
     {
-      "source": "MSN",
-      "resort": "fortress",
+      "source": "IQAir",
+      "resort": "grandecache",
       "sentiment": "neutral",
-      "text": "This mountain fortress could collapse off the cliff - someone could get hurt - MSN This mountain fortress could collapse off the cliff - someone could get hurt&nbsp;&nbsp;MSN",
-      "date": "2026-07-06T09:25:19+00:00",
+      "text": "Grande Cache Air Quality Index (AQI) and Canada Air Pollution - IQAir Grande Cache Air Quality Index (AQI) and Canada Air Pollution&nbsp;&nbsp;IQAir",
+      "date": "2026-06-29T07:48:52+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0xwYzk3eTQzRHpLY1dKUEFocld1bThpQ1BZNWFfRklLeFFSd2lTejJEbVJCTlNRc2VVUmZoajdSRXI4dVRiNzJhWmZKOXRfbVIydmVJWVFualZYVTZTTmMyMS03ZTRMVjlTZXBqUkt3aFo5elpOLVp4VVNPTS1MR3FaTGxMQ1llenVBakVQS1hTRl9KSkRBc2hNVXhVdjQ3RmFzUzVDNk0zXzAzdmFYdF9NSU43cTVhWXJMZFdob0d5UQ?oc=5"
-    },
-    {
-      "source": "SnowBrains",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Fortress Mountain, AB, Draws One Step Closer to Reopening But Key Hurdles Remain - SnowBrains Fortress Mountain, AB, Draws One Step Closer to Reopening But Key Hurdles Remain&nbsp;&nbsp;SnowBrains",
-      "date": "2026-07-01T10:59:35+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkdFUEU0OVlUSV80NHlPcUxGdkJzMjlGRjhHSmlHTURYMDdXcnN2eUxielZHc3dZXzJ6ZVZjVnhJNW9yeGhMVE91Y0tpM1VtWUN1QUQzYlFUQUZYcnFYcHhyLVpfS2lTeHduN3puMmpmN2xCUU5FTkY2S1JXV2lUdmh3RlAwQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdGdaMFlINlNkZ3Y1M0kxS1NIOFdQaGNtbFRLYnhYLVoybHg5RVhsTmlnYno5NlNlTlpjYUI0WE9LRV81UlZzTEpsS2NXV1ZkZUxrdDh6ZUFRSU1PRXFWcHpxVm0wTURMUHhtZlBR?oc=5"
     },
     {
       "source": "IQAir",
@@ -557,16 +577,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2VtMXV5QVMzbGxhOVZMWGttMDNsOWd3ZWZWNHNpcHBYTXNpRlpYM1g3cUUzSGdXZTBSY2pWVXdMWHFSSTRQNE5JQzdDSHI0MGN2YXpCTUp6aEVwcjF3QzhxTkVKSFdqd3VnMjE2dFFmX2dOckJXTUtob21NUWZjNEhwTWVyX0xpeWw3QXprU2tyNG5tbmEwM2dRcDVwNG5TbE1kcUw5VGhZTXB4LWlfdU5UTWYxTXJUSWw3R3l3?oc=5"
     },
     {
-      "source": "To Do Canada",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "15 Small Towns For a Weekend Trip in Alberta - To Do Canada 15 Small Towns For a Weekend Trip in Alberta&nbsp;&nbsp;To Do Canada",
-      "date": "2026-06-10T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZU8ybWs5Q0hEQk1qeG41TXhZek9fcHRqbEJsU3VkbThqREhsb1lkSVA3eHhjN2NrRDc3QzlBMmZpejROb3JXWmVzYTJXLV9DSGNIVXFETDdQemJUSEVKdXNLTW5Nd25GQnp6T1A1TWZxOS1nQ0lRNTBKZ3FyVnl3aEFpdVlfbTh1anfSAY8BQVVfeXFMTWxkY0R0UktaS2tiaExrNjI3YUUzMDVGOS1pQXR1Z1R4SG1jbno2VngxUnpFUnV1NUs0cjBkUEhINUVvLWhqOXV3cVFsVkZXUHVFZ3g0Qy0yTDl0S1pmdjNVb0tDUnc1d3ZwaW1scDdmX1ZMRllUZWNwbHhkX0UzTGJZOXNSZnFLQUJkbm5xUHM?oc=5"
-    },
-    {
       "source": "Lethbridge News Now",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -575,16 +585,6 @@
       "engagement": "Article",
       "theme": "Environmental Impact",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOREVuRHJjeXlfVnpsNXhiQmIxd0JVTTRxa0sxeHh0UnZhSU1kNzItVkhZRFRPZGF3cTJGQkg2VWFlUUxaNG83Vzh1WTVwOWJQVjFPOXNZZUJYUllHSzhVOHoySjFHbGV0cXdYejQ3VWF4WVVZa0duYjNUSGh0S05iMUdtVDhTbUVWbG83Qjh4S1FWM3Rrc25HUklWQlQ0cjk3YlhLUXRUM1NDeG9oeXJqOHhfMGRFWXpvM0E?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Chief says fatal crash highlights 20-year fight to pave road to First Nation in central Alberta - CBC Chief says fatal crash highlights 20-year fight to pave road to First Nation in central Alberta&nbsp;&nbsp;CBC",
-      "date": "2026-06-03T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Access & Transportation",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkRUQzd5enc3TUx0ZW1DZThQZkFmdEN4R0x6czRQeFk0bzJyRGU4aUVxQm9aTU9rQ2JwTTF2UDhMV293ajZTYUQ0d1ZmTHhpcFNybExYa2Q1SHFzOTBuU2JPRjdHY21ZT3pHVkNsSkhIY01yVlZmSl9lcnk0MHYxSWpNQzdyUFRORjdlU3otUUZ4azdXZXZqanRyOTJMeVJKbnBfc2FiV0NRMDZRVUE?oc=5"
     },
     {
       "source": "The Golden Star",
@@ -635,6 +635,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTNsSTBhZEFiSU1iVzQyQ0xpSUxJU1VWUF9WcFVVT3prYURLTmRPcEI2NG9tRDdYUEJ4azJ0YW1TYWZnSzJGT3NnLW5sTlJCWDdFMWdGcmhWdjJ6MnNSUUVBZmhwS0hkWFRWaENmWThoVHhXTUJ5UzI4RkZ1Q256c2ZaZmFuOWEyYXpEWHVOYw?oc=5"
+    },
+    {
+      "source": "The Albertan",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Red Deer, Mountain View counties on alert for significant weekend rainfall - The Albertan Red Deer, Mountain View counties on alert for significant weekend rainfall&nbsp;&nbsp;The Albertan",
+      "date": "2026-05-29T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMXBib2ZWV3dxVll1b3ZzRnBDTWRkMnNkOFVvWTJTZWsyOVVDeWJJRU1pdFVPaDAxMlA2dG5TaEkwRFRnX19sQk9GY1VrV0RDbG51LUM0SkpjM2xKaE4xaXlYNmJ4ZTFlWXlBd3ppdkZiM2o3OHZVQV9KNU5LSnQ5Y3JDdUVkWl9hV0lSR2NRSWFkMlRjekM3YzZJdjRTd3hpc0UtWl9DV0hCZS1pcmRoU2oxYTRZY0dyY1V3bjZZZmtlSndtaDducDJzVEhQa3hUSUE?oc=5"
     },
     {
       "source": "Calgary Herald",
@@ -765,16 +775,6 @@
       "engagement": "Article",
       "theme": "Safety & Incidents",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRVBzNFpUdUNNX1JtSDMzM2hFanBmeGtJSzJNX2pfXzNvMTJpeGgtbjBTV3lReWZyMUhYNVFtemF1N2k0Yjg0T1dQcXE2QlFGelVZXzhtVlFxdEhJaVItc0R4TFJwY0VwbFJ6YmtNVE1US3luM3REZ0ItUUxzLUhvT0dKa2tndUZhR3oyVHN4TlFPZXFOWXZTeEhYUGJ0ZTRLR1Jya21Lak5QVXFacFBMTUtOaFZCNmpKYVpVQTF5cFMxOEw0R2JkbWpGbUR2R09WSDE1Z25DNFY4dw?oc=5"
-    },
-    {
-      "source": "To Do Canada",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Siffleur Falls Hike: Cross a Suspension Bridge to Reach a Gorge and Stunning Falls - To Do Canada Siffleur Falls Hike: Cross a Suspension Bridge to Reach a Gorge and Stunning Falls&nbsp;&nbsp;To Do Canada",
-      "date": "2026-05-18T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlh0TzcxWE90WndwSDdYbjlsYi05eTFCM1UxZmJmQXlpZVFIN3k3RVhlcmU1c1FpQ3Vmay00U2NDak5ld1dJWFRoUzBoM0FKTkkyd2g1Nms3RXRvaC1TU2RQSXlRVERjaWN3NllUak45enV3Wm5FYkJWWDhNZGl2WkhndGZ6YWRIRkxmYnZMS3RVbDFMR05zN3o0ZHRya0FCRnkwNlRBdy0tTGN30gGyAUFVX3lxTFBWM0lGRGFQOUM5V3h3NVZSeEZoZUh1amtLcE9DdVpHaW9qQVlTcW1tZV9wbGxRUExOTmk1RXRZaTZiWlRiVUpnNnNVWkdMaE1rR3J1a1BSYVV4TC1sUHVaR1BuYWxCX2pCSTRwNl9mNTlvZ3BtMkRrSkdhWGIzMEJZYmRBYnZUYS1rbTRuSDRxZWVvRWx3RjRtc1B5a0RzY0wxWmZPQy1iTXZGSk5nM1hjRUE?oc=5"
     },
     {
       "source": "centralalbertaonline.com",

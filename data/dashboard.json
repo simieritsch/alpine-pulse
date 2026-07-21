@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-07-20T15:16:55.641891",
-  "date": "2026-07-20",
+  "generated_at": "2026-07-21T15:09:16.979970",
+  "date": "2026-07-21",
   "summary": {
-    "total_mentions": 756,
+    "total_mentions": 750,
     "positive_pct": 10,
     "neutral_pct": 86,
     "negative_pct": 4,
-    "negative_count": 34
+    "negative_count": 33
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 485,
+      "total": 483,
       "positive_pct": 12,
       "neutral_pct": 82,
-      "negative_pct": 6
+      "negative_pct": 5
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 41,
+      "total": 40,
       "positive_pct": 12,
       "neutral_pct": 85,
       "negative_pct": 2
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 99,
+      "total": 97,
       "positive_pct": 4,
-      "neutral_pct": 93,
-      "negative_pct": 3
+      "neutral_pct": 94,
+      "negative_pct": 2
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 58,
+      "total": 59,
       "positive_pct": 2,
       "neutral_pct": 97,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 73,
-      "positive_pct": 5,
-      "neutral_pct": 92,
-      "negative_pct": 3
+      "total": 71,
+      "positive_pct": 6,
+      "neutral_pct": 90,
+      "negative_pct": 4
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 438,
+      "mentions": 436,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 77,
-      "avg_score": 52,
+      "mentions": 75,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 51,
+      "mentions": 50,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -72,7 +72,7 @@
     },
     {
       "name": "Summer Activities",
-      "mentions": 34,
+      "mentions": 33,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -84,13 +84,13 @@
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 21,
+      "mentions": 22,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Access & Transportation",
-      "mentions": 15,
+      "mentions": 13,
       "avg_score": 47,
       "sentiment": "neutral"
     },
@@ -107,6 +107,12 @@
       "sentiment": "neutral"
     },
     {
+      "name": "Staff & Service",
+      "mentions": 7,
+      "avg_score": 57,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Family & Beginner Experience",
       "mentions": 7,
       "avg_score": 52,
@@ -116,12 +122,6 @@
       "name": "Pricing & Value",
       "mentions": 6,
       "avg_score": 48,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Staff & Service",
-      "mentions": 6,
-      "avg_score": 54,
       "sentiment": "neutral"
     },
     {
@@ -202,29 +202,29 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Alberta to open Crown land for all-season resort development in bid to boost tourism - Calgary Herald Alberta to open Cr",
-      "detail": "Alberta to open Crown land for all-season resort development in bid to boost tourism - Calgary Herald Alberta to open Crown land for all-season resort development in bid to boost tourism&nbsp;&nbsp;Calgary Herald",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2024-11-07T08:00:00+00:00",
-      "sentiment": "positive"
+      "title": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Alber",
+      "detail": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Albert Gazette Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache&nbsp;&nbsp;St. Albert Gazette",
+      "theme": "Tourism Strategy & Policy",
+      "date": "2025-02-18T08:00:00+00:00",
+      "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Fri",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
-      "Mon"
+      "Mon",
+      "Tue"
     ],
     "positive": [
       9,
       9,
       9,
       9,
-      9,
+      10,
       10,
       10
     ],
@@ -242,50 +242,120 @@
       5,
       5,
       5,
-      5,
+      4,
       4,
       4
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      452,
       426,
       427,
       427,
       422,
       426,
-      438
+      438,
+      436
     ],
     "Snow Conditions": [
-      69,
       72,
       71,
       71,
       75,
       76,
-      77
+      77,
+      75
     ],
     "Lift Wait Times": [
-      49,
       42,
       43,
       43,
       45,
       45,
-      51
+      51,
+      50
     ],
     "Safety & Incidents": [
-      49,
       46,
       45,
       46,
       46,
       45,
+      44,
       44
     ]
   },
   "feed": [
+    {
+      "source": "The Weather Network",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Destructive Alberta tornado narrowly misses Rocky Mountain House community - The Weather Network Destructive Alberta tornado narrowly misses Rocky Mountain House community&nbsp;&nbsp;The Weather Network",
+      "date": "2026-07-21T09:12:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTkZza1VPN3QyeG1rNWZLcV95QkY5eXlWTTZvMXJMX04xSllUb0JwNkFhT0lPTnByS3ZZR3VUQW1UQTFGRW5aMVVETjdieTRSV282blhUVlpnaTVSMmhIV0M5UHV3YkhJS3llbEtEQWZxTzIwVmZvYzlVRDR3Sy1sZml5YUFwRlNKU1pqMHJ1aHpVc1VNZGlBNnJBSkM0U3ZvT0d0c0ZLUzl5M0lRUGZhQ2FiZW1HYWctaXpId1BzaThnNjl2MVBxNDNHNA?oc=5"
+    },
+    {
+      "source": "CityNews Calgary",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Cleanup underway after tornado touches down in Clearwater County - CityNews Calgary Cleanup underway after tornado touches down in Clearwater County&nbsp;&nbsp;CityNews Calgary",
+      "date": "2026-07-21T02:07:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdzY5UF9vTElYNktEcWdsMGpLazhKMlZKOFE5TnpYQUdYMnNwb3k0dlU1SG1aSGowenc4RHJhVTE5aDkySW5wMm0tM2RqMTRSVjhVeVZOcnJWaVk3RzBzMG1kTW9yZjR6d0xMLUs1RTRINnhWMGtMaG5DV2N6TUYxb21VNmU5bVNES2ZnYVI0YkFqeXA0MlVCSEdaVnc3V1NXeFJyUDZ2cG4yM1ViZlpJ?oc=5"
+    },
+    {
+      "source": "Edmonton Journal",
+      "resort": "davidthompson",
+      "sentiment": "negative",
+      "text": "Weekend tornado rips through Rocky Mountain House and Clearwater County - Edmonton Journal Weekend tornado rips through Rocky Mountain House and Clearwater County&nbsp;&nbsp;Edmonton Journal",
+      "date": "2026-07-20T20:46:32+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYUxwNGRlcUdfZzkwYlI3MjNOOExVSi13cDNiR2hjbklNZU1WZk5obm5jcnFoNFNfTGhaamx1RlVxOVdiNXFSRV8xcXFuenZEeGtEcFRGRkxXcGtCTGxJaThIcVp0WE9SQkZsNF9xRE9IVGFWOXF0RkIxeUptbXE4aEE1cTV3UQ?oc=5"
+    },
+    {
+      "source": "Culture Alberta",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta Tornado Damages About 40 Homes Near Rocky Mountain House: Multiple Tornadoes Confirmed and What Insurance Covers - Culture Alberta Alberta Tornado Damages About 40 Homes Near Rocky Mountain House: Multiple Tornadoes Confirmed and What Insurance Covers&nbsp;&nbsp;Culture Alberta",
+      "date": "2026-07-20T19:11:10+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWFhRXE2QlhhTlVNVXQ5M3FaUmlpR2Z2WXNZX21zc2NqQnBrN3lLWVNKdnlmdzJiaFZTQmRmRWZpR0pkeElkZlBaMWtDS1phV0I4UEhVQ3NldC1pOVR2UEFRUTFoLUJLS0JKT3F0bktEWl9NaERweDdCaWJlM2NFUnZ3bF9HV2NJR1lyZkVPMWFralRySDd5VThFbHBFb0p1dEU3T3kxY0JsNFpiX2s3MS1URWQ5QWZCYWdDb3FyTzRWckI0c0h0RW1GamdSNS1LTW9hTVI1Yw?oc=5"
+    },
+    {
+      "source": "Travel And Tour World",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "Alberta\u2019s Best Casino Resorts for Families, Ranked: Where to Find Kid-Friendly Pools, Comfortable Stays and Entertainment Beyond the Gaming Floor, According to Traveller Reviews - Travel And Tour World Alberta\u2019s Best Casino Resorts for Families, Ranked: Where to Find Kid-Friendly Pools, Comfortable ",
+      "date": "2026-07-20T17:15:45+00:00",
+      "engagement": "Article",
+      "theme": "Staff & Service",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15MXJQdnJrMk9HenpQOE4wTVpmV2t1aVhrMnV5QzJObWhjcHhiTDZ2MDNQcTJNWkdsOTNjaDFYXzlBZ092RlQ5dm91Uzk3UjRBYVRMRGhiZzBjS0Rrc0M5djlnWllBNU9sWEdaM0RR?oc=5"
+    },
+    {
+      "source": "rdnewsnow.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Reaction pours in from July 18 tornado near Rocky Mountain House - rdnewsnow.com Reaction pours in from July 18 tornado near Rocky Mountain House&nbsp;&nbsp;rdnewsnow.com",
+      "date": "2026-07-20T15:20:03+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnM5TkxsaFNvWDRmYlJlOHp3X2dxMkZjb2pkdWl3N3ExRVJicFhvaE1pZXh4SlpWR01VMVlxWW5XQW12SlZtU2x1NWlqVmRnRTZOdGFoUEZTb3BtMFNfOThRdkJ2YkZGZ3pya0l6ZUZ4OTJNR0pKOEEzVjJDUlU3cFkySGNuTFE5ekVWRVUxMDQtTGN4d1cwTGMwMTRteVU?oc=5"
+    },
+    {
+      "source": "MSN",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Tornado damages homes in Alberta as Prairies face renewed threat - MSN Tornado damages homes in Alberta as Prairies face renewed threat&nbsp;&nbsp;MSN",
+      "date": "2026-07-20T13:50:53+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZDk5NkFRVkhiZ0paRk5fWHBFdTRQNzJURm5NTXZVZ2lnTGpGR05XdTlrRmhQZTBnYzk0eHRRWWJIVWVqNkloblJQdjdLZFZnZWludHpqaUJxcmF3T3NiNFdWODYxTTZmOVJwMHZsWDNuZG9kLWFibEkxZjJReXN4ME8yQkhYLXNPRUpzREloYUwwUEFuQ3hMdGZ3N0g0N1k5RVhrRDFTTEFXa3NaZmJGdU5fTnhxdXVtQkE4bDZjcnJDZ01xZUpHOTMyWjROcFFWNlhhQ1FibDJDT00tX2c0M3hlZVE4dkdPQ05fM2NZak05VjI3QkVNOWx3?oc=5"
+    },
     {
       "source": "The News International",
       "resort": "fortress",
@@ -297,14 +367,14 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVFdlaWN2ZVo4UC1WMGhtSnozdUZCZWFpZXZicW9OaFZCRlptZk9jZV9kLWxSS3lPMU4xV3FNaXRpTkJfbmtpc3RlamQtZGZrdzBBN19BQmxRczVRdHBkREloa0dJMDgxOXVPaFJNSGNQVTJsZldxT2FWTmFWZUpoZWNoSG9ybEVJb1BmTWNxclZQekZ4OUJkY3ZlYnRwUTFsZHVqbg?oc=5"
     },
     {
-      "source": "rdnewsnow.com",
+      "source": "CHAT News Today",
       "resort": "davidthompson",
       "sentiment": "neutral",
-      "text": "Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado - rdnewsnow.com Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado&nbsp;&nbsp;rdnewsnow.com",
-      "date": "2026-07-20T03:03:20+00:00",
+      "text": "Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado - CHAT News Today Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado&nbsp;&nbsp;CHAT News Today",
+      "date": "2026-07-20T02:55:20+00:00",
       "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUJUWHUzdGY5TWF3SjVlSGhKM2xrMUFKWHlRclpmT3ozREl2MnBlTXYxSnlXajRLVmRtVTFzS3Nqb2NIN3VwWGdQcGxLbnpHM1lmb2gzVlRyVHNYMzVudGY4S0trOW1uUEROWm9rUjgwNVhqczN4SHVES2RnejRzYUdMQlhfRnRHOEhzdnZBNkZWZnlhLUZWU1hWOGFiWnBqcWJCRXBzbkNKZzNLVEdR?oc=5"
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQUowakZScEsyN2o2MS1jdnQyX1JpZzVXLXEtOHNvOEhDaEpSeGZKeHRlNGFBbzJEQ0VTVHVyX2tLWHBoLWVydEdQTzQ5QWoycTBPOGQ3X3A2SEFhQXNlakZzYXU5X2ViYVRvekM2cWFVSXBUc2dVcXE4WEpZMGxtQWk3RTVrdnlfWDNSaDhZQmRxYXdqME9xeUpLRnl1dU9ORnV1MzFLNzhWWmRacEZHYmgzcw?oc=5"
     },
     {
       "source": "CBC",
@@ -337,6 +407,16 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZFk0aWdBVTdhSDl4ZXMxbDkyZ0pYbzdDZXJiZW1NZndnLUlaNHB2Xy0wSnFQQWtOTTBXWVI5WTZCdTVMUTJlS0hCVnU4Y0VrZWZlT0UwaDhkZFQ0ZnVfWVA3VWN3enc0cjhoNktTQ0RWR2RTeEVvMUVtSjdQUUFTNGxaa3I1R1gxSVpkR1VRREVneC1DcjZ2WlNfZVU5WWhxOUp6bWNjTmg3OF91aTlZUkQ5aDA?oc=5"
     },
     {
+      "source": "The Weather Network",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Tornado causes 'significant damage' to parts of west-central Alberta county - The Weather Network Tornado causes 'significant damage' to parts of west-central Alberta county&nbsp;&nbsp;The Weather Network",
+      "date": "2026-07-19T21:30:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXpsb0hnNDZNV2JHSE52ZHlYSDh3TUVycFlzc21rQmxzbHJ0RklXclYxVm5QVDdvVVI5a1c3TGFiOWUtLVpKTlpEN3ozU0syWjA1aGs0allRRklPQVJ5TTRkR2JfUFYzcXV6cmp2WUZJUTdtWEdzOGs0ejQ5eE5RelJtUVZ2bGNCSklRN1g3d0VKNXNPSW51bENXWnJtajJJd0F4T1ZERzNPcTdCWl9Dc1I1cU5wbnd5MTZRRmJjeFVfZC03Vk9md2h3?oc=5"
+    },
+    {
       "source": "centralalbertaonline.com",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -357,14 +437,14 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMmd5ZjYwQm5FSFBGazJuWS02a0dfVlJybVdPbGFWZHF0ZFl3WU41MWl0ZjJfZkJaV2RLUlFJTGwxNGVFRENfX3JoTVpQTnpzakt5bE4zdkZuUzZWUDlfSGZMbmUxb0JyNFN6RzM2bnNTNGNUYjd3TzM2em12OGg1X1JTLVFpUkRtSVI2cGM2MEpSZG42dXRORWM2QjEwZkhqYXZzZnR6cjYtXzNod0hrQllKVXJjWGZVcWRpTzREblB3R2psWW9DRQ?oc=5"
     },
     {
-      "source": "The Weather Network",
-      "resort": "fortress",
+      "source": "CTV News",
+      "resort": "davidthompson",
       "sentiment": "neutral",
-      "text": "Tornado causes 'significant damage' to parts of west-central Alberta county - The Weather Network Tornado causes 'significant damage' to parts of west-central Alberta county&nbsp;&nbsp;The Weather Network",
-      "date": "2026-07-19T14:30:00+00:00",
+      "text": "Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities - CTV News Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities&nbsp;&nbsp;CTV News",
+      "date": "2026-07-19T00:27:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXpsb0hnNDZNV2JHSE52ZHlYSDh3TUVycFlzc21rQmxzbHJ0RklXclYxVm5QVDdvVVI5a1c3TGFiOWUtLVpKTlpEN3ozU0syWjA1aGs0allRRklPQVJ5TTRkR2JfUFYzcXV6cmp2WUZJUTdtWEdzOGs0ejQ5eE5RelJtUVZ2bGNCSklRN1g3d0VKNXNPSW51bENXWnJtajJJd0F4T1ZERzNPcTdCWl9Dc1I1cU5wbnd5MTZRRmJjeFVfZC03Vk9md2h3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazk5RXBrWjgtNS01WDdnOEtPTERMRG91bUlpbkVPazZqT1lVd1QxeHZpUC1OS2NtR2s0a21lVkZGZVNzOHdGZzByc3hLbzY5QTk5b2RUeHhKX3Q3X0FsVDVROG5zSXdYYmp5QzJPdmVaRkdnMDdMaWhRVURxWGFNVFByNWRnTVpyd1Jpel91VXlWNWFBZHhWQ2x4UHJUMm5CaDZOZFVHY3loMm5vdGVTWg?oc=5"
     },
     {
       "source": "CTV News",
@@ -375,26 +455,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVJrVUk4TjRzSElLVmVrWTVrRVpmMTdseC1EcjVKZ2RSa3lxelc1aExtNVExZHN6NHFiSl9PbzUySFVxSHJCYlVJNk44eVc2VUxrajdNTVBPbldZaENSTERTUERxUzhTTzZWS1FLVlJXdTMxT3pYT2VFOHc1MU9BYUo2elVWWkxDSlhYdGdhb0JlZDF0azdZWXpCNHMyTWc3NnZyeVI4TFhiN2FWN2tDeDZHWUI?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities - CTV News Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities&nbsp;&nbsp;CTV News",
-      "date": "2026-07-19T00:27:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUC1ISHVsOGN3Z29pWlRaaUwwYU5KVlkxbHJReHJRYm1SUzNUcTdWZWNVMVFRcmhNNEM2cWQ3THh5WktfNV93dHlwSE9Cblk2OWlCWHZvblhiYWowWVNYeDRwdlVicG1nQWViZ19MdzA3Qmg1bGFvTGdOU0tSWV9sODRrNUhxbGdnekZBY0NKLXJLOFJlaWFmU3RNTmNvLUZYdGxucElWOVRfWXZndkZhZGJjZ0lVTUF4ajdzOHZYYUI?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Red tornado warning issued for Clearwater County, Alta. - CBC Red tornado warning issued for Clearwater County, Alta.&nbsp;&nbsp;CBC",
-      "date": "2026-07-18T23:39:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWS1MdjJ0MWRSZEFUZ2ViVzFuV0l1X2ljMjZkWlVCeTFMdWhOMjk4Z3lLb2l6YmhLem4yRUQycGZXSFo3dXNGZk1CQVA3Rlk3M1BydmgydUlzaGZWVURkS1FDTXlrbURaTEZkVXVZb2JaRnJadWx5X0t6T0gzbVdzTDlQX0lOeGdrOEFjRVpZOGFPUUg3cTl0X1AtcDVUUmVhMzUyQXdB?oc=5"
     },
     {
       "source": "CBC",
@@ -415,16 +475,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc1BRTklvQlJfdkFGQS1UX3k2Z3RJbHhrdW5CWlRxWVd3a3Y3Q2M3QmtrNTZWRVFrVVFSRVBqWkJEUDRpS2dZWnBrQ01jdGtLc3BZbDYyU3YwT3p5RGN4QUZoVFNBcFk2ZmRMb3l2VTl4QWtnNVNxS05YSG9xWGRGbEx2RDdGc2RDc0ZhRGJBODl5UmstT3AyTHFpbXFyQVRtOGhheWJEQm8wRVJk?oc=5"
-    },
-    {
-      "source": "The Globe and Mail",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Will Canmore\u2019s vacancy tax help solve the Alberta resort town\u2019s housing crisis? - The Globe and Mail Will Canmore\u2019s vacancy tax help solve the Alberta resort town\u2019s housing crisis?&nbsp;&nbsp;The Globe and Mail",
-      "date": "2026-07-17T12:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOElFMjk4X0g2YUNPcVlRdGdXd19JR1hpM2p6SHV5bmY4ZFd2bURtWUxOYTBhYVBwb1ZwaUpPSXBEVERhc04wMDVUNFgtT1Y5RjdTX3YwOVozWlJKbkVxUi0zUG5xVmo0dTZvQy1ndzNLeFhsRzFJVkNxMWFaTmVuazBYTnlSSVpJdUNHWS1EYUs4ZFQ4N3J3WXJXOEZKZFZFRUw1YUFyTEMwdURRTUZJR0dvN09Od3ltR2N1dmE2OA?oc=5"
     },
     {
       "source": "CityNews Calgary",
@@ -477,14 +527,14 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE81cmJ3Ymo1SnNnaUFrVUNlNkhXSmE1ZnFuaVNrTHJpdGU3SXJLeGtmNXVQWTQzV0RGMUVhdUlfMzZtN1lib29wZzUxN05hX18td05aUWRIMXVVbVE1bm9xZTNxZ2NybFowcU82di1GN083Zw?oc=5"
     },
     {
-      "source": "Cochrane Eagle",
+      "source": "LakelandToday.ca",
       "resort": "grandecache",
       "sentiment": "negative",
-      "text": "Get Lost As You Explore 11 Different Circuits at Grande Cache Labyrinth Park - Cochrane Eagle Get Lost As You Explore 11 Different Circuits at Grande Cache Labyrinth Park&nbsp;&nbsp;Cochrane Eagle",
-      "date": "2026-06-25T12:01:00+00:00",
+      "text": "Get Lost As You Explore 11 Different Circuits at Grande Cache Labyrinth Park - LakelandToday.ca Get Lost As You Explore 11 Different Circuits at Grande Cache Labyrinth Park&nbsp;&nbsp;LakelandToday.ca",
+      "date": "2026-06-26T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbE1IQmJ6N3ZlVGRtc3JuZXhpZGlBX3UtTHdQY2hxYnJaS2RoTEJfRmhraGEySHRLMFgxcXNDRUFZUUd6U3NRLThXTkd0a1ptOUNETC1PTXE0MjFLczFIallreWxuOWhmeHZYMzdJLTJZM1puWW5wYlZoQjFoSWN2YXdFd1VjYjFPSWJxS1FBRm9HZnJPS0ZSYmRlZVJaZjdSemRGeGVveHRVdFZ0dGg5RHA0V1dWZEM2clpVZlJaTzVoTWtiZVhTSE5YWQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUM3ZEp4anV0SDhPa0dGRWxCZEpYVDNWUFZycXdncFFzeXoyQlJ5bzFyRnFWdUZ4U2lwWkQ2RGt2bkFPY2o5VEc5ck5pRklEb1I3ZGZfX08xdFVzYy1fZmJQZWEweUJablFIMW5TS3ViWHN0a05wTVVuMkdlNzl2Q1hsMVpaTWhTN1NZaE1yQTcwSHF2TkZicUFDTllzT2xxUWRlQ3lZVkRzZS1NQVNudE5ZTzhiRlkxLUI0OEMybnZwMlYxSGx4MUdqMA?oc=5"
     },
     {
       "source": "CBC",
@@ -735,56 +785,6 @@
       "engagement": "Article",
       "theme": "Family & Beginner Experience",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMmlQay1NaEplblRHWkVFVGhDTkVOMzN2eG00Mm1iaDJQRkxHbVlhTHdIOUN6bElkVUs4TzEyZk10SjI5MUJ3TXhCRk5FaHZtcXVNT0xReE9kQi0xTktsdFRGNWtTVGsxdXpiWFVYZG96RnRlY093XzJsTzVJdDBHejdyMDNqbXo3cWF5dUVpaTY?oc=5"
-    },
-    {
-      "source": "CBC",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Central Alberta collision kills 4 people, including 2 young girls: RCMP - CBC Central Alberta collision kills 4 people, including 2 young girls: RCMP&nbsp;&nbsp;CBC",
-      "date": "2026-05-30T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYTNsSTBhZEFiSU1iVzQyQ0xpSUxJU1VWUF9WcFVVT3prYURLTmRPcEI2NG9tRDdYUEJ4azJ0YW1TYWZnSzJGT3NnLW5sTlJCWDdFMWdGcmhWdjJ6MnNSUUVBZmhwS0hkWFRWaENmWThoVHhXTUJ5UzI4RkZ1Q256c2ZaZmFuOWEyYXpEWHVOYw?oc=5"
-    },
-    {
-      "source": "Calgary Herald",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "$100M Nordic spa project aims to boost Alberta's year-round tourism economy - Calgary Herald $100M Nordic spa project aims to boost Alberta's year-round tourism economy&nbsp;&nbsp;Calgary Herald",
-      "date": "2026-05-29T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Facilities & Lodging",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVm5tcm1nV21XQmQtQS04NjJZTi1kMnI2WFNVZVVoU0ZBZjJEaGZCeUhEZmpKd0FUWFpOUFdTbi05cGpkRk9FREliMF9aeHBjQk84M0xHdHZoR3hHLVhZckVFNnQtRng4LUtzMVdYTDlBM1dtcEZ1MTlJVV9xWjlqaWxVeklZYkQxbHBZdm5DdUt4bHRZREE?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "Thousands weigh in on gondola, resort proposals in Canmore, Kananaskis - Rocky Mountain Outlook Thousands weigh in on gondola, resort proposals in Canmore, Kananaskis&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-05-28T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM0JhTlhKWnY1M2FubTN1OW5HNXlleHhtTFJYMWJFRFA1cmowOWpnUW9TZFZEN0lhc1lyLWhOZHlZTFIyX3RhYklibGRjOXlQcWRfQ3Z5T0NWdVkwd05QYkF2RjZETGJNaENoRkpoZFZBQWhLWXV3TVZ1RTNDZ1k4dlQzbG9Tc2UyMElRM2NSc1o1VWtnYW9xeTdvY0oxNWkwOWhNVFhqVXI4NWNVak00Yw?oc=5"
-    },
-    {
-      "source": "todayville.com",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Driver dies as truck plummets into Clearwater River - todayville.com Driver dies as truck plummets into Clearwater River&nbsp;&nbsp;todayville.com",
-      "date": "2026-05-26T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Access & Transportation",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRi1HTkRsb3pqT2Y0cFVvQUNINnRuTVIxbmdWajAwcUk2MTZsbFVvVXB1STVQUE5Wc3A4SUNISlY2VTBPWlFKNTA3OTNTSS0wVVlaUTNXNVhraTlGbUp3U3FHNVh2UF9iakpBQU9BWk1ULTFMLUxqWEZWQ19RQ082TQ?oc=5"
-    },
-    {
-      "source": "The Albertan",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "WILDFIRE UPDATE: Blaze northwest of Sundre now deemed under control - The Albertan WILDFIRE UPDATE: Blaze northwest of Sundre now deemed under control&nbsp;&nbsp;The Albertan",
-      "date": "2026-05-26T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjFHYUxXQlJGeTR1bWM4WnJIVlRaQVZfU1dYZzlTSUtIZ3dqSTVMMmxxc3QxdVFqU0lvLTFNREpEQzdVVlFUVTViUjhZTHBabXFKMkhUUFJaeG1TX1g2ME12RWlodHBRVUxDd0toWmlpU210aWFXd3Q3bDc2Z09FYzRjUEhRRUx2MlpUWk9mdlM5RjNBRkF6TjBuSmpGUG9SYVljMkJyNFZlbE5BVUdyZU5wRHdjSFdnSkFDREUtNDhrMzFnOW9Xag?oc=5"
     }
   ]
 }

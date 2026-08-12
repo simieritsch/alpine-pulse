@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-11T14:22:07.615624",
-  "date": "2026-08-11",
+  "generated_at": "2026-08-12T14:22:11.043318",
+  "date": "2026-08-12",
   "summary": {
-    "total_mentions": 745,
-    "positive_pct": 10,
+    "total_mentions": 759,
+    "positive_pct": 9,
     "neutral_pct": 86,
-    "negative_pct": 4,
-    "negative_count": 37
+    "negative_pct": 5,
+    "negative_count": 38
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 464,
+      "total": 468,
       "positive_pct": 12,
       "neutral_pct": 82,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 42,
-      "positive_pct": 12,
-      "neutral_pct": 83,
+      "total": 44,
+      "positive_pct": 14,
+      "neutral_pct": 82,
       "negative_pct": 5
     },
     "nakiska": {
@@ -32,65 +32,65 @@
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 58,
+      "total": 62,
       "positive_pct": 0,
       "neutral_pct": 98,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 72,
+      "total": 76,
       "positive_pct": 4,
-      "neutral_pct": 92,
-      "negative_pct": 4
+      "neutral_pct": 93,
+      "negative_pct": 3
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 433,
+      "mentions": 442,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 67,
+      "mentions": 68,
       "avg_score": 53,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 48,
+      "mentions": 50,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 47,
-      "avg_score": 49,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Summer Activities",
-      "mentions": 34,
+      "mentions": 48,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
+      "mentions": 33,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Summer Activities",
       "mentions": 32,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 24,
+      "mentions": 25,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Access & Transportation",
-      "mentions": 17,
+      "mentions": 16,
       "avg_score": 47,
       "sentiment": "neutral"
     },
@@ -108,13 +108,13 @@
     },
     {
       "name": "Pricing & Value",
-      "mentions": 7,
-      "avg_score": 45,
+      "mentions": 8,
+      "avg_score": 44,
       "sentiment": "neutral"
     },
     {
       "name": "Family & Beginner Experience",
-      "mentions": 6,
+      "mentions": 7,
       "avg_score": 52,
       "sentiment": "neutral"
     },
@@ -153,15 +153,15 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Prelimin",
-      "detail": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Preliminary Approval To Revive Ski Resort&nbsp;&nbsp;Unofficial Networks",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2026-06-22T07:00:00+00:00",
+      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
+      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
+      "theme": "Events & Promotions",
+      "date": "2026-02-20T08:00:00+00:00",
       "sentiment": "neutral"
     },
     {
-      "title": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - rmoutlook.com Alberta government appr",
-      "detail": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - rmoutlook.com Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;rmoutlook.com",
+      "title": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Rocky Mountain Outlook Alberta govern",
+      "detail": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Rocky Mountain Outlook Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;Rocky Mountain Outlook",
       "theme": "Snow Conditions",
       "date": "2026-06-11T07:00:00+00:00",
       "sentiment": "neutral"
@@ -177,14 +177,14 @@
       "title": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan ",
       "detail": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
       "theme": "Tourism Strategy & Policy",
-      "date": "2026-06-12T07:00:00+00:00",
+      "date": "2026-06-12T19:19:34+00:00",
       "sentiment": "neutral"
     },
     {
-      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
-      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
-      "theme": "Events & Promotions",
-      "date": "2026-02-20T08:00:00+00:00",
+      "title": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Prelimin",
+      "detail": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Preliminary Approval To Revive Ski Resort&nbsp;&nbsp;Unofficial Networks",
+      "theme": "Regulatory Approvals & Land Use",
+      "date": "2026-06-22T07:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -202,22 +202,22 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Alberta government announces Highway 40 lane-widening - CTV News Alberta government announces Highway 40 lane-widening&n",
-      "detail": "Alberta government announces Highway 40 lane-widening - CTV News Alberta government announces Highway 40 lane-widening&nbsp;&nbsp;CTV News",
-      "theme": "Access & Transportation",
-      "date": "2020-06-30T07:00:00+00:00",
+      "title": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Alber",
+      "detail": "Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache - St. Albert Gazette Beyond Local: Alberta government working with Indigenous group to advance caribou recovery near Grande Cache&nbsp;&nbsp;St. Albert Gazette",
+      "theme": "Tourism Strategy & Policy",
+      "date": "2025-02-18T08:00:00+00:00",
       "sentiment": "neutral"
     }
   ],
   "trends": {
     "labels": [
-      "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
-      "Tue"
+      "Tue",
+      "Wed"
     ],
     "positive": [
       10,
@@ -226,71 +226,81 @@
       10,
       10,
       10,
-      10
+      9
     ],
     "neutral": [
-      86,
       87,
       86,
       86,
       85,
       86,
+      86,
       86
     ],
     "negative": [
-      4,
       3,
       4,
       4,
       5,
       4,
-      4
+      4,
+      5
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      429,
       433,
       437,
       432,
       434,
       433,
-      433
+      433,
+      442
     ],
     "Snow Conditions": [
-      83,
       74,
       75,
       84,
       84,
       68,
-      67
+      67,
+      68
     ],
     "Lift Wait Times": [
       50,
-      50,
       52,
       51,
       52,
       47,
-      48
+      48,
+      50
     ],
     "Safety & Incidents": [
       47,
-      47,
       49,
       49,
       51,
       50,
-      47
+      47,
+      48
     ]
   },
   "feed": [
     {
-      "source": "westernstandard.news",
+      "source": "To Do Canada",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Huckleberry Fest 2026: Take a Scenic Chairlift Ride to Pick Huckleberries at This Alberta Ski Resort - To Do Canada Huckleberry Fest 2026: Take a Scenic Chairlift Ride to Pick Huckleberries at This Alberta Ski Resort&nbsp;&nbsp;To Do Canada",
+      "date": "2026-08-11T23:48:45+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLTJQMHM3dFRFU21LLU45V1pSQ1hWS3oyQ3JTYUppOHQ0aFBna1UzT2tiLVh2ZnVoQkI0dk4yb3gwZXFqbXRHRVJtZmlVOUs4NmZsbElpTjZRdGlRaWlJQW5DZXlpT2NZclMzNGI3bDlxM3poLVhUUjNLeHlEZi1fdDhrRzZUa0h6OWdoMVlod20zdVhndUw3MjBGV0lySDVkUllBOFZyTjY0ajk0UEc5Y3dEdFVsdU1nS3Zyc2tBbw?oc=5"
+    },
+    {
+      "source": "Western Standard",
       "resort": "davidthompson",
       "sentiment": "neutral",
-      "text": "Hybrid Canadian-Palestinian flag spotted at Alberta\u2019s Abraham Lake - westernstandard.news Hybrid Canadian-Palestinian flag spotted at Alberta\u2019s Abraham Lake&nbsp;&nbsp;westernstandard.news",
+      "text": "Hybrid Canadian-Palestinian flag spotted at Alberta\u2019s Abraham Lake - Western Standard Hybrid Canadian-Palestinian flag spotted at Alberta\u2019s Abraham Lake&nbsp;&nbsp;Western Standard",
       "date": "2026-08-10T15:52:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -307,16 +317,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRi1HTkRsb3pqT2Y0cFVvQUNINnRuTVIxbmdWajAwcUk2MTZsbFVvVXB1STVQUE5Wc3A4SUNISlY2VTBPWlFKNTA3OTNTSS0wVVlaUTNXNVhraTlGbUp3U3FHNVh2UF9iakpBQU9BWk1ULTFMLUxqWEZWQ19RQ082TQ?oc=5"
     },
     {
-      "source": "rmoutlook.com",
-      "resort": "nakiska",
-      "sentiment": "positive",
-      "text": "Upgrades at Kananaskis ski resort, athletes funding part of feds' sport system investment - rmoutlook.com Upgrades at Kananaskis ski resort, athletes funding part of feds' sport system investment&nbsp;&nbsp;rmoutlook.com",
-      "date": "2026-08-01T15:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdy1zWll5R3RpZXRfaFJxRnZ2ZWVkczlET0VPVFpOLWtNQS1Vc0J1SU5IdzZnQ0RGRGN3OGZRdGZ0b3pCazE5NXlCMU1pNHBoQkJSX2V0NF9OSWxfazQySEpCZkRhbmYtQnNkVkVOdHFlcEVhS2JLbzRmS2ZoV3lRZ0RGOUZYa0Jrem5TU29vcTNMbFlnRmstRjh1VjY0NnpUdWlVeEpuYnpMalNvRm43R3d0cjVmZEE0UWNJdUNNSWdTSHBwWDJSVTVpeE5WbkU3?oc=5"
-    },
-    {
       "source": "To Do Canada",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -327,14 +327,14 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43RnhoNGZrM053OElab0xhQVB4NUxWN1lHbHExSzRMOUZ6bHpockxJT3RuZ1doWkIyTTRZZmdZMTNtVklmWHh6dF9BZlMyLVo4UVdXc0hKak5CSFNteW9sa9IBZkFVX3lxTFBIdHZXbGJwS2ozanlLSThNUnFidjJTNzczZE1CS1U0SnJwT2hJVDh6WlFZLV80NVBVSmNzRDZ3WE5GRl92WVA1TE9id19XbUI5R3FONGdUX2lCNkFEazM0QzM4TTY4dw?oc=5"
     },
     {
-      "source": "islands.com",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Canada's Once-Thriving Mining Town Is Now A Gorgeous Mountain Gem With Stunning Views And Trails - islands.com Canada's Once-Thriving Mining Town Is Now A Gorgeous Mountain Gem With Stunning Views And Trails&nbsp;&nbsp;islands.com",
-      "date": "2026-07-30T07:00:00+00:00",
+      "source": "Rocky Mountain Outlook",
+      "resort": "nakiska",
+      "sentiment": "positive",
+      "text": "Upgrades at Kananaskis ski resort, athletes funding part of feds' sport system investment - Rocky Mountain Outlook Upgrades at Kananaskis ski resort, athletes funding part of feds' sport system investment&nbsp;&nbsp;Rocky Mountain Outlook",
+      "date": "2026-08-01T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmkyUmdENzlwc2QyYmtvUklZSmQwMTM2b1hYenZUYzJ2dEhhdUJTUUhPNnlxbmRCT3M5ejIwaEduaEx1N3MwelRiZDlMdzdNcW85ZEd0Ml84ZFEyWUh3blpTbGJIbXRIeE5pZ2pxQ2k2SnNPZ2ppOUhsQ0xjZ081UVJWN2Nyc3FYNXlRbEpjUkNuNndtZW9pTTI1dkJPR3VhN3BxRFVUOVl4YWN6YXRaT0VoMGZIMm4tckZ1UUs0ZERlYmdiUC10UWFrdlRUZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdy1zWll5R3RpZXRfaFJxRnZ2ZWVkczlET0VPVFpOLWtNQS1Vc0J1SU5IdzZnQ0RGRGN3OGZRdGZ0b3pCazE5NXlCMU1pNHBoQkJSX2V0NF9OSWxfazQySEpCZkRhbmYtQnNkVkVOdHFlcEVhS2JLbzRmS2ZoV3lRZ0RGOUZYa0Jrem5TU29vcTNMbFlnRmstRjh1VjY0NnpUdWlVeEpuYnpMalNvRm43R3d0cjVmZEE0UWNJdUNNSWdTSHBwWDJSVTVpeE5WbkU3?oc=5"
     },
     {
       "source": "centralalbertaonline.com",
@@ -457,14 +457,34 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVJEN2twa3pCQjdMaW55NW5JZmhYc1FVRHBjdE5iQjJJT1c2emY0QmpkNTJzTGZ5dHFWaFBVemJSUU5xSkpWT1ZnUjNRaFYyQUM0ZXNadVpETlhQanc5OGI2Tno4SDQ2bWJsU0pCdk5FTDdfbDhSOUVycnlWenBZQjIzZnNseXMzWmJhRmw3ZHdIRnE3QnVWOVA1YzE?oc=5"
     },
     {
-      "source": "CTV News",
+      "source": "Global News",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Tornado hits Rocky Mountain House and Clearwater County - Global News Tornado hits Rocky Mountain House and Clearwater County&nbsp;&nbsp;Global News",
+      "date": "2026-07-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SX0NsaU4xblRBSkZ3Q1ZUSnNYQWx2NkJfTjJBTlh6Sm9HbXBZaXlBLXM2WElRX3Z1MFF3eVBkREphc2pHQ0RuZ1NSTUMwYjd1bTNGNlUwY1NfWUtPZFE0bm83ZUdOWWU1TzVzMHlkdTBFZmJNQWc?oc=5"
+    },
+    {
+      "source": "vancouverisland.ctvnews.ca",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Alberta county cleaning up after damage and debris left behind by tornado - CTV News Alberta county cleaning up after damage and debris left behind by tornado&nbsp;&nbsp;CTV News",
+      "text": "Alberta county cleaning up after damage and debris left behind by tornado - vancouverisland.ctvnews.ca Alberta county cleaning up after damage and debris left behind by tornado&nbsp;&nbsp;vancouverisland.ctvnews.ca",
       "date": "2026-07-19T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcmxTb1NTVzZGUnBNUG5ERGluUjhuQ3VTZXpyQld1blNNcko5dmtiZGRvQnJDcnZPcWliWG5iRGtUY1dUVnk2emZDYVFHR0p1bHVCQnVieFZKSWtmbDdHQ05kWmpoeFJpSU44NDFkVFc2S3JVUFM1QkN6Z3NVaWgzeUVtRnFWSHRDaWVYRllIeXZqdW9GU2xZckVSUVQxQnlnbThJaDJhODN2TGpLbHQtVXhkS3A2N1dMUEFtSU9NVy1GcmQt?oc=5"
+    },
+    {
+      "source": "Castanet",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Damage but no injuries after tornado in Alberta - Castanet Damage but no injuries after tornado in Alberta&nbsp;&nbsp;Castanet",
+      "date": "2026-07-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3EtMlVyWl9OQl9WUk9hdFppeWloSVJvckp6djlOYzhOT01hTWpZWXJYZWNaV2tac19QSXpocnlVSVpNYWcyZHhRalp5SlhlUUFiTEd0ckQ5cFRJVVRIdThtOEdmZnNpdFpncExNZl9UUUhyQ2N4dlJONFozR2FCSk5xaFFiMDFSaTg3YUtYdkY4S18zNTNB?oc=5"
     },
     {
       "source": "The Weather Network",
@@ -607,10 +627,10 @@
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaHN5YWpya18tRnZmVjIxcnk3UjByUDdSb3ZUaFdkQnNXaFB5SWNGcHhGTWZ3UzN2VXBWb01neF9nMXNDVV9VcTFxYm9ocnJuT0U1aHlPSkZvUXdCMldiTG5LYjRlT1k0S1NEbTR3YjVTM25Xd1FwazI5Tzg3NkNRdGRiR3pwVHliRVJIdlpfTUFfaFNrSm02TTNIN1lEOFl6cS00MGdrN3lUWV9EWWRTcnpJNzEzX3VoNnZQekRvMEVybnJVOTJ1Ug?oc=5"
     },
     {
-      "source": "rmoutlook.com",
+      "source": "Rocky Mountain Outlook",
       "resort": "nakiska",
       "sentiment": "neutral",
-      "text": "Increasing visitation, development in Kananaskis prompt creation of tourism reserve fund - rmoutlook.com Increasing visitation, development in Kananaskis prompt creation of tourism reserve fund&nbsp;&nbsp;rmoutlook.com",
+      "text": "Increasing visitation, development in Kananaskis prompt creation of tourism reserve fund - Rocky Mountain Outlook Increasing visitation, development in Kananaskis prompt creation of tourism reserve fund&nbsp;&nbsp;Rocky Mountain Outlook",
       "date": "2026-06-17T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -635,6 +655,16 @@
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ0Y1MU5nQmw0dWpDVHQ0MUV4WnpFYkpPYmF4WHNHU0QxNmh6czV4Zk5sLXNwQm1nbDV1SmEtSEZxNURpTG1CVGh3cnBXaEFjYXcxNVF1VEZPNi1VcWt3R3k0T2FtaEt6MFlDOXpvcmdidERXMWMycWhNdVprSVJBSm5ZSnh4WERmNWw5bklPY1h5Mmgwd3c?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
+      "date": "2026-06-12T19:19:34+00:00",
+      "engagement": "Article",
+      "theme": "Tourism Strategy & Policy",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUUyY0xGYmFCLU9DYk82aDF4OTZrQm15TDZTV20tTEgtR3hmQkZ3V3pDenF1TjY5NWp0YmxuNFZnYmQyM19vMXlCYnRPakhOOTQ5b2VjdTh1WlptajhlNDFhR1h0WHdlNVFqUTdaOGdNbE8wVlZXUjF1Q0FPSkJUYnItOHE3WGkwVUZQeDhzd3lOLW80SHpBQmI0SXFwcUVralRHVE9nTHEySS1zMFRwcA?oc=5"
     },
     {
       "source": "Calgary Herald",
@@ -665,16 +695,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGw2YnlLazNxMXQzV0U2U1NlMjA4R0VNVTgyQ09hRFBUZHNSSGdpNWNES1ptT1M4LVdfaEMyS1YzSW1iNFkzVlZkRVZ1QVdZSHpBckVKMndjOU16QWJOMVRuWElmWENmSFBBai1iMjlBZUlXWlRHeGpib2o3OUpTU0dQaTB3MHFieThJVDhKYmNXUFM5ellVRzlvalltSmplMkExVUdVZXUzOXl4R2R2R3UySzdxTnBfLU80RDNDZ3JHWjJRalpURldKM1Nwdw?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
-      "date": "2026-06-12T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Tourism Strategy & Policy",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeUUyY0xGYmFCLU9DYk82aDF4OTZrQm15TDZTV20tTEgtR3hmQkZ3V3pDenF1TjY5NWp0YmxuNFZnYmQyM19vMXlCYnRPakhOOTQ5b2VjdTh1WlptajhlNDFhR1h0WHdlNVFqUTdaOGdNbE8wVlZXUjF1Q0FPSkJUYnItOHE3WGkwVUZQeDhzd3lOLW80SHpBQmI0SXFwcUVralRHVE9nTHEySS1zMFRwcA?oc=5"
     },
     {
       "source": "GameRant",
@@ -727,10 +747,10 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTWZhVkhtOU5zUGcxR1VPVGFZYjA5b1NDWGV2dDRIN3RTOU1uNy1EMTJybThKejJpZzNjQkk1ZGdXRFAxck1MeEZmNHNYanJxUlJacDZQZzc4NUpSbG5nQ202d2x1dFNMczUyVFFRMkJydHhnbFBjR3ZHTE14VnRHc1pIMWViN1M3ZVVKRA?oc=5"
     },
     {
-      "source": "rmoutlook.com",
+      "source": "Rocky Mountain Outlook",
       "resort": "nakiska",
       "sentiment": "neutral",
-      "text": "Banff-Kananaskis MLA wants province to throw out Canmore gondola proposal - rmoutlook.com Banff-Kananaskis MLA wants province to throw out Canmore gondola proposal&nbsp;&nbsp;rmoutlook.com",
+      "text": "Banff-Kananaskis MLA wants province to throw out Canmore gondola proposal - Rocky Mountain Outlook Banff-Kananaskis MLA wants province to throw out Canmore gondola proposal&nbsp;&nbsp;Rocky Mountain Outlook",
       "date": "2026-06-12T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Summer Activities",
@@ -747,6 +767,16 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXRYV3dEenhSX1pMSWwzdDZ1UGdhREZhRGVvb2d2eFAzQXBWYW80elV1ZURtMHgxSlJDbGlZVGh6R1g0cy16VzNKQ2xFd0dfbDlhOHdVSXdqdW1HQVlXWS1rV2tSYmJyLTZDT0g3UFk3Q1RsZVJ1OGl6Qk1uQVl5Njh6TnZKUVhDRnBZZXFmLTdIZjZ5UHBOcWMxYjg3aDIxRmRzU25KTV9mSW44cmphWDFXcFVzMzFN?oc=5"
     },
     {
+      "source": "rdnewsnow.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Podcast: Inductees Kleibrink & Moir speak to rdnewsNOW at Alberta Sports Hall of Fame induction - rdnewsnow.com Podcast: Inductees Kleibrink & Moir speak to rdnewsNOW at Alberta Sports Hall of Fame induction&nbsp;&nbsp;rdnewsnow.com",
+      "date": "2026-06-12T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVhfdExTNWxaeWRwTUxSMlNzSGtEYTFTRDVEMm51N3hBTXptS0t0MFBRRTJyeEpnbmZVVUpVejVlR3NFcER3WloyWnlrUXp5V2xZLUpjVDRnRjdFR3h2SUppS2VlLWNWODJiTWpfYndoUGlzbzZCTWNGdlA2TW11YWdWTVlTR3lERzg3aGJOTjJpbGpGTGtQTG5xSDZDYjNtQ2RqR3VaLV9ISEVHazVYNXpjRQ?oc=5"
+    },
+    {
       "source": "CBC",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -755,36 +785,6 @@
       "engagement": "Article",
       "theme": "Tourism Strategy & Policy",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFNfckJ5UjItYzI4SFZZcEZKSTloUWdrVzRfSHEydU1uZUNjQ0Rmd1Rxem9ISzB2VXNpemkyWV9wb1F2N3h3Q3lzYlhwLXRvSm5IZ0R5TGtpV25KWkJRa3VxSUE4Q09sQ1Q5dlc4WHVhd3hwcXRnLTRLTVlqVnRIazNWMnMwaE14bVZwNXJqX1JGWVBSdTZ3VVlRbjM?oc=5"
-    },
-    {
-      "source": "rmoutlook.com",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - rmoutlook.com Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;rmoutlook.com",
-      "date": "2026-06-11T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2VtMXV5QVMzbGxhOVZMWGttMDNsOWd3ZWZWNHNpcHBYTXNpRlpYM1g3cUUzSGdXZTBSY2pWVXdMWHFSSTRQNE5JQzdDSHI0MGN2YXpCTUp6aEVwcjF3QzhxTkVKSFdqd3VnMjE2dFFmX2dOckJXTUtob21NUWZjNEhwTWVyX0xpeWw3QXprU2tyNG5tbmEwM2dRcDVwNG5TbE1kcUw5VGhZTXB4LWlfdU5UTWYxTXJUSWw3R3l3?oc=5"
-    },
-    {
-      "source": "The Lethbridge Herald",
-      "resort": "castle",
-      "sentiment": "negative",
-      "text": "ICYMI: Trade Snow for Sunshine: Why Castle Mountain Belongs on Your Summer Bucket List - The Lethbridge Herald ICYMI: Trade Snow for Sunshine: Why Castle Mountain Belongs on Your Summer Bucket List&nbsp;&nbsp;The Lethbridge Herald",
-      "date": "2026-06-11T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQThRVjU2c2hCWmR5c2pBR0NRcWtKNjJmWUF4NUk2clZkYURiN3RTT0hNVU0zc2IzeXlwTmhFaW1kUFFlLVYybnZVQlRwWFRONVlfNkJQQWhtcXUzV1IxRk9EaWExME9ZYzF6MTZaT0R6bDQ5ekpWbWRXOC10WmFiVEktSk96Y1ROeW82VDRDREM0RTRHV3NVRTFrTXJ3V1N6VXMyMFUwNUpfRTBqZFdRMHlPV2EtMjd1dGZzQ0IwMGF5QmpBcDlxR0ZTbXFlY3pSemJSRlhn?oc=5"
-    },
-    {
-      "source": "fDi Intelligence",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Never out of season: Alberta\u2019s year-round tourism strategy - fDi Intelligence Never out of season: Alberta\u2019s year-round tourism strategy&nbsp;&nbsp;fDi Intelligence",
-      "date": "2026-06-03T11:11:15+00:00",
-      "engagement": "Article",
-      "theme": "Tourism Strategy & Policy",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG1PaWwya1N0NU01aFBPdDV2VW9Na2diMVp1X09hNTJzZERVajM5dnJEMkpzemN3emszUDJUUjJVdzBQTEN0SjBfbUc0V3pkeEpRQm9CQjdRWmpTUFBWUTU1R0F2TDRSMEU0bkd1TW5RYmxPZVp2NlB6WURHWjJQZGlB?oc=5"
     }
   ]
 }

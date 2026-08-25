@@ -1,55 +1,55 @@
 {
-  "generated_at": "2026-08-24T13:55:48.194972",
-  "date": "2026-08-24",
+  "generated_at": "2026-08-25T13:55:05.595420",
+  "date": "2026-08-25",
   "summary": {
-    "total_mentions": 756,
-    "positive_pct": 9,
+    "total_mentions": 733,
+    "positive_pct": 8,
     "neutral_pct": 86,
-    "negative_pct": 5,
-    "negative_count": 43
+    "negative_pct": 6,
+    "negative_count": 40
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 465,
-      "positive_pct": 11,
-      "neutral_pct": 82,
+      "total": 446,
+      "positive_pct": 10,
+      "neutral_pct": 83,
       "negative_pct": 7
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 48,
-      "positive_pct": 6,
-      "neutral_pct": 90,
-      "negative_pct": 4
+      "total": 44,
+      "positive_pct": 9,
+      "neutral_pct": 86,
+      "negative_pct": 5
     },
     "nakiska": {
       "name": "Nakiska",
       "total": 102,
-      "positive_pct": 5,
-      "neutral_pct": 92,
+      "positive_pct": 6,
+      "neutral_pct": 91,
       "negative_pct": 3
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 58,
+      "total": 60,
       "positive_pct": 0,
       "neutral_pct": 98,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 83,
-      "positive_pct": 6,
-      "neutral_pct": 89,
+      "total": 81,
+      "positive_pct": 4,
+      "neutral_pct": 91,
       "negative_pct": 5
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 430,
-      "avg_score": 51,
+      "mentions": 415,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
@@ -60,38 +60,44 @@
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 58,
+      "mentions": 55,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 49,
+      "mentions": 47,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 39,
-      "avg_score": 49,
+      "mentions": 34,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 28,
+      "mentions": 29,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 22,
+      "mentions": 23,
       "avg_score": 48,
       "sentiment": "neutral"
     },
     {
       "name": "Access & Transportation",
-      "mentions": 16,
+      "mentions": 14,
       "avg_score": 47,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Pricing & Value",
+      "mentions": 12,
+      "avg_score": 48,
       "sentiment": "neutral"
     },
     {
@@ -102,14 +108,14 @@
     },
     {
       "name": "Events & Promotions",
-      "mentions": 11,
+      "mentions": 9,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
-      "name": "Pricing & Value",
-      "mentions": 10,
-      "avg_score": 48,
+      "name": "Regulatory Approvals & Land Use",
+      "mentions": 6,
+      "avg_score": 54,
       "sentiment": "neutral"
     },
     {
@@ -119,15 +125,9 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Regulatory Approvals & Land Use",
-      "mentions": 5,
-      "avg_score": 55,
-      "sentiment": "neutral"
-    },
-    {
       "name": "Family & Beginner Experience",
-      "mentions": 3,
-      "avg_score": 50,
+      "mentions": 4,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
@@ -153,13 +153,6 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan ",
-      "detail": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
-      "theme": "Tourism Strategy & Policy",
-      "date": "2026-06-12T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
       "title": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Prelimin",
       "detail": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Preliminary Approval To Revive Ski Resort&nbsp;&nbsp;Unofficial Networks",
       "theme": "Regulatory Approvals & Land Use",
@@ -171,6 +164,13 @@
       "detail": "Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions - Rocky Mountain Outlook Alberta government approves Fortress resort plan in Kananaskis \u2013 with conditions&nbsp;&nbsp;Rocky Mountain Outlook",
       "theme": "Snow Conditions",
       "date": "2026-06-11T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan ",
+      "detail": "Fortress Mountain Resort master plan concept approved by UCP government - CTV News Fortress Mountain Resort master plan concept approved by UCP government&nbsp;&nbsp;CTV News",
+      "theme": "Tourism Strategy & Policy",
+      "date": "2026-06-12T19:19:34+00:00",
       "sentiment": "neutral"
     },
     {
@@ -211,13 +211,13 @@
   ],
   "trends": {
     "labels": [
-      "Fri",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
-      "Mon"
+      "Mon",
+      "Tue"
     ],
     "positive": [
       9,
@@ -226,7 +226,7 @@
       9,
       9,
       9,
-      9
+      8
     ],
     "neutral": [
       86,
@@ -244,48 +244,58 @@
       5,
       5,
       5,
-      5
+      6
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      455,
       449,
       445,
       444,
       439,
       439,
-      430
+      430,
+      415
     ],
     "Snow Conditions": [
-      71,
       69,
       69,
       68,
       67,
       71,
+      68,
       68
     ],
     "Lift Wait Times": [
-      47,
       50,
       49,
       49,
       53,
       53,
-      58
+      58,
+      55
     ],
     "Safety & Incidents": [
-      49,
       48,
       48,
       48,
       48,
       47,
-      49
+      49,
+      47
     ]
   },
   "feed": [
+    {
+      "source": "Weather Underground",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Nordegg, Alberta, Canada Air Quality & Pollen - Weather Underground Nordegg, Alberta, Canada Air Quality & Pollen&nbsp;&nbsp;Weather Underground",
+      "date": "2026-08-24T22:05:50+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdFRSZkkxRENKNU9SVWVxc1ZNU1kzUlhCeENsOUdSck91d1ZjSVVtWlRITElrZWt4MnkyOTRIZGQyZkZhWWxsYkdVYkh3SFotQ3VQOER5RUJUXzByOWlJeHZ1dl9LV0dlbVhqQXoxb1V1SG5ZMG9uOTE0U3Bla2oyTjlmTQ?oc=5"
+    },
     {
       "source": "centralalbertaonline.com",
       "resort": "davidthompson",
@@ -295,26 +305,6 @@
       "engagement": "Article",
       "theme": "Lift Wait Times",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkxXZVV3Y3pHT0ExM3M2WnpOa3h2MTJMUVNQNVR1dGQ5VnBrUE5WRTFPR2ZOSnF2SXhiZ294cTVSYk1FQ3NPdmU4ajJ6NUR3djhJREhHYXBJRjk2ZEtQRFV5Q2NmUUg5TnlUa2R2NlV2ZU9kd081aE0xWlplM2NYNnRsY25DdkhwMTI4YXNPblhoVzgxS08xLTZKRG8wbExxa2lrMA?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "castle",
-      "sentiment": "neutral",
-      "text": "Castle Mountain Resort hosts 30th Huckleberry Festival - CTV News Castle Mountain Resort hosts 30th Huckleberry Festival&nbsp;&nbsp;CTV News",
-      "date": "2026-08-21T20:28:13+00:00",
-      "engagement": "Article",
-      "theme": "Events & Promotions",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMUxnalNTT0gzcXoyMHNJRFYtRUpMQWRjV2hNdENxbUZ6OV93bGpiU2xvZko4TWl1Rk9zam9HdDNqc2ZqTlJ5YXh5MDhKX240T2hMREhjQ084aklORU5jQ1VFbmI2WEcyNlFiNW9uSjJGMmdpTlVWUks3NjNCcHFvMFJ0cTRocmlpakgyNEVwMXF2Um1FdTBXMk5nZmlJcWg1eW1n?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "castle",
-      "sentiment": "neutral",
-      "text": "Castle Mountain Resort hosts 30th Huckleberry Festival - CTV News Castle Mountain Resort hosts 30th Huckleberry Festival&nbsp;&nbsp;CTV News",
-      "date": "2026-08-21T20:25:14+00:00",
-      "engagement": "Article",
-      "theme": "Events & Promotions",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEN4bUVpZ04zVTlZMGh1Qm5XbGhzSXJabHFuOHZCLWZBWEhXaXplRVdTR0xLYjN4V25kVnphcDB5ajdmWUJKSkJnT0N3SVVMVmVUQXZoOHRuaHlPVkd6ako4WHpqcnV4bWxZNTJvZ25XalFYRlFoSG5IemNPTm5VMTFRYjdKOEhsNEI2RXlLeUVGTXd3WjNwSExR?oc=5"
     },
     {
       "source": "CTV News",
@@ -345,16 +335,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3N0p0SUhlNllRUTgtMVRiWjl6MGotM3duT1JfQ2VILVRHUjN1N05BSzI0bXd3SlJjcDh1dlJ2RFRWUWNHdjlYd0tlRWxjdkQ4SUtvTW56X2dYb2ZzcVh0N1AzQlJsYlVlR3hhUXhvRzIydnhR?oc=5"
-    },
-    {
-      "source": "Crowsnest Pass Herald",
-      "resort": "castle",
-      "sentiment": "neutral",
-      "text": "Castle\u2019s Huckleberry Festival this weekend - Crowsnest Pass Herald Castle\u2019s Huckleberry Festival this weekend&nbsp;&nbsp;Crowsnest Pass Herald",
-      "date": "2026-08-19T20:15:48+00:00",
-      "engagement": "Article",
-      "theme": "Pricing & Value",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzRFbGhZNTRsYjE5Y1F3Zi1VLURMdWtlenh6bDk2ZzhGVkVjOXlkel9VM0VpNFc3OXVDcjFSMFdmd3FLWlJveWRyQk1vS2JPc184WWV6amVRdVl6dkd2Q2c2LWY3eUpxV2NUR2pEOUNNcUxsb2hiejJOOUVVQUhMaQ?oc=5"
     },
     {
       "source": "todayville.com",
@@ -457,6 +437,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3N4WDUyTXdnUldOQktBZk1IX0dLbUJsRW1qTDJzeTNPQk5VV3I0SWFIUDNyQUllajVoVkNoV2lOTWNZdnY5cHNOcktIenBXWGpwaDFPeURvNW56am5MeXdpV0tWSFl2WllkUkM5RThDMVg1NmU3TGoyc0pVOG5HMVI5ekdDMWdZS2ltOUhoVWlyUzUxY0FiRG9IZXRiYUI3WVR1MA?oc=5"
     },
     {
+      "source": "CTV News",
+      "resort": "nakiska",
+      "sentiment": "positive",
+      "text": "Olympic Oval, WinSport and Nakiska get $33M boost - CTV News Olympic Oval, WinSport and Nakiska get $33M boost&nbsp;&nbsp;CTV News",
+      "date": "2026-07-27T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3ZwQmZHTjhQZjF0anQtM3VLWVFIN2tOZ2lxekNRYnJ2UVVjWEE0RjNyanl3eGNhc2lteWhUc1pxTldRbkpTODNQUTlVaEczNjR2RWItM0xzR1FSVFRaQjF3VnNOY3I4Ty0zbkllR05LUmdVWC1SUHh0QTN3cDN0Y2FTRXZFS1A4b3lNSUVPbmc0Rlh3bHpsOUU1LXc?oc=5"
+    },
+    {
       "source": "centralalbertaonline.com",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -465,16 +455,6 @@
       "engagement": "Article",
       "theme": "Lift Wait Times",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbE9QcVNiV0pKbXhab09KUGFhV3J4bm5hcy1NaGNCUmh6SW9aWmlvQ0s1LTU3ei1lcXVhU1FzMFNncjJUa181WEh1bVlING5EOE1MX1pvcnNfZlJMOWdPQWlwOUVCdE54Zm1DOHp4QmlzbzJodjZ4ZWRyYk51dFEzU2ZPZnNId0lqbmd4TVNmQmRMZ3VucmpiSHU4QmxiRHBXUktkbmdYaDhRMmt0ZTRFemNXdw?oc=5"
-    },
-    {
-      "source": "curiocity.com",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "These Alberta staycations are perfect for a summer getaway close to home - curiocity.com These Alberta staycations are perfect for a summer getaway close to home&nbsp;&nbsp;curiocity.com",
-      "date": "2026-07-23T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwdklxeDRxVHNVemJ4VHE4bUs0V1U5bWh5WVpZRG95Nmw2b2JlWGhQdE9Na1BrR2ZiYmg2NlFsVzhhV293X2ZHNGFCdmtvRWRNZU1Ibg?oc=5"
     },
     {
       "source": "Global News",
@@ -597,16 +577,6 @@
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SX0NsaU4xblRBSkZ3Q1ZUSnNYQWx2NkJfTjJBTlh6Sm9HbXBZaXlBLXM2WElRX3Z1MFF3eVBkREphc2pHQ0RuZ1NSTUMwYjd1bTNGNlUwY1NfWUtPZFE0bm83ZUdOWWU1TzVzMHlkdTBFZmJNQWc?oc=5"
     },
     {
-      "source": "rdnewsnow.com",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado - rdnewsnow.com Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado&nbsp;&nbsp;rdnewsnow.com",
-      "date": "2026-07-19T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Snow Conditions",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUJUWHUzdGY5TWF3SjVlSGhKM2xrMUFKWHlRclpmT3ozREl2MnBlTXYxSnlXajRLVmRtVTFzS3Nqb2NIN3VwWGdQcGxLbnpHM1lmb2gzVlRyVHNYMzVudGY4S0trOW1uUEROWm9rUjgwNVhqczN4SHVES2RnejRzYUdMQlhfRnRHOEhzdnZBNkZWZnlhLUZWU1hWOGFiWnBqcWJCRXBzbkNKZzNLVEdR?oc=5"
-    },
-    {
       "source": "CBC",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -617,6 +587,16 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVJEN2twa3pCQjdMaW55NW5JZmhYc1FVRHBjdE5iQjJJT1c2emY0QmpkNTJzTGZ5dHFWaFBVemJSUU5xSkpWT1ZnUjNRaFYyQUM0ZXNadVpETlhQanc5OGI2Tno4SDQ2bWJsU0pCdk5FTDdfbDhSOUVycnlWenBZQjIzZnNseXMzWmJhRmw3ZHdIRnE3QnVWOVA1YzE?oc=5"
     },
     {
+      "source": "rdnewsnow.com",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado - rdnewsnow.com Clearwater County, Rocky Mountain House, cleaning up after damage left behind by tornado&nbsp;&nbsp;rdnewsnow.com",
+      "date": "2026-07-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVUJUWHUzdGY5TWF3SjVlSGhKM2xrMUFKWHlRclpmT3ozREl2MnBlTXYxSnlXajRLVmRtVTFzS3Nqb2NIN3VwWGdQcGxLbnpHM1lmb2gzVlRyVHNYMzVudGY4S0trOW1uUEROWm9rUjgwNVhqczN4SHVES2RnejRzYUdMQlhfRnRHOEhzdnZBNkZWZnlhLUZWU1hWOGFiWnBqcWJCRXBzbkNKZzNLVEdR?oc=5"
+    },
+    {
       "source": "CTV News",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -624,7 +604,7 @@
       "date": "2026-07-19T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWFtTzVWV2hNcUFqQnRONVpQX2lEZUFjdjRCc2c5Nk90dXJWbkZmeXV0bDJGYzllS3NoUWNYZHk5UmRfT0pBbFpJZDBxcVd3OERGUXctcWdXY1c0OGYzdjJ1dlNpSU5wc3lzaFhFLWhwR0NLSUJYQVpwem0zYU1uZW8wdWlDbHFrOUtLakM1SmlDT25OQ01XdmhmWThVaXh6NE01d3dBY0xJQ1NJN0h6Z2FoSDVxQi1J?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZFk0aWdBVTdhSDl4ZXMxbDkyZ0pYbzdDZXJiZW1NZndnLUlaNHB2Xy0wSnFQQWtOTTBXWVI5WTZCdTVMUTJlS0hCVnU4Y0VrZWZlT0UwaDhkZFQ0ZnVfWVA3VWN3enc0cjhoNktTQ0RWR2RTeEVvMUVtSjdQUUFTNGxaa3I1R1gxSVpkR1VRREVneC1DcjZ2WlNfZVU5WWhxOUp6bWNjTmg3OF91aTlZUkQ5aDA?oc=5"
     },
     {
       "source": "The Weather Network",
@@ -637,26 +617,6 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXpsb0hnNDZNV2JHSE52ZHlYSDh3TUVycFlzc21rQmxzbHJ0RklXclYxVm5QVDdvVVI5a1c3TGFiOWUtLVpKTlpEN3ozU0syWjA1aGs0allRRklPQVJ5TTRkR2JfUFYzcXV6cmp2WUZJUTdtWEdzOGs0ejQ5eE5RelJtUVZ2bGNCSklRN1g3d0VKNXNPSW51bENXWnJtajJJd0F4T1ZERzNPcTdCWl9Dc1I1cU5wbnd5MTZRRmJjeFVfZC03Vk9md2h3?oc=5"
     },
     {
-      "source": "Castanet",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Damage but no injuries after tornado in Alberta - Castanet Damage but no injuries after tornado in Alberta&nbsp;&nbsp;Castanet",
-      "date": "2026-07-19T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX3EtMlVyWl9OQl9WUk9hdFppeWloSVJvckp6djlOYzhOT01hTWpZWXJYZWNaV2tac19QSXpocnlVSVpNYWcyZHhRalp5SlhlUUFiTEd0ckQ5cFRJVVRIdThtOEdmZnNpdFpncExNZl9UUUhyQ2N4dlJONFozR2FCSk5xaFFiMDFSaTg3YUtYdkY4S18zNTNB?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities - CTV News Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities&nbsp;&nbsp;CTV News",
-      "date": "2026-07-19T00:28:35+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazk5RXBrWjgtNS01WDdnOEtPTERMRG91bUlpbkVPazZqT1lVd1QxeHZpUC1OS2NtR2s0a21lVkZGZVNzOHdGZzByc3hLbzY5QTk5b2RUeHhKX3Q3X0FsVDVROG5zSXdYYmp5QzJPdmVaRkdnMDdMaWhRVURxWGFNVFByNWRnTVpyd1Jpel91VXlWNWFBZHhWQ2x4UHJUMm5CaDZOZFVHY3loMm5vdGVTWg?oc=5"
-    },
-    {
       "source": "CityNews Calgary",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -665,6 +625,16 @@
       "engagement": "Article",
       "theme": "Environmental Impact",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZlZVZDlIdzJud0w5cXFGYUt3WXk2SFlKTndlTGlBbWV0LVNEX3luSjdoc0pCNlJjbkRocG1wRWh6SUphY2hoNXlacWkwaUplcjZvblFKOWEwZ213cDRwbG5XallGRDZ5R1BZaXRCQXNzY29EWFZCYThPbTh0Y0tpNkgwWmZMWFM2ZFh0T05zblRtRExvRzNXTGVZM29EOVNNYVJ5cG9OZjVMMWY0VHBNWC01aGgwYlYzMEVfc3VPUHZKdnhOc0VJ?oc=5"
+    },
+    {
+      "source": "CTV News",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities - CTV News Traffic camera catches tornado in central Alberta; warning cancelled for Clearwater County communities&nbsp;&nbsp;CTV News",
+      "date": "2026-07-18T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUC1ISHVsOGN3Z29pWlRaaUwwYU5KVlkxbHJReHJRYm1SUzNUcTdWZWNVMVFRcmhNNEM2cWQ3THh5WktfNV93dHlwSE9Cblk2OWlCWHZvblhiYWowWVNYeDRwdlVicG1nQWViZ19MdzA3Qmg1bGFvTGdOU0tSWV9sODRrNUhxbGdnekZBY0NKLXJLOFJlaWFmU3RNTmNvLUZYdGxucElWOVRfWXZndkZhZGJjZ0lVTUF4ajdzOHZYYUI?oc=5"
     },
     {
       "source": "CBC",
@@ -717,16 +687,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPTktMUDYta0xUZmF5eGcwZ09FUzU4VkVEWWY4UC1LZVI4bDV1SFllZVNiazd6NExmNFd0c3lQem4yei1Sa3VLSmpxRWkxYWpZSjFHbDZvSEFScV9DRFN3ZzJXRzBXNExpaGxvLU0yNUNiR0dNT3JPVjZjTmV4VlJwSk4tOFdEbzJKZmx6bTB2a25mMl9GMTNqMHpUUVYzT0NZS0pPS3E1VlQ3RUszN1dYNEFmVFhxTk4xUlQ2VEh6Nk56S216d0RPTFZaR2E4Z0pjNTZZTWhMUWlGYVJ2dHBCeEptVmZFQmlQdFZodWFIaWFtV0ZLX0ZmdWY0MmF5Z9IBggJBVV95cUxOR3dMdXBqQ1IxaVgxOXRBdjkyMzJIb2cyT3k4UUdId2tTUXR1TjBmNmRRUS14WC05Q1pOXzF1aXVHZmRCbGtWZno1NVNfMW1yNlF3em9sTTJ0al9KUWZqYnRsbWxSeTZqZFFZQXhOM3cxYmI4YkVfbkNiWlgtRGotX283QzZQdDhrdzZOWHlSczlKSjRyQmp1cnVwc3JrU3AyOGFfaE1RQkw4WnlzZFEtQmpOY2hMRkJYTFBtZUxlczBYTjJjZGhVbW1BUTFRVFBwU09qWW1WczlyZ1ctcGJfWVdOeEZ2cTVWdmNQbWYySEhTdW1JZ1dRS2g2MEVjb212WWc?oc=5"
     },
     {
-      "source": "Daily Hive",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "An Alberta resort project with themed glamping rooms opens later this year - Daily Hive An Alberta resort project with themed glamping rooms opens later this year&nbsp;&nbsp;Daily Hive",
-      "date": "2026-07-11T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84Q0E0S3B3a2dlYXFSaW9WZXNCT0dKT1NwLUo1X25YSndoS21hMDlGV1YyaEtnNjFkZnREY3ZSOUY5Yk5IelhwVHhwSW1HenlWSW5pcUswQXNzMTItS211MThRTGQtajVfcURWc0M0b2dhR0o2c3ZsekV2VFlwdw?oc=5"
-    },
-    {
       "source": "SnowBrains",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -735,6 +695,16 @@
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbkdFUEU0OVlUSV80NHlPcUxGdkJzMjlGRjhHSmlHTURYMDdXcnN2eUxielZHc3dZXzJ6ZVZjVnhJNW9yeGhMVE91Y0tpM1VtWUN1QUQzYlFUQUZYcnFYcHhyLVpfS2lTeHduN3puMmpmN2xCUU5FTkY2S1JXV2lUdmh3RlAwQQ?oc=5"
+    },
+    {
+      "source": "IQAir",
+      "resort": "grandecache",
+      "sentiment": "neutral",
+      "text": "Grande Cache Air Quality Index (AQI) and Canada Air Pollution - IQAir Grande Cache Air Quality Index (AQI) and Canada Air Pollution&nbsp;&nbsp;IQAir",
+      "date": "2026-06-29T07:48:52+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdGdaMFlINlNkZ3Y1M0kxS1NIOFdQaGNtbFRLYnhYLVoybHg5RVhsTmlnYno5NlNlTlpjYUI0WE9LRV81UlZzTEpsS2NXV1ZkZUxrdDh6ZUFRSU1PRXFWcHpxVm0wTURMUHhtZlBR?oc=5"
     },
     {
       "source": "IQAir",
@@ -785,6 +755,36 @@
       "engagement": "Article",
       "theme": "Regulatory Approvals & Land Use",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTY4a0FwZWR2Z1kwaTRCVUVIQnA2VmJyekRsMEZzLTNmR0J0UWZVczN4cWJIRWh0WDNHcHVYcjB0ekE0VmNzdWNLbjUtR1ZXNWFlMkltbTZSZFAtQWFPaUtqZ2o5dHJGdG1jbDFRQ052dDhIOEFYNWdhWExEalVEWGg3UQ?oc=5"
+    },
+    {
+      "source": "cfweradio.ca",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "New elders lodge opens near Grand Cache - cfweradio.ca New elders lodge opens near Grand Cache&nbsp;&nbsp;cfweradio.ca",
+      "date": "2026-06-22T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Facilities & Lodging",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nS25TODQyTGpwSURZX01GRF81czM3MHJlQjRlaGMtVkFRZk94ZFJlYldIRzk3QTFSMGRseWUxV043MUdYM1BLZTlmTHl4OGs?oc=5"
+    },
+    {
+      "source": "St. Albert Gazette",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "ICYMI: This Wild & Quiet Alberta Park Feels Like Banff Before It Was Famous - St. Albert Gazette ICYMI: This Wild & Quiet Alberta Park Feels Like Banff Before It Was Famous&nbsp;&nbsp;St. Albert Gazette",
+      "date": "2026-06-21T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYk5wZXpNZlFpb1gyOTB3YWVYM24tZTZhLWg3VWx2NWFneklEbHdsMTExNzltVjJUS3Z6X25OVndzampYLThOelM0d0tzMUtjLTdkN0E0TndyWmJBb0tHVGxaeF9ZQUN5ZFhWMjBNclJieTZRcWo2STdZNVQ2dXpyRGNpaUc5YXc5RzQ5eXVpNkxOMEYtSVNzelU4aU1GdVlSOXFHVUpYM1BWOFN1WnhiZVFxUUdIbFp6Nkl0MGpmX3F4aS1HZ1ZwQmxR?oc=5"
+    },
+    {
+      "source": "Lethbridge News Now",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Provincial historic sites jump on board with Canada Strong Pass for 2026 Summer season - Lethbridge News Now Provincial historic sites jump on board with Canada Strong Pass for 2026 Summer season&nbsp;&nbsp;Lethbridge News Now",
+      "date": "2026-06-20T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Pricing & Value",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2pUcVVWZExzN0ZidUVmS3dHY1V6bFlMeG45SGJUSlFQUjktaDlPRTBmYjhERlQ2czdzSlEtTUx0OTk5dEJOcFpmRE1tUEN4TWYxcTl3TjhLZXpudVY1Y0o2WkpGODhSbkZuNnpfVWt4OFE5QzBrZC1CVE81V2NqZktWR1hPUXphM3dwTkFBcFVwSEdBWHRaN2FJRVNNZ0dCWTlOSzFjajh3YlBXX3NNRXdCamRnVEFKdW9Ob0U3U2dKMDFCcUU4?oc=5"
     }
   ]
 }

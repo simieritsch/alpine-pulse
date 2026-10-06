@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05T21:13:46.457264",
-  "date": "2026-10-05",
+  "generated_at": "2026-10-06T18:52:17.200621",
+  "date": "2026-10-06",
   "summary": {
-    "total_mentions": 775,
+    "total_mentions": 774,
     "positive_pct": 9,
     "neutral_pct": 86,
     "negative_pct": 5,
@@ -11,35 +11,35 @@
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 493,
+      "total": 496,
       "positive_pct": 11,
       "neutral_pct": 84,
       "negative_pct": 5
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 47,
+      "total": 46,
       "positive_pct": 9,
       "neutral_pct": 87,
       "negative_pct": 4
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 103,
+      "total": 100,
       "positive_pct": 9,
       "neutral_pct": 88,
       "negative_pct": 3
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 48,
+      "total": 51,
       "positive_pct": 2,
       "neutral_pct": 96,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 84,
+      "total": 81,
       "positive_pct": 5,
       "neutral_pct": 90,
       "negative_pct": 5
@@ -48,25 +48,19 @@
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 436,
+      "mentions": 437,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 86,
+      "mentions": 84,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 52,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Summer Activities",
-      "mentions": 43,
+      "mentions": 50,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -77,15 +71,21 @@
       "sentiment": "neutral"
     },
     {
+      "name": "Summer Activities",
+      "mentions": 42,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Facilities & Lodging",
-      "mentions": 29,
+      "mentions": 28,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 23,
-      "avg_score": 49,
+      "mentions": 24,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
@@ -96,13 +96,13 @@
     },
     {
       "name": "Events & Promotions",
-      "mentions": 12,
+      "mentions": 13,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Pricing & Value",
-      "mentions": 8,
+      "mentions": 10,
       "avg_score": 46,
       "sentiment": "neutral"
     },
@@ -211,20 +211,20 @@
   ],
   "trends": {
     "labels": [
-      "Fri",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
-      "Mon"
+      "Mon",
+      "Tue"
     ],
     "positive": [
       10,
       10,
       10,
       10,
-      10,
+      9,
       9,
       9
     ],
@@ -233,7 +233,7 @@
       85,
       85,
       85,
-      85,
+      86,
       86,
       86
     ],
@@ -249,39 +249,39 @@
   },
   "theme_trends": {
     "Trails & Recreation": [
-      429,
       433,
       437,
       433,
       427,
       421,
-      436
+      436,
+      437
     ],
     "Snow Conditions": [
-      82,
       82,
       83,
       85,
       86,
       87,
-      86
+      86,
+      84
     ],
     "Lift Wait Times": [
-      56,
       54,
       52,
       53,
       56,
       55,
-      52
+      52,
+      50
     ],
-    "Summer Activities": [
+    "Safety & Incidents": [
       43,
-      39,
-      39,
-      38,
-      40,
       41,
+      41,
+      43,
+      44,
+      43,
       43
     ]
   },
@@ -351,7 +351,7 @@
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "Podcast: Alberta Minister of Tourism and Sport, Andrew Boitchenko - rdnewsnow.com Podcast: Alberta Minister of Tourism and Sport, Andrew Boitchenko&nbsp;&nbsp;rdnewsnow.com",
-      "date": "2026-09-25T07:00:00+00:00",
+      "date": "2026-09-25T12:55:45+00:00",
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0dFUDRid09LRXU5Ym1SbDU1LWxpR0cwUWVCNVBJcWtHMmxtRVFsOTVSWGJ2eWg3N0VvbkNWbTdZVXdoUUU0T09JVDFGT2JkQllCdDBoQjQxODRTNm9JTWRxaHFlWFFra2tpd2Q1VXNoUHVGTXJPazZiTUVhRkthc0EzZFRWSjBTempjQXYzMXRuOUttQzl3WVFRMHlzQQ?oc=5"
@@ -385,16 +385,6 @@
       "engagement": "Article",
       "theme": "Tourism Strategy & Policy",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWRXYTZhci0zVG9vVmRBX3lFSW1keHJMRkJBRkYySzktWklYQmJxR0t4QjhoLURkaTBaM3JmVVp4bzh2aDFURms0SUx1T0lzWnkxZ09hQXpGd1g1andBMUphLTBIaDF0VndLVko2Vl9haXBuVDUwUXo3bFVNSUlTMWFZUXVURkQzUDFsbDFjdjJSdnZLYVZ1MmV1c3Rwd2VrN1NVQV9lRnVRbDdmOUhGRHZmc0ViemVBM1VjaC1FS3Y0UG5RZHc?oc=5"
-    },
-    {
-      "source": "RED FM Canada",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta invests $14M in sport and recreation infrastructure - RED FM Canada Alberta invests $14M in sport and recreation infrastructure&nbsp;&nbsp;RED FM Canada",
-      "date": "2026-09-24T18:50:25+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbUVfUjRLRWx3UU0tMElGdDZJVkoxOEUwRU5iQmV1SHdCQWowc0dySnJoUnVZVlBBSGhjOXdydENvbXN3ZDl5MXg0bzczenJzLVA3QjB6eU80X3dFVHNQTzREbkZVbUl4M1BORy1CZEFRQm1ZRC1UU19BQlFJSkp3dkpsdHRaeE00YUlvTGRBYmMzR2Q1emRWU2pIYnJYQWxoRGZ3ZUJn?oc=5"
     },
     {
       "source": "Grande Prairie Daily Herald Tribune",
@@ -597,10 +587,10 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdy1zWll5R3RpZXRfaFJxRnZ2ZWVkczlET0VPVFpOLWtNQS1Vc0J1SU5IdzZnQ0RGRGN3OGZRdGZ0b3pCazE5NXlCMU1pNHBoQkJSX2V0NF9OSWxfazQySEpCZkRhbmYtQnNkVkVOdHFlcEVhS2JLbzRmS2ZoV3lRZ0RGOUZYa0Jrem5TU29vcTNMbFlnRmstRjh1VjY0NnpUdWlVeEpuYnpMalNvRm43R3d0cjVmZEE0UWNJdUNNSWdTSHBwWDJSVTVpeE5WbkU3?oc=5"
     },
     {
-      "source": "centralalbertaonline.com",
+      "source": "CentralAlbertaOnline.com",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Where campfires are allowed this Heritage Day long weekend in Central Alberta - centralalbertaonline.com Where campfires are allowed this Heritage Day long weekend in Central Alberta&nbsp;&nbsp;centralalbertaonline.com",
+      "text": "Where campfires are allowed this Heritage Day long weekend in Central Alberta - CentralAlbertaOnline.com Where campfires are allowed this Heritage Day long weekend in Central Alberta&nbsp;&nbsp;CentralAlbertaOnline.com",
       "date": "2026-07-31T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Lift Wait Times",
@@ -627,10 +617,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXRnX0htQzdKRHNYWHFlQnRwYURCak1lVGliZk5lUXRpQVZUYkFCMkxlOHNQZXk2ZUNQZklUQmhpUk0teUEtemFsRkVKVTBNWmx2UkhmWG4tcmYyTkxUSFk1NEhXTEVfVWxScXRPUzR1Ym5BY1pRRWpoVnltanI3Qnk2UEwwYzNhZlJQSWhsYktIZUtTTlgtbDBobF9yV2pCTmNIQ1JKa1lkZ1hwRTQwTzJB?oc=5"
     },
     {
-      "source": "centralalbertaonline.com",
+      "source": "CentralAlbertaOnline.com",
       "resort": "davidthompson",
       "sentiment": "neutral",
-      "text": "Province commits up to $1.2M for Clearwater County tornado cleanup - centralalbertaonline.com Province commits up to $1.2M for Clearwater County tornado cleanup&nbsp;&nbsp;centralalbertaonline.com",
+      "text": "Province commits up to $1.2M for Clearwater County tornado cleanup - CentralAlbertaOnline.com Province commits up to $1.2M for Clearwater County tornado cleanup&nbsp;&nbsp;CentralAlbertaOnline.com",
       "date": "2026-07-28T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Lift Wait Times",
@@ -687,10 +677,10 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ULVZyel9peTZrUHNTM3E2M1NVN3dmWWpTazlVbUp5RVhLdlc3bVBncUFXTlFQWkJyanVyQU5zQldObWwzYXRUV3FhXzFnZFcwVlRZMmtSX1ByTHowVncwVzZjSGJVRXZ4WjVCOHJ2V2s3OHhCS0dSVnpjbw?oc=5"
     },
     {
-      "source": "centralalbertaonline.com",
+      "source": "CentralAlbertaOnline.com",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Wildfire smoke prompts air quality warning for most of Central Alberta - centralalbertaonline.com Wildfire smoke prompts air quality warning for most of Central Alberta&nbsp;&nbsp;centralalbertaonline.com",
+      "text": "Wildfire smoke prompts air quality warning for most of Central Alberta - CentralAlbertaOnline.com Wildfire smoke prompts air quality warning for most of Central Alberta&nbsp;&nbsp;CentralAlbertaOnline.com",
       "date": "2026-07-23T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Lift Wait Times",
@@ -717,10 +707,10 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVl9GSzgzZWZOaUN5b2p5UlM3LUdzRzdfU1plN1JGU0htUV9lenozVkI4bWc5bFF2dTlUam54cWYxMXdBVnNvUGhIRkpsZ2o5T0VVaDBKUmJOOUZTYVROX2dTNVFsT2hkVmxHWW13SVVkUFV2TzZ2bkhxRHkyWXFzVVF1Z0JlQzdpUXZpUmk3cnd4ckFpeElsQS1pUldtM2F5OFlqTA?oc=5"
     },
     {
-      "source": "the-sun.com",
+      "source": "The Sun",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "US will hit Iran's nuclear fortress Pickaxe mountain very soon, Trump reveals & says 'they haven't seen anything yet' - the-sun.com US will hit Iran's nuclear fortress Pickaxe mountain very soon, Trump reveals & says 'they haven't seen anything yet'&nbsp;&nbsp;the-sun.com",
+      "text": "US will hit Iran's nuclear fortress Pickaxe mountain very soon, Trump reveals & says 'they haven't seen anything yet' - The Sun US will hit Iran's nuclear fortress Pickaxe mountain very soon, Trump reveals & says 'they haven't seen anything yet'&nbsp;&nbsp;The Sun",
       "date": "2026-07-21T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -757,16 +747,6 @@
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTkZza1VPN3QyeG1rNWZLcV95QkY5eXlWTTZvMXJMX04xSllUb0JwNkFhT0lPTnByS3ZZR3VUQW1UQTFGRW5aMVVETjdieTRSV282blhUVlpnaTVSMmhIV0M5UHV3YkhJS3llbEtEQWZxTzIwVmZvYzlVRDR3Sy1sZml5YUFwRlNKU1pqMHJ1aHpVc1VNZGlBNnJBSkM0U3ZvT0d0c0ZLUzl5M0lRUGZhQ2FiZW1HYWctaXpId1BzaThnNjl2MVBxNDNHNA?oc=5"
     },
     {
-      "source": "CTV News",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Clearwater County cleaning up after unconfirmed tornado - CTV News Clearwater County cleaning up after unconfirmed tornado&nbsp;&nbsp;CTV News",
-      "date": "2026-07-20T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0JjdlFKc0lFR0hQTl93aVZCUEpBeHdzdUpWVXhmSXl4Y0xmVElrc0ZVRDE3b1RUQWpVUmtrbXBJb3piWlZCd3B6dW5lcU82WHUweDFadFZXUU03NU5vQndHRXAwOUZrcG50TXdxQkRnOEh1VkZhOFB4UDNBWmRZZU9mckJmajhueFdpQi1NNzVJSV9KU0l2RE9leHY2VXh1MzI5MWE3ZWQ?oc=5"
-    },
-    {
       "source": "Edmonton Journal",
       "resort": "davidthompson",
       "sentiment": "negative",
@@ -785,6 +765,26 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVFdlaWN2ZVo4UC1WMGhtSnozdUZCZWFpZXZicW9OaFZCRlptZk9jZV9kLWxSS3lPMU4xV3FNaXRpTkJfbmtpc3RlamQtZGZrdzBBN19BQmxRczVRdHBkREloa0dJMDgxOXVPaFJNSGNQVTJsZldxT2FWTmFWZUpoZWNoSG9ybEVJb1BmTWNxclZQekZ4OUJkY3ZlYnRwUTFsZHVqbtIBoAFBVV95cUxPUzVLQVpDbFVKaENsZE9rdng4VHhPMzJTQm5tMWNGMjBDNlozSlJ3YnNQNWlOdldxMFZkcldoN3RtbWxyekw1LWhHZGNtX21nS3R4MFBBcjBpOXpNZmlTUlpOYmJ2ZDQ4WEFJd19UOHlJVnRwWEJLQkhpRGpUNHVtaDF2OFhqaGlsNHlrSXpTNEVVeEhSQmhOWWlNTURJbVUx?oc=5"
+    },
+    {
+      "source": "Culture Alberta",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta Tornado Damages About 40 Homes Near Rocky Mountain - Culture Alberta Alberta Tornado Damages About 40 Homes Near Rocky Mountain&nbsp;&nbsp;Culture Alberta",
+      "date": "2026-07-20T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMWFhRXE2QlhhTlVNVXQ5M3FaUmlpR2Z2WXNZX21zc2NqQnBrN3lLWVNKdnlmdzJiaFZTQmRmRWZpR0pkeElkZlBaMWtDS1phV0I4UEhVQ3NldC1pOVR2UEFRUTFoLUJLS0JKT3F0bktEWl9NaERweDdCaWJlM2NFUnZ3bF9HV2NJR1lyZkVPMWFralRySDd5VThFbHBFb0p1dEU3T3kxY0JsNFpiX2s3MS1URWQ5QWZCYWdDb3FyTzRWckI0c0h0RW1GamdSNS1LTW9hTVI1Yw?oc=5"
+    },
+    {
+      "source": "CBC",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "'Just dumbfounding': Tornado damages buildings, homes in central Alberta county - CBC 'Just dumbfounding': Tornado damages buildings, homes in central Alberta county&nbsp;&nbsp;CBC",
+      "date": "2026-07-19T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVJEN2twa3pCQjdMaW55NW5JZmhYc1FVRHBjdE5iQjJJT1c2emY0QmpkNTJzTGZ5dHFWaFBVemJSUU5xSkpWT1ZnUjNRaFYyQUM0ZXNadVpETlhQanc5OGI2Tno4SDQ2bWJsU0pCdk5FTDdfbDhSOUVycnlWenBZQjIzZnNseXMzWmJhRmw3ZHdIRnE3QnVWOVA1YzE?oc=5"
     }
   ]
 }

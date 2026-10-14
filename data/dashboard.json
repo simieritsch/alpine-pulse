@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-13T19:49:12.227825",
-  "date": "2026-10-13",
+  "generated_at": "2026-10-14T17:55:21.724361",
+  "date": "2026-10-14",
   "summary": {
-    "total_mentions": 787,
-    "positive_pct": 9,
+    "total_mentions": 789,
+    "positive_pct": 10,
     "neutral_pct": 85,
-    "negative_pct": 6,
-    "negative_count": 41
+    "negative_pct": 5,
+    "negative_count": 46
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 503,
+      "total": 508,
       "positive_pct": 11,
-      "neutral_pct": 83,
-      "negative_pct": 6
+      "neutral_pct": 82,
+      "negative_pct": 7
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 46,
-      "positive_pct": 11,
+      "total": 48,
+      "positive_pct": 10,
       "neutral_pct": 85,
       "negative_pct": 4
     },
@@ -32,14 +32,14 @@
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 58,
+      "total": 55,
       "positive_pct": 2,
-      "neutral_pct": 97,
+      "neutral_pct": 96,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 83,
+      "total": 81,
       "positive_pct": 4,
       "neutral_pct": 90,
       "negative_pct": 6
@@ -48,31 +48,31 @@
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 438,
+      "mentions": 441,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 90,
+      "mentions": 95,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 54,
+      "mentions": 53,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 42,
+      "mentions": 41,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 41,
+      "mentions": 40,
       "avg_score": 49,
       "sentiment": "neutral"
     },
@@ -84,14 +84,8 @@
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 25,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Events & Promotions",
-      "mentions": 14,
-      "avg_score": 50,
+      "mentions": 26,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
@@ -101,9 +95,15 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Environmental Impact",
+      "name": "Events & Promotions",
       "mentions": 11,
-      "avg_score": 48,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Environmental Impact",
+      "mentions": 10,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
@@ -113,15 +113,15 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Family & Beginner Experience",
-      "mentions": 8,
-      "avg_score": 52,
+      "name": "Staff & Service",
+      "mentions": 7,
+      "avg_score": 53,
       "sentiment": "neutral"
     },
     {
-      "name": "Staff & Service",
-      "mentions": 6,
-      "avg_score": 54,
+      "name": "Family & Beginner Experience",
+      "mentions": 7,
+      "avg_score": 52,
       "sentiment": "neutral"
     },
     {
@@ -211,30 +211,30 @@
   ],
   "trends": {
     "labels": [
-      "Mon",
       "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
-      "Tue"
+      "Tue",
+      "Wed"
     ],
     "positive": [
       9,
-      9,
       10,
       9,
       10,
       9,
-      9
+      9,
+      10
     ],
     "neutral": [
       86,
-      86,
       85,
       86,
       85,
       86,
+      85,
       85
     ],
     "negative": [
@@ -243,46 +243,46 @@
       5,
       5,
       5,
-      5,
-      6
+      6,
+      5
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      436,
       437,
       439,
       437,
       442,
       434,
-      438
+      438,
+      441
     ],
     "Snow Conditions": [
-      86,
       84,
       90,
       89,
       90,
       93,
-      90
+      90,
+      95
     ],
     "Lift Wait Times": [
-      52,
       50,
       51,
       53,
       53,
       53,
-      54
+      54,
+      53
     ],
     "Safety & Incidents": [
-      43,
       43,
       42,
       42,
       43,
       41,
-      42
+      42,
+      41
     ]
   },
   "feed": [
@@ -305,26 +305,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RSlcxNHJVSTI1S1kyTXd1Qmt6TG85clNBMVM1SURSeVZFckJwb0ZZaXFKNk9HZFY2d1JIUm94TTBKbS1wZjM1SUtXdTNrODNCRGlaU2MwbGhoLVA4M184UVlEcDFSZDl5XzJIekpTSmVDTlBUVUUw?oc=5"
-    },
-    {
-      "source": "The Weather Network",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Nordegg, AB Current Weather - The Weather Network Nordegg, AB Current Weather&nbsp;&nbsp;The Weather Network",
-      "date": "2026-10-11T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdHNGTXFTVFhZdWl3WFZmbUh6R2JlaEphczlhQ19JMHZ1cm45aE5YUUVHSzVZa2R2cWQ4bWZBY2JYTE9tVThKeDdQQkw1LVJFSjc0YWJ1dzdWdHJGNTZZazVFSGhvRTB4aDhXRDdLOFBKN2d5MHBN?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "LETTER: 'Missed opportunity' by Canmore resort cancelling Alberta Referendum event - Rocky Mountain Outlook LETTER: 'Missed opportunity' by Canmore resort cancelling Alberta Referendum event&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-10-10T13:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Events & Promotions",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPblhWbXVFemRKOGZBMkZyZmloM0l6UzJGSEktaTFoOHNYVWlsX25iMElhVDVhbncwNU1rMmRZVEowZWM5dk5vd0cwUWw2aWcwanE3cXBRUUhCX08xdHFvSGMzcUpnYXJ4MFQ5UnNYMDRTMms4REJ2aXF3WFJHQUVfVGxGS1FGNFBkbGJMeFhjTFhwdG5TQk8weng1RWU3V21yRWxuSTVncWpCR2NRU1h1V2wya0l2dGs2bDdxX0lFZml5bzQ?oc=5"
     },
     {
       "source": "Daily Hive",
@@ -427,6 +407,16 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeV9ZUDJzWVRFam1JQkZMYkdLcWhWYUhkeTFHSzAyQm5QWmRTQXMyUUl1N3VkR3ZrZFlRX1ZibHRlQjBSeTRNbFZkcXd2WUlXRjRFVnRnNmlKX1c2Tk9qQTVoSFI3MGZWLVp6WWtCenVUY0xsOV90VWJhNThBZW5QVy11U0Vxa01vN1NzRGxtaG9hQnpFQmtObDhfOGU2aC02MTRKdg?oc=5"
     },
     {
+      "source": "SAM Magazine",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "March Snow People - SAM Magazine March Snow People&nbsp;&nbsp;SAM Magazine",
+      "date": "2026-09-25T00:24:19+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95a09HUVp6VW0wTUEwV01aMm55UkdyanpwSWhIb1NFaDZCLXpRYVNJbE1lemt5MXJOTThmWV9pYzE3OEc0S055ZzRncHFUVDJZbWNyeA?oc=5"
+    },
+    {
       "source": "Big West Country 92.9 FM",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -477,16 +467,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55bU5NUEdacUkxQlRnTVM2S0U0MGd1MXliQ2syQmpmSGRDdkdYdk9wVXlXVTI5d00wZUFhenFGTFpJRlVkc3U5MWd2ODdwTl9meXB4VWF0LWpXZw?oc=5"
     },
     {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta changes voter list rules, eyes new legislation after privacy breach - CTV News Alberta changes voter list rules, eyes new legislation after privacy breach&nbsp;&nbsp;CTV News",
-      "date": "2026-09-18T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON05SdGdmc1dsQkxPQlBvUlo5WFdaVjlwVGdWZ1VxblhRSGRDM0U5M2NULTlfYmpJbHU3aHFVRnl1TlZvUmhuV29UcjFTUngyXzJ2NUlHa2twd2hUUXE2R0VZWTFBRkcxQ181ZmVLNW1lbWRmWHR1RWtsSFdhYjFjaXljYjR3N2xDbnp5YjZ0RG1IckhsV1BvaFNBOU0wMzVvNGJ3aUpTVVZhYnUzeFJfNGJpWTlLUQ?oc=5"
-    },
-    {
       "source": "Calgary Herald",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -527,14 +507,14 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXZjQzVGQk9BZHlKV05WeGk0bEVqU25fa0pTd0lLSW44UENQTG1COEZsMEE3UHJTT3FEdHJNb2FTVHpwTnN5WmtKQ054ZTF1UE9nZU5CaVlERVVra000dnJXSmltY0twd3BsZnpMMFVJdkhRaDhDT3lrZFpIUU9leTZlV29oZ2hWQTdzRkloTXRwOC1kZjVFRmp3VHFZQ1It?oc=5"
     },
     {
-      "source": "EverythingGP",
+      "source": "CHAT News Today",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Part of Canmore area\u2019s Mount Lady MacDonald designated \u2018all-season resort area\u2019 - EverythingGP Part of Canmore area\u2019s Mount Lady MacDonald designated \u2018all-season resort area\u2019&nbsp;&nbsp;EverythingGP",
+      "text": "Part of Canmore area\u2019s Mount Lady MacDonald designated \u2018all-season resort area\u2019 - CHAT News Today Part of Canmore area\u2019s Mount Lady MacDonald designated \u2018all-season resort area\u2019&nbsp;&nbsp;CHAT News Today",
       "date": "2026-09-17T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeGdTT1NNRnN1ZzBXclZxQW9GZ2Q0c3R5LVZyOW1NNl8tamdYRVhUZkRBdC1vTndQQVY4QUI0TUNSYUxCOGtSS3RvY3BqRWl0NXNGaUpRT0FFT3htVVplT21QQ2hoVUZGM3NMRkw4YWdwQXI1TGhoYkgwbnNWMl9RSlAxbmx4em5IZ1ZIaWFXQzgwWTgxUkZYcGpPRnR0bHg0SS1uZm1YREhNblFXdEtuWG5nVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeTFMbFYzWDVGVkxHc1NJZ2F0OUNzY3BFUjc4MVNUMmE0TUtndERuNlpSM0drT1E4TU94cVhRZm9tSDhfa3VyZ0tEYzJkcUc4YmNPckVVZnQ3anFkWjEwS1c2d1Mzc3d0UENBZkJTbU9kN1FQNXB2czJTdVZpbnNEeHVjTGJibTNHbUNUVEhpSUFVYl82b3FRM2FoYkVLWFVGVUlRT205S2lDU3Q2eVNZU1MwUQ?oc=5"
     },
     {
       "source": "EverythingGP",
@@ -785,6 +765,26 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEtEVWI0cElBRmZCSXpMMlNLQ3FESGs2SW1PMTIyTWtMcXdjZVZZN2Y5R2VzOUliWURrdkwzdHQ0TFphN1lGblB4NFZ2NE93Tmd6N2d2emlva3JiZFFwNE1mTjAxWW5Oc2VWeWVOY2pDb3N4UmliN0tKR1ZOR0p5TzR6MWlxMHVIS1gtb3lqRQ?oc=5"
+    },
+    {
+      "source": "Everyday Tourist",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Everything You Need to Know About Casino Tourism in Canada - Everyday Tourist Everything You Need to Know About Casino Tourism in Canada&nbsp;&nbsp;Everyday Tourist",
+      "date": "2026-07-22T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVl9GSzgzZWZOaUN5b2p5UlM3LUdzRzdfU1plN1JGU0htUV9lenozVkI4bWc5bFF2dTlUam54cWYxMXdBVnNvUGhIRkpsZ2o5T0VVaDBKUmJOOUZTYVROX2dTNVFsT2hkVmxHWW13SVVkUFV2TzZ2bkhxRHkyWXFzVVF1Z0JlQzdpUXZpUmk3cnd4ckFpeElsQS1pUldtM2F5OFlqTA?oc=5"
+    },
+    {
+      "source": "The Sun",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "US will hit Iran's nuclear fortress Pickaxe mountain very soon, Trump reveals & says 'they haven't seen anything yet' - The Sun US will hit Iran's nuclear fortress Pickaxe mountain very soon, Trump reveals & says 'they haven't seen anything yet'&nbsp;&nbsp;The Sun",
+      "date": "2026-07-21T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrSHoycmRGbDA3NmxhMllKcmFoUnA0VWd4dXFzcVpBNFh6UjJuVUtQdklCQjBIS2RrTXRXcW9ZdkZqbV9ER05wYWpyQ1I1Skk3NmZXUURiSTBMTmZHTFF3eGxvMWlCNG95OWtTdGZBS2dhRDktbVROa3M1VHJGZw?oc=5"
     }
   ]
 }

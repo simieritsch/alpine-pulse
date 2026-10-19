@@ -1,91 +1,97 @@
 {
-  "generated_at": "2026-10-16T17:18:17.265821",
-  "date": "2026-10-16",
+  "generated_at": "2026-10-19T19:12:21.371148",
+  "date": "2026-10-19",
   "summary": {
-    "total_mentions": 770,
+    "total_mentions": 779,
     "positive_pct": 9,
-    "neutral_pct": 85,
-    "negative_pct": 6,
-    "negative_count": 41
+    "neutral_pct": 86,
+    "negative_pct": 5,
+    "negative_count": 38
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 496,
+      "total": 506,
       "positive_pct": 11,
       "neutral_pct": 83,
       "negative_pct": 6
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 48,
-      "positive_pct": 10,
-      "neutral_pct": 85,
+      "total": 46,
+      "positive_pct": 9,
+      "neutral_pct": 87,
       "negative_pct": 4
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 93,
-      "positive_pct": 9,
-      "neutral_pct": 88,
+      "total": 94,
+      "positive_pct": 7,
+      "neutral_pct": 89,
       "negative_pct": 3
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 56,
+      "total": 53,
       "positive_pct": 2,
       "neutral_pct": 96,
       "negative_pct": 2
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 77,
+      "total": 80,
       "positive_pct": 4,
-      "neutral_pct": 90,
-      "negative_pct": 6
+      "neutral_pct": 91,
+      "negative_pct": 5
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 432,
+      "mentions": 444,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 90,
+      "mentions": 91,
       "avg_score": 52,
       "sentiment": "neutral"
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 51,
+      "mentions": 54,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 43,
+      "mentions": 42,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
-      "mentions": 41,
+      "mentions": 34,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 29,
+      "mentions": 28,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 24,
-      "avg_score": 49,
+      "mentions": 25,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
+      "name": "Access & Transportation",
+      "mentions": 12,
+      "avg_score": 48,
       "sentiment": "neutral"
     },
     {
@@ -95,21 +101,15 @@
       "sentiment": "neutral"
     },
     {
-      "name": "Access & Transportation",
+      "name": "Pricing & Value",
       "mentions": 10,
-      "avg_score": 48,
+      "avg_score": 46,
       "sentiment": "neutral"
     },
     {
       "name": "Environmental Impact",
-      "mentions": 10,
-      "avg_score": 49,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Pricing & Value",
       "mentions": 8,
-      "avg_score": 46,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
@@ -120,7 +120,7 @@
     },
     {
       "name": "Family & Beginner Experience",
-      "mentions": 7,
+      "mentions": 6,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -138,20 +138,6 @@
     }
   ],
   "gov_alberta": [
-    {
-      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
-      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
-      "theme": "Events & Promotions",
-      "date": "2026-02-20T08:00:00+00:00",
-      "sentiment": "neutral"
-    },
-    {
-      "title": "Fortress Mountain gets key approval - CochraneNow Fortress Mountain gets key approval&nbsp;&nbsp;CochraneNow",
-      "detail": "Fortress Mountain gets key approval - CochraneNow Fortress Mountain gets key approval&nbsp;&nbsp;CochraneNow",
-      "theme": "Regulatory Approvals & Land Use",
-      "date": "2026-06-12T07:00:00+00:00",
-      "sentiment": "neutral"
-    },
     {
       "title": "Alberta government conditionally approves return of Fortress Mountain - CBC Alberta government conditionally approves re",
       "detail": "Alberta government conditionally approves return of Fortress Mountain - CBC Alberta government conditionally approves return of Fortress Mountain&nbsp;&nbsp;CBC",
@@ -174,10 +160,10 @@
       "sentiment": "neutral"
     },
     {
-      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
-      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
-      "theme": "Events & Promotions",
-      "date": "2026-02-20T08:00:00+00:00",
+      "title": "Fortress Mountain gets key approval - CochraneNow Fortress Mountain gets key approval&nbsp;&nbsp;CochraneNow",
+      "detail": "Fortress Mountain gets key approval - CochraneNow Fortress Mountain gets key approval&nbsp;&nbsp;CochraneNow",
+      "theme": "Regulatory Approvals & Land Use",
+      "date": "2026-06-12T07:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -185,6 +171,20 @@
       "detail": "Canadian Province Gives Preliminary Approval To Revive Ski Resort - Unofficial Networks Canadian Province Gives Preliminary Approval To Revive Ski Resort&nbsp;&nbsp;Unofficial Networks",
       "theme": "Regulatory Approvals & Land Use",
       "date": "2026-06-22T07:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
+      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
+      "theme": "Events & Promotions",
+      "date": "2026-02-20T08:00:00+00:00",
+      "sentiment": "neutral"
+    },
+    {
+      "title": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underwa",
+      "detail": "Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort - Global News Public consultations underway on future of Alberta\u2019s Fortress Mountain Resort&nbsp;&nbsp;Global News",
+      "theme": "Events & Promotions",
+      "date": "2026-02-20T08:00:00+00:00",
       "sentiment": "neutral"
     },
     {
@@ -211,81 +211,91 @@
   ],
   "trends": {
     "labels": [
-      "Thu",
       "Fri",
       "Mon",
       "Tue",
       "Wed",
       "Thu",
-      "Fri"
+      "Fri",
+      "Mon"
     ],
     "positive": [
-      9,
       10,
       9,
       9,
       10,
       10,
+      9,
       9
     ],
     "neutral": [
-      86,
       85,
       86,
       85,
       85,
       84,
-      85
+      85,
+      86
     ],
     "negative": [
       5,
       5,
-      5,
       6,
       5,
       6,
-      6
+      6,
+      5
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      437,
       442,
       434,
       438,
       441,
       415,
-      432
+      432,
+      444
     ],
     "Snow Conditions": [
-      89,
       90,
       93,
       90,
       95,
       83,
-      90
+      90,
+      91
     ],
     "Lift Wait Times": [
-      53,
       53,
       53,
       54,
       53,
       44,
-      51
+      51,
+      54
     ],
     "Summer Activities": [
-      41,
       43,
       44,
       41,
       40,
       41,
-      43
+      43,
+      42
     ]
   },
   "feed": [
+    {
+      "source": "CFWE",
+      "resort": "grandecache",
+      "sentiment": "neutral",
+      "text": "Peace Region Experiences increase in small quakes Across Grande Cache and Peace River - CFWE Peace Region Experiences increase in small quakes Across Grande Cache and Peace River&nbsp;&nbsp;CFWE",
+      "date": "2026-10-19T15:55:22+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JXzV5ZVlVZDBGMDMzd2pTQ0JMSElKWlo5b0duUEVabF96bFZZYnFlSW9uQVpzb2NRNnR2RUNQR1JqTTNjUmtOVklaMXFtMkE?oc=5"
+    },
     {
       "source": "thecommunitypress.com",
       "resort": "fortress",
@@ -347,24 +357,14 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2E1d2VnOGNrSklWNnlXcjM1YU5uNzUwbzV5Q0x2UW02VjJCelZxWWVta0N0Z3g4M3RBcl8xTTNJUkg3bTRKbXBrRU5YVlR6MU5WVkFtNGZqY081c24wdTI1U0NzbVRnTG5WOGRnclNkSnVhNXJ1N1pCckx3OVJFX2tHbWdtWERwdFNYSXl4Z3JsMmRoUVFPbEhfZlVsQ3RrQXM2WW1LbUkyMWs5RUluQ3dDNjh0UkhZdjVRb3RyZEhiQ3Z6?oc=5"
     },
     {
-      "source": "Rocky Mountain Outlook",
+      "source": "St. Albert Gazette",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Canmore resort pulls venue for Alberta referendum event with separatist ties - Rocky Mountain Outlook Canmore resort pulls venue for Alberta referendum event with separatist ties&nbsp;&nbsp;Rocky Mountain Outlook",
+      "text": "Canmore resort pulls venue for Alberta referendum event with separatist ties - St. Albert Gazette Canmore resort pulls venue for Alberta referendum event with separatist ties&nbsp;&nbsp;St. Albert Gazette",
       "date": "2026-10-01T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Events & Promotions",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXFfMXlEVllIdUFkSi1leGRpVVNzUFAyMHI0dlRXMFJOSGpvenpkR2hyQkVDYV9FVWd3VFRjTjNIMTkyX3VZSkwyRkkyMjBfdUJPTVd4TTVVS0t0ZmZZTUhfYjR5dnFZd1ZxTlFyNHlpQmpZZW1BZkZkZ0RkTnY5eWN2dkMzamd6WjNCNkxVUDZuVW9HMGxpekZhdHpaTzJTSm5tX3ZHTEU0RDR6VkkxYjg5Q3BPOVJBUFJ3?oc=5"
-    },
-    {
-      "source": "\uc544\uc2dc\uc544\uacbd\uc81c",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Hangye Mountain Fortress Trail to Open on October 1...\u2018A Millennium of History\u2019 Returns to the People After 50 Years - \uc544\uc2dc\uc544\uacbd\uc81c Hangye Mountain Fortress Trail to Open on October 1...\u2018A Millennium of History\u2019 Returns to the People After 50 Years&nbsp;&nbsp;\uc544\uc2dc\uc544\uacbd\uc81c",
-      "date": "2026-09-29T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wZ3UyOWthd3hLSmRSZG1sTk1WbTQxTVl2a1dsQWlCSk1yZDJoX19ndld2dHctY0V5cnNiTjF4MmYzRG41TTVnYkwta3h6LVozMUp2TzMtSEVxWDVrcHZYRlFKM1I?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnNtZkMwQ3ozd29jeW5hbTlkVG1udG9VZ2RmMm80dHFOUHY2UHprQ3FzMEZTOEVGVzBlU0d5MEZNTVRMY0dCX3dRS3FsdjkzS05DVkFJSHN6ejRtcTduZUpNTVUzbUIwOVJVc242MW9ZbEtkTjNkeXl2djNYeGZnSzZjUmxIbHlvbE5IcGY0aUVSV2tuTk8yU3NGeGNsRlJlZlZjd0FNUGczc0hqak12TkFsclpjVTU4ZFIxMm8wcW1OcjhNQkFpWk16WHdTdw?oc=5"
     },
     {
       "source": "Rocky Mountain Outlook",
@@ -381,7 +381,7 @@
       "resort": "fortress",
       "sentiment": "neutral",
       "text": "Podcast: Alberta Minister of Tourism and Sport, Andrew Boitchenko - rdnewsnow.com Podcast: Alberta Minister of Tourism and Sport, Andrew Boitchenko&nbsp;&nbsp;rdnewsnow.com",
-      "date": "2026-09-25T12:55:45+00:00",
+      "date": "2026-09-25T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0dFUDRid09LRXU5Ym1SbDU1LWxpR0cwUWVCNVBJcWtHMmxtRVFsOTVSWGJ2eWg3N0VvbkNWbTdZVXdoUUU0T09JVDFGT2JkQllCdDBoQjQxODRTNm9JTWRxaHFlWFFra2tpd2Q1VXNoUHVGTXJPazZiTUVhRkthc0EzZFRWSjBTempjQXYzMXRuOUttQzl3WVFRMHlzQQ?oc=5"
@@ -395,16 +395,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSXV5M1IyQllUb1ZldFpjYjhTNjdHTDNYcTlnZ2NyMjhMcFB6VGR5SFpEb212Mjdid2VQbUZOemFNOGdmUWZmSXhpbXU2c2lQU3BhRXdwdFNGOElmdllWLXZtcmctZUFNWDRmUHRBUXV6cm1PZGZHQUVvZHVMS19Za1RPdmdUcFdOVGc?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta government backs new Stony Plain curling rink project - CTV News Alberta government backs new Stony Plain curling rink project&nbsp;&nbsp;CTV News",
-      "date": "2026-09-25T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Tourism Strategy & Policy",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeV9ZUDJzWVRFam1JQkZMYkdLcWhWYUhkeTFHSzAyQm5QWmRTQXMyUUl1N3VkR3ZrZFlRX1ZibHRlQjBSeTRNbFZkcXd2WUlXRjRFVnRnNmlKX1c2Tk9qQTVoSFI3MGZWLVp6WWtCenVUY0xsOV90VWJhNThBZW5QVy11U0Vxa01vN1NzRGxtaG9hQnpFQmtObDhfOGU2aC02MTRKdg?oc=5"
     },
     {
       "source": "SAM Magazine",
@@ -425,6 +415,26 @@
       "engagement": "Article",
       "theme": "Tourism Strategy & Policy",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWRXYTZhci0zVG9vVmRBX3lFSW1keHJMRkJBRkYySzktWklYQmJxR0t4QjhoLURkaTBaM3JmVVp4bzh2aDFURms0SUx1T0lzWnkxZ09hQXpGd1g1andBMUphLTBIaDF0VndLVko2Vl9haXBuVDUwUXo3bFVNSUlTMWFZUXVURkQzUDFsbDFjdjJSdnZLYVZ1MmV1c3Rwd2VrN1NVQV9lRnVRbDdmOUhGRHZmc0ViemVBM1VjaC1FS3Y0UG5RZHc?oc=5"
+    },
+    {
+      "source": "Skift",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "Canada\u2019s Alberta Is Courting Gulf Investment \u2014 Not Just Gulf Tourists - Skift Canada\u2019s Alberta Is Courting Gulf Investment \u2014 Not Just Gulf Tourists&nbsp;&nbsp;Skift",
+      "date": "2026-09-24T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZE1sdzNOdUlkVzhGcVBlVDFDNnF4OF9rRDhjeTM1c05kWVBOMzBLWkdyTDZOaG9IandFSWlxeFhSNkVtR01qQTNqX0FVZ0pOTlU3S3NLNGs0YnB1N1QtdWlWVzFyY3pGTS1lUGtlRWZpcW85bTloMTNiOGhaa01vMGhkLURvNHRkS1VneVdOVXNaS0VRVDM4RFR0Qk4?oc=5"
+    },
+    {
+      "source": "Grande Prairie Daily Herald Tribune",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Weyerhaeuser talks NW Alberta forestry management - Grande Prairie Daily Herald Tribune Weyerhaeuser talks NW Alberta forestry management&nbsp;&nbsp;Grande Prairie Daily Herald Tribune",
+      "date": "2026-09-22T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeDVwazV5QWFiN01WblhxSkRVZHE4em14RzM5azMyN1MyX1c1QWlpWi1WSl9hQU1WWTluWldWcGdHeE12Sm4tblhROGtuMkhBWnJncWNDd3dHdS1XMk1ZQ3JRb0pkS1g0QWdNZGtnRWhlREVRZkRFdjFrVWtBeTFNRjljaU92SXlMLVlIbzNJd1pSMzQ?oc=5"
     },
     {
       "source": "CBC",
@@ -667,10 +677,10 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNXRnX0htQzdKRHNYWHFlQnRwYURCak1lVGliZk5lUXRpQVZUYkFCMkxlOHNQZXk2ZUNQZklUQmhpUk0teUEtemFsRkVKVTBNWmx2UkhmWG4tcmYyTkxUSFk1NEhXTEVfVWxScXRPUzR1Ym5BY1pRRWpoVnltanI3Qnk2UEwwYzNhZlJQSWhsYktIZUtTTlgtbDBobF9yV2pCTmNIQ1JKa1lkZ1hwRTQwTzJB?oc=5"
     },
     {
-      "source": "CentralAlbertaOnline.com",
+      "source": "centralalbertaonline.com",
       "resort": "davidthompson",
       "sentiment": "neutral",
-      "text": "Province commits up to $1.2M for Clearwater County tornado cleanup - CentralAlbertaOnline.com Province commits up to $1.2M for Clearwater County tornado cleanup&nbsp;&nbsp;CentralAlbertaOnline.com",
+      "text": "Province commits up to $1.2M for Clearwater County tornado cleanup - centralalbertaonline.com Province commits up to $1.2M for Clearwater County tornado cleanup&nbsp;&nbsp;centralalbertaonline.com",
       "date": "2026-07-28T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Lift Wait Times",
@@ -695,16 +705,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR3N4WDUyTXdnUldOQktBZk1IX0dLbUJsRW1qTDJzeTNPQk5VV3I0SWFIUDNyQUllajVoVkNoV2lOTWNZdnY5cHNOcktIenBXWGpwaDFPeURvNW56am5MeXdpV0tWSFl2WllkUkM5RThDMVg1NmU3TGoyc0pVOG5HMVI5ekdDMWdZS2ltOUhoVWlyUzUxY0FiRG9IZXRiYUI3WVR1MA?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "nakiska",
-      "sentiment": "positive",
-      "text": "Olympic Oval, WinSport and Nakiska get $33M boost - CTV News Olympic Oval, WinSport and Nakiska get $33M boost&nbsp;&nbsp;CTV News",
-      "date": "2026-07-27T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd3ZwQmZHTjhQZjF0anQtM3VLWVFIN2tOZ2lxekNRYnJ2UVVjWEE0RjNyanl3eGNhc2lteWhUc1pxTldRbkpTODNQUTlVaEczNjR2RWItM0xzR1FSVFRaQjF3VnNOY3I4Ty0zbkllR05LUmdVWC1SUHh0QTN3cDN0Y2FTRXZFS1A4b3lNSUVPbmc0Rlh3bHpsOUU1LXc?oc=5"
     },
     {
       "source": "Singletracks Mountain Bike News",

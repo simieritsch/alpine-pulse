@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-05T20:33:37.941005",
-  "date": "2026-11-05",
+  "generated_at": "2026-11-06T19:54:57.731299",
+  "date": "2026-11-06",
   "summary": {
-    "total_mentions": 351,
-    "positive_pct": 9,
+    "total_mentions": 353,
+    "positive_pct": 10,
     "neutral_pct": 87,
-    "negative_pct": 4,
-    "negative_count": 14
+    "negative_pct": 3,
+    "negative_count": 13
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 185,
-      "positive_pct": 11,
+      "total": 186,
+      "positive_pct": 12,
       "neutral_pct": 84,
       "negative_pct": 4
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 29,
-      "positive_pct": 10,
-      "neutral_pct": 86,
-      "negative_pct": 3
+      "total": 28,
+      "positive_pct": 7,
+      "neutral_pct": 89,
+      "negative_pct": 4
     },
     "nakiska": {
       "name": "Nakiska",
@@ -32,9 +32,9 @@
     },
     "grandecache": {
       "name": "Grande Cache",
-      "total": 17,
-      "positive_pct": 6,
-      "neutral_pct": 94,
+      "total": 19,
+      "positive_pct": 5,
+      "neutral_pct": 95,
       "negative_pct": 0
     },
     "davidthompson": {
@@ -48,13 +48,13 @@
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 175,
+      "mentions": 177,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Snow Conditions",
-      "mentions": 47,
+      "mentions": 46,
       "avg_score": 52,
       "sentiment": "neutral"
     },
@@ -78,14 +78,14 @@
     },
     {
       "name": "Tourism Strategy & Policy",
-      "mentions": 18,
+      "mentions": 17,
       "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Facilities & Lodging",
-      "mentions": 13,
-      "avg_score": 50,
+      "mentions": 15,
+      "avg_score": 51,
       "sentiment": "neutral"
     },
     {
@@ -199,29 +199,29 @@
   ],
   "trends": {
     "labels": [
-      "Wed",
       "Thu",
       "Fri",
       "Mon",
       "Tue",
       "Wed",
-      "Thu"
+      "Thu",
+      "Fri"
     ],
     "positive": [
-      10,
       8,
       8,
       9,
       8,
       10,
-      9
+      9,
+      10
     ],
     "neutral": [
-      86,
       88,
       88,
       87,
       86,
+      87,
       87,
       87
     ],
@@ -229,47 +229,47 @@
       4,
       4,
       4,
-      4,
       6,
       3,
-      4
+      4,
+      3
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      266,
       261,
       285,
       330,
       331,
       175,
-      175
+      175,
+      177
     ],
     "Snow Conditions": [
-      67,
       54,
       59,
       68,
       60,
       48,
-      47
+      47,
+      46
     ],
     "Lift Wait Times": [
-      34,
       36,
       38,
       45,
       37,
       33,
+      32,
       32
     ],
     "Summer Activities": [
-      35,
       32,
       31,
       36,
       36,
       21,
+      22,
       22
     ]
   },
@@ -285,6 +285,16 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZUjVXYlprTzRWS2lsTHo3M3FCU3k3WWhWRzN5aklpbTlxR1FYam54bndEZVhOaW1KMUxnLTNoOU8wM0pnNk9yUFVDLVdSM2ZOVmtkSE5lMC1UaUlqNWo4bVpnZVFDQms1WHgxX1pkRlg?oc=5"
     },
     {
+      "source": "SnowBrains",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "North America\u2019s Best Ski Resorts According to 153,854 Snomad Reviews - SnowBrains North America\u2019s Best Ski Resorts According to 153,854 Snomad Reviews&nbsp;&nbsp;SnowBrains",
+      "date": "2026-11-03T23:54:16+00:00",
+      "engagement": "Article",
+      "theme": "Snow Conditions",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wVlNyRE1HQ25TWGtNZ193MVBqcnVnSFp0OERDbU54bmVlbE1ybkhEQzRzVDgxampEelRfQ0U1RUwteFZDSTNpamxwaUxUQ004UW9RcFE3UWxrWWhyZm9sVnI5VUh2S1NCa1E5dWhUei1oNGtKVlE?oc=5"
+    },
+    {
       "source": "Rocky Mountain Outlook",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -293,6 +303,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVl8wT3hWdzBJbnJlT09ZWXJ3N2JyQkwtQ2o4Qnk2eFN0TXNNT0FHbHZlYkJVenhHTDgzdjVxU3pjWi1Lc1JtQkJzNlVDUE1kazNRc3RrV3F3U3BNekdFR3Bpd1ZzU3h4RnlKV2pvWUUxeHRoSFdzR0IxT2VxWElvd2xSRldYaWdkOEdvQ202RU0teVROME9EYWZwS09WSml2YU56NVZVWW00MHJ1MUxFNlhVV2FISHkwcUIzWlI5T0Q?oc=5"
+    },
+    {
+      "source": "Yahoo",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta Ski Resort To Open Days Earlier Than Planned as 2026-27 Season Kicks Off - Yahoo Alberta Ski Resort To Open Days Earlier Than Planned as 2026-27 Season Kicks Off&nbsp;&nbsp;Yahoo",
+      "date": "2026-10-30T22:25:27+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkNiRnBKbjdKLXd5UDRtVGs5bE9EU20yTEstTE9TemtVNmdSSEpFdTJ3Z2E4QTYtUnFkRDNCSHh2YXp3bGdWblFYS3IzMkRnNUtUWWtodU5FMzNaeGJJVWVENThXRFIySEJQNnVYMlZKZnZod1FnWDJFUy1Ubm5HZldQeVRFSHJhSEE?oc=5"
     },
     {
       "source": "play 103.7",
@@ -315,14 +335,14 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT2E1d2VnOGNrSklWNnlXcjM1YU5uNzUwbzV5Q0x2UW02VjJCelZxWWVta0N0Z3g4M3RBcl8xTTNJUkg3bTRKbXBrRU5YVlR6MU5WVkFtNGZqY081c24wdTI1U0NzbVRnTG5WOGRnclNkSnVhNXJ1N1pCckx3OVJFX2tHbWdtWERwdFNYSXl4Z3JsMmRoUVFPbEhfZlVsQ3RrQXM2WW1LbUkyMWs5RUluQ3dDNjh0UkhZdjVRb3RyZEhiQ3Z6?oc=5"
     },
     {
-      "source": "Rocky Mountain Outlook",
+      "source": "St. Albert Gazette",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Canmore resort pulls venue for Alberta referendum event with separatist ties - Rocky Mountain Outlook Canmore resort pulls venue for Alberta referendum event with separatist ties&nbsp;&nbsp;Rocky Mountain Outlook",
+      "text": "Canmore resort pulls venue for Alberta referendum event with separatist ties - St. Albert Gazette Canmore resort pulls venue for Alberta referendum event with separatist ties&nbsp;&nbsp;St. Albert Gazette",
       "date": "2026-10-01T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Events & Promotions",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOXFfMXlEVllIdUFkSi1leGRpVVNzUFAyMHI0dlRXMFJOSGpvenpkR2hyQkVDYV9FVWd3VFRjTjNIMTkyX3VZSkwyRkkyMjBfdUJPTVd4TTVVS0t0ZmZZTUhfYjR5dnFZd1ZxTlFyNHlpQmpZZW1BZkZkZ0RkTnY5eWN2dkMzamd6WjNCNkxVUDZuVW9HMGxpekZhdHpaTzJTSm5tX3ZHTEU0RDR6VkkxYjg5Q3BPOVJBUFJ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnNtZkMwQ3ozd29jeW5hbTlkVG1udG9VZ2RmMm80dHFOUHY2UHprQ3FzMEZTOEVGVzBlU0d5MEZNTVRMY0dCX3dRS3FsdjkzS05DVkFJSHN6ejRtcTduZUpNTVUzbUIwOVJVc242MW9ZbEtkTjNkeXl2djNYeGZnSzZjUmxIbHlvbE5IcGY0aUVSV2tuTk8yU3NGeGNsRlJlZlZjd0FNUGczc0hqak12TkFsclpjVTU4ZFIxMm8wcW1OcjhNQkFpWk16WHdTdw?oc=5"
     },
     {
       "source": "Rocky Mountain Outlook",
@@ -395,16 +415,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdXZjQzVGQk9BZHlKV05WeGk0bEVqU25fa0pTd0lLSW44UENQTG1COEZsMEE3UHJTT3FEdHJNb2FTVHpwTnN5WmtKQ054ZTF1UE9nZU5CaVlERVVra000dnJXSmltY0twd3BsZnpMMFVJdkhRaDhDT3lrZFpIUU9leTZlV29oZ2hWQTdzRkloTXRwOC1kZjVFRmp3VHFZQ1It?oc=5"
     },
     {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Alberta planning to remove popular Lac des Arcs viewpoint near Canmore - CTV News Alberta planning to remove popular Lac des Arcs viewpoint near Canmore&nbsp;&nbsp;CTV News",
-      "date": "2026-09-16T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaXdwZVFiUUI3Xzk1LWE1eTlMOEVEcEJCU253S3UtdldNZTdpLTZzaG9oeXlYckE0MV8wUGViN1YtVUpOOTh6enNobFphWUlBV05jZ1BjbjJXcTNVa0VXWVRtM2doNnRBZl9kaTA1b3RGdEVvYUVDd2V3QkRKU0JyZFFIRy1ZRFZqOFhfWEJDdTBxMVRRUVZkSGVHbjQ1ekEwS2hPc29ralM5VGh2VlM4?oc=5"
-    },
-    {
       "source": "CBC",
       "resort": "grandecache",
       "sentiment": "neutral",
@@ -413,16 +423,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlBtcmpCQ2RsRDk0WjI4VGtHYXIxTVc0bWhNUEdUa3RLaW9XSHJFS2ZKdURoZXNjSmtwYjdDOVY1ZGM5alpFRDk0X3kwLUxZOF85SFhCRWY3bkVfWXozNUlhNDVVTDV5WkdnaWVaMkdYVGhQaTF5QXB3OVA3RDlYQ24xWjVOX0Y0UnRPZ3I1NklMUQ?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Nenshi discusses referendum, rail and all-season resorts during Canmore visit - Rocky Mountain Outlook Nenshi discusses referendum, rail and all-season resorts during Canmore visit&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-08-28T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFlBb3M1SHhTN2xrLXFIc0M0Nmw4VHZGSnE4SEI0NXZWQVlsZFhZY0lGa1lWVmZHV2ZiQkpvNDhvZEhOMnpGXzh3MXlia2tYejltV3RaQjFHbTlKUHQxbkhRMjFsYklEY0FZQnQ5X3ZIODFCcUdVT1Q0UEp3M0dPTTJIZmx2S3F2VTNaUkpSU0t6MUxfVnd4eVg5cnVrNmpvSHpGcGhyVUxjRWNTOVMtMFRNMmtTX0pjWGRv?oc=5"
     },
     {
       "source": "CTV News",
@@ -462,7 +462,7 @@
       "date": "2026-08-02T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOW95MGlKVHBfTEd4djV0cFpkeTE1bkJoSWp5WkZsUlJwTERmVFliWmt0QTRydE1rTGlPQ0N1NVBDTVZ1M1pGSXBiOU1NYlBUQ3JXam9fbVRIbzZqRkRRQmVaUXFRRlhvNHpzaGp5V3NiUXVOUWhJTXhQemRFMWgyUjk2cFAtTW5E?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOW95MGlKVHBfTEd4djV0cFpkeTE1bkJoSWp5WkZsUlJwTERmVFliWmt0QTRydE1rTGlPQ0N1NVBDTVZ1M1pGSXBiOU1NYlBUQ3JXam9fbVRIbzZqRkRRQmVaUXFRRlhvNHpzaGp5V3NiUXVOUWhJTXhQemRFMWgyUjk2cFAtTW5E0gGOAUFVX3lxTE5VZWh4dV9odkkwOWZsX0ROMTI4QWVnS1pNdWVmVC1lanpva2lpcEF5Q0tXSl9VdklaQVVfMlNrYl9aZnY3dmFVemhrR25FTUZ1R1dqV0dlUWROTkU5bGpCaEZaZEc3Tmd0X0hiMUNzSXJ2QXBXVC1zZEFwSWtxUEhiajRRd1VoeE5WdkVFNVE?oc=5"
     },
     {
       "source": "To Do Canada",
@@ -609,6 +609,16 @@
       "resort": "grandecache",
       "sentiment": "neutral",
       "text": "Grande Cache Air Quality Index (AQI) and Canada Air Pollution - IQAir Grande Cache Air Quality Index (AQI) and Canada Air Pollution&nbsp;&nbsp;IQAir",
+      "date": "2026-06-29T07:48:52+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdGdaMFlINlNkZ3Y1M0kxS1NIOFdQaGNtbFRLYnhYLVoybHg5RVhsTmlnYno5NlNlTlpjYUI0WE9LRV81UlZzTEpsS2NXV1ZkZUxrdDh6ZUFRSU1PRXFWcHpxVm0wTURMUHhtZlBR?oc=5"
+    },
+    {
+      "source": "IQAir",
+      "resort": "grandecache",
+      "sentiment": "neutral",
+      "text": "Grande Cache Air Quality Index (AQI) and Canada Air Pollution - IQAir Grande Cache Air Quality Index (AQI) and Canada Air Pollution&nbsp;&nbsp;IQAir",
       "date": "2026-06-26T16:58:53+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -745,6 +755,16 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkRUQzd5enc3TUx0ZW1DZThQZkFmdEN4R0x6czRQeFk0bzJyRGU4aUVxQm9aTU9rQ2JwTTF2UDhMV293ajZTYUQ0d1ZmTHhpcFNybExYa2Q1SHFzOTBuU2JPRjdHY21ZT3pHVkNsSkhIY01yVlZmSl9lcnk0MHYxSWpNQzdyUFRORjdlU3otUUZ4azdXZXZqanRyOTJMeVJKbnBfc2FiV0NRMDZRVUE?oc=5"
     },
     {
+      "source": "Calgary Herald",
+      "resort": "fortress",
+      "sentiment": "positive",
+      "text": "$100M Nordic spa project aims to boost Alberta's year-round tourism economy - Calgary Herald $100M Nordic spa project aims to boost Alberta's year-round tourism economy&nbsp;&nbsp;Calgary Herald",
+      "date": "2026-05-29T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Facilities & Lodging",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVm5tcm1nV21XQmQtQS04NjJZTi1kMnI2WFNVZVVoU0ZBZjJEaGZCeUhEZmpKd0FUWFpOUFdTbi05cGpkRk9FREliMF9aeHBjQk84M0xHdHZoR3hHLVhZckVFNnQtRng4LUtzMVdYTDlBM1dtcEZ1MTlJVV9xWjlqaWxVeklZYkQxbHBZdm5DdUt4bHRZREE?oc=5"
+    },
+    {
       "source": "Rocky Mountain Outlook",
       "resort": "nakiska",
       "sentiment": "neutral",
@@ -753,26 +773,6 @@
       "engagement": "Article",
       "theme": "Summer Activities",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM0JhTlhKWnY1M2FubTN1OW5HNXlleHhtTFJYMWJFRFA1cmowOWpnUW9TZFZEN0lhc1lyLWhOZHlZTFIyX3RhYklibGRjOXlQcWRfQ3Z5T0NWdVkwd05QYkF2RjZETGJNaENoRkpoZFZBQWhLWXV3TVZ1RTNDZ1k4dlQzbG9Tc2UyMElRM2NSc1o1VWtnYW9xeTdvY0oxNWkwOWhNVFhqVXI4NWNVak00Yw?oc=5"
-    },
-    {
-      "source": "St. Albert Gazette",
-      "resort": "grandecache",
-      "sentiment": "neutral",
-      "text": "VIDEO: This hidden swimming hole near Grande Cache is the ultimate summer destination - St. Albert Gazette VIDEO: This hidden swimming hole near Grande Cache is the ultimate summer destination&nbsp;&nbsp;St. Albert Gazette",
-      "date": "2026-05-23T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXdzcGVnWHo1dmpFS2J2SGdaR1dySDRJWTlYUVlqRlFoSmYtUTQxZm9QcjViTlBmbmRzYXgzNGJHeVJCay11eXliQXRaaHdYZ0dtUE1LRnpSUmxyY29PX05NY0llck9MM2xFUDV5dlhkT0EzUVI4TllJTlBmd2ZHT0dLX3BKU2ZoZ2hjbWZGQ09jLThTbHhjZUxFLUZaWU9IRF9mX2xpR3k0ZDhGWG16OFN4S21qVDlNN2x5V2t0MWo2S0JsaGNTQk9vdms2bXVmYlE?oc=5"
-    },
-    {
-      "source": "SAM Magazine",
-      "resort": "castle",
-      "sentiment": "neutral",
-      "text": "Chris Salhany Appointed as President of Castle Mountain Resort - SAM Magazine Chris Salhany Appointed as President of Castle Mountain Resort&nbsp;&nbsp;SAM Magazine",
-      "date": "2026-05-20T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUjdDY3dFQklwdThacTBVU1hBbXJLUmJINFptUUxMZ0lYa0ZVRmVoZW9Uaks5ekotQzRiYzE3aXpPcHN5bjFlVE5rZTF5TUoyaWU0bV9zeTJTYjVyeFYyYnRxMzlDa1hmc1NESXlEdVhJTXpycUd3WU1MTlFLXzVwSTRzeVpaa3U5c3pZWU9sNWE?oc=5"
     }
   ]
 }

@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-18T21:17:38.152971",
-  "date": "2026-11-18",
+  "generated_at": "2026-11-19T21:19:53.433159",
+  "date": "2026-11-19",
   "summary": {
-    "total_mentions": 360,
-    "positive_pct": 9,
-    "neutral_pct": 87,
+    "total_mentions": 410,
+    "positive_pct": 10,
+    "neutral_pct": 86,
     "negative_pct": 4,
-    "negative_count": 14
+    "negative_count": 17
   },
   "resort_stats": {
     "fortress": {
       "name": "Fortress Mountain",
-      "total": 188,
-      "positive_pct": 12,
-      "neutral_pct": 85,
+      "total": 227,
+      "positive_pct": 13,
+      "neutral_pct": 83,
       "negative_pct": 4
     },
     "castle": {
       "name": "Castle Mountain",
-      "total": 30,
-      "positive_pct": 10,
-      "neutral_pct": 87,
+      "total": 32,
+      "positive_pct": 12,
+      "neutral_pct": 84,
       "negative_pct": 3
     },
     "nakiska": {
       "name": "Nakiska",
-      "total": 63,
+      "total": 62,
       "positive_pct": 8,
       "neutral_pct": 89,
       "negative_pct": 3
@@ -39,16 +39,16 @@
     },
     "davidthompson": {
       "name": "David Thompson Region",
-      "total": 63,
+      "total": 73,
       "positive_pct": 3,
-      "neutral_pct": 90,
-      "negative_pct": 6
+      "neutral_pct": 92,
+      "negative_pct": 5
     }
   },
   "themes": [
     {
       "name": "Trails & Recreation",
-      "mentions": 181,
+      "mentions": 218,
       "avg_score": 51,
       "sentiment": "neutral"
     },
@@ -60,43 +60,43 @@
     },
     {
       "name": "Lift Wait Times",
-      "mentions": 34,
-      "avg_score": 50,
+      "mentions": 39,
+      "avg_score": 51,
       "sentiment": "neutral"
     },
     {
       "name": "Summer Activities",
-      "mentions": 22,
-      "avg_score": 51,
+      "mentions": 27,
+      "avg_score": 50,
       "sentiment": "neutral"
     },
     {
       "name": "Safety & Incidents",
       "mentions": 22,
-      "avg_score": 48,
+      "avg_score": 49,
       "sentiment": "neutral"
     },
     {
       "name": "Tourism Strategy & Policy",
       "mentions": 19,
-      "avg_score": 50,
-      "sentiment": "neutral"
-    },
-    {
-      "name": "Facilities & Lodging",
-      "mentions": 16,
       "avg_score": 51,
       "sentiment": "neutral"
     },
     {
-      "name": "Access & Transportation",
-      "mentions": 5,
+      "name": "Facilities & Lodging",
+      "mentions": 13,
       "avg_score": 50,
       "sentiment": "neutral"
     },
     {
+      "name": "Access & Transportation",
+      "mentions": 6,
+      "avg_score": 48,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Environmental Impact",
-      "mentions": 4,
+      "mentions": 5,
       "avg_score": 50,
       "sentiment": "neutral"
     },
@@ -113,6 +113,12 @@
       "sentiment": "neutral"
     },
     {
+      "name": "Family & Beginner Experience",
+      "mentions": 3,
+      "avg_score": 50,
+      "sentiment": "neutral"
+    },
+    {
       "name": "Pricing & Value",
       "mentions": 2,
       "avg_score": 50,
@@ -120,7 +126,7 @@
     },
     {
       "name": "Staff & Service",
-      "mentions": 1,
+      "mentions": 2,
       "avg_score": 62,
       "sentiment": "positive"
     }
@@ -199,81 +205,91 @@
   ],
   "trends": {
     "labels": [
-      "Tue",
       "Wed",
       "Thu",
       "Fri",
       "Mon",
       "Tue",
-      "Wed"
+      "Wed",
+      "Thu"
     ],
     "positive": [
-      10,
       9,
       9,
       9,
       11,
       9,
-      9
+      9,
+      10
     ],
     "neutral": [
-      86,
       86,
       86,
       87,
       84,
       88,
-      87
+      87,
+      86
     ],
     "negative": [
-      4,
       5,
       5,
       4,
       5,
       3,
+      4,
       4
     ]
   },
   "theme_trends": {
     "Trails & Recreation": [
-      180,
       172,
       171,
       173,
       96,
       174,
-      181
+      181,
+      218
     ],
     "Snow Conditions": [
-      44,
       43,
       45,
       42,
       15,
       45,
+      46,
       46
     ],
     "Lift Wait Times": [
-      35,
       34,
       36,
       34,
       14,
       35,
-      34
+      34,
+      39
     ],
     "Summer Activities": [
-      21,
       22,
       22,
       21,
       15,
       22,
-      22
+      22,
+      27
     ]
   },
   "feed": [
+    {
+      "source": "Red Deer Advocate",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Canyon Ski Resort wins Resilience Award at the 2026 Alberta GRIT Awards - Red Deer Advocate Canyon Ski Resort wins Resilience Award at the 2026 Alberta GRIT Awards&nbsp;&nbsp;Red Deer Advocate",
+      "date": "2026-11-18T21:13:21+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnBLRjBLaS0xTU9VaVowZTZlcGZlNXRydWdxM3VuVXd5UFBUWXYxS3ktcXJiWnl6ZGpYbTlyZHJvVXFvVjJoSFZRZWNLWTFielQyc3pjU2JPcFFtalBvcEw0N0hCaDN1WEJRUlhXNEZVOEtyb0JkRUowX29jZ2dFWjNKMHpaQTI5SVg4WlcxLVJQSmZ0M0FVeE5jRlVUM01CaDlXQ1JjbWJLVmZ3WjdXNQ?oc=5"
+    },
     {
       "source": "Today in BC",
       "resort": "fortress",
@@ -288,21 +304,11 @@
       "source": "Culture Alberta",
       "resort": "fortress",
       "sentiment": "neutral",
-      "text": "Alberta\u2019s Banff Sunshine and Lake Louise Named the Top 2 Ski - Culture Alberta Alberta\u2019s Banff Sunshine and Lake Louise Named the Top 2 Ski&nbsp;&nbsp;Culture Alberta",
+      "text": "Banff Sunshine, Lake Louise Named Top 2 Western Ski Resorts - Culture Alberta Banff Sunshine, Lake Louise Named Top 2 Western Ski Resorts&nbsp;&nbsp;Culture Alberta",
       "date": "2026-11-17T19:57:51+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTGdWbS1oOS10djZBWHFIckdtcDNEMUJud0ZjUTZ4UFp0SVpkNEJFbHlrN1BzQ0VPWlEyZ0ViWjlObG5xZk5zU3pCVUdGNnU2YjctdlF1RUxRTlpOODdhejdpR1RrSWpfNFZYci05N3dMNFFKeEQ5RzNLb0dnaGdCXzdEalJRUjliUFdIRHRJUTl3OHFERTNOdzJKS3M4TmJiRmRKSFhYZ3BqdU1Ham10cDRpSzgwRE0wNF9tVVUzNmU0MXRZbGN5Vm5hd2xDWUp1OXZmeEdRQQ?oc=5"
-    },
-    {
-      "source": "Todayville",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Montana\u2019s Brier returning to Red Deer! - Todayville Montana\u2019s Brier returning to Red Deer!&nbsp;&nbsp;Todayville",
-      "date": "2026-11-17T17:19:22+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fcmhyMkhCdWxGSHM2UDhBV011THlZOGFyRklfdnFidU5oTFNuZUdXcWd1cjlVcXRIR1RVNi1ia2JBREVCV1ZXaWdGeHZWbnRXS0UzTEh0N19hZVdJUTVfWFB0X0g2dk01dS1mODUtM2w1QQ?oc=5"
     },
     {
       "source": "OpenSnow",
@@ -365,6 +371,16 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZUjVXYlprTzRWS2lsTHo3M3FCU3k3WWhWRzN5aklpbTlxR1FYam54bndEZVhOaW1KMUxnLTNoOU8wM0pnNk9yUFVDLVdSM2ZOVmtkSE5lMC1UaUlqNWo4bVpnZVFDQms1WHgxX1pkRlg?oc=5"
     },
     {
+      "source": "Todayville",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Driver dies as truck plummets into Clearwater River - Todayville Driver dies as truck plummets into Clearwater River&nbsp;&nbsp;Todayville",
+      "date": "2026-11-01T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Access & Transportation",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRi1HTkRsb3pqT2Y0cFVvQUNINnRuTVIxbmdWajAwcUk2MTZsbFVvVXB1STVQUE5Wc3A4SUNISlY2VTBPWlFKNTA3OTNTSS0wVVlaUTNXNVhraTlGbUp3U3FHNVh2UF9iakpBQU9BWk1ULTFMLUxqWEZWQ19RQ082TQ?oc=5"
+    },
+    {
       "source": "play 103.7",
       "resort": "fortress",
       "sentiment": "neutral",
@@ -373,6 +389,16 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzRDSVRrTU9QYlppUmdqazd0c0ptN2FrZ29YLUNPNWVZcVVBRVhhcC1aVW5ra3A0UTdyUmxwRXEyckZXMTR5OVJPUlpJQzRaOEluV19RU0JEYzlqVGJsb3FEUHRTMTg5ZERSVjljajd0cGwyS2E3emp3VGdSdHBZOFJ1aHNVeFc2WDBOOFItazlKQ0RHQXZNWXNsMzM?oc=5"
+    },
+    {
+      "source": "CentralAlbertaOnline.com",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Alberta ends reduced living-allowance rate for couples on disability assistance - CentralAlbertaOnline.com Alberta ends reduced living-allowance rate for couples on disability assistance&nbsp;&nbsp;CentralAlbertaOnline.com",
+      "date": "2026-10-06T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Lift Wait Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMzBsbXVXMGh6UGFsOWRsNVRJU1hJOFZ5M3pBZERfUWN0NURKemtleVZ3NndCcEpYVU1MaWhLZXd3UHk1OUlEWUtYbjNkTEQ1dGR0QXgtSVZkT01DOHFMNEdqallWbmdoVV9wcUY4S1RLREZiUzdKc0pwVnVvVVUxQXR4VG42ZFA1NVg5XzJUUFEwNXlJU1VzVVgwTWtBM3Z1TnVNWDRwd2g0Y1RoN2lQZnE4R1VRV2daSEdYeXVB?oc=5"
     },
     {
       "source": "RED FM Canada",
@@ -413,16 +439,6 @@
       "engagement": "Article",
       "theme": "Snow Conditions",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ0dFUDRid09LRXU5Ym1SbDU1LWxpR0cwUWVCNVBJcWtHMmxtRVFsOTVSWGJ2eWg3N0VvbkNWbTdZVXdoUUU0T09JVDFGT2JkQllCdDBoQjQxODRTNm9JTWRxaHFlWFFra2tpd2Q1VXNoUHVGTXJPazZiTUVhRkthc0EzZFRWSjBTempjQXYzMXRuOUttQzl3WVFRMHlzQQ?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Canmore, MD of Bighorn expect role in gondola despite planning exemption - Rocky Mountain Outlook Canmore, MD of Bighorn expect role in gondola despite planning exemption&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-09-24T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkNGSHdfLWdvX0xSVnI4TVFCcENPZUtRR2E3YXUtOFV5WnIyRGhEVGlhTFpLT3hma3NCSFM0WHpCZ2FwaF91QWhPOUF2R3E2ck12enVsY2dGVXBCTVJQZ0xUMXlLLXMzZUVhd3ZRSjM0SnZJMU5ROE4zR2tLbTVTQ3FfeHJJV0JFRTV4TFU2eG1XY21hQnQ2SVBGTmtYTzduUU9GM0JWTllzNVJJaHozVi1weXE?oc=5"
     },
     {
       "source": "Skift",
@@ -483,16 +499,6 @@
       "engagement": "Article",
       "theme": "Trails & Recreation",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlBtcmpCQ2RsRDk0WjI4VGtHYXIxTVc0bWhNUEdUa3RLaW9XSHJFS2ZKdURoZXNjSmtwYjdDOVY1ZGM5alpFRDk0X3kwLUxZOF85SFhCRWY3bkVfWXozNUlhNDVVTDV5WkdnaWVaMkdYVGhQaTF5QXB3OVA3RDlYQ24xWjVOX0Y0UnRPZ3I1NklMUQ?oc=5"
-    },
-    {
-      "source": "SpaceRef",
-      "resort": "davidthompson",
-      "sentiment": "neutral",
-      "text": "Clearwater County Weather Today & Hourly Forecast - SpaceRef Clearwater County Weather Today & Hourly Forecast&nbsp;&nbsp;SpaceRef",
-      "date": "2026-09-11T10:27:11+00:00",
-      "engagement": "Article",
-      "theme": "Facilities & Lodging",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43VW1KMnlSOTFhOUZwX0habHJYN0p0TDZGdVM2eEh1QS1yeGJpVUZxNUxIeEtCSDhDcExpOU4wZXJjaVczTnZxZHoyeXhsVXY0OVZWdnVtVFRnT1pVLXRsWUlRWERLM3VUbGV3?oc=5"
     },
     {
       "source": "Rocky Mountain Outlook",
@@ -565,6 +571,16 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdy1zWll5R3RpZXRfaFJxRnZ2ZWVkczlET0VPVFpOLWtNQS1Vc0J1SU5IdzZnQ0RGRGN3OGZRdGZ0b3pCazE5NXlCMU1pNHBoQkJSX2V0NF9OSWxfazQySEpCZkRhbmYtQnNkVkVOdHFlcEVhS2JLbzRmS2ZoV3lRZ0RGOUZYa0Jrem5TU29vcTNMbFlnRmstRjh1VjY0NnpUdWlVeEpuYnpMalNvRm43R3d0cjVmZEE0UWNJdUNNSWdTSHBwWDJSVTVpeE5WbkU3?oc=5"
     },
     {
+      "source": "https://www.islands.com/",
+      "resort": "fortress",
+      "sentiment": "neutral",
+      "text": "Canada's Once-Thriving Mining Town Is Now A Gorgeous Mountain Gem With Stunning Views And Trails - https://www.islands.com/ Canada's Once-Thriving Mining Town Is Now A Gorgeous Mountain Gem With Stunning Views And Trails&nbsp;&nbsp;https://www.islands.com/",
+      "date": "2026-07-30T07:00:00+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWmkyUmdENzlwc2QyYmtvUklZSmQwMTM2b1hYenZUYzJ2dEhhdUJTUUhPNnlxbmRCT3M5ejIwaEduaEx1N3MwelRiZDlMdzdNcW85ZEd0Ml84ZFEyWUh3blpTbGJIbXRIeE5pZ2pxQ2k2SnNPZ2ppOUhsQ0xjZ081UVJWN2Nyc3FYNXlRbEpjUkNuNndtZW9pTTI1dkJPR3VhN3BxRFVUOVl4YWN6YXRaT0VoMGZIMm4tckZ1UUs0ZERlYmdiUC10UWFrdlRUZw?oc=5"
+    },
+    {
       "source": "rdnewsnow.com",
       "resort": "davidthompson",
       "sentiment": "neutral",
@@ -583,6 +599,16 @@
       "engagement": "Article",
       "theme": "Lift Wait Times",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHFxdFlwMkJLZkxpVlRrNFJFMGNhNUN2aXBjN2VXWDlKbnBzYmNnYkc3WGJ4N0g3NDZjWl90VWVSWG95NDVaMW5ieGMtN3pyUVd0UkFTbnZQeWlrdXlxaUVBdnRaMWFVOWVnMjhzZWJKRmNqQ3pfanJ4MHV4ZDZibHlIUURjYUhqM3lUTThuYS1VN1AyRk9GdHhIekdiTkdKM0tHdHAzaTB4Zw?oc=5"
+    },
+    {
+      "source": "The Weather Network",
+      "resort": "davidthompson",
+      "sentiment": "neutral",
+      "text": "Nordegg, AB Current Weather - The Weather Network Nordegg, AB Current Weather&nbsp;&nbsp;The Weather Network",
+      "date": "2026-07-28T00:29:04+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SUkQ1OTlSLU5OQVJNTXUybTBNRXZjWTJfM1B1QURtVWtYUjRkTTE1a3pBc3p2TnNkcy1ld0RHVFVHNHo5eVF1UTBaazVPTXFWdXpqSWxsT2l4UTJyYUY4X19IWHNveVgwZTM5VGEzNEhXUHNVbDJJMzBJcWc?oc=5"
     },
     {
       "source": "Singletracks Mountain Bike News",
@@ -652,7 +678,7 @@
       "date": "2026-07-18T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazk5RXBrWjgtNS01WDdnOEtPTERMRG91bUlpbkVPazZqT1lVd1QxeHZpUC1OS2NtR2s0a21lVkZGZVNzOHdGZzByc3hLbzY5QTk5b2RUeHhKX3Q3X0FsVDVROG5zSXdYYmp5QzJPdmVaRkdnMDdMaWhRVURxWGFNVFByNWRnTVpyd1Jpel91VXlWNWFBZHhWQ2x4UHJUMm5CaDZOZFVHY3loMm5vdGVTWg?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaVJrVUk4TjRzSElLVmVrWTVrRVpmMTdseC1EcjVKZ2RSa3lxelc1aExtNVExZHN6NHFiSl9PbzUySFVxSHJCYlVJNk44eVc2VUxrajdNTVBPbldZaENSTERTUERxUzhTTzZWS1FLVlJXdTMxT3pYT2VFOHc1MU9BYUo2elVWWkxDSlhYdGdhb0JlZDF0azdZWXpCNHMyTWc3NnZyeVI4TFhiN2FWN2tDeDZHWUI?oc=5"
     },
     {
       "source": "Pembina Institute",
@@ -679,6 +705,16 @@
       "resort": "grandecache",
       "sentiment": "neutral",
       "text": "Grande Cache Air Quality Index (AQI) and Canada Air Pollution - IQAir Grande Cache Air Quality Index (AQI) and Canada Air Pollution&nbsp;&nbsp;IQAir",
+      "date": "2026-06-29T07:48:52+00:00",
+      "engagement": "Article",
+      "theme": "Trails & Recreation",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdGdaMFlINlNkZ3Y1M0kxS1NIOFdQaGNtbFRLYnhYLVoybHg5RVhsTmlnYno5NlNlTlpjYUI0WE9LRV81UlZzTEpsS2NXV1ZkZUxrdDh6ZUFRSU1PRXFWcHpxVm0wTURMUHhtZlBR?oc=5"
+    },
+    {
+      "source": "IQAir",
+      "resort": "grandecache",
+      "sentiment": "neutral",
+      "text": "Grande Cache Air Quality Index (AQI) and Canada Air Pollution - IQAir Grande Cache Air Quality Index (AQI) and Canada Air Pollution&nbsp;&nbsp;IQAir",
       "date": "2026-06-26T16:58:53+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
@@ -695,14 +731,14 @@
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdVVjdGc3bXQ2X1NWOXJZWWFsbjFWUHhRS0d5czlBcTVkdVFiX0hac1pIREZuMnE3ZFZfQ3VhWGNGVXJUZ1h5TnpJWkhHWmJGU2d0WG1DZTBNdjN1amhHNklQenZVUU1mR2l4NFhzU3lJbHUtSjVtTE1lX3B4dUdNTzg5Z2J0cnNwbUszZ3B2Rm8?oc=5"
     },
     {
-      "source": "Rocky Mountain Outlook",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "Increasing visitation, development in Kananaskis prompt creation of tourism reserve fund - Rocky Mountain Outlook Increasing visitation, development in Kananaskis prompt creation of tourism reserve fund&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-06-17T07:00:00+00:00",
+      "source": "St. Albert Gazette",
+      "resort": "fortress",
+      "sentiment": "negative",
+      "text": "ICYMI: Seven Easy Alberta Hikes That Lead You Right To Jaw-Dropping Lakes - St. Albert Gazette ICYMI: Seven Easy Alberta Hikes That Lead You Right To Jaw-Dropping Lakes&nbsp;&nbsp;St. Albert Gazette",
+      "date": "2026-06-23T07:00:00+00:00",
       "engagement": "Article",
       "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlM2QTkzYjhBSk1JM1R2SmJCU2dNb1U5Q0NqXzRvWWRzSUExcU5pMVlSRmxMWl80RjRiUkduSHBqSWNMNnUtTG1mNkVWZEM1bUZjOHJPT0FwU19WQmJaV3JSQ0kxR3ZDUUtjWTVmOXVzUXpjM0d0VnowRkN2TnhEWXBVWEpQbDkwc2ZKdjZTTHNNdWpFaW84dWVMSDAtVkV4c0hfTE9WblRJQkFLa3B6aktXZlE5N3lpaXFkaHZHNm5lSzJkTnhZeW0wTGxQTHVtTzRHb3ZGWEo?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSmgwczhlX3FOVkRTZnpkTDZqMkRiSVIxNkFBMDdaU0lDbEN3X3pLRVNLTkwwbUxwOHp4UUE0djBzOFNYLTRnc0xOWUpwSmJvM2dSaVJKa2NNZDhZbWlyOTdPSTFLb3JDb0pFSWNqNGxVcTFJOVY1SGdhVHVqSzVjdnNPb3hRMFdreVh6QlZGQlc4X3YwSzhYT1lzbWMyMzI2bVV3dmFSM1hzSGQyY1hCVmc3eVZGNEgxOG1fWlo1QU9BV2c0UWkza3RB?oc=5"
     },
     {
       "source": "CJWE",
@@ -743,36 +779,6 @@
       "engagement": "Article",
       "theme": "Regulatory Approvals & Land Use",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54Nzc2UTZzQjhJUlpFZ1hFTVpyZlloTXBYUnFFRUs0TWRfcGV1ZEdoZWRpdnFERm9UdzlnbG9hNUpFQVI0QTJEdFZBS3dVWG01RGNncU5ia1hfdnEzTUw0OGlkMC0xUTQwd3gxNGgyemxnMnF2MWFR?oc=5"
-    },
-    {
-      "source": "CTV News",
-      "resort": "fortress",
-      "sentiment": "neutral",
-      "text": "Fortress Mountain Resort plan approved | CTV News Calgary Noon Update for June 12, 2026 - CTV News Fortress Mountain Resort plan approved | CTV News Calgary Noon Update for June 12, 2026&nbsp;&nbsp;CTV News",
-      "date": "2026-06-12T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGw2YnlLazNxMXQzV0U2U1NlMjA4R0VNVTgyQ09hRFBUZHNSSGdpNWNES1ptT1M4LVdfaEMyS1YzSW1iNFkzVlZkRVZ1QVdZSHpBckVKMndjOU16QWJOMVRuWElmWENmSFBBai1iMjlBZUlXWlRHeGpib2o3OUpTU0dQaTB3MHFieThJVDhKYmNXUFM5ellVRzlvalltSmplMkExVUdVZXUzOXl4R2R2R3UySzdxTnBfLU80RDNDZ3JHWjJRalpURldKM1Nwdw?oc=5"
-    },
-    {
-      "source": "Rocky Mountain Outlook",
-      "resort": "nakiska",
-      "sentiment": "neutral",
-      "text": "Banff-Kananaskis MLA wants province to throw out Canmore gondola proposal - Rocky Mountain Outlook Banff-Kananaskis MLA wants province to throw out Canmore gondola proposal&nbsp;&nbsp;Rocky Mountain Outlook",
-      "date": "2026-06-12T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Summer Activities",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjQ4UjdKcHpzU29RUVFjZkx5ak9ta3ZZSGVlaE13WE1MT3hTRFJ1TGFYOFlIa0VMVGZiSFNleGhYazlVR2ZmeWFoR0dlRkZ0UWdvQ0pObHMzNG5mc3BWd2MtLUZpMUVhMm8wc0JUWHZiMHc1WWhWbUtmYnlNT0p5aDlxM0t3ekE2enZ5dUdwdlFseUlQdVVCbG80N1RacVhidUo5YUxnaFZOZXZlWjU3Zk50d1VMdFk?oc=5"
-    },
-    {
-      "source": "fDi Intelligence",
-      "resort": "fortress",
-      "sentiment": "positive",
-      "text": "How Alberta is positioning itself for tourism growth - fDi Intelligence How Alberta is positioning itself for tourism growth&nbsp;&nbsp;fDi Intelligence",
-      "date": "2026-06-12T07:00:00+00:00",
-      "engagement": "Article",
-      "theme": "Trails & Recreation",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMWpqR1ZTMTJSa3RrNUcwSTl2MUlEaERQdnpqWTFsNm9BTTBlX092RW5GUDd4d3FIVFdpVU80ejY0LWY1dnRoUnFiYldjZTREZUF1aDg1TndHa1pwY0NuaVNvWVJpNUFIRURoQXZzVmNFRERUQXl1dTF0XzdvS0kwYlRoeThWUEN3UUU2Ug?oc=5"
     }
   ]
 }

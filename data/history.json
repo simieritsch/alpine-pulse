@@ -660,25 +660,25 @@
     },
     {
       "date": "2026-11-24",
-      "total": 629,
+      "total": 534,
       "positive_pct": 10,
-      "neutral_pct": 84,
-      "negative_pct": 6,
+      "neutral_pct": 86,
+      "negative_pct": 4,
       "themes": {
-        "Snow Conditions": 70,
-        "Pricing & Value": 6,
-        "Summer Activities": 35,
-        "Staff & Service": 3,
-        "Lift Wait Times": 39,
-        "Trails & Recreation": 357,
-        "Facilities & Lodging": 25,
+        "Snow Conditions": 71,
+        "Pricing & Value": 1,
+        "Summer Activities": 33,
+        "Staff & Service": 4,
+        "Lift Wait Times": 43,
+        "Trails & Recreation": 272,
+        "Facilities & Lodging": 23,
         "Access & Transportation": 11,
-        "Environmental Impact": 9,
-        "Safety & Incidents": 24,
-        "Events & Promotions": 15,
-        "Family & Beginner Experience": 5,
+        "Environmental Impact": 11,
+        "Safety & Incidents": 31,
+        "Events & Promotions": 7,
+        "Family & Beginner Experience": 3,
         "Regulatory Approvals & Land Use": 6,
-        "Tourism Strategy & Policy": 24
+        "Tourism Strategy & Policy": 18
       }
     }
   ]
